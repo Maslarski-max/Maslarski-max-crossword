@@ -98,7 +98,6 @@ import com.maslarski.crossword.domain.arena.PlacementError
 import com.maslarski.crossword.domain.arena.Side
 import com.maslarski.crossword.domain.model.Difficulty
 import com.maslarski.crossword.domain.model.Direction
-import com.maslarski.crossword.ui.components.BannerAdSlot
 import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.components.Confetti
 import com.maslarski.crossword.ui.theme.LocalArenaColors
@@ -165,7 +164,6 @@ fun ArenaScreen(
                 actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp)) },
             )
         },
-        bottomBar = { BannerAdSlot() },
     ) { padding ->
         Box(Modifier.fillMaxSize().padding(padding)) {
             when {

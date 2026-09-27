@@ -55,7 +55,6 @@ jobs:
           CROSSWORD_KEY_ALIAS: ${{ secrets.CROSSWORD_KEY_ALIAS }}
           CROSSWORD_KEY_PASSWORD: ${{ secrets.CROSSWORD_KEY_PASSWORD }}
           ADMOB_APP_ID: ${{ secrets.ADMOB_APP_ID }}
-          ADMOB_BANNER_ID: ${{ secrets.ADMOB_BANNER_ID }}
           ADMOB_INTERSTITIAL_ID: ${{ secrets.ADMOB_INTERSTITIAL_ID }}
           PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER: ${{ secrets.PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER }}
         run: ./gradlew :app:bundleRelease -PversionCode=${{ github.run_number }} -PversionName=${GITHUB_REF_NAME#v}

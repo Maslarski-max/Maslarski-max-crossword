@@ -21,7 +21,7 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
   `arena_matches` table, so Arena stats and unlocks are tracked separately from Classic progress.
 - **UI**: phones, tablets and foldables (adaptive layouts), light/dark theme, Material You dynamic color on Android 12+,
   edge-to-edge, predictive back.
-- **Play readiness**: AdMob adaptive banner + interstitial between levels behind UMP consent (GDPR / US states),
+- **Play readiness**: ad-free screens (no banners); AdMob interstitial between levels behind UMP consent (GDPR / US states),
   Firebase Analytics + Crashlytics with Consent Mode, a Play Integrity hook, backup/data-extraction rules,
   HTTPS-only network config, R8, a signed-AAB pipeline (Gradle, fastlane and GitHub Actions), store listing text,
   a privacy policy and Data safety answers.
@@ -66,7 +66,7 @@ app/src/main/java/com/maslarski/crossword/
 ├── data/
 │   ├── local/         Room entities, DAOs, database, mappers
 │   ├── repository/    Asset puzzles, Room progress/wallet, DataStore settings
-│   ├── ads/           ConsentManager (UMP), AdsManager (banner/interstitial)
+│   ├── ads/           ConsentManager (UMP), AdsManager (interstitial; SDK kept for future rewarded ads)
 │   ├── telemetry/     Telemetry interface + Firebase implementation
 │   └── integrity/     PlayIntegrityChecker
 ├── di/                Hilt modules
@@ -135,7 +135,6 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 | Gradle property | Environment variable | Default |
 | --- | --- | --- |
 | `admobAppId` | `ADMOB_APP_ID` | Google test app ID |
-| `admobBannerId` | `ADMOB_BANNER_ID` | Google test adaptive banner |
 | `admobInterstitialId` | `ADMOB_INTERSTITIAL_ID` | Google test interstitial |
 | `playIntegrityCloudProjectNumber` | `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER` | `0` (disabled) |
 | `versionCode` / `versionName` | `VERSION_CODE` / `VERSION_NAME` | `1` / `1.0.0` |
@@ -143,7 +142,7 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 
 ### AdMob and consent (UMP)
 
-1. Create the app and two ad units (Adaptive banner, Interstitial) in AdMob and set the IDs above for release builds.
+1. Create the app and an Interstitial ad unit in AdMob and set the IDs above for release builds.
 2. In AdMob → **Privacy & messaging**, create a **European regulations** (GDPR) message and a **US state regulations**
    message. `ConsentManager` requests consent info on every launch, shows the form when required, and the Settings
    screen shows **Ad privacy choices** when the user must be able to change their choice.
@@ -202,7 +201,7 @@ this key is only your upload key. Back it up.
 
 ```bash
 ./gradlew :app:bundleRelease -PversionCode=2 -PversionName=1.0.1 \
-  -PadmobAppId=ca-app-pub-XXXX~YYYY -PadmobBannerId=ca-app-pub-XXXX/1111 -PadmobInterstitialId=ca-app-pub-XXXX/2222
+  -PadmobAppId=ca-app-pub-XXXX~YYYY -PadmobInterstitialId=ca-app-pub-XXXX/2222
 # → app/build/outputs/bundle/release/app-release.aab
 ```
 
@@ -228,7 +227,7 @@ uploaded manually in Play Console.
 `.github/workflows/android.yml` runs tests, lint and a debug build on every push/PR. Pushing a tag `v1.2.3` also builds
 a signed AAB (version name `1.2.3`, version code = run number) and attaches it as an artifact. Repository secrets:
 `UPLOAD_KEYSTORE_BASE64` (`base64 -w0 upload-keystore.jks`), `CROSSWORD_KEYSTORE_PASSWORD`, `CROSSWORD_KEY_ALIAS`,
-`CROSSWORD_KEY_PASSWORD`, and optionally `GOOGLE_SERVICES_JSON`, `ADMOB_APP_ID`, `ADMOB_BANNER_ID`,
+`CROSSWORD_KEY_PASSWORD`, and optionally `GOOGLE_SERVICES_JSON`, `ADMOB_APP_ID`,
 `ADMOB_INTERSTITIAL_ID`, `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER`.
 
 ## Google Play checklist

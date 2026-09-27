@@ -71,7 +71,6 @@ import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.model.Difficulty
 import com.maslarski.crossword.domain.model.GameSession
-import com.maslarski.crossword.ui.components.BannerAdSlot
 import com.maslarski.crossword.ui.components.ClueBar
 import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.components.CrosswordGrid
@@ -184,7 +183,6 @@ fun GameScreen(
                 },
             )
         },
-        bottomBar = { BannerAdSlot() },
     ) { padding ->
         val puzzle = state.puzzle
         val board = state.board

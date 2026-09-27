@@ -53,7 +53,6 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.R
-import com.maslarski.crossword.ui.components.BannerAdSlot
 import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.game.difficultyLabel
 import java.time.format.DateTimeFormatter
@@ -85,7 +84,6 @@ fun HomeScreen(
                 scrollBehavior = scrollBehavior,
             )
         },
-        bottomBar = { BannerAdSlot() },
     ) { padding ->
         Box(Modifier.fillMaxSize().padding(padding), contentAlignment = Alignment.TopCenter) {
             if (state.loading) {

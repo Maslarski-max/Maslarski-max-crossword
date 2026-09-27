@@ -53,7 +53,6 @@ import com.maslarski.crossword.domain.arena.ArenaOutcome
 import com.maslarski.crossword.domain.arena.ArenaRules
 import com.maslarski.crossword.domain.arena.ArenaStats
 import com.maslarski.crossword.domain.model.Difficulty
-import com.maslarski.crossword.ui.components.BannerAdSlot
 import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.game.difficultyLabel
 
@@ -93,7 +92,6 @@ fun ArenaLobbyScreen(
                 actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp)) },
             )
         },
-        bottomBar = { BannerAdSlot() },
     ) { padding ->
         Box(Modifier.fillMaxSize().padding(padding), contentAlignment = Alignment.TopCenter) {
             if (state.loading) {
