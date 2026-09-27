@@ -13,4 +13,8 @@ class RoomWalletRepository(private val dao: WalletDao) : WalletRepository {
     override suspend fun earn(amount: Int) {
         if (amount > 0) dao.earn(amount)
     }
+
+    override suspend fun refund(amount: Int) {
+        if (amount > 0) dao.refund(amount)
+    }
 }

@@ -180,7 +180,7 @@ class GameViewModel @Inject constructor(
                     unavailable(hint, now.puzzle, now.board)
                 }
                 if (stale != null) {
-                    if (charged) wallet.earn(hint.cost)
+                    if (charged) wallet.refund(hint.cost)
                     _messages.send(stale)
                     return@launch
                 }

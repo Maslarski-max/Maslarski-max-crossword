@@ -49,6 +49,8 @@ interface WalletRepository {
     /** Deducts [amount] only if the balance covers it. */
     suspend fun trySpend(amount: Int): Boolean
     suspend fun earn(amount: Int)
+    /** Returns coins from a cancelled [trySpend] without counting them as earnings. */
+    suspend fun refund(amount: Int)
 }
 
 interface SettingsRepository {

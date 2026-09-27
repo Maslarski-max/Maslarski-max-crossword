@@ -95,4 +95,7 @@ interface WalletDao {
 
     @Query("UPDATE wallet SET coins = coins + :amount, lifetimeEarned = lifetimeEarned + :amount WHERE id = 0")
     suspend fun earn(amount: Int): Int
+
+    @Query("UPDATE wallet SET coins = coins + :amount WHERE id = 0")
+    suspend fun refund(amount: Int): Int
 }
