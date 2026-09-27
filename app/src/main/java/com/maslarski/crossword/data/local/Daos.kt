@@ -95,4 +95,34 @@ interface WalletDao {
 
     @Query("UPDATE wallet SET coins = coins + :amount, lifetimeEarned = lifetimeEarned + :amount WHERE id = 0")
     suspend fun earn(amount: Int): Int
+
+    @Query("UPDATE wallet SET coins = coins + :amount WHERE id = 0")
+    suspend fun refund(amount: Int): Int
+}
+
+@Dao
+interface ArenaMatchDao {
+    @Insert
+    suspend fun insert(entity: ArenaMatchEntity): Long
+
+    @Query("SELECT * FROM arena_matches WHERE id = :id")
+    suspend fun get(id: Long): ArenaMatchEntity?
+
+    @Query("SELECT * FROM arena_matches WHERE outcome IS NULL ORDER BY updatedAt DESC LIMIT 1")
+    fun observeActive(): Flow<ArenaMatchEntity?>
+
+    @Query("UPDATE arena_matches SET state = :state, playerScore = :playerScore, opponentScore = :opponentScore, updatedAt = :now WHERE id = :id AND outcome IS NULL")
+    suspend fun updateState(id: Long, state: String, playerScore: Int, opponentScore: Int, now: Long): Int
+
+    @Query(
+        "UPDATE arena_matches SET state = :state, playerScore = :playerScore, opponentScore = :opponentScore, " +
+            "outcome = :outcome, updatedAt = :now, finishedAt = :now WHERE id = :id AND outcome IS NULL",
+    )
+    suspend fun finish(id: Long, state: String, playerScore: Int, opponentScore: Int, outcome: String, now: Long): Int
+
+    @Query("UPDATE arena_matches SET outcome = :outcome, updatedAt = :now, finishedAt = :now WHERE outcome IS NULL")
+    suspend fun closeActive(outcome: String, now: Long): Int
+
+    @Query("SELECT difficulty, outcome, playerScore FROM arena_matches WHERE outcome IS NOT NULL ORDER BY finishedAt DESC, id DESC")
+    fun observeResults(): Flow<List<ArenaResultRow>>
 }

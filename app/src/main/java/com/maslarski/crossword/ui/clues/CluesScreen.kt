@@ -40,7 +40,6 @@ import com.maslarski.crossword.domain.engine.CrosswordEngine
 import com.maslarski.crossword.domain.model.BoardState
 import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.domain.model.Word
-import com.maslarski.crossword.ui.components.BannerAdSlot
 import com.maslarski.crossword.ui.components.ClueRow
 import com.maslarski.crossword.ui.components.clueSection
 
@@ -61,7 +60,6 @@ fun CluesScreen(
                 },
             )
         },
-        bottomBar = { BannerAdSlot() },
     ) { padding ->
         val puzzle = state.puzzle
         Box(Modifier.fillMaxSize().padding(padding)) {

@@ -54,7 +54,6 @@ android {
         vectorDrawables { useSupportLibrary = true }
 
         manifestPlaceholders["admobAppId"] = requireNotNull(config("admobAppId"))
-        buildConfigField("String", "ADMOB_BANNER_ID", "\"${requireNotNull(config("admobBannerId"))}\"")
         buildConfigField("String", "ADMOB_INTERSTITIAL_ID", "\"${requireNotNull(config("admobInterstitialId"))}\"")
         buildConfigField("long", "PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER", "${config("playIntegrityCloudProjectNumber") ?: "0"}L")
         buildConfigField("boolean", "FIREBASE_CONFIGURED", hasFirebaseConfig.toString())

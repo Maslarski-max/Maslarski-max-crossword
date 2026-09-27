@@ -15,6 +15,7 @@ import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.rounded.ArrowBack
 import androidx.compose.material.icons.rounded.CalendarToday
 import androidx.compose.material.icons.rounded.CheckCircle
 import androidx.compose.material.icons.rounded.GridView
@@ -52,7 +53,6 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.R
-import com.maslarski.crossword.ui.components.BannerAdSlot
 import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.game.difficultyLabel
 import java.time.format.DateTimeFormatter
@@ -61,6 +61,7 @@ import java.time.format.FormatStyle
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun HomeScreen(
+    onBack: () -> Unit,
     onPlay: (sessionId: String, puzzleId: String) -> Unit,
     onLevels: () -> Unit,
     onSettings: () -> Unit,
@@ -72,7 +73,10 @@ fun HomeScreen(
         modifier = Modifier.nestedScroll(scrollBehavior.nestedScrollConnection),
         topBar = {
             LargeTopAppBar(
-                title = { Text(stringResource(R.string.app_name), fontWeight = FontWeight.Bold) },
+                title = { Text(stringResource(R.string.mode_classic_title), fontWeight = FontWeight.Bold) },
+                navigationIcon = {
+                    IconButton(onClick = onBack) { Icon(Icons.AutoMirrored.Rounded.ArrowBack, stringResource(R.string.back)) }
+                },
                 actions = {
                     CoinChip(state.coins, Modifier.padding(horizontal = 4.dp))
                     IconButton(onClick = onSettings) { Icon(Icons.Rounded.Settings, stringResource(R.string.settings_title)) }
@@ -80,7 +84,6 @@ fun HomeScreen(
                 scrollBehavior = scrollBehavior,
             )
         },
-        bottomBar = { BannerAdSlot() },
     ) { padding ->
         Box(Modifier.fillMaxSize().padding(padding), contentAlignment = Alignment.TopCenter) {
             if (state.loading) {

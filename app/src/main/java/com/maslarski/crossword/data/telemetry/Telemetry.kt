@@ -6,6 +6,8 @@ import com.google.firebase.FirebaseApp
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.google.firebase.crashlytics.FirebaseCrashlytics
 import com.maslarski.crossword.BuildConfig
+import com.maslarski.crossword.domain.arena.ArenaResult
+import com.maslarski.crossword.domain.arena.ArenaState
 import com.maslarski.crossword.domain.engine.Hint
 import com.maslarski.crossword.domain.model.CompletionResult
 import com.maslarski.crossword.domain.model.Puzzle
@@ -14,6 +16,8 @@ interface Telemetry {
     fun puzzleStarted(puzzle: Puzzle)
     fun puzzleCompleted(puzzle: Puzzle, result: CompletionResult)
     fun hintUsed(puzzle: Puzzle, hint: Hint)
+    fun arenaMatchStarted(state: ArenaState)
+    fun arenaMatchFinished(state: ArenaState, result: ArenaResult)
     fun recordNonFatal(throwable: Throwable)
 }
 
@@ -65,6 +69,19 @@ class FirebaseTelemetry(private val context: Context) : Telemetry {
         putString(PARAM_HINT, hint.name.lowercase())
     }
 
+    override fun arenaMatchStarted(state: ArenaState) = log(EVENT_ARENA_START) {
+        putString(FirebaseAnalytics.Param.LEVEL_NAME, state.puzzleId)
+        putString(PARAM_DIFFICULTY, state.difficulty.name)
+    }
+
+    override fun arenaMatchFinished(state: ArenaState, result: ArenaResult) = log(EVENT_ARENA_END) {
+        putString(FirebaseAnalytics.Param.LEVEL_NAME, state.puzzleId)
+        putString(PARAM_DIFFICULTY, state.difficulty.name)
+        putString(PARAM_OUTCOME, result.outcome.name.lowercase())
+        putLong(FirebaseAnalytics.Param.SCORE, result.playerScore.toLong())
+        putLong(PARAM_OPPONENT_SCORE, result.opponentScore.toLong())
+    }
+
     override fun recordNonFatal(throwable: Throwable) {
         if (enabled) FirebaseCrashlytics.getInstance().recordException(throwable)
     }
@@ -75,6 +92,10 @@ class FirebaseTelemetry(private val context: Context) : Telemetry {
 
     private companion object {
         const val EVENT_HINT = "hint_used"
+        const val EVENT_ARENA_START = "arena_match_start"
+        const val EVENT_ARENA_END = "arena_match_end"
+        const val PARAM_OUTCOME = "outcome"
+        const val PARAM_OPPONENT_SCORE = "opponent_score"
         const val PARAM_HINT = "hint_type"
         const val PARAM_DIFFICULTY = "difficulty"
         const val PARAM_SECONDS = "elapsed_seconds"

@@ -1,5 +1,9 @@
 package com.maslarski.crossword.domain.repository
 
+import com.maslarski.crossword.domain.arena.ArenaMatch
+import com.maslarski.crossword.domain.arena.ArenaResult
+import com.maslarski.crossword.domain.arena.ArenaState
+import com.maslarski.crossword.domain.arena.ArenaStats
 import com.maslarski.crossword.domain.model.BoardState
 import com.maslarski.crossword.domain.model.CompletionResult
 import com.maslarski.crossword.domain.model.DailyStatus
@@ -22,7 +26,7 @@ interface PuzzleRepository {
 interface ProgressRepository {
     fun observeBoard(sessionId: String): Flow<SavedBoard?>
     suspend fun loadBoard(sessionId: String): SavedBoard?
-    suspend fun saveBoard(session: GameSession, board: BoardState, elapsedSeconds: Long, checksUsed: Int)
+    suspend fun saveBoard(session: GameSession, puzzle: Puzzle, board: BoardState, elapsedSeconds: Long, checksUsed: Int)
     suspend fun resetBoard(sessionId: String)
     fun observeLastInProgress(): Flow<SavedBoard?>
 
@@ -44,11 +48,26 @@ interface ProgressRepository {
     ): CompletionResult
 }
 
+/** Arena matches and career stats; separate from the classic [ProgressRepository] records. */
+interface ArenaRepository {
+    fun observeStats(): Flow<ArenaStats>
+    /** The unfinished match, if any. At most one exists at a time. */
+    fun observeActiveMatch(): Flow<ArenaMatch?>
+    /** Stores a new match and returns its id; an unfinished previous match is recorded as forfeited. */
+    suspend fun startMatch(state: ArenaState): Long
+    suspend fun loadMatch(id: Long): ArenaMatch?
+    suspend fun saveMatch(id: Long, state: ArenaState)
+    /** Records the result of a finished [state] and awards coins; returns null if it was already recorded. */
+    suspend fun finishMatch(id: Long, state: ArenaState): ArenaResult?
+}
+
 interface WalletRepository {
     fun observeCoins(): Flow<Int>
     /** Deducts [amount] only if the balance covers it. */
     suspend fun trySpend(amount: Int): Boolean
     suspend fun earn(amount: Int)
+    /** Returns coins from a cancelled [trySpend] without counting them as earnings. */
+    suspend fun refund(amount: Int)
 }
 
 interface SettingsRepository {

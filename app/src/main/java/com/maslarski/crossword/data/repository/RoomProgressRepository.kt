@@ -23,6 +23,8 @@ import com.maslarski.crossword.domain.repository.ProgressRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.combine
 import kotlinx.coroutines.flow.map
+import kotlinx.coroutines.sync.Mutex
+import kotlinx.coroutines.sync.withLock
 import java.time.Clock
 import java.time.LocalDate
 
@@ -37,18 +39,24 @@ class RoomProgressRepository(
     private val highScores = db.highScoreDao()
     private val wallet = db.walletDao()
 
+    /**
+     * Serialises board reads and writes across all game screens (FIFO), so a snapshot queued by a closing
+     * screen always lands before a reopened screen loads or saves the same session.
+     */
+    private val boardLock = Mutex()
+
     override fun observeBoard(sessionId: String): Flow<SavedBoard?> =
         boards.observe(sessionId).map { it?.toSavedBoard() }
 
-    override suspend fun loadBoard(sessionId: String): SavedBoard? = boards.get(sessionId)?.toSavedBoard()
+    override suspend fun loadBoard(sessionId: String): SavedBoard? = boardLock.withLock { boards.get(sessionId)?.toSavedBoard() }
 
-    override suspend fun saveBoard(session: GameSession, board: BoardState, elapsedSeconds: Long, checksUsed: Int) {
-        val existing = boards.get(session.id)
-        if (existing?.completed == true) return
-        boards.upsert(board.toEntity(session, elapsedSeconds, checksUsed, completed = false, score = 0, stars = 0))
+    override suspend fun saveBoard(session: GameSession, puzzle: Puzzle, board: BoardState, elapsedSeconds: Long, checksUsed: Int) = boardLock.withLock {
+        val existing = boards.get(session.id)?.toSavedBoard()
+        if (existing?.completed == true && existing.matches(puzzle)) return@withLock
+        boards.upsert(board.toEntity(session, puzzle, elapsedSeconds, checksUsed, completed = false, score = 0, stars = 0))
     }
 
-    override suspend fun resetBoard(sessionId: String) = boards.delete(sessionId)
+    override suspend fun resetBoard(sessionId: String) = boardLock.withLock { boards.delete(sessionId) }
 
     override fun observeLastInProgress(): Flow<SavedBoard?> =
         boards.observeLastInProgressLevel().map { it?.toSavedBoard() }
@@ -91,6 +99,15 @@ class RoomProgressRepository(
         elapsedSeconds: Long,
         checksUsed: Int,
         nextPuzzleId: String?,
+    ): CompletionResult = boardLock.withLock { recordCompletionLocked(session, puzzle, board, elapsedSeconds, checksUsed, nextPuzzleId) }
+
+    private suspend fun recordCompletionLocked(
+        session: GameSession,
+        puzzle: Puzzle,
+        board: BoardState,
+        elapsedSeconds: Long,
+        checksUsed: Int,
+        nextPuzzleId: String?,
     ): CompletionResult = db.withTransaction {
         val now = clock.millis()
         val score = GameRules.score(puzzle, elapsedSeconds, board.revealed.size, checksUsed)
@@ -102,7 +119,7 @@ class RoomProgressRepository(
             is GameSession.Daily -> daily.get(session.date.toString())?.completed == true
         }
 
-        boards.upsert(board.toEntity(session, elapsedSeconds, checksUsed, completed = true, score = score, stars = stars))
+        boards.upsert(board.toEntity(session, puzzle, elapsedSeconds, checksUsed, completed = true, score = score, stars = stars))
         highScores.insert(HighScoreEntity(puzzleId = puzzle.id, sessionId = session.id, score = score, elapsedSeconds = elapsedSeconds, stars = stars, achievedAt = now))
 
         when (session) {
@@ -142,6 +159,7 @@ class RoomProgressRepository(
 
     private fun BoardState.toEntity(
         session: GameSession,
+        puzzle: Puzzle,
         elapsedSeconds: Long,
         checksUsed: Int,
         completed: Boolean,
@@ -150,6 +168,7 @@ class RoomProgressRepository(
     ) = BoardProgressEntity(
         sessionId = session.id,
         puzzleId = session.puzzleId,
+        solutionFingerprint = puzzle.fingerprint,
         entries = entries,
         revealedMask = revealed.toMask(entries.length),
         incorrectMask = incorrect.toMask(entries.length),

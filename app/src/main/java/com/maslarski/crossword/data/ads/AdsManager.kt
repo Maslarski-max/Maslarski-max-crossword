@@ -24,7 +24,6 @@ import java.util.concurrent.atomic.AtomicBoolean
 interface AdController {
     /** True once consent allows ad requests and the Mobile Ads SDK is initialised. */
     val adsReady: StateFlow<Boolean>
-    val bannerAdUnitId: String
 
     /** Shows an interstitial between levels if one is loaded and the frequency cap allows it. */
     fun showInterstitialBetweenLevels(activity: Activity, onFinished: () -> Unit)
@@ -39,7 +38,6 @@ class AdsManager(
     private val initStarted = AtomicBoolean(false)
     private val _adsReady = MutableStateFlow(false)
     override val adsReady: StateFlow<Boolean> = _adsReady.asStateFlow()
-    override val bannerAdUnitId: String = BuildConfig.ADMOB_BANNER_ID
 
     private var interstitial: InterstitialAd? = null
     private var loadingInterstitial = false

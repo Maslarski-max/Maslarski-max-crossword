@@ -1,19 +1,27 @@
 # Crossword
 
 A native Android crossword game built with Kotlin, Jetpack Compose and Material 3, set up for publishing on Google Play.
+The start screen offers two modes: **Classic Crossword** (solo) and **Crossword Arena** (turn-based, against an AI).
 
-- **Game**: zoomable/pannable Canvas grid (pinch, pan, double-tap to reset), Across/Down word and active-cell
+- **Classic Crossword**: zoomable/pannable Canvas grid (pinch, pan, double-tap to reset), Across/Down word and active-cell
   highlighting, a live clue bar, a full clue list screen, an on-screen keyboard plus hardware-keyboard support,
   animated letter entry and a confetti/score/stars completion screen.
 - **Content**: 6 levels (Easy → Hard) that unlock in order, plus a rotating Daily Puzzle with a streak counter.
   Puzzles are plain JSON in `app/src/main/assets/puzzles/`; drop in a file to add a level.
+- **Crossword Arena**: an arrow-word board (clues and arrows sit in the grid) with `+2`/`+3` bonus cells, a
+  "You N vs N Opponent" score banner and a 5-tile letter rack. Drag or tap tiles onto one word, then Submit (correct
+  tiles score their cell value, completing a word adds its length, the rack refills) or Pass. The AI opponent
+  (Rookie / Challenger / Champion) then takes its turn. The match ends when the board is full or after four scoreless turns
+  in a row. 3 hints per match; wins pay coins and unlock stronger opponents. Arena boards are built from the same
+  puzzle JSON, so new levels are playable in both modes.
 - **Hints**: Reveal Letter, Reveal Word and Check Errors, paid with coins earned by solving (the coin economy can be
   switched off in Settings).
 - **Persistence**: the board is saved to Room on every keystroke; progress, unlocks, high scores, daily state and
-  the wallet live in Room, settings in DataStore.
+  the wallet live in Room, settings in DataStore. Arena matches (in progress and finished) are kept in their own
+  `arena_matches` table, so Arena stats and unlocks are tracked separately from Classic progress.
 - **UI**: phones, tablets and foldables (adaptive layouts), light/dark theme, Material You dynamic color on Android 12+,
   edge-to-edge, predictive back.
-- **Play readiness**: AdMob adaptive banner + interstitial between levels behind UMP consent (GDPR / US states),
+- **Play readiness**: ad-free screens (no banners); AdMob interstitial between levels behind UMP consent (GDPR / US states),
   Firebase Analytics + Crashlytics with Consent Mode, a Play Integrity hook, backup/data-extraction rules,
   HTTPS-only network config, R8, a signed-AAB pipeline (Gradle, fastlane and GitHub Actions), store listing text,
   a privacy policy and Data safety answers.
@@ -53,11 +61,12 @@ app/src/main/java/com/maslarski/crossword/
 │   ├── model/         Puzzle, Word, BoardState, progress models
 │   ├── engine/        CrosswordEngine (selection, typing, hints, validation), GameRules (score/stars/coins), Streaks
 │   ├── parser/        PuzzleParser – JSON → Puzzle with numbering and validation
+│   ├── arena/         Arena mode: ArenaLayout (arrow-word board), ArenaRules (rack, scoring, turns), ArenaAi, stats
 │   └── repository/    Repository interfaces
 ├── data/
 │   ├── local/         Room entities, DAOs, database, mappers
 │   ├── repository/    Asset puzzles, Room progress/wallet, DataStore settings
-│   ├── ads/           ConsentManager (UMP), AdsManager (banner/interstitial)
+│   ├── ads/           ConsentManager (UMP), AdsManager (interstitial; SDK kept for future rewarded ads)
 │   ├── telemetry/     Telemetry interface + Firebase implementation
 │   └── integrity/     PlayIntegrityChecker
 ├── di/                Hilt modules
@@ -67,7 +76,9 @@ app/src/main/java/com/maslarski/crossword/
 Each screen has a Hilt `ViewModel` exposing a `StateFlow<UiState>`; screens collect it with
 `collectAsStateWithLifecycle` and send user intents back as function calls. The ViewModels call the stateless
 `CrosswordEngine` and persist the resulting `BoardState` through `ProgressRepository` (serialised with a `Mutex`,
-so every keystroke is written in order). Navigation uses type-safe `@Serializable` routes.
+so every keystroke is written in order). Navigation uses type-safe `@Serializable` routes: `HubRoute` (mode picker)
+and `SettingsRoute` at the top level, with nested `ClassicGraph` (home, levels, game, clues) and `ArenaGraph`
+(lobby, match) graphs.
 
 ## Adding puzzles
 
@@ -124,7 +135,6 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 | Gradle property | Environment variable | Default |
 | --- | --- | --- |
 | `admobAppId` | `ADMOB_APP_ID` | Google test app ID |
-| `admobBannerId` | `ADMOB_BANNER_ID` | Google test adaptive banner |
 | `admobInterstitialId` | `ADMOB_INTERSTITIAL_ID` | Google test interstitial |
 | `playIntegrityCloudProjectNumber` | `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER` | `0` (disabled) |
 | `versionCode` / `versionName` | `VERSION_CODE` / `VERSION_NAME` | `1` / `1.0.0` |
@@ -132,7 +142,7 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 
 ### AdMob and consent (UMP)
 
-1. Create the app and two ad units (Adaptive banner, Interstitial) in AdMob and set the IDs above for release builds.
+1. Create the app and an Interstitial ad unit in AdMob and set the IDs above for release builds.
 2. In AdMob → **Privacy & messaging**, create a **European regulations** (GDPR) message and a **US state regulations**
    message. `ConsentManager` requests consent info on every launch, shows the form when required, and the Settings
    screen shows **Ad privacy choices** when the user must be able to change their choice.
@@ -191,7 +201,7 @@ this key is only your upload key. Back it up.
 
 ```bash
 ./gradlew :app:bundleRelease -PversionCode=2 -PversionName=1.0.1 \
-  -PadmobAppId=ca-app-pub-XXXX~YYYY -PadmobBannerId=ca-app-pub-XXXX/1111 -PadmobInterstitialId=ca-app-pub-XXXX/2222
+  -PadmobAppId=ca-app-pub-XXXX~YYYY -PadmobInterstitialId=ca-app-pub-XXXX/2222
 # → app/build/outputs/bundle/release/app-release.aab
 ```
 
@@ -217,7 +227,7 @@ uploaded manually in Play Console.
 `.github/workflows/android.yml` runs tests, lint and a debug build on every push/PR. Pushing a tag `v1.2.3` also builds
 a signed AAB (version name `1.2.3`, version code = run number) and attaches it as an artifact. Repository secrets:
 `UPLOAD_KEYSTORE_BASE64` (`base64 -w0 upload-keystore.jks`), `CROSSWORD_KEYSTORE_PASSWORD`, `CROSSWORD_KEY_ALIAS`,
-`CROSSWORD_KEY_PASSWORD`, and optionally `GOOGLE_SERVICES_JSON`, `ADMOB_APP_ID`, `ADMOB_BANNER_ID`,
+`CROSSWORD_KEY_PASSWORD`, and optionally `GOOGLE_SERVICES_JSON`, `ADMOB_APP_ID`,
 `ADMOB_INTERSTITIAL_ID`, `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER`.
 
 ## Google Play checklist

@@ -47,7 +47,7 @@ class CluesViewModel @Inject constructor(
                 CluesUiState(
                     loading = false,
                     puzzle = puzzle,
-                    board = saved?.takeIf { it.puzzleId == puzzle.id && it.board.entries.length == puzzle.cellCount }?.board,
+                    board = saved?.takeIf { it.matches(puzzle) }?.board,
                 )
             },
         )

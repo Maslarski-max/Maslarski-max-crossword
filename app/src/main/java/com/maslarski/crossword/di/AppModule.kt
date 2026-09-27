@@ -13,6 +13,7 @@ import com.maslarski.crossword.data.ads.ConsentManager
 import com.maslarski.crossword.data.integrity.PlayIntegrityChecker
 import com.maslarski.crossword.data.local.CrosswordDatabase
 import com.maslarski.crossword.data.repository.AssetPuzzleRepository
+import com.maslarski.crossword.data.repository.RoomArenaRepository
 import com.maslarski.crossword.data.repository.DataStoreSettingsRepository
 import com.maslarski.crossword.data.repository.RoomProgressRepository
 import com.maslarski.crossword.data.repository.RoomWalletRepository
@@ -20,6 +21,7 @@ import com.maslarski.crossword.data.telemetry.FirebaseTelemetry
 import com.maslarski.crossword.data.telemetry.Telemetry
 import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.parser.PuzzleParser
+import com.maslarski.crossword.domain.repository.ArenaRepository
 import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
 import com.maslarski.crossword.domain.repository.SettingsRepository
@@ -76,6 +78,9 @@ object AppModule {
 
     @Provides @Singleton
     fun provideProgressRepository(db: CrosswordDatabase, clock: Clock): ProgressRepository = RoomProgressRepository(db, clock)
+
+    @Provides @Singleton
+    fun provideArenaRepository(db: CrosswordDatabase, clock: Clock): ArenaRepository = RoomArenaRepository(db, clock)
 
     @Provides @Singleton
     fun provideWalletRepository(db: CrosswordDatabase): WalletRepository = RoomWalletRepository(db.walletDao())
