@@ -49,9 +49,10 @@ class ArenaStatsTest {
     }
 
     @Test
-    fun `rewards scale with difficulty and only for wins and draws`() {
-        assertEquals(50, ArenaRules.rewardCoins(Difficulty.HARD, ArenaOutcome.WON))
-        assertEquals(10, ArenaRules.rewardCoins(Difficulty.EASY, ArenaOutcome.DRAW))
-        assertEquals(0, ArenaRules.rewardCoins(Difficulty.EASY, ArenaOutcome.LOST))
+    fun `a win pays 20 coins, a draw 10, a loss or forfeit nothing`() {
+        assertEquals(20, ArenaRules.rewardCoins(ArenaOutcome.WON))
+        assertEquals(10, ArenaRules.rewardCoins(ArenaOutcome.DRAW))
+        assertEquals(0, ArenaRules.rewardCoins(ArenaOutcome.LOST))
+        assertEquals(0, ArenaRules.rewardCoins(ArenaOutcome.FORFEIT))
     }
 }

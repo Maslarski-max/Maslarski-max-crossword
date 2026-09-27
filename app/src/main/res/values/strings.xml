@@ -5,6 +5,7 @@
 
     <string name="back">Back</string>
     <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
     <string name="more_options">More options</string>
 
     <!-- Difficulty -->
@@ -27,6 +28,19 @@
     <string name="stat_solved">Solved</string>
     <string name="stat_best">Best score</string>
     <string name="stat_streak">Day streak</string>
+    <plurals name="coin_change_gain">
+        <item quantity="one">+%1$d coin</item>
+        <item quantity="other">+%1$d coins</item>
+    </plurals>
+    <plurals name="coin_change_spend">
+        <item quantity="one">−%1$d coin</item>
+        <item quantity="other">−%1$d coins</item>
+    </plurals>
+    <string name="not_enough_coins_title">Not enough coins!</string>
+    <string name="not_enough_coins_message" tools:ignore="PluralsCandidate">You need %1$d coins but only have %2$d. Solve puzzles or win Arena matches to earn more.</string>
+    <string name="unlock_level_title">Unlock %1$s?</string>
+    <string name="unlock_level_message" tools:ignore="PluralsCandidate">Spend %1$d coins to unlock this board. You have %2$d.</string>
+    <string name="unlock_level_confirm">Unlock · %1$d</string>
     <plurals name="coins_balance">
         <item quantity="one">%1$d coin</item>
         <item quantity="other">%1$d coins</item>
@@ -82,7 +96,7 @@
     <string name="arena_submit">Submit</string>
     <string name="arena_pass">Pass</string>
     <string name="arena_shuffle">Shuffle tiles</string>
-    <string name="arena_hint" tools:ignore="PluralsCandidate">Hint, %1$d left</string>
+    <string name="arena_hint" tools:ignore="PluralsCandidate">Hint, %1$d coins</string>
     <string name="arena_clue_prompt">Drag tiles onto the grid to spell a word</string>
     <string name="arena_clue_length">%1$s (%2$d)</string>
     <string name="arena_tile">Tile %1$s</string>
@@ -105,7 +119,6 @@
     <string name="arena_message_opponent_missed">Opponent guessed wrong</string>
     <string name="arena_message_opponent_passed">Opponent passed</string>
     <string name="arena_message_no_hint">None of your tiles fit an open word right now</string>
-    <string name="arena_message_no_hints_left">No hints left in this match</string>
     <string name="arena_result_won">You win!</string>
     <string name="arena_result_lost">Opponent wins</string>
     <string name="arena_result_draw">It\'s a draw</string>
@@ -117,7 +130,8 @@
 
     <!-- Levels -->
     <string name="levels_title">Levels</string>
-    <string name="level_locked">Locked. Solve the previous level to unlock.</string>
+    <string name="level_locked">Locked. Unlock the previous board first.</string>
+    <string name="level_unlock_cost" tools:ignore="PluralsCandidate">Tap to unlock · %1$d coins</string>
     <string name="level_meta" tools:ignore="PluralsCandidate">%1$s · %2$d×%3$d · %4$d words</string>
     <string name="level_best">Best %1$d · %2$s</string>
 
@@ -138,10 +152,6 @@
     <string name="hint_reveal_word">Word</string>
     <string name="hint_check">Check</string>
     <string name="hint_with_cost">%1$s · %2$d</string>
-    <plurals name="message_not_enough_coins">
-        <item quantity="one">Not enough coins (%1$d needed). Solve puzzles to earn more.</item>
-        <item quantity="other">Not enough coins (%1$d needed). Solve puzzles to earn more.</item>
-    </plurals>
     <plurals name="message_errors_found">
         <item quantity="one">%1$d incorrect letter marked</item>
         <item quantity="other">%1$d incorrect letters marked</item>
@@ -179,8 +189,6 @@
     <string name="settings_dynamic_color">Dynamic color</string>
     <string name="settings_dynamic_color_summary">Use colors from your wallpaper</string>
     <string name="settings_gameplay">Gameplay</string>
-    <string name="settings_hint_economy">Coin economy</string>
-    <string name="settings_hint_economy_summary">Hints cost coins; solving puzzles earns them. Turn off for free hints.</string>
     <string name="settings_timer">Show timer</string>
     <string name="settings_haptics">Keyboard vibration</string>
     <string name="settings_privacy">Privacy</string>

@@ -14,6 +14,7 @@ import com.maslarski.crossword.domain.model.Puzzle
 import com.maslarski.crossword.domain.model.SavedBoard
 import com.maslarski.crossword.domain.model.Settings
 import com.maslarski.crossword.domain.model.ThemeMode
+import com.maslarski.crossword.domain.model.UnlockResult
 import kotlinx.coroutines.flow.Flow
 import java.time.LocalDate
 
@@ -31,8 +32,13 @@ interface ProgressRepository {
     fun observeLastInProgress(): Flow<SavedBoard?>
 
     fun observeLevels(): Flow<List<LevelProgress>>
-    /** Registers newly shipped levels and recomputes which ones are unlocked. */
+    /** Registers newly shipped levels; the first level is always unlocked, later ones are bought. */
     suspend fun syncLevels(levels: List<Puzzle>)
+    /**
+     * Spends [com.maslarski.crossword.domain.engine.GameRules.LEVEL_UNLOCK_COST] coins and unlocks [puzzleId] in one transaction. Only the first locked
+     * level of the shipped [levels] can be bought.
+     */
+    suspend fun unlockLevel(levels: List<Puzzle>, puzzleId: String): UnlockResult
 
     fun observeDaily(date: LocalDate): Flow<DailyStatus?>
     fun observeStats(today: LocalDate): Flow<PlayerStats>
@@ -77,7 +83,6 @@ interface SettingsRepository {
     val settings: Flow<Settings>
     suspend fun setThemeMode(mode: ThemeMode)
     suspend fun setDynamicColor(enabled: Boolean)
-    suspend fun setHintEconomy(enabled: Boolean)
     suspend fun setHaptics(enabled: Boolean)
     suspend fun setShowTimer(enabled: Boolean)
 }

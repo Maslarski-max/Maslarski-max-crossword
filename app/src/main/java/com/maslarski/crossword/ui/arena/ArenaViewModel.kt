@@ -17,6 +17,7 @@ import com.maslarski.crossword.domain.arena.MoveKind
 import com.maslarski.crossword.domain.arena.PlacementError
 import com.maslarski.crossword.domain.arena.Side
 import com.maslarski.crossword.domain.arena.StartArenaMatch
+import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.domain.repository.ArenaRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
@@ -34,6 +35,8 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.receiveAsFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.sync.Mutex
+import kotlinx.coroutines.sync.withLock
 import javax.inject.Inject
 
 data class ArenaUiState(
@@ -69,7 +72,7 @@ sealed interface ArenaMessage {
     data object OpponentMissed : ArenaMessage
     data object OpponentPassed : ArenaMessage
     data object NoHintMoves : ArenaMessage
-    data object NoHintsLeft : ArenaMessage
+    data class NotEnoughCoins(val cost: Int) : ArenaMessage
 }
 
 @HiltViewModel
@@ -78,7 +81,7 @@ class ArenaViewModel @Inject constructor(
     private val puzzles: PuzzleRepository,
     private val arena: ArenaRepository,
     private val startMatch: StartArenaMatch,
-    wallet: WalletRepository,
+    private val wallet: WalletRepository,
     private val telemetry: Telemetry,
     /** Match writes run here so the last move is saved even if the screen closes right after it. */
     @ApplicationScope private val appScope: CoroutineScope,
@@ -101,6 +104,10 @@ class ArenaViewModel @Inject constructor(
     private var rematchJob: Job? = null
     private var flashSequence = 0
 
+    /** Serialises hint purchases so a double tap can't pay twice for the same highlight. */
+    private val hintLock = Mutex()
+    @Volatile private var cleared = false
+
     init {
         viewModelScope.launch { wallet.observeCoins().collect { coins -> _state.update { it.copy(coins = coins) } } }
         viewModelScope.launch { load() }
@@ -121,6 +128,7 @@ class ArenaViewModel @Inject constructor(
                 loading = false,
                 layout = layout,
                 match = s,
+                hintCells = if (s.hasPaidHint) ArenaRules.hintCells(layout, s) else emptySet(),
                 activeWord = layout.words.firstOrNull { w -> w.cells.any(s::isEmpty) },
                 result = s.outcome?.let { outcome -> ArenaResult(outcome, s.playerScore, s.opponentScore, 0) },
             )
@@ -218,23 +226,41 @@ class ArenaViewModel @Inject constructor(
         afterTurn(next)
     }
 
+    /**
+     * Highlights where the rack fits best for [GameRules.HINT_COST] coins. Runs in the app
+     * scope so a charge that lands after the screen closed is refunded rather than lost.
+     */
     fun onHint() {
-        val s = _state.value
-        val layout = s.layout ?: return
-        val match = s.match ?: return
-        if (!s.playerTurn) return
-        if (match.hintsLeft <= 0) {
-            _messages.trySend(ArenaMessage.NoHintsLeft)
-            return
+        appScope.launch {
+            hintLock.withLock {
+                val s = _state.value
+                val layout = s.layout ?: return@launch
+                val match = s.match ?: return@launch
+                if (!s.playerTurn) return@launch
+                val offered = ArenaRules.hintCells(layout, match)
+                if (offered.isEmpty()) {
+                    _messages.send(ArenaMessage.NoHintMoves)
+                    return@launch
+                }
+                if (offered == s.hintCells) return@launch
+                val charged = !match.hasPaidHint
+                if (charged && !wallet.trySpend(GameRules.HINT_COST)) {
+                    _messages.send(ArenaMessage.NotEnoughCoins(GameRules.HINT_COST))
+                    return@launch
+                }
+                val now = _state.value
+                val current = now.match?.takeUnless { cleared || !now.playerTurn }
+                val cells = current?.let { ArenaRules.hintCells(layout, it) }.orEmpty()
+                if (current == null || cells.isEmpty()) {
+                    if (charged) wallet.refund(GameRules.HINT_COST)
+                    if (!cleared) _messages.send(ArenaMessage.NoHintMoves)
+                    return@launch
+                }
+                val next = current.copy(hintTurn = current.turnNumber)
+                _state.update { it.copy(match = next, hintCells = cells, activeWord = ArenaRules.wordFor(layout, cells) ?: it.activeWord) }
+                persist(next)
+            }
         }
-        val cells = ArenaRules.hintCells(layout, match)
-        if (cells.isEmpty()) {
-            _messages.trySend(ArenaMessage.NoHintMoves)
-            return
-        }
-        val next = ArenaRules.useHint(match)
-        _state.update { it.copy(match = next, hintCells = cells, activeWord = ArenaRules.wordFor(layout, cells) ?: it.activeWord) }
-        persist(next)
     }
 
     fun dismissResult() {
@@ -331,6 +357,13 @@ class ArenaViewModel @Inject constructor(
             val result = recorded ?: _state.value.result ?: ArenaResult(outcome, next.playerScore, next.opponentScore, 0)
             _state.update { it.copy(result = result, showResult = true) }
         }
+    }
+
+    private val ArenaState.hasPaidHint: Boolean
+        get() = !finished && turn == Side.PLAYER && hintTurn == turnNumber
+
+    override fun onCleared() {
+        cleared = true
     }
 
     private companion object {

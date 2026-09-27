@@ -60,6 +60,14 @@ data class LevelProgress(
     val stars: Int,
 )
 
+enum class UnlockResult {
+    UNLOCKED,
+    ALREADY_UNLOCKED,
+    NOT_ENOUGH_COINS,
+    /** An earlier level is still locked, or the level is unknown. */
+    NOT_NEXT,
+}
+
 data class DailyStatus(
     val date: LocalDate,
     val puzzleId: String,
@@ -87,7 +95,6 @@ enum class ThemeMode { SYSTEM, LIGHT, DARK }
 data class Settings(
     val themeMode: ThemeMode = ThemeMode.SYSTEM,
     val dynamicColor: Boolean = false,
-    val hintEconomyEnabled: Boolean = true,
     val hapticsEnabled: Boolean = true,
     val showTimer: Boolean = true,
 )

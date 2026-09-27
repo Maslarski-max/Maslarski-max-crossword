@@ -102,12 +102,6 @@ fun SettingsScreen(onBack: () -> Unit, viewModel: SettingsViewModel = hiltViewMo
 
                 HorizontalDivider(Modifier.padding(vertical = 8.dp))
                 SectionHeader(stringResource(R.string.settings_gameplay))
-                SwitchItem(
-                    stringResource(R.string.settings_hint_economy),
-                    stringResource(R.string.settings_hint_economy_summary),
-                    settings.hintEconomyEnabled,
-                    viewModel::setHintEconomy,
-                )
                 SwitchItem(stringResource(R.string.settings_timer), null, settings.showTimer, viewModel::setShowTimer)
                 SwitchItem(stringResource(R.string.settings_haptics), null, settings.hapticsEnabled, viewModel::setHaptics)
 

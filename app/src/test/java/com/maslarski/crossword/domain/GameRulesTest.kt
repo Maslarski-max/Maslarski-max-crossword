@@ -1,6 +1,8 @@
 package com.maslarski.crossword.domain
 
 import com.maslarski.crossword.domain.engine.GameRules
+import com.maslarski.crossword.domain.engine.Hint
+import com.maslarski.crossword.domain.engine.LevelUnlocks
 import com.maslarski.crossword.domain.engine.Streaks
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
@@ -41,5 +43,20 @@ class GameRulesTest {
         assertEquals(2, Streaks.current(days, today))
         assertEquals(3, Streaks.current(days + today, today))
         assertEquals(0, Streaks.current(listOf(today.minusDays(3)), today))
+    }
+
+    @Test
+    fun `reveal hints cost ten coins, unlocks fifty`() {
+        assertEquals(10, Hint.REVEAL_LETTER.cost)
+        assertEquals(10, Hint.REVEAL_WORD.cost)
+        assertEquals(50, GameRules.LEVEL_UNLOCK_COST)
+    }
+
+    @Test
+    fun `only the first locked level can be bought`() {
+        val order = listOf("a", "b", "c")
+        assertEquals("b", LevelUnlocks.nextUnlockable(order, setOf("a")))
+        assertEquals("c", LevelUnlocks.nextUnlockable(order, setOf("a", "b", "x")))
+        assertEquals(null, LevelUnlocks.nextUnlockable(order, order.toSet()))
     }
 }

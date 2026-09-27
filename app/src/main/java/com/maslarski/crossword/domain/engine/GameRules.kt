@@ -7,13 +7,17 @@ import kotlin.math.max
 import kotlin.math.roundToInt
 
 enum class Hint(val cost: Int) {
-    REVEAL_LETTER(5),
-    REVEAL_WORD(15),
+    REVEAL_LETTER(GameRules.HINT_COST),
+    REVEAL_WORD(GameRules.HINT_COST),
     CHECK_ERRORS(3),
 }
 
 object GameRules {
     const val STARTING_COINS = 100
+    /** Price of a Reveal Letter / Reveal Word hint in Classic, and of a hint in Arena. */
+    const val HINT_COST = 10
+    /** Price of unlocking the next Classic level. */
+    const val LEVEL_UNLOCK_COST = 50
     const val CHECK_PENALTY = 20
 
     fun baseScore(difficulty: Difficulty): Int = when (difficulty) {
@@ -52,4 +56,9 @@ object GameRules {
         revealedCells * 10 <= puzzle.openCellCount -> 2
         else -> 1
     }
+}
+
+object LevelUnlocks {
+    /** The only level that can be bought: the first locked one in shipped [order], so levels open in sequence. */
+    fun nextUnlockable(order: List<String>, unlocked: Set<String>): String? = order.firstOrNull { it !in unlocked }
 }

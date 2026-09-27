@@ -10,6 +10,7 @@ import com.maslarski.crossword.data.local.toDomain
 import com.maslarski.crossword.data.local.toMask
 import com.maslarski.crossword.data.local.toSavedBoard
 import com.maslarski.crossword.domain.engine.GameRules
+import com.maslarski.crossword.domain.engine.LevelUnlocks
 import com.maslarski.crossword.domain.engine.Streaks
 import com.maslarski.crossword.domain.model.BoardState
 import com.maslarski.crossword.domain.model.CompletionResult
@@ -19,6 +20,7 @@ import com.maslarski.crossword.domain.model.LevelProgress
 import com.maslarski.crossword.domain.model.PlayerStats
 import com.maslarski.crossword.domain.model.Puzzle
 import com.maslarski.crossword.domain.model.SavedBoard
+import com.maslarski.crossword.domain.model.UnlockResult
 import com.maslarski.crossword.domain.repository.ProgressRepository
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.combine
@@ -64,19 +66,26 @@ class RoomProgressRepository(
     override fun observeLevels(): Flow<List<LevelProgress>> =
         levels.observeAll().map { list -> list.map { it.toDomain() } }
 
-    override suspend fun syncLevels(levels: List<Puzzle>) = db.withTransaction {
+    override suspend fun syncLevels(levels: List<Puzzle>): Unit = db.withTransaction {
         this.levels.insertIgnore(
             levels.map {
                 LevelProgressEntity(it.id, it.order, unlocked = false, completed = false, bestScore = 0, bestTimeSeconds = null, stars = 0, completedAt = null)
             },
         )
         levels.forEach { this.levels.updateOrder(it.id, it.order) }
-        val byId = this.levels.getAll().associateBy { it.puzzleId }
-        // A level is playable once the level before it (in shipped order) has been solved.
-        levels.forEachIndexed { i, puzzle ->
-            val previousSolved = i == 0 || byId[levels[i - 1].id]?.completed == true
-            if (previousSolved && byId[puzzle.id]?.unlocked == false) this.levels.unlock(puzzle.id)
-        }
+        levels.firstOrNull()?.let { this.levels.unlock(it.id) }
+        Unit
+    }
+
+    override suspend fun unlockLevel(levels: List<Puzzle>, puzzleId: String): UnlockResult = db.withTransaction {
+        val records = this.levels.getAll().associateBy { it.puzzleId }
+        val record = records[puzzleId] ?: return@withTransaction UnlockResult.NOT_NEXT
+        if (record.unlocked) return@withTransaction UnlockResult.ALREADY_UNLOCKED
+        val unlocked = records.values.filter { it.unlocked }.mapTo(HashSet()) { it.puzzleId }
+        if (LevelUnlocks.nextUnlockable(levels.map { it.id }, unlocked) != puzzleId) return@withTransaction UnlockResult.NOT_NEXT
+        if (wallet.spend(GameRules.LEVEL_UNLOCK_COST) == 0) return@withTransaction UnlockResult.NOT_ENOUGH_COINS
+        this.levels.unlock(puzzleId)
+        UnlockResult.UNLOCKED
     }
 
     override fun observeDaily(date: LocalDate): Flow<DailyStatus?> =
@@ -137,7 +146,6 @@ class RoomProgressRepository(
                         completedAt = current?.completedAt ?: now,
                     ),
                 )
-                nextPuzzleId?.let { levels.unlock(it) }
             }
             is GameSession.Daily -> daily.upsert(
                 DailyPuzzleEntity(session.date.toString(), puzzle.id, completed = true, score = score, completedAt = now),

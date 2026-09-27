@@ -72,6 +72,8 @@ import com.maslarski.crossword.domain.model.Difficulty
 import com.maslarski.crossword.domain.model.GameSession
 import com.maslarski.crossword.ui.components.ClueBar
 import com.maslarski.crossword.ui.components.CoinChip
+import com.maslarski.crossword.ui.components.CoinPrompt
+import com.maslarski.crossword.ui.components.CoinPromptDialog
 import com.maslarski.crossword.ui.components.CrosswordGrid
 import com.maslarski.crossword.ui.components.LetterKeyboard
 import com.maslarski.crossword.ui.components.clueSection
@@ -109,10 +111,23 @@ fun GameScreen(
         onSelectedWordConsumed()
     }
 
+    var coinPrompt by remember { mutableStateOf<CoinPrompt?>(null) }
+
     LaunchedEffect(viewModel) {
         viewModel.messages.collect { message ->
             val text = when (message) {
-                is GameMessage.NotEnoughCoins -> resources.getQuantityString(R.plurals.message_not_enough_coins, message.cost, message.cost)
+                is GameMessage.NotEnoughCoins -> {
+                    coinPrompt = CoinPrompt.NotEnoughCoins(message.cost)
+                    return@collect
+                }
+                is GameMessage.OfferUnlock -> {
+                    coinPrompt = CoinPrompt.UnlockLevel(message.puzzleId, message.title, message.cost)
+                    return@collect
+                }
+                is GameMessage.OpenLevel -> {
+                    onPlayNext(GameSession.Level(message.puzzleId).id, message.puzzleId)
+                    return@collect
+                }
                 is GameMessage.ErrorsFound -> resources.getQuantityString(R.plurals.message_errors_found, message.count, message.count)
                 GameMessage.NoErrors -> resources.getString(R.string.message_no_errors)
                 GameMessage.NothingToReveal -> resources.getString(R.string.message_nothing_to_reveal)
@@ -123,7 +138,7 @@ fun GameScreen(
         }
     }
 
-    val playNext: (String) -> Unit = { nextId -> onPlayNext(GameSession.Level(nextId).id, nextId) }
+    val playNext: (String) -> Unit = viewModel::onPlayNext
 
     val focusRequester = remember { FocusRequester() }
     LaunchedEffect(state.puzzle) { if (state.puzzle != null) runCatching { focusRequester.requestFocus() } }
@@ -156,7 +171,7 @@ fun GameScreen(
                             modifier = Modifier.padding(horizontal = 8.dp),
                         )
                     }
-                    if (state.settings.hintEconomyEnabled) CoinChip(state.coins, Modifier.padding(horizontal = 4.dp))
+                    CoinChip(state.coins, Modifier.padding(horizontal = 4.dp))
                     IconButton(onClick = { onOpenClues(viewModel.session.id, viewModel.session.puzzleId) }) {
                         Icon(Icons.AutoMirrored.Rounded.ListAlt, stringResource(R.string.clues_title))
                     }
@@ -253,7 +268,6 @@ fun GameScreen(
                                     modifier = Modifier.padding(top = 8.dp).widthIn(max = 720.dp),
                                 )
                                 HintBar(
-                                    economyEnabled = state.settings.hintEconomyEnabled,
                                     onHint = viewModel::onHint,
                                     modifier = Modifier.padding(vertical = 8.dp).widthIn(max = 600.dp),
                                 )
@@ -297,6 +311,18 @@ fun GameScreen(
                 }
             }
         }
+    }
+
+    coinPrompt?.let { prompt ->
+        CoinPromptDialog(
+            prompt = prompt,
+            balance = state.coins,
+            onUnlock = { puzzleId ->
+                coinPrompt = null
+                viewModel.unlockLevel(puzzleId)
+            },
+            onDismiss = { coinPrompt = null },
+        )
     }
 
     if (confirmRestart) {

@@ -88,7 +88,7 @@ class RoomArenaRepository(
                 now = clock.millis(),
             )
             if (updated == 0) return@withTransaction null
-            val coins = ArenaRules.rewardCoins(state.difficulty, outcome)
+            val coins = ArenaRules.rewardCoins(outcome)
             if (coins > 0) wallet.earn(coins)
             ArenaResult(outcome, state.playerScore, state.opponentScore, coins)
         }

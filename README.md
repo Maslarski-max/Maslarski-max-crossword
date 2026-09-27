@@ -6,16 +6,17 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
 - **Classic Crossword**: zoomable/pannable Canvas grid (pinch, pan, double-tap to reset), Across/Down word and active-cell
   highlighting, a live clue bar, a full clue list screen, an on-screen keyboard plus hardware-keyboard support,
   animated letter entry and a confetti/score/stars completion screen.
-- **Content**: 6 levels (Easy → Hard) that unlock in order, plus a rotating Daily Puzzle with a streak counter.
+- **Content**: 6 levels (Easy → Hard); the first is free and each next one is unlocked in order for 50 coins, plus a rotating Daily Puzzle with a streak counter.
   Puzzles are plain JSON in `app/src/main/assets/puzzles/`; drop in a file to add a level.
 - **Crossword Arena**: an arrow-word board (clues and arrows sit in the grid) with `+2`/`+3` bonus cells, a
   "You N vs N Opponent" score banner and a 5-tile letter rack. Drag or tap tiles onto one word, then Submit (correct
   tiles score their cell value, completing a word adds its length, the rack refills) or Pass. The AI opponent
   (Rookie / Challenger / Champion) then takes its turn. The match ends when the board is full or after four scoreless turns
-  in a row. 3 hints per match; wins pay coins and unlock stronger opponents. Arena boards are built from the same
+  in a row. Hints cost 10 coins; a win pays 20 coins (a draw 10) and unlocks stronger opponents. Arena boards are built from the same
   puzzle JSON, so new levels are playable in both modes.
-- **Hints**: Reveal Letter, Reveal Word and Check Errors, paid with coins earned by solving (the coin economy can be
-  switched off in Settings).
+- **Coins**: one Room-backed wallet (starts at 100) shown in the Hub, level list and both game headers. Reveal Letter
+  and Reveal Word cost 10 coins (Check Errors 3); solving puzzles and winning Arena matches earn coins. Every balance
+  change pops a +/− notification, and anything you can't afford opens a "Not enough coins!" dialog.
 - **Persistence**: the board is saved to Room on every keystroke; progress, unlocks, high scores, daily state and
   the wallet live in Room, settings in DataStore. Arena matches (in progress and finished) are kept in their own
   `arena_matches` table, so Arena stats and unlocks are tracked separately from Classic progress.

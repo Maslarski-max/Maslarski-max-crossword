@@ -19,6 +19,7 @@ import androidx.compose.material.icons.automirrored.rounded.ArrowBack
 import androidx.compose.material.icons.rounded.Lock
 import androidx.compose.material.icons.rounded.Star
 import androidx.compose.material.icons.rounded.StarOutline
+import androidx.compose.material.icons.rounded.Toll
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.ExperimentalMaterial3Api
@@ -26,14 +27,21 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.SnackbarHost
+import androidx.compose.material3.SnackbarHostState
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.platform.LocalResources
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.semantics.contentDescription
 import androidx.compose.ui.semantics.semantics
@@ -42,8 +50,13 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.R
+import com.maslarski.crossword.domain.engine.GameRules
+import com.maslarski.crossword.ui.components.CoinChip
+import com.maslarski.crossword.ui.components.CoinPrompt
+import com.maslarski.crossword.ui.components.CoinPromptDialog
 import com.maslarski.crossword.ui.components.formatElapsed
 import com.maslarski.crossword.ui.game.difficultyLabel
+import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -53,13 +66,32 @@ fun LevelsScreen(
     viewModel: LevelsViewModel = hiltViewModel(),
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
+    val snackbar = remember { SnackbarHostState() }
+    val resources = LocalResources.current
+    var coinPrompt by remember { mutableStateOf<CoinPrompt?>(null) }
+
+    LaunchedEffect(viewModel) {
+        viewModel.events.collect { event ->
+            when (event) {
+                is LevelsEvent.Open -> onPlay(event.level.sessionId, event.level.puzzleId)
+                is LevelsEvent.Prompt -> coinPrompt = event.prompt
+                LevelsEvent.PreviousLocked -> {
+                    snackbar.currentSnackbarData?.dismiss()
+                    launch { snackbar.showSnackbar(resources.getString(R.string.level_locked)) }
+                }
+            }
+        }
+    }
+
     Scaffold(
+        snackbarHost = { SnackbarHost(snackbar) },
         topBar = {
             TopAppBar(
                 title = { Text(stringResource(R.string.levels_title)) },
                 navigationIcon = {
                     IconButton(onClick = onBack) { Icon(Icons.AutoMirrored.Rounded.ArrowBack, stringResource(R.string.back)) }
                 },
+                actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp)) },
             )
         },
     ) { padding ->
@@ -75,20 +107,35 @@ fun LevelsScreen(
                 verticalArrangement = Arrangement.spacedBy(12.dp),
             ) {
                 items(state.levels, key = { it.puzzleId }) { level ->
-                    LevelCard(level, onClick = { onPlay(level.sessionId, level.puzzleId) })
+                    LevelCard(level, onClick = { viewModel.onLevelTap(level) })
                 }
             }
         }
+    }
+
+    coinPrompt?.let { prompt ->
+        CoinPromptDialog(
+            prompt = prompt,
+            balance = state.coins,
+            onUnlock = { puzzleId ->
+                coinPrompt = null
+                viewModel.unlock(puzzleId)
+            },
+            onDismiss = { coinPrompt = null },
+        )
     }
 }
 
 @Composable
 private fun LevelCard(level: LevelItem, onClick: () -> Unit) {
-    val alpha by animateFloatAsState(if (level.unlocked) 1f else 0.55f, label = "levelAlpha")
-    val lockedLabel = stringResource(R.string.level_locked)
+    val alpha by animateFloatAsState(if (level.unlocked || level.unlockable) 1f else 0.55f, label = "levelAlpha")
+    val lockedLabel = if (level.unlockable) {
+        stringResource(R.string.level_unlock_cost, GameRules.LEVEL_UNLOCK_COST)
+    } else {
+        stringResource(R.string.level_locked)
+    }
     ElevatedCard(
         onClick = onClick,
-        enabled = level.unlocked,
         modifier = Modifier
             .fillMaxWidth()
             .graphicsLayer { this.alpha = alpha }
@@ -115,6 +162,12 @@ private fun LevelCard(level: LevelItem, onClick: () -> Unit) {
                     style = MaterialTheme.typography.bodySmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
+                if (level.unlockable && !level.unlocked) {
+                    Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(4.dp)) {
+                        Icon(Icons.Rounded.Toll, contentDescription = null, tint = MaterialTheme.colorScheme.tertiary, modifier = Modifier.size(16.dp))
+                        Text(lockedLabel, style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.tertiary)
+                    }
+                }
                 if (level.completed) {
                     Text(
                         stringResource(R.string.level_best, level.bestScore, formatElapsed(level.bestTimeSeconds ?: 0)),
