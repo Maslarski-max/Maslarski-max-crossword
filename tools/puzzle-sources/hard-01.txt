@@ -1,0 +1,26 @@
+id: hard-01
+title: Wordsmith
+difficulty: HARD
+order: 5
+type: level
+size: 15
+seed: 17
+---
+SERENDIPITY | Happy accident
+UBIQUITOUS | Seemingly everywhere at once
+EPHEMERAL | Lasting a very short time
+MERCURIAL | Subject to sudden changes of mood
+PRAGMATIC | Dealing with things sensibly and realistically
+QUIXOTIC | Idealistic to an impractical degree
+TACITURN | Reserved; saying little
+ELOQUENT | Fluent and persuasive in speech
+ESOTERIC | Understood by only a select few
+LACONIC | Using very few words
+PARADOX | Seemingly self-contradictory statement
+ZEALOUS | Showing great fervor
+VERBOSE | Using more words than needed
+OBSCURE | Not well known
+AUSTERE | Severe or strict in manner
+ENIGMA | Puzzling person or thing
+CANDOR | Frankness
+CAJOLE | Coax with flattery

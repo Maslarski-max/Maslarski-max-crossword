@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 3x3 grid of 18dp cells centred in the safe zone; top-right and bottom-left are blocks. -->
+    <path android:fillColor="#FFFFFF" android:pathData="M27,27h17v17h-17z M45.5,27h17v17h-17z M27,45.5h17v17h-17z M45.5,45.5h17v17h-17z M64,45.5h17v17h-17z M45.5,64h17v17h-17z M64,64h17v17h-17z" />
+    <path android:fillColor="#1F1D2B" android:pathData="M64,27h17v17h-17z M27,64h17v17h-17z" />
+    <!-- "A" in the top-left cell -->
+    <path android:fillColor="#3F51B5" android:pathData="M35.5,29.5l-5.2,12h2.5l1.1,-2.7h3.2l1.1,2.7h2.5zM34.7,36.8l0.8,-2.2 0.8,2.2z" />
+    <!-- Selection ring around the centre cell -->
+    <path android:fillColor="#FFB74D" android:pathData="M44,44h20v20h-20z M47,47v14h14v-14z" android:fillType="evenOdd" />
+</vector>

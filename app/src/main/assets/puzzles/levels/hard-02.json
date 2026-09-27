@@ -1,0 +1,47 @@
+{
+  "id": "hard-02",
+  "title": "Myths & Legends",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#A###########Z#",
+    "#C######ODYSSEY",
+    "PHOENIX######U#",
+    "#I#####PEGASUS#",
+    "OLYMPUS#X######",
+    "#L##O###CYCLOPS",
+    "MEDUSA##A######",
+    "#S##E#V#L#H#M#S",
+    "####I#A#I#E#I#P",
+    "####D#LABYRINTH",
+    "####O#H#U#C#O#I",
+    "##CENTAUR#U#T#N",
+    "######L###L#A#X",
+    "######L###E#U##",
+    "###ATLANTIS#R##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Homer's epic about a long voyage home",
+      "4": "Bird reborn from its ashes",
+      "5": "Winged horse",
+      "7": "Mountain home of the Greek gods",
+      "9": "One-eyed giant",
+      "10": "Gorgon with snakes for hair",
+      "15": "Maze built by Daedalus",
+      "16": "Half-man, half-horse",
+      "17": "Legendary sunken island"
+    },
+    "down": {
+      "1": "Greek hero with a vulnerable heel",
+      "2": "King of the Greek gods",
+      "6": "Arthur's legendary sword",
+      "8": "Greek god of the sea",
+      "11": "Hall of slain warriors in Norse myth",
+      "12": "Roman name for the hero of the twelve labors",
+      "13": "Bull-headed monster of Crete",
+      "14": "Riddling creature of Thebes"
+    }
+  },
+  "order": 6
+}

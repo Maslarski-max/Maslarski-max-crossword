@@ -1,0 +1,33 @@
+{
+  "id": "easy-01",
+  "title": "Beach Day",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "BEACH#SWIM",
+    "###R###A##",
+    "##SALT#V##",
+    "###B#OCEAN",
+    "#####W####",
+    "###SHELL##",
+    "###U#L####",
+    "#SAND#####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Sandy strip beside the sea",
+      "3": "Do the backstroke",
+      "5": "Seawater contains lots of it",
+      "7": "The Pacific, for one",
+      "8": "Seaside souvenir you might hold to your ear",
+      "9": "Stuff a castle is built from at the shore"
+    },
+    "down": {
+      "2": "Sideways-walking sea creature",
+      "4": "Surfer's ride",
+      "6": "You dry off with it after a swim",
+      "8": "Star that gives us daylight"
+    }
+  },
+  "order": 1
+}

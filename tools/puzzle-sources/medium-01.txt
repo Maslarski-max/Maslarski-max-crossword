@@ -1,0 +1,22 @@
+id: medium-01
+title: Around the World
+difficulty: MEDIUM
+order: 3
+type: level
+size: 11
+seed: 11
+---
+TORONTO | Canada's largest city
+NAIROBI | Capital of Kenya
+SYDNEY | Australian city with a famous opera house
+BERLIN | German capital once divided by a wall
+MADRID | Spanish capital
+VIENNA | Austrian capital famous for waltzes
+PARIS | City of Light
+TOKYO | Japan's capital
+CAIRO | City near the Giza pyramids
+DELHI | Indian city with a "New" district
+SEOUL | South Korean capital
+LIMA | Peruvian capital
+ROME | The Eternal City
+OSLO | Norwegian capital

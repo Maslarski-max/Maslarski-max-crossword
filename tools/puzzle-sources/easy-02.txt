@@ -1,0 +1,19 @@
+id: easy-02
+title: Kitchen Basics
+difficulty: EASY
+order: 2
+type: level
+size: 10
+seed: 5
+---
+BREAD | Loaf you slice for toast
+SPOON | Utensil for soup
+PLATE | Dinner dish
+KNIFE | Utensil with a blade
+SUGAR | Sweetener in a bowl
+SALAD | Bowl of greens
+HONEY | Sweet stuff made by bees
+OVEN | Where a cake bakes
+MILK | White drink poured on cereal
+EGG | It's fried, boiled or scrambled
+CUP | Mug's smaller cousin

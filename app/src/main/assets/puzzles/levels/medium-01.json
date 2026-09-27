@@ -1,0 +1,40 @@
+{
+  "id": "medium-01",
+  "title": "Around the World",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####TOKYO##",
+    "####O###S##",
+    "#MADRID#L#B",
+    "S###O##ROME",
+    "Y###N#C###R",
+    "D#V#T#A###L",
+    "NAIROBI#D#I",
+    "E#E###R#E#N",
+    "Y#N#SEOUL##",
+    "##N#####H##",
+    "#PARIS#LIMA"
+  ],
+  "clues": {
+    "across": {
+      "1": "Japan's capital",
+      "3": "Spanish capital",
+      "6": "The Eternal City",
+      "9": "Capital of Kenya",
+      "11": "South Korean capital",
+      "12": "City of Light",
+      "13": "Peruvian capital"
+    },
+    "down": {
+      "1": "Canada's largest city",
+      "2": "Norwegian capital",
+      "4": "German capital once divided by a wall",
+      "5": "Australian city with a famous opera house",
+      "7": "City near the Giza pyramids",
+      "8": "Austrian capital famous for waltzes",
+      "10": "Indian city with a \"New\" district"
+    }
+  },
+  "order": 3
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Crossword</string>
+    <string name="privacy_policy_url" translatable="false">https://maslarski-max.github.io/Maslarski-max-crossword/privacy-policy.html</string>
+
+    <string name="back">Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="more_options">More options</string>
+
+    <!-- Difficulty -->
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+
+    <!-- Home -->
+    <string name="home_daily_title">Daily puzzle · %1$s</string>
+    <plurals name="home_daily_done">
+        <item quantity="one">Solved · %1$d point</item>
+        <item quantity="other">Solved · %1$d points</item>
+    </plurals>
+    <string name="home_play">Play</string>
+    <string name="home_resume">Resume</string>
+    <string name="home_view">View solution</string>
+    <string name="home_continue">Continue</string>
+    <string name="home_next_level">Up next</string>
+    <string name="home_levels_progress" tools:ignore="PluralsCandidate">%1$d of %2$d solved</string>
+    <string name="stat_solved">Solved</string>
+    <string name="stat_best">Best score</string>
+    <string name="stat_streak">Day streak</string>
+    <plurals name="coins_balance">
+        <item quantity="one">%1$d coin</item>
+        <item quantity="other">%1$d coins</item>
+    </plurals>
+
+    <!-- Levels -->
+    <string name="levels_title">Levels</string>
+    <string name="level_locked">Locked. Solve the previous level to unlock.</string>
+    <string name="level_meta" tools:ignore="PluralsCandidate">%1$s · %2$d×%3$d · %4$d words</string>
+    <string name="level_best">Best %1$d · %2$s</string>
+
+    <!-- Game -->
+    <string name="puzzle_not_found">This puzzle is no longer available.</string>
+    <string name="grid_description" tools:ignore="PluralsCandidate">Crossword grid, %1$d rows by %2$d columns, %3$d percent filled</string>
+    <string name="across">Across</string>
+    <string name="down">Down</string>
+    <string name="across_count" tools:ignore="PluralsCandidate">Across (%1$d)</string>
+    <string name="down_count" tools:ignore="PluralsCandidate">Down (%1$d)</string>
+    <string name="clue_label_across" tools:ignore="PluralsCandidate">%1$d Across · %2$d letters</string>
+    <string name="clue_label_down" tools:ignore="PluralsCandidate">%1$d Down · %2$d letters</string>
+    <string name="previous_clue">Previous clue</string>
+    <string name="next_clue">Next clue</string>
+    <string name="key_toggle_direction">Switch between across and down</string>
+    <string name="key_delete">Delete</string>
+    <string name="hint_reveal_letter">Letter</string>
+    <string name="hint_reveal_word">Word</string>
+    <string name="hint_check">Check</string>
+    <string name="hint_with_cost">%1$s · %2$d</string>
+    <plurals name="message_not_enough_coins">
+        <item quantity="one">Not enough coins (%1$d needed). Solve puzzles to earn more.</item>
+        <item quantity="other">Not enough coins (%1$d needed). Solve puzzles to earn more.</item>
+    </plurals>
+    <plurals name="message_errors_found">
+        <item quantity="one">%1$d incorrect letter marked</item>
+        <item quantity="other">%1$d incorrect letters marked</item>
+    </plurals>
+    <string name="message_no_errors">No mistakes so far</string>
+    <string name="message_nothing_to_reveal">Already revealed</string>
+    <string name="message_nothing_to_check">Fill in some letters first</string>
+    <string name="restart_puzzle">Restart puzzle</string>
+    <string name="restart_confirm">Clear the board and start over? Your best score is kept.</string>
+    <string name="restart">Restart</string>
+    <string name="solved_banner">Puzzle solved</string>
+    <string name="completion_title">Puzzle solved!</string>
+    <string name="completion_stars">%1$d of 3 stars</string>
+    <string name="completion_new_best">New best score</string>
+    <string name="completion_time">Time %1$s</string>
+    <plurals name="completion_coins">
+        <item quantity="one">+%1$d coin</item>
+        <item quantity="other">+%1$d coins</item>
+    </plurals>
+    <string name="completion_next">Next puzzle</string>
+    <string name="completion_done">Done</string>
+    <string name="completion_view_board">View board</string>
+
+    <!-- Clues -->
+    <string name="clues_title">Clues</string>
+    <string name="clues_title_for">Clues · %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_appearance">Appearance</string>
+    <string name="settings_theme">Theme</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="settings_dynamic_color">Dynamic color</string>
+    <string name="settings_dynamic_color_summary">Use colors from your wallpaper</string>
+    <string name="settings_gameplay">Gameplay</string>
+    <string name="settings_hint_economy">Coin economy</string>
+    <string name="settings_hint_economy_summary">Hints cost coins; solving puzzles earns them. Turn off for free hints.</string>
+    <string name="settings_timer">Show timer</string>
+    <string name="settings_haptics">Keyboard vibration</string>
+    <string name="settings_privacy">Privacy</string>
+    <string name="settings_privacy_options">Ad privacy choices</string>
+    <string name="settings_privacy_options_summary">Review or change your consent for personalized ads</string>
+    <string name="settings_privacy_policy">Privacy policy</string>
+    <string name="settings_version">Version</string>
+</resources>

@@ -1,0 +1,33 @@
+{
+  "id": "easy-02",
+  "title": "Kitchen Basics",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#C##H#####",
+    "#U##O#S###",
+    "SPOON#U###",
+    "A#V#EGG#P#",
+    "L#E#Y#A#L#",
+    "A#N##BREAD",
+    "D#######T#",
+    "####KNIFE#"
+  ],
+  "clues": {
+    "across": {
+      "4": "Utensil for soup",
+      "6": "It's fried, boiled or scrambled",
+      "8": "Loaf you slice for toast",
+      "9": "Utensil with a blade"
+    },
+    "down": {
+      "1": "Mug's smaller cousin",
+      "2": "Sweet stuff made by bees",
+      "3": "Sweetener in a bowl",
+      "4": "Bowl of greens",
+      "5": "Where a cake bakes",
+      "7": "Dinner dish"
+    }
+  },
+  "order": 2
+}

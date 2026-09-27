@@ -1,0 +1,19 @@
+id: daily-02
+title: Daily: Great Outdoors
+difficulty: EASY
+type: daily
+size: 11
+seed: 29
+---
+GLACIER | Slow-moving river of ice
+FOREST | Large area covered with trees
+MEADOW | Grassy field
+CANYON | Deep gorge carved by a river
+ISLAND | Land surrounded by water
+VALLEY | Low land between hills
+DESERT | Very dry region
+TUNDRA | Treeless Arctic plain
+RIVER | The Nile or the Amazon
+CORAL | Reef builder
+MAPLE | Tree whose leaf is on Canada's flag
+FERN | Leafy plant that reproduces with spores

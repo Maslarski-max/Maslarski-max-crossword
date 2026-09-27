@@ -1,0 +1,19 @@
+id: daily-01
+title: Daily: Music Hall
+difficulty: MEDIUM
+type: daily
+size: 11
+seed: 23
+---
+RHYTHM | Pattern of beats
+GUITAR | Six-stringed instrument
+VIOLIN | Instrument played with a bow under the chin
+MELODY | A tune
+PIANO | Instrument with 88 keys
+TEMPO | Speed of a piece of music
+CHORD | Three or more notes played together
+OPERA | Drama set to music
+FLUTE | Woodwind played sideways
+LYRIC | Word of a song
+DRUM | Instrument you beat
+BASS | Lowest vocal range

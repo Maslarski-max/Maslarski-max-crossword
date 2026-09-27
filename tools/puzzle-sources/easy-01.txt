@@ -1,0 +1,18 @@
+id: easy-01
+title: Beach Day
+difficulty: EASY
+order: 1
+type: level
+size: 10
+seed: 3
+---
+BEACH | Sandy strip beside the sea
+OCEAN | The Pacific, for one
+SHELL | Seaside souvenir you might hold to your ear
+TOWEL | You dry off with it after a swim
+WAVE | Surfer's ride
+SAND | Stuff a castle is built from at the shore
+CRAB | Sideways-walking sea creature
+SWIM | Do the backstroke
+SUN | Star that gives us daylight
+SALT | Seawater contains lots of it

@@ -1,0 +1,20 @@
+id: daily-03
+title: Daily: Game On
+difficulty: MEDIUM
+type: daily
+size: 11
+seed: 31
+---
+CYCLING | Sport of the Tour de France
+ARCHERY | Sport with bows and arrows
+SOCCER | Football, to Americans
+TENNIS | Wimbledon sport
+HOCKEY | Sport played with a puck
+SKIING | Sport on snowy slopes
+BOXING | Sport in a ring with gloves
+KARATE | Martial art with belts and katas
+ROWING | Sport with oars
+RUGBY | Sport with scrums and tries
+GOLF | Sport with tees and greens
+POLO | Sport played on horseback
+JUDO | Olympic martial art of throws
