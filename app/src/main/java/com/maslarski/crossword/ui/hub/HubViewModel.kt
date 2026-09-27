@@ -9,14 +9,21 @@ import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.ExperimentalCoroutinesApi
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.combine
+import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.emitAll
+import kotlinx.coroutines.flow.flatMapLatest
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.stateIn
 import java.time.Clock
+import java.time.Duration
 import java.time.LocalDate
+import java.time.LocalDateTime
 import javax.inject.Inject
 
 data class HubUiState(
@@ -29,6 +36,7 @@ data class HubUiState(
     val coins: Int = 0,
 )
 
+@OptIn(ExperimentalCoroutinesApi::class)
 @HiltViewModel
 class HubViewModel @Inject constructor(
     puzzles: PuzzleRepository,
@@ -38,12 +46,22 @@ class HubViewModel @Inject constructor(
     clock: Clock,
 ) : ViewModel() {
 
+    /** Current local date, re-checked at least every minute so the streak rolls over at midnight. */
+    private val dates: Flow<LocalDate> = flow {
+        while (true) {
+            val now = LocalDateTime.now(clock)
+            emit(now.toLocalDate())
+            val untilMidnight = Duration.between(now, now.toLocalDate().plusDays(1).atStartOfDay()).toMillis()
+            delay(untilMidnight.coerceIn(1, DATE_POLL_MS))
+        }
+    }.distinctUntilChanged()
+
     val state: StateFlow<HubUiState> = flow {
         progress.syncLevels(puzzles.levels())
         emitAll(
             combine(
                 progress.observeLevels(),
-                progress.observeStats(LocalDate.now(clock)),
+                dates.flatMapLatest(progress::observeStats),
                 arena.observeStats(),
                 arena.observeActiveMatch(),
                 wallet.observeCoins(),
@@ -60,4 +78,8 @@ class HubViewModel @Inject constructor(
             },
         )
     }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), HubUiState())
+
+    private companion object {
+        const val DATE_POLL_MS = 60_000L
+    }
 }

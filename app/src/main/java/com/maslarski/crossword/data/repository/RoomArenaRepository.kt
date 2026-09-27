@@ -72,6 +72,10 @@ class RoomArenaRepository(
         }
     }
 
+    override suspend fun discardMatch(id: Long) {
+        lock.withLock { matches.deleteActive(id) }
+    }
+
     override suspend fun finishMatch(id: Long, state: ArenaState): ArenaResult? = lock.withLock {
         val outcome = state.outcome ?: return@withLock null
         db.withTransaction {

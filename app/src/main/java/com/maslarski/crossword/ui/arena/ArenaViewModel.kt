@@ -98,6 +98,7 @@ class ArenaViewModel @Inject constructor(
 
     private var opponentJob: Job? = null
     private var missJob: Job? = null
+    private var rematchJob: Job? = null
     private var flashSequence = 0
 
     init {
@@ -109,6 +110,7 @@ class ArenaViewModel @Inject constructor(
         val match = arena.loadMatch(matchId)
         val puzzle = match?.let { puzzles.puzzle(it.state.puzzleId) }
         if (match == null || puzzle == null || puzzle.fingerprint != match.state.fingerprint) {
+            if (match != null && !match.state.finished) arena.discardMatch(matchId)
             _state.update { it.copy(loading = false, notFound = true) }
             return
         }
@@ -241,8 +243,13 @@ class ArenaViewModel @Inject constructor(
 
     fun rematch() {
         val match = _state.value.match ?: return
-        viewModelScope.launch {
-            val started = startMatch(match.difficulty, avoidPuzzleId = match.puzzleId) ?: return@launch
+        if (rematchJob != null) return
+        rematchJob = viewModelScope.launch {
+            val started = startMatch(match.difficulty, avoidPuzzleId = match.puzzleId)
+            if (started == null) {
+                rematchJob = null
+                return@launch
+            }
             telemetry.arenaMatchStarted(started.state)
             _rematches.send(started.id)
         }
