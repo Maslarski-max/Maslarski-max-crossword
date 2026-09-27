@@ -35,6 +35,7 @@ import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.maslarski.crossword.R
+import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.distinctUntilChanged
@@ -44,37 +45,36 @@ private data class CoinChange(val delta: Int, val id: Long)
 
 /**
  * Pops a "+20 coins" / "−10 coins" pill at the top of the screen whenever the stored balance changes, so every
- * earn, spend and refund anywhere in the app is confirmed from the database value itself.
+ * earn, spend and refund anywhere in the app is confirmed from the database value itself. Changes show one at a time.
  */
 @Composable
 fun CoinChangeToast(coins: Flow<Int>, modifier: Modifier = Modifier) {
     var change by remember { mutableStateOf<CoinChange?>(null) }
     var visible by remember { mutableStateOf(false) }
+    val pending = remember { Channel<Int>(Channel.UNLIMITED) }
 
     LaunchedEffect(coins) {
         var previous: Int? = null
-        var sequence = 0L
         coins.distinctUntilChanged().collect { balance ->
             val last = previous
             previous = balance
-            if (last != null) {
-                val delta = balance - last
-                change = CoinChange(if (change != null && visible) delta + change!!.delta else delta, ++sequence)
-                visible = true
-            }
+            if (last != null) pending.trySend(balance - last)
         }
     }
-    LaunchedEffect(change?.id) {
-        if (change == null) return@LaunchedEffect
-        delay(SHOW_MS)
-        visible = false
-        delay(EXIT_MS)
-        if (!visible) change = null
+    LaunchedEffect(pending) {
+        var sequence = 0L
+        for (delta in pending) {
+            change = CoinChange(delta, ++sequence)
+            visible = true
+            delay(SHOW_MS)
+            visible = false
+            delay(EXIT_MS)
+        }
     }
 
     Box(modifier.fillMaxWidth().statusBarsPadding().padding(top = 8.dp), contentAlignment = Alignment.TopCenter) {
         AnimatedVisibility(
-            visible = visible && change?.delta != 0,
+            visible = visible,
             enter = slideInVertically { -it } + fadeIn() + scaleIn(initialScale = 0.8f),
             exit = slideOutVertically { -it } + fadeOut(),
         ) {
@@ -105,5 +105,5 @@ fun CoinChangeToast(coins: Flow<Int>, modifier: Modifier = Modifier) {
     }
 }
 
-private const val SHOW_MS = 1_600L
+private const val SHOW_MS = 1_400L
 private const val EXIT_MS = 400L

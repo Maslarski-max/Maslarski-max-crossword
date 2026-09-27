@@ -133,6 +133,7 @@ class ArenaViewModel @Inject constructor(
                 loading = false,
                 layout = layout,
                 match = s,
+                hintCells = if (s.hasPaidHint) ArenaRules.hintCells(layout, s) else emptySet(),
                 activeWord = layout.words.firstOrNull { w -> w.cells.any(s::isEmpty) },
                 result = s.outcome?.let { outcome -> ArenaResult(outcome, s.playerScore, s.opponentScore, 0) },
             )
@@ -247,20 +248,22 @@ class ArenaViewModel @Inject constructor(
                     return@launch
                 }
                 if (offered == s.hintCells) return@launch
-                val charged = settings.settings.first().hintEconomyEnabled
+                val charged = !match.hasPaidHint && settings.settings.first().hintEconomyEnabled
                 if (charged && !wallet.trySpend(GameRules.HINT_COST)) {
                     _messages.send(ArenaMessage.NotEnoughCoins(GameRules.HINT_COST))
                     return@launch
                 }
                 val now = _state.value
-                val current = now.match
-                val cells = if (cleared || !now.playerTurn || current == null) emptySet() else ArenaRules.hintCells(layout, current)
-                if (cells.isEmpty()) {
+                val current = now.match?.takeUnless { cleared || !now.playerTurn }
+                val cells = current?.let { ArenaRules.hintCells(layout, it) }.orEmpty()
+                if (current == null || cells.isEmpty()) {
                     if (charged) wallet.refund(GameRules.HINT_COST)
                     if (!cleared) _messages.send(ArenaMessage.NoHintMoves)
                     return@launch
                 }
-                _state.update { it.copy(hintCells = cells, activeWord = ArenaRules.wordFor(layout, cells) ?: it.activeWord) }
+                val next = current.copy(hintTurn = current.turnNumber)
+                _state.update { it.copy(match = next, hintCells = cells, activeWord = ArenaRules.wordFor(layout, cells) ?: it.activeWord) }
+                persist(next)
             }
         }
     }
@@ -360,6 +363,9 @@ class ArenaViewModel @Inject constructor(
             _state.update { it.copy(result = result, showResult = true) }
         }
     }
+
+    private val ArenaState.hasPaidHint: Boolean
+        get() = !finished && turn == Side.PLAYER && hintTurn == turnNumber
 
     override fun onCleared() {
         cleared = true

@@ -141,6 +141,15 @@ class CoinEconomyDatabaseTest {
         assertEquals(GameRules.STARTING_COINS, coins())
     }
 
+    @Test
+    fun boughtArenaHintSurvivesReopeningTheMatch() = runBlocking {
+        val id = arena.startMatch(arenaState(finished = false))
+        arena.saveMatch(id, arenaState(finished = false).copy(turnNumber = 2, hintTurn = 2))
+        val reloaded = arena.loadMatch(id)?.state
+        assertEquals(2, reloaded?.hintTurn)
+        assertEquals(reloaded?.turnNumber, reloaded?.hintTurn)
+    }
+
     private fun arenaState(finished: Boolean, playerScore: Int = 0, opponentScore: Int = 0) = ArenaState(
         puzzleId = "l1",
         fingerprint = levels[0].fingerprint,

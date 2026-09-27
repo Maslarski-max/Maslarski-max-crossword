@@ -48,6 +48,8 @@ data class ArenaState(
     val opponentScore: Int = 0,
     val turn: Side = Side.PLAYER,
     val turnNumber: Int = 0,
+    /** [turnNumber] the player last bought a hint on; that hint stays shown, free, until the turn advances. */
+    val hintTurn: Int = -1,
     val scorelessTurns: Int = 0,
     val lastMove: ArenaMove? = null,
     val finished: Boolean = false,
