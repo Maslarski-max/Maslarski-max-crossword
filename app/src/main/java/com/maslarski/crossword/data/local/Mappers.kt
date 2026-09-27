@@ -14,6 +14,7 @@ internal fun String.maskToSet(): Set<Int> = indices.filterTo(mutableSetOf()) { t
 fun BoardProgressEntity.toSavedBoard(): SavedBoard = SavedBoard(
     sessionId = sessionId,
     puzzleId = puzzleId,
+    solutionFingerprint = solutionFingerprint,
     board = BoardState(
         entries = entries,
         revealed = revealedMask.maskToSet(),

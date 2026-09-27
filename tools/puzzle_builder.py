@@ -59,6 +59,7 @@ class Layout:
     def __init__(self, size):
         self.size = size
         self.cells = {}
+        self.directions = {}  # cell -> directions of the words passing through it
         self.words = []  # (word, clue, row, col, direction)
 
     def bounds(self):
@@ -75,7 +76,8 @@ class Layout:
             r, c = row + dr * i, col + dc * i
             existing = self.cells.get((r, c))
             if existing:
-                if existing != ch:
+                # Only a perpendicular word may share a cell; parallel overlaps would merge two answers.
+                if existing != ch or d in self.directions[(r, c)]:
                     return -1
                 crossings += 1
             else:
@@ -94,7 +96,9 @@ class Layout:
 
     def place(self, word, clue, row, col, d):
         for i, ch in enumerate(word):
-            self.cells[(row + d[0] * i, col + d[1] * i)] = ch
+            cell = (row + d[0] * i, col + d[1] * i)
+            self.cells[cell] = ch
+            self.directions.setdefault(cell, set()).add(d)
         self.words.append((word, clue, row, col, d))
 
     def candidates(self, word):

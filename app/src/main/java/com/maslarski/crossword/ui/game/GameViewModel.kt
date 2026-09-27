@@ -5,6 +5,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.navigation.toRoute
 import com.maslarski.crossword.data.telemetry.Telemetry
+import com.maslarski.crossword.di.ApplicationScope
 import com.maslarski.crossword.domain.engine.CrosswordEngine
 import com.maslarski.crossword.domain.engine.Hint
 import com.maslarski.crossword.domain.model.BoardState
@@ -20,6 +21,7 @@ import com.maslarski.crossword.domain.repository.WalletRepository
 import com.maslarski.crossword.ui.components.InputEvent
 import com.maslarski.crossword.ui.navigation.GameRoute
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.delay
@@ -75,6 +77,8 @@ class GameViewModel @Inject constructor(
     private val wallet: WalletRepository,
     settingsRepository: SettingsRepository,
     private val telemetry: Telemetry,
+    /** Board writes run here so a save queued just before the screen closes is not cancelled with it. */
+    @ApplicationScope private val appScope: CoroutineScope,
 ) : ViewModel() {
 
     private val route = savedStateHandle.toRoute<GameRoute>()
@@ -88,6 +92,8 @@ class GameViewModel @Inject constructor(
 
     /** Serialises Room writes so an older snapshot can never land after a newer one. */
     private val writeLock = Mutex()
+    /** Serialises hint purchases so each one is validated against the board left by the previous one. */
+    private val hintLock = Mutex()
     private var timerJob: Job? = null
     private var foreground = false
     private var inputSequence = 0L
@@ -104,7 +110,7 @@ class GameViewModel @Inject constructor(
             _state.update { it.copy(loading = false, notFound = true) }
             return
         }
-        val saved = progress.loadBoard(session.id)?.takeIf { it.puzzleId == puzzle.id && it.board.fits(puzzle) }
+        val saved = progress.loadBoard(session.id)?.takeIf { it.matches(puzzle) }
         _state.update {
             it.copy(
                 loading = false,
@@ -153,34 +159,34 @@ class GameViewModel @Inject constructor(
     fun onSelectWordKey(key: String) = mutate { p, b -> p.wordByKey(key)?.let { CrosswordEngine.selectWord(p, b, it) } ?: b }
 
     fun onHint(hint: Hint) {
-        val s = _state.value
-        val puzzle = s.puzzle ?: return
-        val board = s.board ?: return
-        if (s.solved) return
-        when (hint) {
-            Hint.CHECK_ERRORS -> if (CrosswordEngine.filledCount(board) == 0) {
-                _messages.trySend(GameMessage.NothingToCheck)
-                return
-            }
-            Hint.REVEAL_LETTER, Hint.REVEAL_WORD -> if (reveal(hint, puzzle, board) == board) {
-                _messages.trySend(GameMessage.NothingToReveal)
-                return
-            }
-        }
-        viewModelScope.launch {
-            val paid = !_state.value.settings.hintEconomyEnabled || wallet.trySpend(hint.cost)
-            if (!paid) {
-                _messages.send(GameMessage.NotEnoughCoins(hint.cost))
-                return@launch
-            }
-            telemetry.hintUsed(puzzle, hint)
-            if (hint == Hint.CHECK_ERRORS) {
-                _state.update { it.copy(checksUsed = it.checksUsed + 1) }
-                mutate(forcePersist = true) { p, b -> CrosswordEngine.checkErrors(p, b) }
-                val errors = _state.value.board?.incorrect?.size ?: 0
-                _messages.send(if (errors > 0) GameMessage.ErrorsFound(errors) else GameMessage.NoErrors)
-            } else {
-                mutate(isInput = true) { p, b -> reveal(hint, p, b) }
+        appScope.launch {
+            hintLock.withLock {
+                val s = _state.value
+                val puzzle = s.puzzle ?: return@launch
+                val board = s.board ?: return@launch
+                if (s.solved) return@launch
+                val unavailable = when (hint) {
+                    Hint.CHECK_ERRORS -> GameMessage.NothingToCheck.takeIf { CrosswordEngine.filledCount(board) == 0 }
+                    Hint.REVEAL_LETTER, Hint.REVEAL_WORD -> GameMessage.NothingToReveal.takeIf { reveal(hint, puzzle, board) == board }
+                }
+                if (unavailable != null) {
+                    _messages.send(unavailable)
+                    return@launch
+                }
+                val paid = !s.settings.hintEconomyEnabled || wallet.trySpend(hint.cost)
+                if (!paid) {
+                    _messages.send(GameMessage.NotEnoughCoins(hint.cost))
+                    return@launch
+                }
+                telemetry.hintUsed(puzzle, hint)
+                if (hint == Hint.CHECK_ERRORS) {
+                    _state.update { it.copy(checksUsed = it.checksUsed + 1) }
+                    mutate(forcePersist = true) { p, b -> CrosswordEngine.checkErrors(p, b) }
+                    val errors = _state.value.board?.incorrect?.size ?: 0
+                    _messages.send(if (errors > 0) GameMessage.ErrorsFound(errors) else GameMessage.NoErrors)
+                } else {
+                    mutate(isInput = true) { p, b -> reveal(hint, p, b) }
+                }
             }
         }
     }
@@ -205,7 +211,7 @@ class GameViewModel @Inject constructor(
                 lastInput = null,
             )
         }
-        viewModelScope.launch {
+        appScope.launch {
             writeLock.withLock { progress.resetBoard(session.id) }
             telemetry.puzzleStarted(puzzle)
             if (foreground) startTimer()
@@ -239,8 +245,9 @@ class GameViewModel @Inject constructor(
         val s = _state.value
         val board = s.board ?: return
         if (s.solved) return
-        viewModelScope.launch {
-            writeLock.withLock { progress.saveBoard(session, board, s.elapsedSeconds, s.checksUsed) }
+        val puzzle = s.puzzle ?: return
+        appScope.launch {
+            writeLock.withLock { progress.saveBoard(session, puzzle, board, s.elapsedSeconds, s.checksUsed) }
         }
     }
 
@@ -248,7 +255,7 @@ class GameViewModel @Inject constructor(
         timerJob?.cancel()
         _state.update { it.copy(solved = true) }
         val s = _state.value
-        viewModelScope.launch {
+        appScope.launch {
             val next = nextPuzzleId(puzzle)
             val result = writeLock.withLock {
                 progress.recordCompletion(session, puzzle, board, s.elapsedSeconds, s.checksUsed, next)
@@ -266,15 +273,6 @@ class GameViewModel @Inject constructor(
     }
 
     override fun onCleared() {
-        // viewModelScope is already cancelled here; the final snapshot is written by onBackground().
         timerJob?.cancel()
     }
 }
-
-/** Guards against a saved board from an older version of a puzzle whose layout has since changed. */
-private fun BoardState.fits(puzzle: Puzzle): Boolean =
-    entries.length == puzzle.cellCount &&
-        selected in 0 until puzzle.cellCount &&
-        !puzzle.isBlock(selected) &&
-        entries.indices.all { (entries[it] == Puzzle.BLOCK) == puzzle.isBlock(it) } &&
-        (revealed + incorrect).all { it in 0 until puzzle.cellCount }

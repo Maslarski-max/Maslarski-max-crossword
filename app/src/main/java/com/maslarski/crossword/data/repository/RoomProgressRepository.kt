@@ -42,10 +42,10 @@ class RoomProgressRepository(
 
     override suspend fun loadBoard(sessionId: String): SavedBoard? = boards.get(sessionId)?.toSavedBoard()
 
-    override suspend fun saveBoard(session: GameSession, board: BoardState, elapsedSeconds: Long, checksUsed: Int) {
-        val existing = boards.get(session.id)
-        if (existing?.completed == true) return
-        boards.upsert(board.toEntity(session, elapsedSeconds, checksUsed, completed = false, score = 0, stars = 0))
+    override suspend fun saveBoard(session: GameSession, puzzle: Puzzle, board: BoardState, elapsedSeconds: Long, checksUsed: Int) {
+        val existing = boards.get(session.id)?.toSavedBoard()
+        if (existing?.completed == true && existing.matches(puzzle)) return
+        boards.upsert(board.toEntity(session, puzzle, elapsedSeconds, checksUsed, completed = false, score = 0, stars = 0))
     }
 
     override suspend fun resetBoard(sessionId: String) = boards.delete(sessionId)
@@ -102,7 +102,7 @@ class RoomProgressRepository(
             is GameSession.Daily -> daily.get(session.date.toString())?.completed == true
         }
 
-        boards.upsert(board.toEntity(session, elapsedSeconds, checksUsed, completed = true, score = score, stars = stars))
+        boards.upsert(board.toEntity(session, puzzle, elapsedSeconds, checksUsed, completed = true, score = score, stars = stars))
         highScores.insert(HighScoreEntity(puzzleId = puzzle.id, sessionId = session.id, score = score, elapsedSeconds = elapsedSeconds, stars = stars, achievedAt = now))
 
         when (session) {
@@ -142,6 +142,7 @@ class RoomProgressRepository(
 
     private fun BoardState.toEntity(
         session: GameSession,
+        puzzle: Puzzle,
         elapsedSeconds: Long,
         checksUsed: Int,
         completed: Boolean,
@@ -150,6 +151,7 @@ class RoomProgressRepository(
     ) = BoardProgressEntity(
         sessionId = session.id,
         puzzleId = session.puzzleId,
+        solutionFingerprint = puzzle.fingerprint,
         entries = entries,
         revealedMask = revealed.toMask(entries.length),
         incorrectMask = incorrect.toMask(entries.length),

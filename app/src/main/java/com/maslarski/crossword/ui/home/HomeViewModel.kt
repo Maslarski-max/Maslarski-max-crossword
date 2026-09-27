@@ -10,14 +10,21 @@ import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.ExperimentalCoroutinesApi
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.combine
+import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.emitAll
+import kotlinx.coroutines.flow.flatMapLatest
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.stateIn
 import java.time.Clock
+import java.time.Duration
 import java.time.LocalDate
+import java.time.LocalDateTime
 import javax.inject.Inject
 
 data class PuzzleCard(
@@ -42,6 +49,7 @@ data class HomeUiState(
     val coins: Int = 0,
 )
 
+@OptIn(ExperimentalCoroutinesApi::class)
 @HiltViewModel
 class HomeViewModel @Inject constructor(
     puzzles: PuzzleRepository,
@@ -50,9 +58,25 @@ class HomeViewModel @Inject constructor(
     clock: Clock,
 ) : ViewModel() {
 
-    private val today = LocalDate.now(clock)
+    /** Current local date; re-checked at least every minute so the daily puzzle rolls over at midnight. */
+    private val dates: Flow<LocalDate> = flow {
+        while (true) {
+            val now = LocalDateTime.now(clock)
+            emit(now.toLocalDate())
+            val untilMidnight = Duration.between(now, now.toLocalDate().plusDays(1).atStartOfDay()).toMillis()
+            delay(untilMidnight.coerceIn(1, DATE_POLL_MS))
+        }
+    }.distinctUntilChanged()
 
-    val state: StateFlow<HomeUiState> = flow {
+    val state: StateFlow<HomeUiState> = dates.flatMapLatest { today -> homeState(puzzles, progress, wallet, today) }
+        .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), HomeUiState())
+
+    private fun homeState(
+        puzzles: PuzzleRepository,
+        progress: ProgressRepository,
+        wallet: WalletRepository,
+        today: LocalDate,
+    ): Flow<HomeUiState> = flow {
         val levels = puzzles.levels()
         progress.syncLevels(levels)
         val daily = puzzles.dailyPuzzle(today)
@@ -66,6 +90,7 @@ class HomeViewModel @Inject constructor(
         )
         emitAll(
             combine(boards, progress.observeLevels(), progress.observeStats(today), wallet.observeCoins()) { (dailyBoard, last), levelProgress, stats, coins ->
+                val dailyBoard = dailyBoard?.takeIf { daily != null && it.matches(daily) }
                 val dailyCard = if (daily != null && dailySession != null) {
                     PuzzleCard(
                         sessionId = dailySession.id,
@@ -80,7 +105,7 @@ class HomeViewModel @Inject constructor(
                 val continueCard = last
                     ?.takeIf { it.sessionId != dailySession?.id }
                     ?.let { saved ->
-                        val puzzle = byId[saved.puzzleId] ?: return@let null
+                        val puzzle = byId[saved.puzzleId]?.takeIf { saved.matches(it) } ?: return@let null
                         PuzzleCard(saved.sessionId, puzzle.id, puzzle.title, puzzle.difficulty, progressOf(puzzle, saved.board.entries), false)
                     }
                 val next = levelProgress
@@ -102,7 +127,7 @@ class HomeViewModel @Inject constructor(
                 )
             },
         )
-    }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), HomeUiState())
+    }
 
     private fun progressOf(puzzle: Puzzle, entries: String): Float {
         if (entries.length != puzzle.cellCount || puzzle.openCellCount == 0) return 0f
@@ -111,6 +136,7 @@ class HomeViewModel @Inject constructor(
 
     private companion object {
         const val NO_SESSION = "none"
+        const val DATE_POLL_MS = 60_000L
     }
 }
 

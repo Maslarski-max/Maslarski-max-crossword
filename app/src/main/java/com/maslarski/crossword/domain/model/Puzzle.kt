@@ -1,5 +1,7 @@
 package com.maslarski.crossword.domain.model
 
+import java.util.zip.CRC32
+
 enum class Difficulty { EASY, MEDIUM, HARD }
 
 enum class PuzzleType { LEVEL, DAILY }
@@ -42,6 +44,12 @@ class Puzzle(
 ) {
     val cellCount: Int get() = rows * cols
     val openCellCount: Int = solution.count { it != BLOCK }
+
+    /** Identifies this exact answer grid, so boards saved against an earlier revision can be detected. */
+    val fingerprint: String = CRC32().run {
+        update("${rows}x$cols:$solution".toByteArray())
+        value.toString(16)
+    }
 
     private val numbers = IntArray(cellCount)
     private val acrossIndex = IntArray(cellCount) { -1 }

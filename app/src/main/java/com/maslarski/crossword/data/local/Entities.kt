@@ -1,5 +1,6 @@
 package com.maslarski.crossword.data.local
 
+import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.Index
 import androidx.room.PrimaryKey
@@ -9,6 +10,7 @@ import androidx.room.PrimaryKey
 data class BoardProgressEntity(
     @PrimaryKey val sessionId: String,
     val puzzleId: String,
+    @ColumnInfo(defaultValue = "") val solutionFingerprint: String,
     val entries: String,
     val revealedMask: String,
     val incorrectMask: String,

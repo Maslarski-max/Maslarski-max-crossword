@@ -7,6 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.getValue
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
+import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.data.ads.AdsManager
 import com.maslarski.crossword.data.ads.ConsentManager
@@ -18,6 +19,7 @@ import com.maslarski.crossword.ui.components.LocalConsentManager
 import com.maslarski.crossword.ui.navigation.CrosswordNavHost
 import com.maslarski.crossword.ui.theme.CrosswordTheme
 import dagger.hilt.android.AndroidEntryPoint
+import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 @AndroidEntryPoint
@@ -33,13 +35,14 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         super.onCreate(savedInstanceState)
 
-        // Consent from a previous session lets ads start loading while the consent info refreshes.
-        if (consentManager.canRequestAds.value) adsManager.initialize()
-        consentManager.gatherConsent(this) {
-            val granted = consentManager.canRequestAds.value
-            telemetry.updateConsent(granted)
-            if (granted) adsManager.initialize()
+        // Emits the previous session's consent immediately, then every change from the consent or privacy options forms.
+        lifecycleScope.launch {
+            consentManager.canRequestAds.collect { granted ->
+                telemetry.updateConsent(granted)
+                if (granted) adsManager.initialize()
+            }
         }
+        consentManager.gatherConsent(this) {}
 
         setContent {
             val settings by settingsRepository.settings.collectAsStateWithLifecycle(initialValue = Settings())

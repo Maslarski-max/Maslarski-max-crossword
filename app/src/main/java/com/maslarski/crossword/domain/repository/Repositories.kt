@@ -22,7 +22,7 @@ interface PuzzleRepository {
 interface ProgressRepository {
     fun observeBoard(sessionId: String): Flow<SavedBoard?>
     suspend fun loadBoard(sessionId: String): SavedBoard?
-    suspend fun saveBoard(session: GameSession, board: BoardState, elapsedSeconds: Long, checksUsed: Int)
+    suspend fun saveBoard(session: GameSession, puzzle: Puzzle, board: BoardState, elapsedSeconds: Long, checksUsed: Int)
     suspend fun resetBoard(sessionId: String)
     fun observeLastInProgress(): Flow<SavedBoard?>
 
