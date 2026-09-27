@@ -16,14 +16,14 @@ class SavedBoardTest {
     /** Same block pattern and clue numbers as [miniPuzzle], but 1 Across is CAR instead of CAT. */
     private val revised = PuzzleParser().parse(MINI_JSON.replace("\"CAT\", \"A#O\"", "\"CAR\", \"A#O\""), PuzzleType.LEVEL)
 
-    private fun saved(fingerprint: String) = SavedBoard(
+    private fun saved(fingerprint: String, completed: Boolean = false, entries: String? = null) = SavedBoard(
         sessionId = "level:mini",
         puzzleId = puzzle.id,
         solutionFingerprint = fingerprint,
-        board = CrosswordEngine.newBoard(puzzle),
+        board = CrosswordEngine.newBoard(puzzle).let { if (entries != null) it.copy(entries = entries) else it },
         elapsedSeconds = 0,
         checksUsed = 0,
-        completed = true,
+        completed = completed,
         score = 0,
         stars = 0,
         updatedAt = 0,
@@ -45,7 +45,13 @@ class SavedBoardTest {
     }
 
     @Test
-    fun `board without fingerprint falls back to layout check`() {
+    fun `in-progress board without fingerprint falls back to layout check`() {
         assertTrue(saved("").matches(revised))
+    }
+
+    @Test
+    fun `completed board without fingerprint only matches answers it still solves`() {
+        assertTrue(saved("", completed = true, entries = puzzle.solution).matches(puzzle))
+        assertFalse(saved("", completed = true, entries = puzzle.solution).matches(revised))
     }
 }

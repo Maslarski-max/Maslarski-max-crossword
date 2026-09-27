@@ -90,8 +90,6 @@ class GameViewModel @Inject constructor(
     private val _messages = Channel<GameMessage>(Channel.BUFFERED)
     val messages: Flow<GameMessage> = _messages.receiveAsFlow()
 
-    /** Serialises Room writes so an older snapshot can never land after a newer one. */
-    private val writeLock = Mutex()
     /** Serialises hint purchases so each one is validated against the board left by the previous one. */
     private val hintLock = Mutex()
     private var timerJob: Job? = null
@@ -165,17 +163,25 @@ class GameViewModel @Inject constructor(
                 val puzzle = s.puzzle ?: return@launch
                 val board = s.board ?: return@launch
                 if (s.solved) return@launch
-                val unavailable = when (hint) {
-                    Hint.CHECK_ERRORS -> GameMessage.NothingToCheck.takeIf { CrosswordEngine.filledCount(board) == 0 }
-                    Hint.REVEAL_LETTER, Hint.REVEAL_WORD -> GameMessage.NothingToReveal.takeIf { reveal(hint, puzzle, board) == board }
-                }
-                if (unavailable != null) {
-                    _messages.send(unavailable)
+                unavailable(hint, puzzle, board)?.let {
+                    _messages.send(it)
                     return@launch
                 }
-                val paid = !s.settings.hintEconomyEnabled || wallet.trySpend(hint.cost)
-                if (!paid) {
+                val charged = s.settings.hintEconomyEnabled
+                if (charged && !wallet.trySpend(hint.cost)) {
                     _messages.send(GameMessage.NotEnoughCoins(hint.cost))
+                    return@launch
+                }
+                // The board may have changed while the wallet write was suspended.
+                val now = _state.value
+                val stale = if (now.solved || now.puzzle == null || now.board == null) {
+                    GameMessage.NothingToReveal
+                } else {
+                    unavailable(hint, now.puzzle, now.board)
+                }
+                if (stale != null) {
+                    if (charged) wallet.earn(hint.cost)
+                    _messages.send(stale)
                     return@launch
                 }
                 telemetry.hintUsed(puzzle, hint)
@@ -189,6 +195,11 @@ class GameViewModel @Inject constructor(
                 }
             }
         }
+    }
+
+    private fun unavailable(hint: Hint, puzzle: Puzzle, board: BoardState): GameMessage? = when (hint) {
+        Hint.CHECK_ERRORS -> GameMessage.NothingToCheck.takeIf { CrosswordEngine.filledCount(board) == 0 }
+        Hint.REVEAL_LETTER, Hint.REVEAL_WORD -> GameMessage.NothingToReveal.takeIf { reveal(hint, puzzle, board) == board }
     }
 
     private fun reveal(hint: Hint, puzzle: Puzzle, board: BoardState): BoardState =
@@ -212,7 +223,7 @@ class GameViewModel @Inject constructor(
             )
         }
         appScope.launch {
-            writeLock.withLock { progress.resetBoard(session.id) }
+            progress.resetBoard(session.id)
             telemetry.puzzleStarted(puzzle)
             if (foreground) startTimer()
         }
@@ -247,7 +258,7 @@ class GameViewModel @Inject constructor(
         if (s.solved) return
         val puzzle = s.puzzle ?: return
         appScope.launch {
-            writeLock.withLock { progress.saveBoard(session, puzzle, board, s.elapsedSeconds, s.checksUsed) }
+            progress.saveBoard(session, puzzle, board, s.elapsedSeconds, s.checksUsed)
         }
     }
 
@@ -257,9 +268,7 @@ class GameViewModel @Inject constructor(
         val s = _state.value
         appScope.launch {
             val next = nextPuzzleId(puzzle)
-            val result = writeLock.withLock {
-                progress.recordCompletion(session, puzzle, board, s.elapsedSeconds, s.checksUsed, next)
-            }
+            val result = progress.recordCompletion(session, puzzle, board, s.elapsedSeconds, s.checksUsed, next)
             telemetry.puzzleCompleted(puzzle, result)
             _state.update { it.copy(completion = result, showCompletion = true) }
         }

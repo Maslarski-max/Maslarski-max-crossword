@@ -30,7 +30,10 @@ sealed interface GameSession {
 data class SavedBoard(
     val sessionId: String,
     val puzzleId: String,
-    /** [Puzzle.fingerprint] the board was saved against; blank for boards saved before it was tracked. */
+    /**
+     * [Puzzle.fingerprint] the board was saved against; blank for boards saved before it was tracked. Such legacy
+     * boards are kept while in progress, but a legacy completion only counts if it still solves the current answers.
+     */
     val solutionFingerprint: String,
     val board: BoardState,
     val elapsedSeconds: Long,
@@ -43,7 +46,7 @@ data class SavedBoard(
     /** True when this board was saved for [puzzle]'s current answers and layout. */
     fun matches(puzzle: Puzzle): Boolean =
         puzzleId == puzzle.id &&
-            (solutionFingerprint.isEmpty() || solutionFingerprint == puzzle.fingerprint) &&
+            (solutionFingerprint == puzzle.fingerprint || solutionFingerprint.isEmpty() && (!completed || board.entries == puzzle.solution)) &&
             board.fits(puzzle)
 }
 
