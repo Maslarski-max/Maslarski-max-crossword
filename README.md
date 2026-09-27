@@ -16,8 +16,7 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
   puzzle JSON, so new levels are playable in both modes.
 - **Coins**: one Room-backed wallet (starts at 100) shown in the Hub, level list and both game headers. Reveal Letter
   and Reveal Word cost 10 coins (Check Errors 3); solving puzzles and winning Arena matches earn coins. Every balance
-  change pops a +/− notification, and anything you can't afford opens a "Not enough coins!" dialog. Paid hints can be
-  switched off in Settings.
+  change pops a +/− notification, and anything you can't afford opens a "Not enough coins!" dialog.
 - **Persistence**: the board is saved to Room on every keystroke; progress, unlocks, high scores, daily state and
   the wallet live in Room, settings in DataStore. Arena matches (in progress and finished) are kept in their own
   `arena_matches` table, so Arena stats and unlocks are tracked separately from Classic progress.

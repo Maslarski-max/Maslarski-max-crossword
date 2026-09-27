@@ -268,7 +268,6 @@ fun GameScreen(
                                     modifier = Modifier.padding(top = 8.dp).widthIn(max = 720.dp),
                                 )
                                 HintBar(
-                                    economyEnabled = state.settings.hintEconomyEnabled,
                                     onHint = viewModel::onHint,
                                     modifier = Modifier.padding(vertical = 8.dp).widthIn(max = 600.dp),
                                 )

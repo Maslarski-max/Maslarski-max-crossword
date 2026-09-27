@@ -95,7 +95,6 @@ enum class ThemeMode { SYSTEM, LIGHT, DARK }
 data class Settings(
     val themeMode: ThemeMode = ThemeMode.SYSTEM,
     val dynamicColor: Boolean = false,
-    val hintEconomyEnabled: Boolean = true,
     val hapticsEnabled: Boolean = true,
     val showTimer: Boolean = true,
 )

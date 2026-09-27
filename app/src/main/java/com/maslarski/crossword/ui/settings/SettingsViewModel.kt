@@ -20,7 +20,6 @@ class SettingsViewModel @Inject constructor(private val repository: SettingsRepo
 
     fun setThemeMode(mode: ThemeMode) = viewModelScope.launch { repository.setThemeMode(mode) }
     fun setDynamicColor(enabled: Boolean) = viewModelScope.launch { repository.setDynamicColor(enabled) }
-    fun setHintEconomy(enabled: Boolean) = viewModelScope.launch { repository.setHintEconomy(enabled) }
     fun setHaptics(enabled: Boolean) = viewModelScope.launch { repository.setHaptics(enabled) }
     fun setShowTimer(enabled: Boolean) = viewModelScope.launch { repository.setShowTimer(enabled) }
 }

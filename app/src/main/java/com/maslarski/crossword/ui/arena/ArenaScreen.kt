@@ -250,7 +250,7 @@ private fun ArenaBoard(state: ArenaUiState, viewModel: ArenaViewModel) {
         )
         ArenaControls(
             hasPending = state.pending.isNotEmpty(),
-            hintCost = if (state.paidHints) GameRules.HINT_COST else null,
+            hintCost = GameRules.HINT_COST,
             enabled = state.playerTurn,
             onShuffle = viewModel::onShuffle,
             onSubmit = viewModel::onSubmit,
@@ -484,8 +484,7 @@ private fun LetterTile(letter: Char, size: Dp, modifier: Modifier = Modifier, hi
 @Composable
 private fun ArenaControls(
     hasPending: Boolean,
-    /** Coins a hint costs, or null when hints are free. */
-    hintCost: Int?,
+    hintCost: Int,
     enabled: Boolean,
     onShuffle: () -> Unit,
     onSubmit: () -> Unit,
@@ -513,19 +512,14 @@ private fun ArenaControls(
         }
         BadgedBox(
             badge = {
-                if (hintCost != null) {
-                    Badge(containerColor = MaterialTheme.colorScheme.tertiary, contentColor = MaterialTheme.colorScheme.onTertiary) {
-                        Icon(Icons.Rounded.Toll, contentDescription = null, modifier = Modifier.size(12.dp))
-                        Text(hintCost.toString())
-                    }
+                Badge(containerColor = MaterialTheme.colorScheme.tertiary, contentColor = MaterialTheme.colorScheme.onTertiary) {
+                    Icon(Icons.Rounded.Toll, contentDescription = null, modifier = Modifier.size(12.dp))
+                    Text(hintCost.toString())
                 }
             },
         ) {
             FilledTonalIconButton(onClick = onHint, enabled = enabled, modifier = Modifier.size(52.dp)) {
-                Icon(
-                    Icons.Rounded.Lightbulb,
-                    if (hintCost != null) stringResource(R.string.arena_hint, hintCost) else stringResource(R.string.arena_hint_free),
-                )
+                Icon(Icons.Rounded.Lightbulb, stringResource(R.string.arena_hint, hintCost))
             }
         }
     }

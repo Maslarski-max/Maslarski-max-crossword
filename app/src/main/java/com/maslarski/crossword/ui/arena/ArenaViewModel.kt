@@ -21,7 +21,6 @@ import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.domain.repository.ArenaRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
-import com.maslarski.crossword.domain.repository.SettingsRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import com.maslarski.crossword.ui.navigation.ArenaRoute
 import dagger.hilt.android.lifecycle.HiltViewModel
@@ -33,7 +32,6 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
-import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.receiveAsFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
@@ -57,7 +55,6 @@ data class ArenaUiState(
     val opponentTiles: Map<Int, Char> = emptyMap(),
     val flash: ScoreFlash? = null,
     val coins: Int = 0,
-    val paidHints: Boolean = true,
     val result: ArenaResult? = null,
     val showResult: Boolean = false,
 ) {
@@ -85,7 +82,6 @@ class ArenaViewModel @Inject constructor(
     private val arena: ArenaRepository,
     private val startMatch: StartArenaMatch,
     private val wallet: WalletRepository,
-    private val settings: SettingsRepository,
     private val telemetry: Telemetry,
     /** Match writes run here so the last move is saved even if the screen closes right after it. */
     @ApplicationScope private val appScope: CoroutineScope,
@@ -114,7 +110,6 @@ class ArenaViewModel @Inject constructor(
 
     init {
         viewModelScope.launch { wallet.observeCoins().collect { coins -> _state.update { it.copy(coins = coins) } } }
-        viewModelScope.launch { settings.settings.collect { s -> _state.update { it.copy(paidHints = s.hintEconomyEnabled) } } }
         viewModelScope.launch { load() }
     }
 
@@ -232,7 +227,7 @@ class ArenaViewModel @Inject constructor(
     }
 
     /**
-     * Highlights where the rack fits best for [GameRules.HINT_COST] coins (free with paid hints off). Runs in the app
+     * Highlights where the rack fits best for [GameRules.HINT_COST] coins. Runs in the app
      * scope so a charge that lands after the screen closed is refunded rather than lost.
      */
     fun onHint() {
@@ -248,7 +243,7 @@ class ArenaViewModel @Inject constructor(
                     return@launch
                 }
                 if (offered == s.hintCells) return@launch
-                val charged = !match.hasPaidHint && settings.settings.first().hintEconomyEnabled
+                val charged = !match.hasPaidHint
                 if (charged && !wallet.trySpend(GameRules.HINT_COST)) {
                     _messages.send(ArenaMessage.NotEnoughCoins(GameRules.HINT_COST))
                     return@launch

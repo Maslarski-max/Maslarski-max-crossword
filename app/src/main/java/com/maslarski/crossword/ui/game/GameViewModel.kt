@@ -176,14 +176,13 @@ class GameViewModel @Inject constructor(
                     _messages.send(it)
                     return@launch
                 }
-                val charged = s.settings.hintEconomyEnabled
-                if (charged && !wallet.trySpend(hint.cost)) {
+                if (!wallet.trySpend(hint.cost)) {
                     _messages.send(GameMessage.NotEnoughCoins(hint.cost))
                     return@launch
                 }
                 // The board may have changed, or the screen closed, while the wallet write was suspended.
                 if (cleared) {
-                    if (charged) wallet.refund(hint.cost)
+                    wallet.refund(hint.cost)
                     return@launch
                 }
                 val now = _state.value
@@ -193,7 +192,7 @@ class GameViewModel @Inject constructor(
                     unavailable(hint, now.puzzle, now.board)
                 }
                 if (stale != null) {
-                    if (charged) wallet.refund(hint.cost)
+                    wallet.refund(hint.cost)
                     _messages.send(stale)
                     return@launch
                 }
