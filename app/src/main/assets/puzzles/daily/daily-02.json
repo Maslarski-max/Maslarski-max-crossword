@@ -1,0 +1,37 @@
+{
+  "id": "daily-02",
+  "title": "Daily: Great Outdoors",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###ISLAND##",
+    "########E##",
+    "#V##FOREST#",
+    "#A#T####E#G",
+    "#L#U##CORAL",
+    "#L#N####T#A",
+    "MEADOW####C",
+    "#Y#R##F###I",
+    "##MAPLE###E",
+    "######RIVER",
+    "#CANYON####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Land surrounded by water",
+      "4": "Large area covered with trees",
+      "7": "Reef builder",
+      "8": "Grassy field",
+      "10": "Tree whose leaf is on Canada's flag",
+      "11": "The Nile or the Amazon",
+      "12": "Deep gorge carved by a river"
+    },
+    "down": {
+      "2": "Very dry region",
+      "3": "Low land between hills",
+      "5": "Treeless Arctic plain",
+      "6": "Slow-moving river of ice",
+      "9": "Leafy plant that reproduces with spores"
+    }
+  }
+}

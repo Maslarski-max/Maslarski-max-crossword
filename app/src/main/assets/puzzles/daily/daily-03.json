@@ -1,0 +1,37 @@
+{
+  "id": "daily-03",
+  "title": "Daily: Game On",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##P##T####B",
+    "#HOCKEY#C#O",
+    "##L##N##Y#X",
+    "#ROWING#C#I",
+    "#####I##L#N",
+    "###S#SKIING",
+    "JUDO##A#N##",
+    "###C##RUGBY",
+    "###C##A####",
+    "###E##T####",
+    "##ARCHERY##"
+  ],
+  "clues": {
+    "across": {
+      "4": "Sport played with a puck",
+      "6": "Sport with oars",
+      "8": "Sport on snowy slopes",
+      "10": "Olympic martial art of throws",
+      "11": "Sport with scrums and tries",
+      "12": "Sport with bows and arrows"
+    },
+    "down": {
+      "1": "Sport played on horseback",
+      "2": "Wimbledon sport",
+      "3": "Sport in a ring with gloves",
+      "5": "Sport of the Tour de France",
+      "7": "Football, to Americans",
+      "9": "Martial art with belts and katas"
+    }
+  }
+}

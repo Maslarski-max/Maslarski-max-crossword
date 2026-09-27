@@ -1,0 +1,26 @@
+id: hard-02
+title: Myths & Legends
+difficulty: HARD
+order: 6
+type: level
+size: 15
+seed: 19
+---
+EXCALIBUR | Arthur's legendary sword
+LABYRINTH | Maze built by Daedalus
+ACHILLES | Greek hero with a vulnerable heel
+MINOTAUR | Bull-headed monster of Crete
+VALHALLA | Hall of slain warriors in Norse myth
+HERCULES | Roman name for the hero of the twelve labors
+POSEIDON | Greek god of the sea
+ATLANTIS | Legendary sunken island
+PEGASUS | Winged horse
+ODYSSEY | Homer's epic about a long voyage home
+OLYMPUS | Mountain home of the Greek gods
+CENTAUR | Half-man, half-horse
+CYCLOPS | One-eyed giant
+PHOENIX | Bird reborn from its ashes
+MEDUSA | Gorgon with snakes for hair
+SPHINX | Riddling creature of Thebes
+THOR | Norse god with a hammer
+ZEUS | King of the Greek gods

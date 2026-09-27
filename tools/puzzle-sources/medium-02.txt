@@ -1,0 +1,22 @@
+id: medium-02
+title: Science Lab
+difficulty: MEDIUM
+order: 4
+type: level
+size: 11
+seed: 13
+---
+GRAVITY | Force that keeps planets in orbit
+NEUTRON | Uncharged particle in a nucleus
+VOLTAGE | Electrical potential difference, measured in volts
+OXYGEN | Element O, needed for breathing
+PLANET | Mars or Venus
+ENERGY | E in E = mc²
+MAGNET | It attracts iron
+FOSSIL | Preserved remains in rock
+ENZYME | Protein that speeds up a biochemical reaction
+CARBON | Element found in all known life
+LASER | Device emitting a focused beam of light
+ORBIT | Path around a star
+PRISM | Glass that splits white light into a rainbow
+ATOM | Smallest unit of an element

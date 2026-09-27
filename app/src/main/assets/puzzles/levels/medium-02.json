@@ -1,0 +1,39 @@
+{
+  "id": "medium-02",
+  "title": "Science Lab",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##VOLTAGE#C",
+    "###R###R##A",
+    "###B##LASER",
+    "#PRISM#V##B",
+    "###T###I##O",
+    "#P##NEUTRON",
+    "#L###N#Y#X#",
+    "#A###Z###Y#",
+    "ENERGY###G#",
+    "#E###MAGNET",
+    "ATOM#E###N#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Electrical potential difference, measured in volts",
+      "5": "Device emitting a focused beam of light",
+      "6": "Glass that splits white light into a rainbow",
+      "8": "Uncharged particle in a nucleus",
+      "11": "E in E = mc²",
+      "12": "It attracts iron",
+      "13": "Smallest unit of an element"
+    },
+    "down": {
+      "2": "Path around a star",
+      "3": "Force that keeps planets in orbit",
+      "4": "Element found in all known life",
+      "7": "Mars or Venus",
+      "9": "Protein that speeds up a biochemical reaction",
+      "10": "Element O, needed for breathing"
+    }
+  },
+  "order": 4
+}

@@ -1,0 +1,36 @@
+{
+  "id": "daily-01",
+  "title": "Daily: Music Hall",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "FLUTE####G#",
+    "#Y#E#####U#",
+    "DRUM#VIOLIN",
+    "#I#P#####T#",
+    "#CHORD###A#",
+    "####H#OPERA",
+    "####Y##I###",
+    "####T#BASS#",
+    "####H##N###",
+    "####MELODY#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Woodwind played sideways",
+      "5": "Instrument you beat",
+      "6": "Instrument played with a bow under the chin",
+      "7": "Three or more notes played together",
+      "9": "Drama set to music",
+      "11": "Lowest vocal range",
+      "12": "A tune"
+    },
+    "down": {
+      "2": "Word of a song",
+      "3": "Speed of a piece of music",
+      "4": "Six-stringed instrument",
+      "8": "Pattern of beats",
+      "10": "Instrument with 88 keys"
+    }
+  }
+}

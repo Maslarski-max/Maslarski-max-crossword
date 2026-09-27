@@ -1,0 +1,142 @@
+package com.maslarski.crossword.ui.levels
+
+import androidx.compose.animation.core.animateFloatAsState
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.PaddingValues
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.items
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.rounded.ArrowBack
+import androidx.compose.material.icons.rounded.Lock
+import androidx.compose.material.icons.rounded.Star
+import androidx.compose.material.icons.rounded.StarOutline
+import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.ElevatedCard
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
+import androidx.compose.material3.TopAppBar
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.graphicsLayer
+import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.semantics.contentDescription
+import androidx.compose.ui.semantics.semantics
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
+import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import com.maslarski.crossword.R
+import com.maslarski.crossword.ui.components.BannerAdSlot
+import com.maslarski.crossword.ui.components.formatElapsed
+import com.maslarski.crossword.ui.game.difficultyLabel
+
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+fun LevelsScreen(
+    onBack: () -> Unit,
+    onPlay: (sessionId: String, puzzleId: String) -> Unit,
+    viewModel: LevelsViewModel = hiltViewModel(),
+) {
+    val state by viewModel.state.collectAsStateWithLifecycle()
+    Scaffold(
+        topBar = {
+            TopAppBar(
+                title = { Text(stringResource(R.string.levels_title)) },
+                navigationIcon = {
+                    IconButton(onClick = onBack) { Icon(Icons.AutoMirrored.Rounded.ArrowBack, stringResource(R.string.back)) }
+                },
+            )
+        },
+        bottomBar = { BannerAdSlot() },
+    ) { padding ->
+        Box(Modifier.fillMaxSize().padding(padding)) {
+            if (state.loading) {
+                CircularProgressIndicator(Modifier.align(Alignment.Center))
+                return@Box
+            }
+            LazyVerticalGrid(
+                columns = GridCells.Adaptive(minSize = 300.dp),
+                contentPadding = PaddingValues(16.dp),
+                horizontalArrangement = Arrangement.spacedBy(12.dp),
+                verticalArrangement = Arrangement.spacedBy(12.dp),
+            ) {
+                items(state.levels, key = { it.puzzleId }) { level ->
+                    LevelCard(level, onClick = { onPlay(level.sessionId, level.puzzleId) })
+                }
+            }
+        }
+    }
+}
+
+@Composable
+private fun LevelCard(level: LevelItem, onClick: () -> Unit) {
+    val alpha by animateFloatAsState(if (level.unlocked) 1f else 0.55f, label = "levelAlpha")
+    val lockedLabel = stringResource(R.string.level_locked)
+    ElevatedCard(
+        onClick = onClick,
+        enabled = level.unlocked,
+        modifier = Modifier
+            .fillMaxWidth()
+            .graphicsLayer { this.alpha = alpha }
+            .then(if (!level.unlocked) Modifier.semantics { contentDescription = "${level.title}, $lockedLabel" } else Modifier),
+    ) {
+        Row(Modifier.padding(16.dp), verticalAlignment = Alignment.CenterVertically) {
+            Surface(
+                shape = CircleShape,
+                color = if (level.completed) MaterialTheme.colorScheme.tertiaryContainer else MaterialTheme.colorScheme.primaryContainer,
+                modifier = Modifier.size(48.dp),
+            ) {
+                Box(contentAlignment = Alignment.Center) {
+                    if (level.unlocked) {
+                        Text(level.number.toString(), style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold)
+                    } else {
+                        Icon(Icons.Rounded.Lock, contentDescription = null)
+                    }
+                }
+            }
+            Column(Modifier.weight(1f).padding(start = 16.dp), verticalArrangement = Arrangement.spacedBy(2.dp)) {
+                Text(level.title, style = MaterialTheme.typography.titleMedium)
+                Text(
+                    stringResource(R.string.level_meta, difficultyLabel(level.difficulty), level.cols, level.rows, level.wordCount),
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+                if (level.completed) {
+                    Text(
+                        stringResource(R.string.level_best, level.bestScore, formatElapsed(level.bestTimeSeconds ?: 0)),
+                        style = MaterialTheme.typography.bodySmall,
+                        color = MaterialTheme.colorScheme.primary,
+                    )
+                }
+            }
+            if (level.completed) {
+                Row {
+                    repeat(3) { i ->
+                        Icon(
+                            if (i < level.stars) Icons.Rounded.Star else Icons.Rounded.StarOutline,
+                            contentDescription = null,
+                            tint = MaterialTheme.colorScheme.tertiary,
+                            modifier = Modifier.size(20.dp),
+                        )
+                    }
+                }
+            }
+        }
+    }
+}
