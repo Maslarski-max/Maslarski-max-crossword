@@ -92,11 +92,13 @@ class GameViewModel @Inject constructor(
 
     /** Serialises hint purchases so each one is validated against the board left by the previous one. */
     private val hintLock = Mutex()
+    private val writes = Channel<suspend () -> Unit>(Channel.UNLIMITED)
     private var timerJob: Job? = null
     private var foreground = false
     private var inputSequence = 0L
 
     init {
+        appScope.launch { for (block in writes) block() }
         viewModelScope.launch { wallet.observeCoins().collect { coins -> _state.update { it.copy(coins = coins) } } }
         viewModelScope.launch { settingsRepository.settings.collect { s -> _state.update { it.copy(settings = s) } } }
         viewModelScope.launch { load() }
@@ -222,7 +224,7 @@ class GameViewModel @Inject constructor(
                 lastInput = null,
             )
         }
-        appScope.launch {
+        write {
             progress.resetBoard(session.id)
             telemetry.puzzleStarted(puzzle)
             if (foreground) startTimer()
@@ -257,20 +259,18 @@ class GameViewModel @Inject constructor(
         val board = s.board ?: return
         if (s.solved) return
         val puzzle = s.puzzle ?: return
-        appScope.launch {
-            progress.saveBoard(session, puzzle, board, s.elapsedSeconds, s.checksUsed)
-        }
+        write { progress.saveBoard(session, puzzle, board, s.elapsedSeconds, s.checksUsed) }
     }
 
     private fun complete(puzzle: Puzzle, board: BoardState) {
         timerJob?.cancel()
         _state.update { it.copy(solved = true) }
         val s = _state.value
-        appScope.launch {
+        write {
             val next = nextPuzzleId(puzzle)
             val result = progress.recordCompletion(session, puzzle, board, s.elapsedSeconds, s.checksUsed, next)
             telemetry.puzzleCompleted(puzzle, result)
-            _state.update { it.copy(completion = result, showCompletion = true) }
+            _state.update { if (it.solved) it.copy(completion = result, showCompletion = true) else it }
         }
     }
 
@@ -281,7 +281,13 @@ class GameViewModel @Inject constructor(
         return levels.getOrNull(index + 1)?.id
     }
 
+    /** Board writes run one at a time in call order, so a slow completion can't land after a later restart. */
+    private fun write(block: suspend () -> Unit) {
+        writes.trySend(block)
+    }
+
     override fun onCleared() {
         timerJob?.cancel()
+        writes.close()
     }
 }

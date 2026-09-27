@@ -125,7 +125,7 @@ class ArenaViewModel @Inject constructor(
         }
         when {
             s.finished -> finish(s)
-            s.turn == Side.OPPONENT -> runOpponent()
+            s.turn == Side.OPPONENT -> runOpponent(animate = false)
         }
     }
 
@@ -279,17 +279,23 @@ class ArenaViewModel @Inject constructor(
         }
     }
 
-    private fun runOpponent() {
+    /**
+     * Plays the opponent's turn. A turn found on a reopened match is resolved without the thinking and tile
+     * animations, so closing the screen mid-turn can't postpone it again.
+     */
+    private fun runOpponent(animate: Boolean = true) {
         if (opponentJob?.isActive == true) return
         opponentJob = viewModelScope.launch {
             val layout = _state.value.layout ?: return@launch
             val match = _state.value.match ?: return@launch
-            _state.update { it.copy(opponentThinking = true) }
-            delay(THINK_MS)
             val placements = ArenaAi.decide(layout, match)
-            placements.entries.sortedBy { it.key }.forEach { (cell, slot) ->
-                _state.update { it.copy(opponentTiles = it.opponentTiles + (cell to match.opponentRack[slot])) }
-                delay(TILE_MS)
+            if (animate) {
+                _state.update { it.copy(opponentThinking = true) }
+                delay(THINK_MS)
+                placements.entries.sortedBy { it.key }.forEach { (cell, slot) ->
+                    _state.update { it.copy(opponentTiles = it.opponentTiles + (cell to match.opponentRack[slot])) }
+                    delay(TILE_MS)
+                }
             }
             val next = if (placements.isEmpty()) ArenaRules.pass(match, Side.OPPONENT) else ArenaRules.play(layout, match, Side.OPPONENT, placements)
             val move = next.lastMove ?: return@launch
