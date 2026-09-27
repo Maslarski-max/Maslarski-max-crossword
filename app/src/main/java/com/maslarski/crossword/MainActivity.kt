@@ -14,7 +14,6 @@ import com.maslarski.crossword.data.ads.ConsentManager
 import com.maslarski.crossword.data.telemetry.FirebaseTelemetry
 import com.maslarski.crossword.domain.model.Settings
 import com.maslarski.crossword.domain.repository.SettingsRepository
-import com.maslarski.crossword.ui.components.LocalAdController
 import com.maslarski.crossword.ui.components.LocalConsentManager
 import com.maslarski.crossword.ui.navigation.CrosswordNavHost
 import com.maslarski.crossword.ui.theme.CrosswordTheme
@@ -48,7 +47,6 @@ class MainActivity : ComponentActivity() {
             val settings by settingsRepository.settings.collectAsStateWithLifecycle(initialValue = Settings())
             CrosswordTheme(themeMode = settings.themeMode, dynamicColor = settings.dynamicColor) {
                 CompositionLocalProvider(
-                    LocalAdController provides adsManager,
                     LocalConsentManager provides consentManager,
                 ) {
                     CrosswordNavHost()
