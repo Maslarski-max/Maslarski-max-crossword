@@ -57,6 +57,9 @@ interface ArenaRepository {
     suspend fun startMatch(state: ArenaState): Long
     suspend fun loadMatch(id: Long): ArenaMatch?
     suspend fun saveMatch(id: Long, state: ArenaState)
+
+    /** Drops an unfinished match that can no longer be played, e.g. because its puzzle changed. */
+    suspend fun discardMatch(id: Long)
     /** Records the result of a finished [state] and awards coins; returns null if it was already recorded. */
     suspend fun finishMatch(id: Long, state: ArenaState): ArenaResult?
 }

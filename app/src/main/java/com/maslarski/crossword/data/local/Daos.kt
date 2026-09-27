@@ -123,6 +123,9 @@ interface ArenaMatchDao {
     @Query("UPDATE arena_matches SET outcome = :outcome, updatedAt = :now, finishedAt = :now WHERE outcome IS NULL")
     suspend fun closeActive(outcome: String, now: Long): Int
 
+    @Query("DELETE FROM arena_matches WHERE id = :id AND outcome IS NULL")
+    suspend fun deleteActive(id: Long): Int
+
     @Query("SELECT difficulty, outcome, playerScore FROM arena_matches WHERE outcome IS NOT NULL ORDER BY finishedAt DESC, id DESC")
     fun observeResults(): Flow<List<ArenaResultRow>>
 }

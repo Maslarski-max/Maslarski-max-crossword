@@ -92,13 +92,15 @@ class GameViewModel @Inject constructor(
 
     /** Serialises hint purchases so each one is validated against the board left by the previous one. */
     private val hintLock = Mutex()
-    private val writes = Channel<suspend () -> Unit>(Channel.UNLIMITED)
+    private val writeLock = Any()
+
+    @Volatile private var cleared = false
+    private var lastWrite: Job? = null
     private var timerJob: Job? = null
     private var foreground = false
     private var inputSequence = 0L
 
     init {
-        appScope.launch { for (block in writes) block() }
         viewModelScope.launch { wallet.observeCoins().collect { coins -> _state.update { it.copy(coins = coins) } } }
         viewModelScope.launch { settingsRepository.settings.collect { s -> _state.update { it.copy(settings = s) } } }
         viewModelScope.launch { load() }
@@ -174,7 +176,11 @@ class GameViewModel @Inject constructor(
                     _messages.send(GameMessage.NotEnoughCoins(hint.cost))
                     return@launch
                 }
-                // The board may have changed while the wallet write was suspended.
+                // The board may have changed, or the screen closed, while the wallet write was suspended.
+                if (cleared) {
+                    if (charged) wallet.refund(hint.cost)
+                    return@launch
+                }
                 val now = _state.value
                 val stale = if (now.solved || now.puzzle == null || now.board == null) {
                     GameMessage.NothingToReveal
@@ -283,11 +289,17 @@ class GameViewModel @Inject constructor(
 
     /** Board writes run one at a time in call order, so a slow completion can't land after a later restart. */
     private fun write(block: suspend () -> Unit) {
-        writes.trySend(block)
+        synchronized(writeLock) {
+            val previous = lastWrite
+            lastWrite = appScope.launch {
+                previous?.join()
+                block()
+            }
+        }
     }
 
     override fun onCleared() {
+        cleared = true
         timerJob?.cancel()
-        writes.close()
     }
 }
