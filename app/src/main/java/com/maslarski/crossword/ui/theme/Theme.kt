@@ -48,6 +48,50 @@ private fun ColorScheme.gridColors(dark: Boolean) = GridColors(
 
 val LocalGridColors = staticCompositionLocalOf { LightColors.gridColors(dark = false) }
 
+/** Colors of the arena arrow-word grid and letter tiles. */
+@Immutable
+data class ArenaColors(
+    val gridLine: Color,
+    val cell: Color,
+    val clueCell: Color,
+    val activeClueCell: Color,
+    val clueText: Color,
+    val filler: Color,
+    val activeWord: Color,
+    val hint: Color,
+    val tile: Color,
+    val tileEdge: Color,
+    val onTile: Color,
+    val player: Color,
+    val opponent: Color,
+    val given: Color,
+    val bonus: Color,
+    val onBonus: Color,
+    val miss: Color,
+)
+
+private fun ColorScheme.arenaColors(dark: Boolean) = ArenaColors(
+    gridLine = outlineVariant,
+    cell = if (dark) surfaceContainerHigh else surfaceContainerLowest,
+    clueCell = if (dark) Color(0xFF26324A) else Color(0xFFDCE7F7),
+    activeClueCell = if (dark) Color(0xFF34466A) else Color(0xFFBFD4F2),
+    clueText = if (dark) Color(0xFFC9D6EE) else Color(0xFF2B3A55),
+    filler = if (dark) Color(0xFF1C2333) else Color(0xFFEAF0F9),
+    activeWord = primary.copy(alpha = if (dark) 0.3f else 0.16f).compositeOver(if (dark) surfaceContainerHigh else surfaceContainerLowest),
+    hint = if (dark) Color(0xFF2F5A2A) else Color(0xFFBDE8A9),
+    tile = if (dark) Color(0xFFE9CC9A) else Color(0xFFF7E0BA),
+    tileEdge = if (dark) Color(0xFFB08A4E) else Color(0xFFD7B47C),
+    onTile = Color(0xFF3B2A12),
+    player = primary,
+    opponent = if (dark) Color(0xFFFFB960) else Color(0xFFC05A00),
+    given = onSurface,
+    bonus = primary,
+    onBonus = onPrimary,
+    miss = error,
+)
+
+val LocalArenaColors = staticCompositionLocalOf { LightColors.arenaColors(dark = false) }
+
 @Composable
 fun CrosswordTheme(
     themeMode: ThemeMode = ThemeMode.SYSTEM,
@@ -67,7 +111,8 @@ fun CrosswordTheme(
         else -> LightColors
     }
     val gridColors = remember(colorScheme, dark) { colorScheme.gridColors(dark) }
-    CompositionLocalProvider(LocalGridColors provides gridColors) {
+    val arenaColors = remember(colorScheme, dark) { colorScheme.arenaColors(dark) }
+    CompositionLocalProvider(LocalGridColors provides gridColors, LocalArenaColors provides arenaColors) {
         MaterialTheme(colorScheme = colorScheme, typography = CrosswordTypography, content = content)
     }
 }

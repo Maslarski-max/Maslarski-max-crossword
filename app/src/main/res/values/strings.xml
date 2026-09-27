@@ -32,6 +32,89 @@
         <item quantity="other">%1$d coins</item>
     </plurals>
 
+    <!-- Hub -->
+    <string name="hub_subtitle">Choose how you want to play</string>
+    <string name="mode_classic_title">Classic Crossword</string>
+    <string name="mode_classic_summary">Solo puzzles, a new daily grid and hints when you get stuck.</string>
+    <string name="mode_classic_stats" tools:ignore="PluralsCandidate">%1$d of %2$d levels solved · %3$d day streak</string>
+    <string name="mode_arena_title">Crossword Arena</string>
+    <string name="mode_arena_summary">Turn-based duels against an AI opponent. Place letter tiles, grab bonus cells, outscore your rival.</string>
+    <string name="mode_arena_stats" tools:ignore="PluralsCandidate">%1$d wins · %2$d losses · best %3$d</string>
+    <string name="mode_play">Play</string>
+
+    <!-- Arena lobby -->
+    <string name="arena_tagline">Take turns with the AI filling an arrow-word grid. Correct words score; bonus cells score more.</string>
+    <string name="arena_resume_title">Match in progress</string>
+    <string name="arena_resume_meta" tools:ignore="PluralsCandidate">%1$s opponent · You %2$d – %3$d Opponent</string>
+    <string name="arena_resume">Resume</string>
+    <string name="arena_choose_opponent">Choose your opponent</string>
+    <string name="arena_opponent_easy">Rookie</string>
+    <string name="arena_opponent_medium">Challenger</string>
+    <string name="arena_opponent_hard">Champion</string>
+    <string name="arena_opponent_easy_summary">Knows the easy answers and makes the odd mistake</string>
+    <string name="arena_opponent_medium_summary">Solid vocabulary, goes for good words</string>
+    <string name="arena_opponent_hard_summary">Knows most answers and always hunts the best move</string>
+    <string name="arena_locked_medium">Beat any opponent to unlock</string>
+    <string name="arena_locked_hard">Beat the Challenger to unlock</string>
+    <string name="arena_win_reward" tools:ignore="PluralsCandidate">Win · +%1$d coins</string>
+    <string name="arena_stats_title">Arena record</string>
+    <string name="arena_stat_played">Played</string>
+    <string name="arena_stat_wins">Wins</string>
+    <string name="arena_stat_losses">Losses</string>
+    <string name="arena_stat_best">Best score</string>
+    <string name="arena_stat_streak">Win streak</string>
+    <string name="arena_how_to_title">How to play</string>
+    <string name="arena_how_to_body">• Drag tiles from your rack onto empty cells, or tap a tile and then a cell.\n• All tiles of a turn must sit in one word, and every one must be right, or the turn is lost.\n• Each letter scores 1 point; bonus cells marked +2 or +3 score that much instead. Finishing a word adds its length.\n• Submit to score and refill your rack, or Pass. The match ends when the grid is full or nobody scores for two rounds.</string>
+    <string name="arena_new_match_title">Start a new match?</string>
+    <string name="arena_new_match_body">Your current match will be counted as a loss.</string>
+    <string name="arena_new_match_confirm">Start new match</string>
+    <string name="arena_no_puzzles">No puzzles are available for the arena.</string>
+
+    <!-- Arena match -->
+    <string name="arena_vs_opponent">vs %1$s</string>
+    <string name="arena_you">You</string>
+    <string name="arena_vs">vs</string>
+    <string name="arena_opponent">Opponent</string>
+    <string name="arena_score_description" tools:ignore="PluralsCandidate">You %1$d, opponent %2$d</string>
+    <string name="arena_your_turn">Your turn</string>
+    <string name="arena_opponent_turn">Opponent is thinking…</string>
+    <string name="arena_match_over">Match over</string>
+    <string name="arena_submit">Submit</string>
+    <string name="arena_pass">Pass</string>
+    <string name="arena_shuffle">Shuffle tiles</string>
+    <string name="arena_hint" tools:ignore="PluralsCandidate">Hint, %1$d left</string>
+    <string name="arena_clue_prompt">Drag tiles onto the grid to spell a word</string>
+    <string name="arena_clue_length">%1$s (%2$d)</string>
+    <string name="arena_tile">Tile %1$s</string>
+    <string name="arena_tile_selected">Tile %1$s, selected. Tap an empty cell to place it.</string>
+    <string name="arena_grid_description" tools:ignore="PluralsCandidate">Arena grid, %1$d empty cells left</string>
+    <string name="arena_message_not_one_word">All tiles must be in the same word</string>
+    <string name="arena_message_cell_taken">That cell is already filled</string>
+    <plurals name="arena_message_missed">
+        <item quantity="one">%1$d tile was wrong. Your turn is over.</item>
+        <item quantity="other">%1$d tiles were wrong. Your turn is over.</item>
+    </plurals>
+    <plurals name="arena_message_scored">
+        <item quantity="one">+%1$d point</item>
+        <item quantity="other">+%1$d points</item>
+    </plurals>
+    <plurals name="arena_message_opponent_scored">
+        <item quantity="one">Opponent scored %1$d point</item>
+        <item quantity="other">Opponent scored %1$d points</item>
+    </plurals>
+    <string name="arena_message_opponent_missed">Opponent guessed wrong</string>
+    <string name="arena_message_opponent_passed">Opponent passed</string>
+    <string name="arena_message_no_hint">None of your tiles fit an open word right now</string>
+    <string name="arena_message_no_hints_left">No hints left in this match</string>
+    <string name="arena_result_won">You win!</string>
+    <string name="arena_result_lost">Opponent wins</string>
+    <string name="arena_result_draw">It\'s a draw</string>
+    <string name="arena_result_forfeit">Match forfeited</string>
+    <string name="arena_result_score" tools:ignore="PluralsCandidate">You %1$d – %2$d Opponent</string>
+    <string name="arena_rematch">Rematch</string>
+    <string name="arena_back_to_lobby">Arena lobby</string>
+    <string name="arena_match_not_found">This match is no longer available.</string>
+
     <!-- Levels -->
     <string name="levels_title">Levels</string>
     <string name="level_locked">Locked. Solve the previous level to unlock.</string>

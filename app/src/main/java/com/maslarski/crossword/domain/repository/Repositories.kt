@@ -1,5 +1,9 @@
 package com.maslarski.crossword.domain.repository
 
+import com.maslarski.crossword.domain.arena.ArenaMatch
+import com.maslarski.crossword.domain.arena.ArenaResult
+import com.maslarski.crossword.domain.arena.ArenaState
+import com.maslarski.crossword.domain.arena.ArenaStats
 import com.maslarski.crossword.domain.model.BoardState
 import com.maslarski.crossword.domain.model.CompletionResult
 import com.maslarski.crossword.domain.model.DailyStatus
@@ -42,6 +46,19 @@ interface ProgressRepository {
         checksUsed: Int,
         nextPuzzleId: String?,
     ): CompletionResult
+}
+
+/** Arena matches and career stats; separate from the classic [ProgressRepository] records. */
+interface ArenaRepository {
+    fun observeStats(): Flow<ArenaStats>
+    /** The unfinished match, if any. At most one exists at a time. */
+    fun observeActiveMatch(): Flow<ArenaMatch?>
+    /** Stores a new match and returns its id; an unfinished previous match is recorded as forfeited. */
+    suspend fun startMatch(state: ArenaState): Long
+    suspend fun loadMatch(id: Long): ArenaMatch?
+    suspend fun saveMatch(id: Long, state: ArenaState)
+    /** Records the result of a finished [state] and awards coins; returns null if it was already recorded. */
+    suspend fun finishMatch(id: Long, state: ArenaState): ArenaResult?
 }
 
 interface WalletRepository {

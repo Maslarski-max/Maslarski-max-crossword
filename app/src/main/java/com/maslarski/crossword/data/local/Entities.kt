@@ -67,3 +67,20 @@ data class WalletEntity(
         const val SINGLETON_ID = 0
     }
 }
+
+/** One arena match. [state] is the JSON-encoded ArenaState; [outcome] stays null while the match is in progress. */
+@Entity(tableName = "arena_matches", indices = [Index("outcome"), Index("finishedAt")])
+data class ArenaMatchEntity(
+    @PrimaryKey(autoGenerate = true) val id: Long = 0,
+    val puzzleId: String,
+    val difficulty: String,
+    val state: String,
+    val playerScore: Int,
+    val opponentScore: Int,
+    val outcome: String?,
+    val startedAt: Long,
+    val updatedAt: Long,
+    val finishedAt: Long?,
+)
+
+data class ArenaResultRow(val difficulty: String, val outcome: String, val playerScore: Int)
