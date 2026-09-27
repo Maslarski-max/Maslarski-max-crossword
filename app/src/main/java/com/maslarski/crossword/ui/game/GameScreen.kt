@@ -1,6 +1,5 @@
 package com.maslarski.crossword.ui.game
 
-import androidx.activity.compose.LocalActivity
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
@@ -75,7 +74,6 @@ import com.maslarski.crossword.ui.components.ClueBar
 import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.components.CrosswordGrid
 import com.maslarski.crossword.ui.components.LetterKeyboard
-import com.maslarski.crossword.ui.components.LocalAdController
 import com.maslarski.crossword.ui.components.clueSection
 import com.maslarski.crossword.ui.components.formatElapsed
 import kotlinx.coroutines.flow.StateFlow
@@ -95,8 +93,6 @@ fun GameScreen(
     val selectedWord by selectedWordResult.collectAsStateWithLifecycle()
     val snackbar = remember { SnackbarHostState() }
     val resources = LocalResources.current
-    val activity = LocalActivity.current
-    val ads = LocalAdController.current
     val scope = rememberCoroutineScope()
     var menuOpen by remember { mutableStateOf(false) }
     var confirmRestart by rememberSaveable { mutableStateOf(false) }
@@ -127,10 +123,7 @@ fun GameScreen(
         }
     }
 
-    val playNext: (String) -> Unit = { nextId ->
-        val go = { onPlayNext(GameSession.Level(nextId).id, nextId) }
-        if (activity != null && ads != null) ads.showInterstitialBetweenLevels(activity, go) else go()
-    }
+    val playNext: (String) -> Unit = { nextId -> onPlayNext(GameSession.Level(nextId).id, nextId) }
 
     val focusRequester = remember { FocusRequester() }
     LaunchedEffect(state.puzzle) { if (state.puzzle != null) runCatching { focusRequester.requestFocus() } }

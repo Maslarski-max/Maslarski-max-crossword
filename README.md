@@ -21,7 +21,8 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
   `arena_matches` table, so Arena stats and unlocks are tracked separately from Classic progress.
 - **UI**: phones, tablets and foldables (adaptive layouts), light/dark theme, Material You dynamic color on Android 12+,
   edge-to-edge, predictive back.
-- **Play readiness**: ad-free screens (no banners); AdMob interstitial between levels behind UMP consent (GDPR / US states),
+- **Play readiness**: 100% ad-free (no banners or interstitials); the AdMob SDK and UMP consent (GDPR / US states) stay
+  wired up for optional rewarded ads later,
   Firebase Analytics + Crashlytics with Consent Mode, a Play Integrity hook, backup/data-extraction rules,
   HTTPS-only network config, R8, a signed-AAB pipeline (Gradle, fastlane and GitHub Actions), store listing text,
   a privacy policy and Data safety answers.
@@ -50,7 +51,7 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
 
 Or open the folder in Android Studio and run the `app` configuration.
 
-Debug builds use Google's **test** AdMob IDs, so test ads are shown and no real impressions are counted. Firebase is
+The app shows no ads. The AdMob SDK is initialised with Google's **test** app ID unless you override it. Firebase is
 disabled until you add `app/google-services.json` (the app runs fine without it).
 
 ## Architecture
@@ -66,7 +67,7 @@ app/src/main/java/com/maslarski/crossword/
 ├── data/
 │   ├── local/         Room entities, DAOs, database, mappers
 │   ├── repository/    Asset puzzles, Room progress/wallet, DataStore settings
-│   ├── ads/           ConsentManager (UMP), AdsManager (interstitial; SDK kept for future rewarded ads)
+│   ├── ads/           ConsentManager (UMP), AdsManager (SDK init only; no ad formats yet)
 │   ├── telemetry/     Telemetry interface + Firebase implementation
 │   └── integrity/     PlayIntegrityChecker
 ├── di/                Hilt modules
@@ -135,21 +136,20 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 | Gradle property | Environment variable | Default |
 | --- | --- | --- |
 | `admobAppId` | `ADMOB_APP_ID` | Google test app ID |
-| `admobInterstitialId` | `ADMOB_INTERSTITIAL_ID` | Google test interstitial |
 | `playIntegrityCloudProjectNumber` | `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER` | `0` (disabled) |
 | `versionCode` / `versionName` | `VERSION_CODE` / `VERSION_NAME` | `1` / `1.0.0` |
 | `umpTestDeviceId` (debug only) | `UMP_TEST_DEVICE_ID` | empty |
 
 ### AdMob and consent (UMP)
 
-1. Create the app and an Interstitial ad unit in AdMob and set the IDs above for release builds.
+1. Create the app in AdMob and set `admobAppId` for release builds. No ad units are needed while the app is ad-free.
 2. In AdMob → **Privacy & messaging**, create a **European regulations** (GDPR) message and a **US state regulations**
    message. `ConsentManager` requests consent info on every launch, shows the form when required, and the Settings
    screen shows **Ad privacy choices** when the user must be able to change their choice.
-3. Ads are only initialised and requested after `canRequestAds()` is true. Firebase Consent Mode ad signals follow the
+3. The Mobile Ads SDK is only initialised after `canRequestAds()` is true. Firebase Consent Mode ad signals follow the
    same result; analytics defaults to denied ad storage until then (see the manifest meta-data).
-4. Interstitials are preloaded and shown only between levels ("Next puzzle"): at most every second transition and
-   never within 90 seconds of the previous one (`AdsManager`).
+4. No ad formats are shown. To add rewarded ads later, create a rewarded ad unit and load it from `AdsManager` once
+   `adsReady` is true.
 5. To test the EEA consent flow on a debug build, pass your device's hashed ID (UMP prints it in logcat) as
    `-PumpTestDeviceId=...`; `ConsentManager` then forces EEA geography for that device.
 
@@ -201,7 +201,7 @@ this key is only your upload key. Back it up.
 
 ```bash
 ./gradlew :app:bundleRelease -PversionCode=2 -PversionName=1.0.1 \
-  -PadmobAppId=ca-app-pub-XXXX~YYYY -PadmobInterstitialId=ca-app-pub-XXXX/2222
+  -PadmobAppId=ca-app-pub-XXXX~YYYY
 # → app/build/outputs/bundle/release/app-release.aab
 ```
 
@@ -228,7 +228,7 @@ uploaded manually in Play Console.
 a signed AAB (version name `1.2.3`, version code = run number) and attaches it as an artifact. Repository secrets:
 `UPLOAD_KEYSTORE_BASE64` (`base64 -w0 upload-keystore.jks`), `CROSSWORD_KEYSTORE_PASSWORD`, `CROSSWORD_KEY_ALIAS`,
 `CROSSWORD_KEY_PASSWORD`, and optionally `GOOGLE_SERVICES_JSON`, `ADMOB_APP_ID`,
-`ADMOB_INTERSTITIAL_ID`, `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER`.
+`PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER`.
 
 ## Google Play checklist
 

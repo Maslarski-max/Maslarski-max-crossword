@@ -7,7 +7,6 @@ import androidx.datastore.preferences.preferencesDataStore
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
-import com.maslarski.crossword.data.ads.AdController
 import com.maslarski.crossword.data.ads.AdsManager
 import com.maslarski.crossword.data.ads.ConsentManager
 import com.maslarski.crossword.data.integrity.PlayIntegrityChecker
@@ -98,9 +97,6 @@ object AppModule {
         @ApplicationScope scope: CoroutineScope,
         @IoDispatcher io: CoroutineDispatcher,
     ): AdsManager = AdsManager(context, scope, io)
-
-    @Provides
-    fun provideAdController(adsManager: AdsManager): AdController = adsManager
 
     @Provides @Singleton
     fun provideFirebaseTelemetry(@ApplicationContext context: Context): FirebaseTelemetry = FirebaseTelemetry(context)

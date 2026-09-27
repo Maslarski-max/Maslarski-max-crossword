@@ -26,7 +26,8 @@ Game progress, scores and settings stay on the device (and in the user's own And
 
 ## App content
 
-- **Ads**: Yes, the app contains ads.
+- **Ads**: No, the app does not contain ads. The AdMob SDK is initialised (after consent) but no ad formats are
+  shown; switch this to Yes if you add rewarded ads.
 - **Advertising ID**: The manifest declares `com.google.android.gms.permission.AD_ID`; purpose is Advertising and Analytics.
 - **Target audience**: 13+ (the app does not set `tagForChildDirectedTreatment`; if you target children you must
   follow the Families policy and configure AdMob accordingly).

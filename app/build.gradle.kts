@@ -54,7 +54,6 @@ android {
         vectorDrawables { useSupportLibrary = true }
 
         manifestPlaceholders["admobAppId"] = requireNotNull(config("admobAppId"))
-        buildConfigField("String", "ADMOB_INTERSTITIAL_ID", "\"${requireNotNull(config("admobInterstitialId"))}\"")
         buildConfigField("long", "PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER", "${config("playIntegrityCloudProjectNumber") ?: "0"}L")
         buildConfigField("boolean", "FIREBASE_CONFIGURED", hasFirebaseConfig.toString())
         // Hashed device id printed by the UMP SDK in logcat; lets debug builds force the EEA consent form.
