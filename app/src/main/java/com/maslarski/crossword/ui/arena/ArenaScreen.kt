@@ -38,6 +38,7 @@ import androidx.compose.material.icons.automirrored.rounded.ArrowForward
 import androidx.compose.material.icons.rounded.ArrowDownward
 import androidx.compose.material.icons.rounded.Lightbulb
 import androidx.compose.material.icons.rounded.Shuffle
+import androidx.compose.material.icons.rounded.Toll
 import androidx.compose.material3.Badge
 import androidx.compose.material3.BadgedBox
 import androidx.compose.material3.Button
@@ -97,8 +98,11 @@ import com.maslarski.crossword.domain.arena.ArenaWord
 import com.maslarski.crossword.domain.arena.PlacementError
 import com.maslarski.crossword.domain.arena.Side
 import com.maslarski.crossword.domain.model.Difficulty
+import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.ui.components.CoinChip
+import com.maslarski.crossword.ui.components.CoinPrompt
+import com.maslarski.crossword.ui.components.CoinPromptDialog
 import com.maslarski.crossword.ui.components.Confetti
 import com.maslarski.crossword.ui.theme.LocalArenaColors
 import kotlinx.coroutines.launch
@@ -118,8 +122,14 @@ fun ArenaScreen(
     val resources = LocalResources.current
     val scope = rememberCoroutineScope()
 
+    var coinPrompt by remember { mutableStateOf<CoinPrompt?>(null) }
+
     LaunchedEffect(viewModel) {
         viewModel.messages.collect { message ->
+            if (message is ArenaMessage.NotEnoughCoins) {
+                coinPrompt = CoinPrompt.NotEnoughCoins(message.cost)
+                return@collect
+            }
             val text = when (message) {
                 is ArenaMessage.Invalid -> resources.getString(
                     when (message.error) {
@@ -134,7 +144,7 @@ fun ArenaScreen(
                 ArenaMessage.OpponentMissed -> resources.getString(R.string.arena_message_opponent_missed)
                 ArenaMessage.OpponentPassed -> resources.getString(R.string.arena_message_opponent_passed)
                 ArenaMessage.NoHintMoves -> resources.getString(R.string.arena_message_no_hint)
-                ArenaMessage.NoHintsLeft -> resources.getString(R.string.arena_message_no_hints_left)
+                is ArenaMessage.NotEnoughCoins -> return@collect
             }
             snackbar.currentSnackbarData?.dismiss()
             scope.launch { snackbar.showSnackbar(text) }
@@ -189,6 +199,10 @@ fun ArenaScreen(
             }
         }
     }
+
+    coinPrompt?.let { prompt ->
+        CoinPromptDialog(prompt, state.coins, onUnlock = {}, onDismiss = { coinPrompt = null })
+    }
 }
 
 @Composable
@@ -236,7 +250,7 @@ private fun ArenaBoard(state: ArenaUiState, viewModel: ArenaViewModel) {
         )
         ArenaControls(
             hasPending = state.pending.isNotEmpty(),
-            hintsLeft = match.hintsLeft,
+            hintCost = if (state.paidHints) GameRules.HINT_COST else null,
             enabled = state.playerTurn,
             onShuffle = viewModel::onShuffle,
             onSubmit = viewModel::onSubmit,
@@ -470,7 +484,8 @@ private fun LetterTile(letter: Char, size: Dp, modifier: Modifier = Modifier, hi
 @Composable
 private fun ArenaControls(
     hasPending: Boolean,
-    hintsLeft: Int,
+    /** Coins a hint costs, or null when hints are free. */
+    hintCost: Int?,
     enabled: Boolean,
     onShuffle: () -> Unit,
     onSubmit: () -> Unit,
@@ -496,9 +511,21 @@ private fun ArenaControls(
                 }
             }
         }
-        BadgedBox(badge = { Badge { Text(hintsLeft.toString()) } }) {
-            FilledTonalIconButton(onClick = onHint, enabled = enabled && hintsLeft > 0, modifier = Modifier.size(52.dp)) {
-                Icon(Icons.Rounded.Lightbulb, stringResource(R.string.arena_hint, hintsLeft))
+        BadgedBox(
+            badge = {
+                if (hintCost != null) {
+                    Badge(containerColor = MaterialTheme.colorScheme.tertiary, contentColor = MaterialTheme.colorScheme.onTertiary) {
+                        Icon(Icons.Rounded.Toll, contentDescription = null, modifier = Modifier.size(12.dp))
+                        Text(hintCost.toString())
+                    }
+                }
+            },
+        ) {
+            FilledTonalIconButton(onClick = onHint, enabled = enabled, modifier = Modifier.size(52.dp)) {
+                Icon(
+                    Icons.Rounded.Lightbulb,
+                    if (hintCost != null) stringResource(R.string.arena_hint, hintCost) else stringResource(R.string.arena_hint_free),
+                )
             }
         }
     }

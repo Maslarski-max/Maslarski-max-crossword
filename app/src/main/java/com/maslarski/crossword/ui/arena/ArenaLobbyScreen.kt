@@ -49,7 +49,6 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.R
-import com.maslarski.crossword.domain.arena.ArenaOutcome
 import com.maslarski.crossword.domain.arena.ArenaRules
 import com.maslarski.crossword.domain.arena.ArenaStats
 import com.maslarski.crossword.domain.model.Difficulty
@@ -204,7 +203,7 @@ private fun OpponentCard(difficulty: Difficulty, unlocked: Boolean, enabled: Boo
                 Text(summary, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
                 if (unlocked) {
                     Text(
-                        stringResource(R.string.arena_win_reward, ArenaRules.rewardCoins(difficulty, ArenaOutcome.WON)),
+                        stringResource(R.string.arena_win_reward, ArenaRules.WIN_REWARD),
                         style = MaterialTheme.typography.labelMedium,
                         color = MaterialTheme.colorScheme.tertiary,
                     )

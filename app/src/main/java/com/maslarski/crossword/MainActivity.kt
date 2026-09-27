@@ -4,8 +4,12 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
+import androidx.compose.ui.Modifier
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
@@ -14,6 +18,8 @@ import com.maslarski.crossword.data.ads.ConsentManager
 import com.maslarski.crossword.data.telemetry.FirebaseTelemetry
 import com.maslarski.crossword.domain.model.Settings
 import com.maslarski.crossword.domain.repository.SettingsRepository
+import com.maslarski.crossword.domain.repository.WalletRepository
+import com.maslarski.crossword.ui.components.CoinChangeToast
 import com.maslarski.crossword.ui.components.LocalConsentManager
 import com.maslarski.crossword.ui.navigation.CrosswordNavHost
 import com.maslarski.crossword.ui.theme.CrosswordTheme
@@ -28,6 +34,7 @@ class MainActivity : ComponentActivity() {
     @Inject lateinit var adsManager: AdsManager
     @Inject lateinit var settingsRepository: SettingsRepository
     @Inject lateinit var telemetry: FirebaseTelemetry
+    @Inject lateinit var walletRepository: WalletRepository
 
     override fun onCreate(savedInstanceState: Bundle?) {
         installSplashScreen()
@@ -49,7 +56,10 @@ class MainActivity : ComponentActivity() {
                 CompositionLocalProvider(
                     LocalConsentManager provides consentManager,
                 ) {
-                    CrosswordNavHost()
+                    Box(Modifier.fillMaxSize()) {
+                        CrosswordNavHost()
+                        CoinChangeToast(remember { walletRepository.observeCoins() })
+                    }
                 }
             }
         }

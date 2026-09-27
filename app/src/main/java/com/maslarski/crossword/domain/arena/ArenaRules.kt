@@ -17,7 +17,8 @@ enum class PlacementError { NOT_YOUR_TURN, NO_TILES, BAD_TILE, CELL_TAKEN, NOT_O
  */
 object ArenaRules {
     const val RACK_SIZE = 5
-    const val HINTS_PER_MATCH = 3
+    const val WIN_REWARD = 20
+    const val DRAW_REWARD = 10
     const val SCORELESS_TURN_LIMIT = 4
 
     private const val GIVEN_RATIO = 0.3
@@ -162,15 +163,9 @@ object ArenaRules {
         .maxWithOrNull(compareBy({ it.first.size }, { potential(it.second, state, it.first) }))
         ?.first?.keys.orEmpty()
 
-    fun useHint(state: ArenaState): ArenaState = state.copy(hintsLeft = (state.hintsLeft - 1).coerceAtLeast(0))
-
-    fun rewardCoins(difficulty: Difficulty, outcome: ArenaOutcome): Int = when (outcome) {
-        ArenaOutcome.WON -> when (difficulty) {
-            Difficulty.EASY -> 20
-            Difficulty.MEDIUM -> 35
-            Difficulty.HARD -> 50
-        }
-        ArenaOutcome.DRAW -> 10
+    fun rewardCoins(outcome: ArenaOutcome): Int = when (outcome) {
+        ArenaOutcome.WON -> WIN_REWARD
+        ArenaOutcome.DRAW -> DRAW_REWARD
         ArenaOutcome.LOST, ArenaOutcome.FORFEIT -> 0
     }
 }

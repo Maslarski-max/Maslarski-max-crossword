@@ -49,7 +49,6 @@ data class ArenaState(
     val turn: Side = Side.PLAYER,
     val turnNumber: Int = 0,
     val scorelessTurns: Int = 0,
-    val hintsLeft: Int = ArenaRules.HINTS_PER_MATCH,
     val lastMove: ArenaMove? = null,
     val finished: Boolean = false,
 ) {

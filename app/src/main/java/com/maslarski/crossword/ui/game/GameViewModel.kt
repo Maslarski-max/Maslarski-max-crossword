@@ -7,12 +7,14 @@ import androidx.navigation.toRoute
 import com.maslarski.crossword.data.telemetry.Telemetry
 import com.maslarski.crossword.di.ApplicationScope
 import com.maslarski.crossword.domain.engine.CrosswordEngine
+import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.engine.Hint
 import com.maslarski.crossword.domain.model.BoardState
 import com.maslarski.crossword.domain.model.CompletionResult
 import com.maslarski.crossword.domain.model.GameSession
 import com.maslarski.crossword.domain.model.Puzzle
 import com.maslarski.crossword.domain.model.Settings
+import com.maslarski.crossword.domain.model.UnlockResult
 import com.maslarski.crossword.domain.model.Word
 import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
@@ -29,6 +31,7 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
+import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.receiveAsFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.isActive
@@ -67,6 +70,8 @@ sealed interface GameMessage {
     data object NoErrors : GameMessage
     data object NothingToReveal : GameMessage
     data object NothingToCheck : GameMessage
+    data class OfferUnlock(val puzzleId: String, val title: String, val cost: Int) : GameMessage
+    data class OpenLevel(val puzzleId: String) : GameMessage
 }
 
 @HiltViewModel
@@ -214,6 +219,29 @@ class GameViewModel @Inject constructor(
         if (hint == Hint.REVEAL_WORD) CrosswordEngine.revealWord(puzzle, board) else CrosswordEngine.revealLetter(puzzle, board)
 
     fun dismissCompletion() = _state.update { it.copy(showCompletion = false) }
+
+    /** Opens the next level, or offers to buy it first if it is still locked. */
+    fun onPlayNext(puzzleId: String) {
+        viewModelScope.launch {
+            val unlocked = progress.observeLevels().first().any { it.puzzleId == puzzleId && it.unlocked }
+            if (unlocked) {
+                _messages.send(GameMessage.OpenLevel(puzzleId))
+                return@launch
+            }
+            val title = puzzles.puzzle(puzzleId)?.title ?: return@launch
+            _messages.send(GameMessage.OfferUnlock(puzzleId, title, GameRules.LEVEL_UNLOCK_COST))
+        }
+    }
+
+    fun unlockLevel(puzzleId: String) {
+        viewModelScope.launch {
+            when (progress.unlockLevel(puzzles.levels(), puzzleId)) {
+                UnlockResult.UNLOCKED, UnlockResult.ALREADY_UNLOCKED -> _messages.send(GameMessage.OpenLevel(puzzleId))
+                UnlockResult.NOT_ENOUGH_COINS -> _messages.send(GameMessage.NotEnoughCoins(GameRules.LEVEL_UNLOCK_COST))
+                UnlockResult.NOT_NEXT -> Unit
+            }
+        }
+    }
 
     /** Clears the board to replay a puzzle. Level completion and high scores are kept. */
     fun restart() {
