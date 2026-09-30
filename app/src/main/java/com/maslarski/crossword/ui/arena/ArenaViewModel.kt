@@ -249,7 +249,7 @@ class ArenaViewModel @Inject constructor(
                     return@launch
                 }
                 val now = _state.value
-                val current = now.match?.takeUnless { cleared || !now.playerTurn }
+                val current = now.match?.takeUnless { cleared || !now.playerTurn || it.turnNumber != match.turnNumber }
                 val cells = current?.let { ArenaRules.hintCells(layout, it) }.orEmpty()
                 if (current == null || cells.isEmpty()) {
                     if (charged) wallet.refund(GameRules.HINT_COST)

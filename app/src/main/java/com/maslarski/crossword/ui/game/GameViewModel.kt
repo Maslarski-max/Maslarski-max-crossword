@@ -9,6 +9,7 @@ import com.maslarski.crossword.di.ApplicationScope
 import com.maslarski.crossword.domain.engine.CrosswordEngine
 import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.engine.Hint
+import com.maslarski.crossword.domain.engine.LevelUnlocks
 import com.maslarski.crossword.domain.model.BoardState
 import com.maslarski.crossword.domain.model.CompletionResult
 import com.maslarski.crossword.domain.model.GameSession
@@ -219,16 +220,20 @@ class GameViewModel @Inject constructor(
 
     fun dismissCompletion() = _state.update { it.copy(showCompletion = false) }
 
-    /** Opens the next level, or offers to buy it first if it is still locked. */
+    /**
+     * Opens the next level, or offers to buy it first if it is still locked. Levels unlock in
+     * order, so the offer is for the first locked level, which may come before [puzzleId].
+     */
     fun onPlayNext(puzzleId: String) {
         viewModelScope.launch {
-            val unlocked = progress.observeLevels().first().any { it.puzzleId == puzzleId && it.unlocked }
-            if (unlocked) {
+            val unlocked = progress.observeLevels().first().filter { it.unlocked }.mapTo(HashSet()) { it.puzzleId }
+            if (puzzleId in unlocked) {
                 _messages.send(GameMessage.OpenLevel(puzzleId))
                 return@launch
             }
-            val title = puzzles.puzzle(puzzleId)?.title ?: return@launch
-            _messages.send(GameMessage.OfferUnlock(puzzleId, title, GameRules.LEVEL_UNLOCK_COST))
+            val target = LevelUnlocks.nextUnlockable(puzzles.levels().map { it.id }, unlocked) ?: return@launch
+            val title = puzzles.puzzle(target)?.title ?: return@launch
+            _messages.send(GameMessage.OfferUnlock(target, title, GameRules.LEVEL_UNLOCK_COST))
         }
     }
 
@@ -237,7 +242,7 @@ class GameViewModel @Inject constructor(
             when (progress.unlockLevel(puzzles.levels(), puzzleId)) {
                 UnlockResult.UNLOCKED, UnlockResult.ALREADY_UNLOCKED -> _messages.send(GameMessage.OpenLevel(puzzleId))
                 UnlockResult.NOT_ENOUGH_COINS -> _messages.send(GameMessage.NotEnoughCoins(GameRules.LEVEL_UNLOCK_COST))
-                UnlockResult.NOT_NEXT -> Unit
+                UnlockResult.NOT_NEXT -> onPlayNext(puzzleId)
             }
         }
     }
