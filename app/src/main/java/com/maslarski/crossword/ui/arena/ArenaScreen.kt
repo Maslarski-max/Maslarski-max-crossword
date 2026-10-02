@@ -173,7 +173,7 @@ fun ArenaScreen(
                 navigationIcon = {
                     IconButton(onClick = onBack) { Icon(Icons.AutoMirrored.Rounded.ArrowBack, stringResource(R.string.back)) }
                 },
-                actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp)) },
+                actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp), onClick = onShop) },
             )
         },
     ) { padding ->

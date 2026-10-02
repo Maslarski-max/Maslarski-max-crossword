@@ -172,7 +172,7 @@ fun GameScreen(
                             modifier = Modifier.padding(horizontal = 8.dp),
                         )
                     }
-                    CoinChip(state.coins, Modifier.padding(horizontal = 4.dp))
+                    CoinChip(state.coins, Modifier.padding(horizontal = 4.dp), onClick = onShop)
                     IconButton(onClick = { onOpenClues(viewModel.session.id, viewModel.session.puzzleId) }) {
                         Icon(Icons.AutoMirrored.Rounded.ListAlt, stringResource(R.string.clues_title))
                     }
