@@ -54,7 +54,6 @@ import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.ui.components.ZoomableGridState
 import com.maslarski.crossword.ui.theme.ArenaColors
 import com.maslarski.crossword.ui.theme.LocalArenaColors
-import kotlinx.coroutines.launch
 import kotlin.math.max
 
 private val READABLE_CELL = 56.dp
@@ -112,7 +111,7 @@ fun ArenaGrid(
             .pointerInput(state) {
                 detectTapGestures(
                     onTap = { pos -> state.cellAtLocal(pos)?.let(currentOnTap) },
-                    onDoubleTap = { pos -> scope.launch { state.toggleZoom(pos) } },
+                    onDoubleTap = { pos -> state.toggleZoom(scope, pos) },
                 )
             },
     ) {

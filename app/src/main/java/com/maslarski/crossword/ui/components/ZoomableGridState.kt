@@ -10,6 +10,9 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.launch
 import kotlin.math.floor
 import kotlin.math.max
 
@@ -38,6 +41,8 @@ class ZoomableGridState {
         private set
     internal var originInRoot = Offset.Zero
 
+    private var animation: Job? = null
+
     val gridPx: Size get() = Size(cellPx * cols, cellPx * rows)
 
     /** Lets the player zoom until a cell is at least twice its readable size, and never less than [MIN_MAX_ZOOM]. */
@@ -62,9 +67,10 @@ class ZoomableGridState {
 
     fun cellAtRoot(position: Offset): Int? = cellAtLocal(position - originInRoot)
 
-    /** Row-major index of the cell under [local] (viewport coordinates), or null outside the grid. */
+    /** Row-major index of the cell under [local] (viewport coordinates), or null outside the viewport or grid. */
     fun cellAtLocal(local: Offset): Int? {
         if (cellPx <= 0f) return null
+        if (local.x !in 0f..viewport.width || local.y !in 0f..viewport.height) return null
         val p = toGrid(local)
         val col = floor(p.x / cellPx).toInt()
         val row = floor(p.y / cellPx).toInt()
@@ -73,15 +79,22 @@ class ZoomableGridState {
 
     /** Pinch around [centroid] by [gestureZoom] and drag by [pan], keeping the content under the fingers fixed. */
     fun onTransform(centroid: Offset, pan: Offset, gestureZoom: Float) {
+        cancelAnimation()
         val newZoom = (zoom * gestureZoom).coerceIn(1f, maxZoom)
         val anchor = centroid - center() - offset
         offset = clamp(centroid + pan - center() - anchor * (newZoom / zoom), newZoom)
         zoom = newZoom
     }
 
-    /** Double-tap: zoom in on [local] when showing the whole board, otherwise back to the whole board. */
-    suspend fun toggleZoom(local: Offset, spec: AnimationSpec<Float> = spring()) {
-        if (isZoomed) animateTo(1f, Offset.Zero, spec) else animateTo(focusZoom, focusOffset(local, focusZoom), spec)
+    /**
+     * Double-tap: animates in on [local] when showing the whole board, otherwise back to the whole board.
+     * A pinch, pan or new double-tap cancels the running animation.
+     */
+    fun toggleZoom(scope: CoroutineScope, local: Offset, spec: AnimationSpec<Float> = spring()) {
+        cancelAnimation()
+        val (targetZoom, targetOffset) =
+            if (isZoomed) 1f to Offset.Zero else focusZoom to focusOffset(local, focusZoom)
+        animation = scope.launch { animateTo(targetZoom, targetOffset, spec) }
     }
 
     /** Offset that keeps the grid point under [local] in place after zooming to [targetZoom]. */
@@ -108,10 +121,14 @@ class ZoomableGridState {
             cy < -marginY -> -marginY - cy
             else -> 0f
         }
-        if (dx != 0f || dy != 0f) offset = clamp(offset + Offset(dx, dy), zoom)
+        if (dx != 0f || dy != 0f) {
+            cancelAnimation()
+            offset = clamp(offset + Offset(dx, dy), zoom)
+        }
     }
 
     fun reset() {
+        cancelAnimation()
         zoom = 1f
         offset = Offset.Zero
     }
@@ -123,6 +140,11 @@ class ZoomableGridState {
             zoom = startZoom + (targetZoom - startZoom) * t
             offset = clamp(startOffset + (targetOffset - startOffset) * t, zoom)
         }
+    }
+
+    private fun cancelAnimation() {
+        animation?.cancel()
+        animation = null
     }
 
     private fun toGrid(local: Offset): Offset =

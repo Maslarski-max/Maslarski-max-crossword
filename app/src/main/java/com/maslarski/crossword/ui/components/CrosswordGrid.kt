@@ -13,7 +13,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.Immutable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.SideEffect
-import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
@@ -45,7 +44,6 @@ import com.maslarski.crossword.domain.model.Puzzle
 import com.maslarski.crossword.domain.model.Word
 import com.maslarski.crossword.ui.theme.LocalGridColors
 import kotlin.math.abs
-import kotlinx.coroutines.launch
 import kotlin.math.max
 
 /** Marks the most recent keystroke so the grid can play a "pop" animation on that cell. */
@@ -101,7 +99,7 @@ fun CrosswordGrid(
                     onTap = { pos ->
                         state.cellAtLocal(pos)?.let { index -> if (!puzzle.isBlock(index)) currentOnTap(index) }
                     },
-                    onDoubleTap = { pos -> scope.launch { state.toggleZoom(pos) } },
+                    onDoubleTap = { pos -> state.toggleZoom(scope, pos) },
                 )
             },
         contentAlignment = Alignment.Center,
@@ -114,9 +112,8 @@ fun CrosswordGrid(
         val readablePx = with(density) { READABLE_CELL.toPx() }
         SideEffect { state.update(viewport, cellPx, puzzle.rows, puzzle.cols, readablePx) }
 
-        // Keep the selected cell on screen when zoomed in.
-        val zoomed by remember(state) { derivedStateOf { state.isZoomed } }
-        LaunchedEffect(board.selected, zoomed) {
+        // Keep a newly selected cell on screen when zoomed in.
+        LaunchedEffect(board.selected) {
             state.bringIntoView(puzzle.rowOf(board.selected), puzzle.colOf(board.selected))
         }
 
