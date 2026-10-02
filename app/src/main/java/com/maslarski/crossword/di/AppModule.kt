@@ -9,7 +9,9 @@ import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
 import com.maslarski.crossword.data.ads.AdsManager
 import com.maslarski.crossword.data.ads.ConsentManager
+import com.maslarski.crossword.BuildConfig
 import com.maslarski.crossword.data.billing.PlayStoreRepository
+import com.maslarski.crossword.data.billing.PurchaseSignatureVerifier
 import com.maslarski.crossword.data.integrity.PlayIntegrityChecker
 import com.maslarski.crossword.data.local.CrosswordDatabase
 import com.maslarski.crossword.data.repository.AssetPuzzleRepository
@@ -107,7 +109,7 @@ object AppModule {
         @ApplicationContext context: Context,
         entitlements: EntitlementRepository,
         @ApplicationScope scope: CoroutineScope,
-    ): StoreRepository = PlayStoreRepository(context, entitlements, scope)
+    ): StoreRepository = PlayStoreRepository(context, entitlements, scope, PurchaseSignatureVerifier(BuildConfig.PLAY_LICENSE_KEY))
 
     @Provides @Singleton
     fun provideSettingsRepository(@ApplicationContext context: Context): SettingsRepository =

@@ -48,6 +48,7 @@ class PlayStoreRepository(
     context: Context,
     entitlements: EntitlementRepository,
     private val scope: CoroutineScope,
+    private val verifier: PurchaseSignatureVerifier,
 ) : StoreRepository, PurchasesUpdatedListener, PurchaseGateway {
 
     private val _status = MutableStateFlow(StoreStatus.CONNECTING)
@@ -72,6 +73,7 @@ class PlayStoreRepository(
     private val connecting = AtomicBoolean(false)
 
     init {
+        if (!verifier.configured) Log.w(TAG, "No Play licence key configured; purchases will not be delivered")
         connect()
     }
 
@@ -153,7 +155,7 @@ class PlayStoreRepository(
                 QueryPurchasesParams.newBuilder().setProductType(BillingClient.ProductType.INAPP).build(),
             )
             if (result.billingResult.responseCode == BillingResponseCode.OK) {
-                processor.sync(result.purchasesList.map(::owned))
+                processor.sync(result.purchasesList.filter(::verified).map(::owned))
             }
         }
     }
@@ -161,6 +163,10 @@ class PlayStoreRepository(
     override fun onPurchasesUpdated(result: BillingResult, purchases: List<Purchase>?) {
         when (result.responseCode) {
             BillingResponseCode.OK -> purchases.orEmpty().forEach { purchase ->
+                if (!verified(purchase)) {
+                    _events.trySend(ShopEvent.Failed)
+                    return@forEach
+                }
                 scope.launch {
                     val owned = owned(purchase)
                     if (owned.state == PurchaseState.PENDING) {
@@ -189,6 +195,11 @@ class PlayStoreRepository(
     override suspend fun acknowledge(token: String): Boolean =
         client.acknowledgePurchase(AcknowledgePurchaseParams.newBuilder().setPurchaseToken(token).build())
             .responseCode == BillingResponseCode.OK
+
+    private fun verified(purchase: Purchase): Boolean =
+        verifier.verify(purchase.originalJson, purchase.signature).also {
+            if (!it) Log.w(TAG, "Rejected purchase with an invalid signature: ${purchase.products}")
+        }
 
     private fun owned(purchase: Purchase) = OwnedPurchase(
         token = purchase.purchaseToken,

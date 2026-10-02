@@ -66,9 +66,9 @@ fun ShopScreen(onBack: () -> Unit, viewModel: ShopViewModel = hiltViewModel()) {
                 is ShopEvent.Pending -> resources.getString(R.string.shop_pending)
                 ShopEvent.AlreadyOwned -> resources.getString(R.string.shop_already_owned)
                 ShopEvent.Failed -> resources.getString(R.string.shop_failed)
-                ShopEvent.Cancelled -> null
+                ShopEvent.Cancelled -> resources.getString(R.string.shop_cancelled)
             }
-            message?.let { snackbar.showSnackbar(it) }
+            snackbar.showSnackbar(message)
         }
     }
 

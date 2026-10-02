@@ -270,9 +270,9 @@
     <string name="shop_subtitle">Top up your coins or unlock everything for good. No ads, ever.</string>
     <string name="shop_get_coins">Get coins</string>
     <string name="shop_coins_title">1,000 Coins Pack</string>
-    <string name="shop_coins_summary">Instantly adds 1,000 coins to your wallet for hints and level unlocks. $0.99.</string>
+    <string name="shop_coins_summary">Instantly adds 1,000 coins to your wallet for hints and level unlocks.</string>
     <string name="shop_unlimited_title">Unlimited Mode</string>
-    <string name="shop_unlimited_summary">One-time purchase: every Classic level unlocked and all hints free in Classic and Arena, forever. $4.99.</string>
+    <string name="shop_unlimited_summary">One-time purchase: every Classic level unlocked and all hints free in Classic and Arena, forever.</string>
     <string name="shop_buy">Buy for %1$s</string>
     <string name="shop_owned">Owned. Enjoy Unlimited Mode!</string>
     <string name="shop_restore">Restore purchases</string>
@@ -282,5 +282,6 @@
     <string name="shop_delivered_unlimited">Unlimited Mode unlocked</string>
     <string name="shop_pending">Purchase pending. It will be delivered once payment completes.</string>
     <string name="shop_already_owned">You already own this. Restoring it now.</string>
+    <string name="shop_cancelled">Purchase cancelled. You weren\'t charged.</string>
     <string name="shop_failed">The purchase couldn\'t be completed. Please try again.</string>
 </resources>

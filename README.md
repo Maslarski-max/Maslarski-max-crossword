@@ -148,6 +148,7 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 | `playIntegrityCloudProjectNumber` | `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER` | `0` (disabled) |
 | `versionCode` / `versionName` | `VERSION_CODE` / `VERSION_NAME` | `1` / `1.0.0` |
 | `umpTestDeviceId` (debug only) | `UMP_TEST_DEVICE_ID` | empty |
+| `playLicenseKey` | `PLAY_LICENSE_KEY` | empty (no purchase is delivered) |
 
 ### AdMob and consent (UMP)
 
@@ -191,6 +192,11 @@ The ids and tiers are defined in `ShopProduct`; the shop shows the localized pri
 the US price in Play Console differs. Owned purchases are re-read from Play on every app resume, so Unlimited Mode is
 restored on reinstall and removed if refunded. Products only load for builds installed from a Play testing track by
 a licensed tester; elsewhere the shop says Google Play purchases aren't available.
+
+Every purchase is checked against the app's Play licence key before anything is granted (`PurchaseSignatureVerifier`).
+Copy the Base64 RSA public key from **Play Console > Monetize > Monetization setup > Licensing** into `playLicenseKey`
+(it is a public key, so `gradle.properties` is fine). Without it no purchase is delivered. For stronger protection
+against modified clients, also verify tokens on a server with the Play Developer API (`purchases.products.get`).
 
 ### Security notes
 
