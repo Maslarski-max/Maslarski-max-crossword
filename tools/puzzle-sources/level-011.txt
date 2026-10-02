@@ -1,0 +1,18 @@
+id: level-011
+title: Weather Report
+difficulty: EASY
+order: 11
+type: level
+size: 11
+seed: 11
+---
+RAIN | Water falling from clouds
+SNOW | White flakes in winter
+WIND | Moving air
+CLOUD | Fluffy white shape in the sky
+STORM | Bad weather with thunder
+SUNNY | Bright and clear, weather-wise
+FOG | Thick low cloud that makes driving hard
+HAIL | Small balls of ice from the sky
+FROST | Icy coating on a cold morning
+RAINBOW | Arc of colours after a shower

@@ -1,0 +1,35 @@
+{
+  "id": "level-023",
+  "title": "Sports Day",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#J#######",
+    "#U#WINNER",
+    "#M#H####E",
+    "SPRINT##L",
+    "###S####A",
+    "#C#TEAM#Y",
+    "GOAL##E##",
+    "#A#E##D##",
+    "#C###RACE",
+    "#H####L##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Person who comes first",
+      "4": "Short fast run",
+      "6": "Players on the same side",
+      "8": "Score in football",
+      "9": "Contest of speed"
+    },
+    "down": {
+      "1": "Leap into the air",
+      "2": "Referee blows it",
+      "3": "Race where runners pass a baton",
+      "5": "Person who trains athletes",
+      "7": "Award for first place"
+    }
+  },
+  "order": 23
+}

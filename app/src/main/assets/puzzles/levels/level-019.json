@@ -1,0 +1,36 @@
+{
+  "id": "level-019",
+  "title": "Garden Path",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "G#WORM",
+    "R###O#",
+    "A#H#S#",
+    "SHOVEL",
+    "S#S###",
+    "#SEED#",
+    "####A#",
+    "#TULIP",
+    "#R##S#",
+    "#E##Y#",
+    "BEE###"
+  ],
+  "clues": {
+    "across": {
+      "2": "It wriggles in the soil",
+      "5": "Tool for digging",
+      "6": "Plants grow from it",
+      "8": "Spring flower grown from a bulb",
+      "9": "Insect that visits flowers"
+    },
+    "down": {
+      "1": "Green lawn plant",
+      "3": "Thorny flower often given on Valentine's Day",
+      "4": "Tube for watering plants",
+      "7": "White flower with a yellow centre",
+      "8": "Tall plant with a trunk"
+    }
+  },
+  "order": 19
+}

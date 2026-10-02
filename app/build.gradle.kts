@@ -184,6 +184,7 @@ dependencies {
     implementation(libs.play.services.ads)
     implementation(libs.ump)
     implementation(libs.play.integrity)
+    implementation(libs.play.billing)
 
     testImplementation(libs.junit)
     testImplementation(libs.kotlinx.coroutines.test)

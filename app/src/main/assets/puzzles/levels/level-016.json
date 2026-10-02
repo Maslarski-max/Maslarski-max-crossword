@@ -1,0 +1,35 @@
+{
+  "id": "level-016",
+  "title": "At School",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##D#######",
+    "#TEACHER#R",
+    "##S####E#U",
+    "##K#PENCIL",
+    "#####X#E#E",
+    "###CLASS#R",
+    "###H#M#S##",
+    "###A######",
+    "###LESSON#",
+    "BOOK######"
+  ],
+  "clues": {
+    "across": {
+      "2": "Person who runs a classroom",
+      "5": "Writing tool with an eraser",
+      "7": "Group of pupils taught together",
+      "8": "A period of teaching",
+      "9": "You read it"
+    },
+    "down": {
+      "1": "Pupil's table",
+      "3": "Break time in the playground",
+      "4": "Tool for measuring straight lines",
+      "6": "Test at the end of a term",
+      "7": "Writing stick for a blackboard"
+    }
+  },
+  "order": 16
+}

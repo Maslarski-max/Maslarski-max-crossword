@@ -1,0 +1,44 @@
+{
+  "id": "level-101",
+  "title": "Mathematics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######C####A#",
+    "######PARABOLA",
+    "#######L####G#",
+    "###L#G#C####E#",
+    "HYPOTENUSE##B#",
+    "###G#O#L#Q##R#",
+    "###A#M#U#U##A#",
+    "#T#R#E#S#A###F",
+    "#H#I#T###T#I#R",
+    "VECTOR#M#I#N#A",
+    "#O#H#Y#A#O#T#C",
+    "PRIME##TANGENT",
+    "#E#####R###G#I",
+    "#M#####I###E#O",
+    "#######X###R#N"
+  ],
+  "clues": {
+    "across": {
+      "3": "U-shaped curve",
+      "6": "Longest side of a right triangle",
+      "11": "Quantity with direction",
+      "13": "Number divisible only by one and itself",
+      "14": "Line touching a curve once"
+    },
+    "down": {
+      "1": "Maths of change",
+      "2": "Maths with letters for numbers",
+      "4": "Inverse of exponentiation",
+      "5": "Maths of shapes",
+      "7": "Statement that two things are equal",
+      "8": "Proven statement",
+      "9": "Part of a whole",
+      "10": "Whole number",
+      "12": "Rectangular array of numbers"
+    }
+  },
+  "order": 101
+}

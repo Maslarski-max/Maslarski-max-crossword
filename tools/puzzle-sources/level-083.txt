@@ -1,0 +1,22 @@
+id: level-083
+title: Economics
+difficulty: HARD
+order: 83
+type: level
+size: 15
+seed: 83
+---
+INFLATION | Rising prices over time
+RECESSION | Economic decline
+TARIFF | Tax on imports
+MONOPOLY | Market with one seller
+DIVIDEND | Share of profits paid to shareholders
+EQUITY | Ownership value in an asset
+LIQUIDITY | Ease of turning assets into cash
+SUBSIDY | Government financial aid
+AUSTERITY | Strict spending cuts
+CURRENCY | System of money in use
+DEFICIT | Shortfall of money
+SURPLUS | Excess of income
+COMMODITY | Raw material traded in bulk
+MARKET | Place where buyers and sellers meet

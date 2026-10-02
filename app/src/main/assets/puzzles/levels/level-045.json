@@ -1,0 +1,40 @@
+{
+  "id": "level-045",
+  "title": "Coffee House",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##S###M####",
+    "#CUP##O####",
+    "##G###C#L##",
+    "##A#E#H#A##",
+    "BARISTA#T##",
+    "E###P###T##",
+    "A##GRINDER#",
+    "N###E##E###",
+    "S###SAUCER#",
+    "####S##A#O#",
+    "####O##FOAM",
+    "#########S#",
+    "#########T#"
+  ],
+  "clues": {
+    "across": {
+      "3": "You drink from it",
+      "6": "Person who makes your coffee",
+      "7": "Machine that crushes beans",
+      "9": "Small plate under a cup",
+      "11": "Frothy top on a cappuccino"
+    },
+    "down": {
+      "1": "Sweet cube for tea",
+      "2": "Coffee with chocolate",
+      "4": "Coffee with lots of steamed milk",
+      "5": "Short, strong coffee",
+      "6": "Coffee is ground from them",
+      "8": "Coffee without the buzz",
+      "10": "Dark or light, for coffee beans"
+    }
+  },
+  "order": 45
+}

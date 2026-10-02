@@ -14,10 +14,12 @@ import androidx.room.RoomDatabase
         ArenaMatchEntity::class,
         AchievementEntity::class,
         LoginStreakEntity::class,
+        EntitlementEntity::class,
+        PurchaseCreditEntity::class,
     ],
-    version = 4,
+    version = 5,
     exportSchema = true,
-    autoMigrations = [AutoMigration(from = 1, to = 2), AutoMigration(from = 2, to = 3), AutoMigration(from = 3, to = 4)],
+    autoMigrations = [AutoMigration(from = 1, to = 2), AutoMigration(from = 2, to = 3), AutoMigration(from = 3, to = 4), AutoMigration(from = 4, to = 5)],
 )
 abstract class CrosswordDatabase : RoomDatabase() {
     abstract fun boardProgressDao(): BoardProgressDao
@@ -28,6 +30,7 @@ abstract class CrosswordDatabase : RoomDatabase() {
     abstract fun arenaMatchDao(): ArenaMatchDao
     abstract fun achievementDao(): AchievementDao
     abstract fun loginStreakDao(): LoginStreakDao
+    abstract fun entitlementDao(): EntitlementDao
 
     companion object {
         const val NAME = "crossword.db"

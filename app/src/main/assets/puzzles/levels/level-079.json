@@ -1,0 +1,43 @@
+{
+  "id": "level-079",
+  "title": "Architecture",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "####P########A#",
+    "#C##O########T#",
+    "BUTTRESS#####R#",
+    "#P##T##P#####I#",
+    "MOSAIC#I#####U#",
+    "#L##C##R#COLUMN",
+    "GARGOYLE###I###",
+    "###O#######N###",
+    "###T##F####T###",
+    "###H#BAROQUE###",
+    "###I##C####L###",
+    "#ARCHWAY#######",
+    "######D########",
+    "CORNICE########"
+  ],
+  "clues": {
+    "across": {
+      "4": "Support built against a wall",
+      "6": "Picture made of small tiles",
+      "7": "Upright pillar",
+      "9": "Carved spout on a cathedral",
+      "12": "Ornate seventeenth-century style",
+      "13": "Curved opening",
+      "14": "Moulding along the top of a wall"
+    },
+    "down": {
+      "1": "Columned porch",
+      "2": "Open central hall",
+      "3": "Small dome on a roof",
+      "5": "Tapering point of a steeple",
+      "8": "Beam over a door",
+      "10": "Style with pointed arches",
+      "11": "Front face of a building"
+    }
+  },
+  "order": 79
+}

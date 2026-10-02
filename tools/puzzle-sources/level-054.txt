@@ -1,0 +1,20 @@
+id: level-054
+title: Gemstones
+difficulty: MEDIUM
+order: 54
+type: level
+size: 13
+seed: 54
+---
+RUBY | Red gemstone
+EMERALD | Green gemstone
+SAPPHIRE | Blue gemstone
+DIAMOND | Hardest natural gem
+PEARL | Gem made by an oyster
+OPAL | Gem with shifting colours
+TOPAZ | Golden-yellow gem
+AMETHYST | Purple quartz
+JADE | Green stone prized in China
+AMBER | Fossilised tree resin
+GARNET | January's deep red birthstone
+ONYX | Banded black gem

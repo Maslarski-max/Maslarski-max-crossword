@@ -1,0 +1,22 @@
+id: level-100
+title: Journalism
+difficulty: HARD
+order: 100
+type: level
+size: 15
+seed: 100
+---
+HEADLINE | Title of a news story
+EDITOR | Person who checks and revises copy
+REPORTER | Person who gathers news
+COLUMN | Regular opinion piece
+DEADLINE | Time a story is due
+SCOOP | Exclusive story
+BYLINE | Writer's name on an article
+INTERVIEW | Question-and-answer meeting
+PRESS | The news media
+TABLOID | Popular newspaper format
+EDITORIAL | Article giving the paper's view
+SOURCE | Person who gives information
+BROADCAST | Transmit on radio or TV
+CORRESPONDENT | Reporter based abroad

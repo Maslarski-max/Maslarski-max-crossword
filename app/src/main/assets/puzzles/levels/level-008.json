@@ -1,0 +1,36 @@
+{
+  "id": "level-008",
+  "title": "Fruit Bowl",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "######B#C",
+    "####PEACH",
+    "##M#L#N#E",
+    "##E#U#A#R",
+    "##LEMON#R",
+    "##O###A#Y",
+    "MANGO####",
+    "#P#R#####",
+    "#PEAR####",
+    "#L#P#####",
+    "#E#E#####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Fuzzy-skinned summer fruit",
+      "5": "Sour yellow citrus fruit",
+      "6": "Tropical fruit with a large flat stone",
+      "9": "Fruit shaped like a light bulb"
+    },
+    "down": {
+      "1": "Curved yellow fruit monkeys love",
+      "2": "Small red fruit often found on top of a sundae",
+      "3": "Purple fruit that dries into a prune",
+      "4": "Large juicy fruit with many seeds",
+      "7": "Fruit that keeps the doctor away",
+      "8": "Small fruit grown in bunches on a vine"
+    }
+  },
+  "order": 8
+}

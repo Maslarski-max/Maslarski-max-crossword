@@ -1,0 +1,44 @@
+{
+  "id": "level-098",
+  "title": "Wine Cellar",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#R###CABERNET##",
+    "#I##########A##",
+    "#E########S#N##",
+    "#S###CHARDONNAY",
+    "#L#D#H####M#I##",
+    "VINEYARD##M#N##",
+    "#N#C#M####E####",
+    "#G#A#P####L####",
+    "###N#A####I##B#",
+    "VINTAGE##MERLOT",
+    "###E#N####R##U#",
+    "#BORDEAUX##C#Q#",
+    "###########O#U#",
+    "#########BARREL",
+    "###########K#T#"
+  ],
+  "clues": {
+    "across": {
+      "2": "Bold red grape",
+      "5": "Popular white grape",
+      "7": "Grape farm",
+      "9": "Year a wine was made",
+      "10": "Soft red grape",
+      "11": "French region of claret",
+      "13": "Oak cask for ageing"
+    },
+    "down": {
+      "1": "Aromatic German white grape",
+      "3": "Compound that makes red wine dry",
+      "4": "Wine waiter",
+      "5": "Sparkling wine from France",
+      "6": "Glass vessel for serving wine",
+      "8": "Aroma of a wine",
+      "12": "Bottle stopper"
+    }
+  },
+  "order": 98
+}

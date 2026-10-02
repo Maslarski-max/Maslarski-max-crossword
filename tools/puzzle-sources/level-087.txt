@@ -1,0 +1,22 @@
+id: level-087
+title: Ancient Rome
+difficulty: HARD
+order: 87
+type: level
+size: 15
+seed: 87
+---
+CAESAR | Dictator stabbed on the Ides of March
+SENATE | Roman governing body
+LEGION | Roman army unit
+GLADIATOR | Arena fighter
+COLOSSEUM | Great Roman amphitheatre
+FORUM | Roman public square
+AQUEDUCT | Bridge that carried water
+CENTURION | Commander of a hundred
+TOGA | Roman robe
+CONSUL | One of two chief magistrates
+NERO | Emperor said to fiddle while Rome burned
+AUGUSTUS | First Roman emperor
+POMPEII | City buried by Vesuvius
+CHARIOT | Two-wheeled racing cart

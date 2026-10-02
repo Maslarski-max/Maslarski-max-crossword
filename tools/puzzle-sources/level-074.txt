@@ -1,0 +1,20 @@
+id: level-074
+title: Puzzles and Riddles
+difficulty: MEDIUM
+order: 74
+type: level
+size: 13
+seed: 74
+---
+RIDDLE | Puzzling question
+SUDOKU | Number grid puzzle
+JIGSAW | Picture cut into pieces
+MAZE | Network of paths
+ANAGRAM | Word made by rearranging letters
+REBUS | Picture puzzle for words
+CIPHER | Secret code
+LOGIC | Reasoning skill
+CROSSWORD | Grid of clues and answers
+ENIGMA | Mystery
+QUIZ | Test of knowledge
+SOLUTION | Answer to a puzzle

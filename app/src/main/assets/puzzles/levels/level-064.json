@@ -1,0 +1,39 @@
+{
+  "id": "level-064",
+  "title": "Castles and Knights",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#######M###J#",
+    "#######O###O#",
+    "#####D#ARMOUR",
+    "##TURRET###S#",
+    "##H##A###S#T#",
+    "##R##W###Q###",
+    "##O##B###U###",
+    "BANNER#SHIELD",
+    "##E##I###R#A#",
+    "#####DUNGEON#",
+    "#####G#####C#",
+    "###KEEP####E#"
+  ],
+  "clues": {
+    "across": {
+      "4": "Knight's metal suit",
+      "5": "Small tower",
+      "7": "Flag carried into battle",
+      "8": "Knight's protective plate",
+      "10": "Prison beneath a castle",
+      "11": "Castle's strongest tower"
+    },
+    "down": {
+      "1": "Water ditch around a castle",
+      "2": "Contest on horseback",
+      "3": "Bridge that lifts up",
+      "5": "Royal seat",
+      "6": "Knight's young helper",
+      "9": "Long spear for jousting"
+    }
+  },
+  "order": 64
+}

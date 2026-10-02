@@ -1,0 +1,18 @@
+id: level-038
+title: Under the Sea Treasure
+difficulty: EASY
+order: 38
+type: level
+size: 11
+seed: 38
+---
+PIRATE | Sailor with a hook and an eye patch
+CHEST | Box of treasure
+GOLD | Shiny yellow metal
+MAP | X marks the spot on it
+PARROT | Bird on a pirate's shoulder
+SHIP | Pirate vessel
+ANCHOR | It holds a ship in place
+ISLAND | Land surrounded by water
+SWORD | Pirate's weapon
+FLAG | Skull and crossbones, for one

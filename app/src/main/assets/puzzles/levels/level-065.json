@@ -1,0 +1,40 @@
+{
+  "id": "level-065",
+  "title": "Film Night",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######SEQUEL",
+    "####T#C#####",
+    "##SCREEN##T#",
+    "####A#N###H#",
+    "###DIRECTOR#",
+    "####L##R##I#",
+    "P###E##E##L#",
+    "OSCAR##D##L#",
+    "P#O###TICKET",
+    "CAMERA#T##R#",
+    "O#E####S####",
+    "R#D#########",
+    "N#Y#########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Follow-up film",
+      "3": "Where the film is shown",
+      "5": "Person who calls Action",
+      "8": "Famous film award",
+      "10": "You show it to get in",
+      "11": "It films the scenes"
+    },
+    "down": {
+      "1": "Part of a film in one place",
+      "2": "Preview of a film",
+      "4": "Suspenseful film",
+      "6": "Names that roll at the end",
+      "7": "Snack at the movies",
+      "9": "Funny film"
+    }
+  },
+  "order": 65
+}

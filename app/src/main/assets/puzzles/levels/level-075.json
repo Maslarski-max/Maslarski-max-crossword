@@ -1,0 +1,44 @@
+{
+  "id": "level-075",
+  "title": "Philosophy",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#S############",
+    "ETHICS#S######",
+    "#O###K#O######",
+    "VIRTUE#C######",
+    "#C###PARADOX##",
+    "#####T#A#E####",
+    "####NIETZSCHE#",
+    "#####C#E#C####",
+    "#######S#AXIOM",
+    "#########R####",
+    "####K#PLATO###",
+    "DOGMA##O#E####",
+    "####N##G#S####",
+    "###UTOPIA#####",
+    "#######C######"
+  ],
+  "clues": {
+    "across": {
+      "2": "Study of right and wrong",
+      "5": "Moral excellence",
+      "6": "Self-contradictory truth",
+      "8": "Philosopher who declared God is dead",
+      "9": "Self-evident starting truth",
+      "11": "Student of Socrates who wrote The Republic",
+      "13": "Belief held beyond question",
+      "14": "Imagined perfect society"
+    },
+    "down": {
+      "1": "Follower of Zeno, unmoved by passion",
+      "3": "One who doubts accepted opinions",
+      "4": "Athenian who drank hemlock",
+      "7": "I think, therefore I am",
+      "10": "Author of Critique of Pure Reason",
+      "12": "Study of valid reasoning"
+    }
+  },
+  "order": 75
+}

@@ -1,0 +1,22 @@
+id: level-101
+title: Mathematics
+difficulty: HARD
+order: 101
+type: level
+size: 15
+seed: 101
+---
+ALGEBRA | Maths with letters for numbers
+CALCULUS | Maths of change
+GEOMETRY | Maths of shapes
+INTEGER | Whole number
+FRACTION | Part of a whole
+EQUATION | Statement that two things are equal
+VECTOR | Quantity with direction
+MATRIX | Rectangular array of numbers
+PRIME | Number divisible only by one and itself
+THEOREM | Proven statement
+TANGENT | Line touching a curve once
+PARABOLA | U-shaped curve
+LOGARITHM | Inverse of exponentiation
+HYPOTENUSE | Longest side of a right triangle

@@ -1,0 +1,44 @@
+{
+  "id": "level-093",
+  "title": "World Religions",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####S#MOSQUE#",
+    "#####Y#A#C####",
+    "##C##N#NIRVANA",
+    "#KARMA#T#I####",
+    "##T##G#R#P#P##",
+    "##H#MONASTERY#",
+    "##E##G###U#A##",
+    "##D##U###R#Y##",
+    "SHRINE###E#E##",
+    "A#A########R##",
+    "B#L#PILGRIM###",
+    "B###S#########",
+    "A###A#########",
+    "TEMPLE########",
+    "H###M#########"
+  ],
+  "clues": {
+    "across": {
+      "2": "Muslim place of worship",
+      "5": "State of perfect peace in Buddhism",
+      "6": "Effect of one's actions",
+      "8": "Home of monks",
+      "9": "Holy place",
+      "10": "Person on a holy journey",
+      "11": "House of worship"
+    },
+    "down": {
+      "1": "Jewish house of worship",
+      "2": "Repeated sacred phrase",
+      "3": "Sacred writing",
+      "4": "Principal church of a diocese",
+      "7": "Words to a deity",
+      "9": "Day of rest",
+      "10": "Sacred song"
+    }
+  },
+  "order": 93
+}

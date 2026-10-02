@@ -1,0 +1,18 @@
+id: level-040
+title: Fairy Tales
+difficulty: EASY
+order: 40
+type: level
+size: 11
+seed: 40
+---
+DRAGON | Fire-breathing beast
+CASTLE | Royal home with towers
+PRINCE | King's son
+QUEEN | King's wife
+WITCH | She rides a broomstick
+GIANT | Huge person at the top of a beanstalk
+FAIRY | Tiny magical being with wings
+WAND | Magic stick
+KNIGHT | Warrior in armour
+FROG | It turns into a prince with a kiss

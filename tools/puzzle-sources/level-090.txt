@@ -1,0 +1,22 @@
+id: level-090
+title: Engineering
+difficulty: HARD
+order: 90
+type: level
+size: 15
+seed: 90
+---
+TURBINE | Rotary engine driven by fluid
+GIRDER | Large steel beam
+PISTON | Part moving inside a cylinder
+GEARBOX | Housing of a vehicle's gears
+HYDRAULIC | Powered by liquid pressure
+CIRCUIT | Path for electric current
+VOLTAGE | Electrical pressure
+SUSPENSION | Springs and shocks under a car
+TORQUE | Twisting force
+CANTILEVER | Beam fixed at one end only
+ALLOY | Metal mixture
+WELDING | Joining metal with heat
+BLUEPRINT | Technical drawing
+PROTOTYPE | First working model

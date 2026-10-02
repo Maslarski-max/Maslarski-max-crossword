@@ -1,0 +1,34 @@
+{
+  "id": "level-033",
+  "title": "Family Tree",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#F#########",
+    "#A##AUNT###",
+    "#T###N#####",
+    "#H#M#COUSIN",
+    "#E#O#L##I#E",
+    "BROTHER#S#P",
+    "A##H####T#H",
+    "B##E##NIECE",
+    "Y##R####R#W"
+  ],
+  "clues": {
+    "across": {
+      "2": "Your parent's sister",
+      "5": "Your aunt's child",
+      "8": "Male sibling",
+      "9": "Your sibling's daughter"
+    },
+    "down": {
+      "1": "Dad",
+      "3": "Your parent's brother",
+      "4": "Mum",
+      "6": "Female sibling",
+      "7": "Your sibling's son",
+      "8": "Newest member of the family"
+    }
+  },
+  "order": 33
+}

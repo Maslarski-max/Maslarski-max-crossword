@@ -1,0 +1,35 @@
+{
+  "id": "level-013",
+  "title": "Pet Shop",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#D##H####M",
+    "COLLAR###O",
+    "#G##M##C#U",
+    "####S##A#S",
+    "##P#TURTLE",
+    "##A#E#A#E#",
+    "##R#R#B#A#",
+    "##R###B#S#",
+    "#GOLDFISH#",
+    "##T###T###"
+  ],
+  "clues": {
+    "across": {
+      "4": "Band worn around a pet's neck",
+      "7": "Pet that carries its home on its back",
+      "10": "Orange pet that lives in a bowl"
+    },
+    "down": {
+      "1": "Man's best friend",
+      "2": "Small pet that runs on a wheel",
+      "3": "Small rodent that loves cheese",
+      "5": "Pet that purrs",
+      "6": "Colourful bird that can talk",
+      "8": "Pet with long ears",
+      "9": "Strap for walking a dog"
+    }
+  },
+  "order": 13
+}

@@ -1,0 +1,20 @@
+id: level-056
+title: Space Exploration
+difficulty: MEDIUM
+order: 56
+type: level
+size: 13
+seed: 56
+---
+ASTRONAUT | Space traveller
+SATELLITE | It orbits Earth sending signals
+GALAXY | Huge system of stars
+NEBULA | Cloud of gas in space
+ROVER | Vehicle that explores Mars
+METEOR | Shooting star
+JUPITER | Largest planet
+SATURN | Planet with famous rings
+VENUS | Hottest planet
+TELESCOPE | It shows distant stars
+CRATER | Bowl-shaped dent on the Moon
+COSMOS | The universe

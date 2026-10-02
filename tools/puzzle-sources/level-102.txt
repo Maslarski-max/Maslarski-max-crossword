@@ -1,0 +1,22 @@
+id: level-102
+title: Arctic and Antarctic
+difficulty: HARD
+order: 102
+type: level
+size: 15
+seed: 102
+---
+TUNDRA | Treeless frozen plain
+PERMAFROST | Ground that stays frozen
+ICEBERG | Floating mass of ice
+WALRUS | Tusked Arctic mammal
+NARWHAL | Whale with a long tusk
+PUFFIN | Seabird with a colourful beak
+CARIBOU | North American reindeer
+AURORA | Northern or southern lights
+FLOE | Sheet of floating ice
+INUIT | People of the Arctic
+SLEDGE | Sled pulled by dogs
+KRILL | Tiny shrimp whales eat
+ORCA | Killer whale
+POLAR | Relating to the poles

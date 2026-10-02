@@ -1,0 +1,18 @@
+id: level-036
+title: Bathroom Shelf
+difficulty: EASY
+order: 36
+type: level
+size: 11
+seed: 36
+---
+SOAP | Bar for washing
+TOWEL | Dry yourself with it
+BRUSH | Tool for tidying hair
+COMB | Toothed tool for hair
+SHAMPOO | Hair wash
+MIRROR | You see yourself in it
+SPONGE | Squishy bath scrubber
+BATH | Tub for soaking
+SHOWER | Spray of water to wash under
+TAP | Turn it to get water

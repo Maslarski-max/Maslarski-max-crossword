@@ -1,0 +1,525 @@
+=== Philosophy | HARD
+PLATO | Student of Socrates who wrote The Republic
+SOCRATES | Athenian who drank hemlock
+ETHICS | Study of right and wrong
+LOGIC | Study of valid reasoning
+STOIC | Follower of Zeno, unmoved by passion
+DESCARTES | I think, therefore I am
+KANT | Author of Critique of Pure Reason
+NIETZSCHE | Philosopher who declared God is dead
+PARADOX | Self-contradictory truth
+VIRTUE | Moral excellence
+DOGMA | Belief held beyond question
+SKEPTIC | One who doubts accepted opinions
+UTOPIA | Imagined perfect society
+AXIOM | Self-evident starting truth
+
+=== Classical Composers | HARD
+BACH | Composer of the Brandenburg Concertos
+MOZART | Composer of The Magic Flute
+BEETHOVEN | Deaf composer of the Ninth Symphony
+CHOPIN | Polish master of piano nocturnes
+VIVALDI | Composer of The Four Seasons
+HANDEL | Composer of Messiah
+VERDI | Composer of Aida
+WAGNER | Composer of the Ring cycle
+HAYDN | Father of the symphony
+BRAHMS | Composer of a famous lullaby
+LISZT | Hungarian piano virtuoso
+DEBUSSY | Composer of Clair de Lune
+RAVEL | Composer of Bolero
+PUCCINI | Composer of La Boheme
+
+=== Anatomy | HARD
+FEMUR | Longest bone in the body
+TIBIA | Shinbone
+CORNEA | Clear front of the eye
+AORTA | Main artery from the heart
+PANCREAS | Organ that makes insulin
+CLAVICLE | Collarbone
+STERNUM | Breastbone
+CARTILAGE | Flexible tissue in the nose and ears
+TENDON | It ties muscle to bone
+RETINA | Light-sensitive layer of the eye
+PATELLA | Kneecap
+DIAPHRAGM | Breathing muscle under the lungs
+CEREBELLUM | Brain region for balance
+LARYNX | Voice box
+
+=== Chemistry | HARD
+ISOTOPE | Atom variant with extra neutrons
+CATALYST | It speeds a reaction unchanged
+MOLECULE | Group of bonded atoms
+ELECTRON | Negative particle
+PROTON | Positive particle in the nucleus
+NEUTRON | Uncharged nuclear particle
+POLYMER | Long chain of repeating units
+ALKALI | Base that dissolves in water
+ENZYME | Biological catalyst
+SODIUM | Element with symbol Na
+HELIUM | Gas that makes balloons float
+CARBON | Element in all organic life
+VALENCE | Combining power of an atom
+REAGENT | Substance used in a reaction
+
+=== Architecture | HARD
+FACADE | Front face of a building
+BUTTRESS | Support built against a wall
+COLUMN | Upright pillar
+CUPOLA | Small dome on a roof
+GARGOYLE | Carved spout on a cathedral
+ARCHWAY | Curved opening
+GOTHIC | Style with pointed arches
+BAROQUE | Ornate seventeenth-century style
+ATRIUM | Open central hall
+CORNICE | Moulding along the top of a wall
+PORTICO | Columned porch
+SPIRE | Tapering point of a steeple
+LINTEL | Beam over a door
+MOSAIC | Picture made of small tiles
+
+=== Literature Classics | HARD
+HAMLET | Prince of Denmark
+ODYSSEY | Homer's epic of a long voyage home
+ULYSSES | Joyce's Dublin novel
+EMMA | Austen heroine and matchmaker
+DRACULA | Stoker's count
+FRANKENSTEIN | Shelley's creator of a monster
+INFERNO | First part of Dante's Divine Comedy
+BEOWULF | Old English epic hero
+MACBETH | Scottish play
+JANEEYRE | Bronte's governess heroine
+REBECCA | Du Maurier novel of Manderley
+WALDEN | Thoreau's book of life by a pond
+ILIAD | Homer's epic of the Trojan War
+CANDIDE | Voltaire's optimist
+
+=== Astronomy | HARD
+QUASAR | Brilliant distant galactic core
+PULSAR | Spinning neutron star
+SUPERNOVA | Exploding star
+ECLIPSE | When one body hides another
+EQUINOX | Day of equal day and night
+SOLSTICE | Longest or shortest day
+APHELION | Farthest point from the Sun
+ASTEROID | Small rocky body
+NEPTUNE | Eighth planet
+MERCURY | Planet closest to the Sun
+URANUS | Planet that spins on its side
+LIGHTYEAR | Distance light travels in a year
+ZENITH | Point directly overhead
+CONSTELLATION | Pattern of stars such as Orion
+
+=== Law and Order | HARD
+JUDGE | Person who presides over a court
+JURY | Twelve who reach a verdict
+LAWYER | Person who argues a case
+BAILIFF | Court officer
+PLAINTIFF | Person who brings a lawsuit
+DEFENDANT | Person accused in court
+SUBPOENA | Order to appear in court
+AFFIDAVIT | Written sworn statement
+STATUTE | Written law
+APPEAL | Request for a higher court review
+PAROLE | Early conditional release
+TESTIMONY | Evidence given under oath
+LIBEL | Written defamation
+VERDICT | Jury's finding
+
+=== Economics | HARD
+INFLATION | Rising prices over time
+RECESSION | Economic decline
+TARIFF | Tax on imports
+MONOPOLY | Market with one seller
+DIVIDEND | Share of profits paid to shareholders
+EQUITY | Ownership value in an asset
+LIQUIDITY | Ease of turning assets into cash
+SUBSIDY | Government financial aid
+AUSTERITY | Strict spending cuts
+CURRENCY | System of money in use
+DEFICIT | Shortfall of money
+SURPLUS | Excess of income
+COMMODITY | Raw material traded in bulk
+MARKET | Place where buyers and sellers meet
+
+=== Geology | HARD
+BASALT | Dark volcanic rock
+GRANITE | Speckled igneous rock for worktops
+QUARTZ | Common crystal mineral
+MARBLE | Metamorphic rock for statues
+LIMESTONE | Rock formed from shells
+SEDIMENT | Material settling at the bottom
+STALACTITE | Icicle-like rock hanging from a cave roof
+STALAGMITE | Rock rising from a cave floor
+EROSION | Wearing away of land
+TECTONIC | Relating to the plates of Earth's crust
+FAULT | Crack where rock moves
+CANYON | Deep gorge cut by a river
+MANTLE | Layer beneath the crust
+FELDSPAR | Abundant rock-forming mineral
+
+=== Art History | HARD
+MONET | Painter of water lilies
+PICASSO | Co-founder of Cubism
+REMBRANDT | Dutch master of The Night Watch
+VERMEER | Painter of Girl with a Pearl Earring
+DALI | Surrealist with melting clocks
+MATISSE | Fauvist famous for paper cut-outs
+CARAVAGGIO | Master of dramatic shadows
+FRESCO | Painting on wet plaster
+CUBISM | Style of fractured forms
+SURREAL | Dreamlike, as some art
+EASEL | Painter's stand
+PALETTE | Board for mixing paint
+RENAISSANCE | Rebirth of art in Europe
+SKETCH | Rough drawing
+
+=== Medical Terms | HARD
+VACCINE | Shot that builds immunity
+ANTIBIOTIC | Drug that kills bacteria
+SURGEON | Doctor who operates
+DIAGNOSIS | Identification of an illness
+SYMPTOM | Sign of disease
+PULSE | Heartbeat felt at the wrist
+FRACTURE | Broken bone
+ALLERGY | Reaction to pollen, for example
+INSULIN | Hormone for diabetes treatment
+STETHOSCOPE | Doctor's listening tool
+ANAESTHETIC | Drug that numbs pain
+THERAPY | Course of treatment
+VIRUS | Tiny infectious agent
+PLACEBO | Dummy pill in a trial
+
+=== Ancient Rome | HARD
+CAESAR | Dictator stabbed on the Ides of March
+SENATE | Roman governing body
+LEGION | Roman army unit
+GLADIATOR | Arena fighter
+COLOSSEUM | Great Roman amphitheatre
+FORUM | Roman public square
+AQUEDUCT | Bridge that carried water
+CENTURION | Commander of a hundred
+TOGA | Roman robe
+CONSUL | One of two chief magistrates
+NERO | Emperor said to fiddle while Rome burned
+AUGUSTUS | First Roman emperor
+POMPEII | City buried by Vesuvius
+CHARIOT | Two-wheeled racing cart
+
+=== Oceanography | HARD
+CURRENT | Flowing stream within the ocean
+TIDE | Rise and fall of the sea
+TRENCH | Deep canyon on the sea floor
+PLANKTON | Drifting tiny organisms
+LAGOON | Shallow water cut off by a reef
+ESTUARY | Where a river meets the sea
+SALINITY | Saltiness of water
+ATOLL | Ring-shaped coral island
+TSUNAMI | Giant wave from an earthquake
+ABYSS | Deepest part of the ocean
+KELP | Large brown seaweed
+MARIANA | Trench with the deepest point on Earth
+SONAR | Sound-based depth finder
+REEF | Ridge of coral
+
+=== Linguistics | HARD
+SYNTAX | Rules for sentence structure
+GRAMMAR | System of a language's rules
+SYLLABLE | Unit of sound in a word
+VOWEL | A, E, I, O or U
+CONSONANT | Letter that is not a vowel
+DIALECT | Regional form of a language
+IDIOM | Expression not taken literally
+SYNONYM | Word with the same meaning
+ANTONYM | Word with the opposite meaning
+PREFIX | Letters added to the start of a word
+SUFFIX | Letters added to the end of a word
+PHONETIC | Relating to speech sounds
+ACCENT | Way of pronouncing
+LEXICON | Vocabulary of a language
+
+=== Engineering | HARD
+TURBINE | Rotary engine driven by fluid
+GIRDER | Large steel beam
+PISTON | Part moving inside a cylinder
+GEARBOX | Housing of a vehicle's gears
+HYDRAULIC | Powered by liquid pressure
+CIRCUIT | Path for electric current
+VOLTAGE | Electrical pressure
+SUSPENSION | Springs and shocks under a car
+TORQUE | Twisting force
+CANTILEVER | Beam fixed at one end only
+ALLOY | Metal mixture
+WELDING | Joining metal with heat
+BLUEPRINT | Technical drawing
+PROTOTYPE | First working model
+
+=== Greek Alphabet | HARD
+ALPHA | First Greek letter
+BETA | Second Greek letter
+GAMMA | Third Greek letter, also a ray
+DELTA | Triangular Greek letter, also a river mouth
+EPSILON | Fifth Greek letter
+THETA | Letter often used for angles
+LAMBDA | Letter used for wavelength
+SIGMA | Letter used for sum
+OMEGA | Last Greek letter
+KAPPA | Tenth Greek letter
+ZETA | Sixth Greek letter
+IOTA | Tiny amount, or a Greek letter
+OMICRON | Short O in Greek
+UPSILON | Twentieth Greek letter
+
+=== Botany | HARD
+PHOTOSYNTHESIS | How plants make food from light
+CHLOROPHYLL | Green pigment in leaves
+POLLEN | Fine powder from flowers
+STAMEN | Male part of a flower
+PISTIL | Female part of a flower
+SEPAL | Leaf-like part under a petal
+FERN | Plant that reproduces by spores
+CONIFER | Cone-bearing tree
+DECIDUOUS | Losing leaves each autumn
+SUCCULENT | Fleshy water-storing plant
+GERMINATE | Begin to sprout
+TUBER | Swollen underground stem like a potato
+RHIZOME | Creeping underground stem
+PERENNIAL | Plant that lives for years
+
+=== World Religions | HARD
+TEMPLE | House of worship
+PILGRIM | Person on a holy journey
+MONASTERY | Home of monks
+SCRIPTURE | Sacred writing
+KARMA | Effect of one's actions
+NIRVANA | State of perfect peace in Buddhism
+MANTRA | Repeated sacred phrase
+PRAYER | Words to a deity
+PSALM | Sacred song
+SABBATH | Day of rest
+SYNAGOGUE | Jewish house of worship
+CATHEDRAL | Principal church of a diocese
+MOSQUE | Muslim place of worship
+SHRINE | Holy place
+
+=== Opera House | HARD
+ARIA | Solo song in an opera
+LIBRETTO | Text of an opera
+SOPRANO | Highest female voice
+BARITONE | Voice between tenor and bass
+OVERTURE | Instrumental opening
+CARMEN | Bizet's fiery heroine
+TOSCA | Puccini opera set in Rome
+FIGARO | Mozart's scheming barber
+DIVA | Celebrated female singer
+MAESTRO | Distinguished conductor
+CHORUS | Group singing together
+RECITATIVE | Sung dialogue
+TURANDOT | Puccini's ice princess
+ORCHESTRA | Musicians in the pit
+
+=== Computer Science | HARD
+ALGORITHM | Step-by-step procedure
+COMPILER | Program that translates code
+RECURSION | Function calling itself
+VARIABLE | Named storage for a value
+DATABASE | Organised store of data
+ENCRYPTION | Scrambling data to protect it
+BINARY | Number system of ones and zeros
+PROTOCOL | Rules for communication
+KERNEL | Core of an operating system
+SERVER | Computer that serves requests
+BANDWIDTH | Data transfer capacity
+DEBUGGER | Tool for finding errors
+SYNTAX | Rules of a language's structure
+CACHE | Fast temporary storage
+
+=== Exploration History | HARD
+COLUMBUS | Sailed in 1492
+MAGELLAN | His expedition first circled the globe
+COOK | Captain who charted New Zealand
+POLO | Venetian who travelled to China
+AMUNDSEN | First to reach the South Pole
+SHACKLETON | Leader of the Endurance expedition
+HILLARY | First up Everest with Tenzing
+ARMSTRONG | First man on the Moon
+VOYAGE | Long journey by sea
+SEXTANT | Navigator's angle tool
+EXPEDITION | Organised journey of discovery
+CARAVEL | Small Portuguese sailing ship
+FRONTIER | Edge of settled land
+ATLAS | Book of maps
+
+=== Physics | HARD
+MOMENTUM | Mass times velocity
+VELOCITY | Speed in a given direction
+FRICTION | Force that resists sliding
+INERTIA | Resistance to change in motion
+QUANTUM | Smallest discrete unit of energy
+PHOTON | Particle of light
+NEWTON | Unit of force
+JOULE | Unit of energy
+ENTROPY | Measure of disorder
+WAVELENGTH | Distance between wave peaks
+FREQUENCY | Number of cycles per second
+RELATIVITY | Einstein's theory
+MAGNETISM | Force around a magnet
+PRISM | It splits white light
+
+=== Wine Cellar | HARD
+VINTAGE | Year a wine was made
+CORK | Bottle stopper
+MERLOT | Soft red grape
+CHARDONNAY | Popular white grape
+RIESLING | Aromatic German white grape
+BORDEAUX | French region of claret
+CHAMPAGNE | Sparkling wine from France
+SOMMELIER | Wine waiter
+DECANTER | Glass vessel for serving wine
+BARREL | Oak cask for ageing
+TANNIN | Compound that makes red wine dry
+BOUQUET | Aroma of a wine
+VINEYARD | Grape farm
+CABERNET | Bold red grape
+
+=== Mountaineering | HARD
+SUMMIT | Peak of a mountain
+CRAMPON | Spiked boot attachment for ice
+CARABINER | Metal clip for ropes
+BELAY | Secure a climbing rope
+GLACIER | River of ice
+CREVASSE | Deep crack in a glacier
+SHERPA | Himalayan guide
+EVEREST | Highest mountain on Earth
+ALTITUDE | Height above sea level
+AVALANCHE | Snow slide
+RIDGE | Narrow crest of a mountain
+BASECAMP | Starting point of an ascent
+ICEAXE | Climber's pick
+OXYGEN | Thin at high altitude
+
+=== Journalism | HARD
+HEADLINE | Title of a news story
+EDITOR | Person who checks and revises copy
+REPORTER | Person who gathers news
+COLUMN | Regular opinion piece
+DEADLINE | Time a story is due
+SCOOP | Exclusive story
+BYLINE | Writer's name on an article
+INTERVIEW | Question-and-answer meeting
+PRESS | The news media
+TABLOID | Popular newspaper format
+EDITORIAL | Article giving the paper's view
+SOURCE | Person who gives information
+BROADCAST | Transmit on radio or TV
+CORRESPONDENT | Reporter based abroad
+
+=== Mathematics | HARD
+ALGEBRA | Maths with letters for numbers
+CALCULUS | Maths of change
+GEOMETRY | Maths of shapes
+INTEGER | Whole number
+FRACTION | Part of a whole
+EQUATION | Statement that two things are equal
+VECTOR | Quantity with direction
+MATRIX | Rectangular array of numbers
+PRIME | Number divisible only by one and itself
+THEOREM | Proven statement
+TANGENT | Line touching a curve once
+PARABOLA | U-shaped curve
+LOGARITHM | Inverse of exponentiation
+HYPOTENUSE | Longest side of a right triangle
+
+=== Arctic and Antarctic | HARD
+TUNDRA | Treeless frozen plain
+PERMAFROST | Ground that stays frozen
+ICEBERG | Floating mass of ice
+WALRUS | Tusked Arctic mammal
+NARWHAL | Whale with a long tusk
+PUFFIN | Seabird with a colourful beak
+CARIBOU | North American reindeer
+AURORA | Northern or southern lights
+FLOE | Sheet of floating ice
+INUIT | People of the Arctic
+SLEDGE | Sled pulled by dogs
+KRILL | Tiny shrimp whales eat
+ORCA | Killer whale
+POLAR | Relating to the poles
+
+=== Fine Dining | HARD
+APERITIF | Drink before a meal
+ENTREE | Main course in the US
+SOUFFLE | Light baked egg dish
+RISOTTO | Creamy Italian rice dish
+CONSOMME | Clear soup
+TRUFFLE | Prized underground fungus
+CAVIAR | Salted fish eggs
+FONDUE | Melted cheese for dipping
+CARPACCIO | Thin slices of raw beef
+BRUSCHETTA | Toasted bread with toppings
+SOMMELIER | Wine expert in a restaurant
+MAITRED | Head waiter
+GARNISH | Decoration on a dish
+DIGESTIF | Drink after a meal
+
+=== Shakespeare | HARD
+OTHELLO | Moor of Venice
+ROMEO | Montague who loves Juliet
+JULIET | Capulet who loves Romeo
+LEAR | King with three daughters
+PROSPERO | Magician of The Tempest
+PUCK | Mischievous sprite of a midsummer night
+OPHELIA | Hamlet's tragic love
+IAGO | Othello's treacherous ensign
+SONNET | Fourteen-line poem
+GLOBE | Shakespeare's theatre
+BARD | Shakespeare's nickname
+TEMPEST | Storm, or a late play
+FALSTAFF | Fat knight of Henry IV
+VERONA | City of two gentlemen
+
+=== Ecology | HARD
+HABITAT | Natural home of an organism
+ECOSYSTEM | Community and its environment
+BIODIVERSITY | Variety of life
+PREDATOR | Animal that hunts
+SYMBIOSIS | Mutually beneficial relationship
+EXTINCTION | Dying out of a species
+POLLINATOR | Bee, for one
+CARNIVORE | Meat eater
+HERBIVORE | Plant eater
+CONSERVATION | Protection of nature
+FOODCHAIN | Who eats whom
+MIGRATION | Seasonal movement of animals
+
+=== Cryptography | HARD
+CIPHER | Method of encoding
+ENIGMA | German wartime cipher machine
+TURING | Codebreaker of Bletchley Park
+KEY | Value that unlocks a code
+HASH | One-way digest of data
+DECRYPT | Turn ciphertext back into plain text
+CAESAR | Shift cipher named after an emperor
+VIGENERE | Polyalphabetic cipher
+PLAINTEXT | Message before encryption
+CODEBOOK | List of code words
+NONCE | Number used once
+SIGNATURE | Proof of who signed a message
+PASSWORD | Secret word for login
+STEGANOGRAPHY | Hiding a message inside another
+
+=== Grand Finale | HARD
+MASTERPIECE | Greatest work
+CHAMPION | Winner of a contest
+ODYSSEY | Long adventurous journey
+ZENITH | Highest point
+PINNACLE | Peak of achievement
+TRIUMPH | Great victory
+LABYRINTH | Complicated maze
+VOCABULARY | Words a person knows
+ERUDITE | Very learned
+EPIPHANY | Sudden realisation
+SERENDIPITY | Happy accident
+QUINTESSENCE | Perfect example
+ELOQUENT | Fluent and persuasive
+FINALE | Last part of a show

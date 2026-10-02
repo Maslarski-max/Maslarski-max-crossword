@@ -1,0 +1,18 @@
+id: level-024
+title: Musical Instruments
+difficulty: EASY
+order: 24
+type: level
+size: 11
+seed: 24
+---
+PIANO | Instrument with black and white keys
+GUITAR | Instrument with six strings
+DRUMS | Instrument you hit with sticks
+FLUTE | Thin wind instrument held sideways
+VIOLIN | Small string instrument played with a bow
+TRUMPET | Brass instrument with three valves
+HARP | Large instrument with many strings plucked by hand
+CELLO | Big string instrument held between the knees
+TUBA | Biggest brass instrument
+BANJO | Round string instrument used in bluegrass

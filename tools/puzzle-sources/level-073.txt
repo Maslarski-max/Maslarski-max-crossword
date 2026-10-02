@@ -1,0 +1,20 @@
+id: level-073
+title: Railway Journey
+difficulty: MEDIUM
+order: 73
+type: level
+size: 13
+seed: 73
+---
+STATION | Where trains stop
+PLATFORM | You wait on it for a train
+TICKET | You need one to board
+CARRIAGE | Passenger car of a train
+LOCOMOTIVE | Engine that pulls a train
+TUNNEL | Railway through a hill
+SIGNAL | Light telling a train to stop or go
+CONDUCTOR | Person who checks tickets
+TIMETABLE | Schedule of departures
+FREIGHT | Goods carried by train
+SLEEPER | Train with beds
+EXPRESS | Fast train with few stops

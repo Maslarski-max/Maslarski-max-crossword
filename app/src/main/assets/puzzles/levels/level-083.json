@@ -1,0 +1,43 @@
+{
+  "id": "level-083",
+  "title": "Economics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######MONOPOLY",
+    "###E###A#######",
+    "###Q#SURPLUS###",
+    "###U###K####C##",
+    "#S#I###E####O##",
+    "AUSTERITY#I#M##",
+    "#B#Y#E####N#M##",
+    "#S###C####F#O#D",
+    "DIVIDEND##L#D#E",
+    "#D###S###TARIFF",
+    "#Y###S####T#T#I",
+    "####LIQUIDITY#C",
+    "#####O####O###I",
+    "CURRENCY##N###T"
+  ],
+  "clues": {
+    "across": {
+      "1": "Market with one seller",
+      "3": "Excess of income",
+      "6": "Strict spending cuts",
+      "10": "Share of profits paid to shareholders",
+      "11": "Tax on imports",
+      "12": "Ease of turning assets into cash",
+      "13": "System of money in use"
+    },
+    "down": {
+      "1": "Place where buyers and sellers meet",
+      "2": "Ownership value in an asset",
+      "4": "Raw material traded in bulk",
+      "5": "Government financial aid",
+      "7": "Economic decline",
+      "8": "Rising prices over time",
+      "9": "Shortfall of money"
+    }
+  },
+  "order": 83
+}

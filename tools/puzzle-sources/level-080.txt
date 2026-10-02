@@ -1,0 +1,22 @@
+id: level-080
+title: Literature Classics
+difficulty: HARD
+order: 80
+type: level
+size: 15
+seed: 80
+---
+HAMLET | Prince of Denmark
+ODYSSEY | Homer's epic of a long voyage home
+ULYSSES | Joyce's Dublin novel
+EMMA | Austen heroine and matchmaker
+DRACULA | Stoker's count
+FRANKENSTEIN | Shelley's creator of a monster
+INFERNO | First part of Dante's Divine Comedy
+BEOWULF | Old English epic hero
+MACBETH | Scottish play
+JANEEYRE | Bronte's governess heroine
+REBECCA | Du Maurier novel of Manderley
+WALDEN | Thoreau's book of life by a pond
+ILIAD | Homer's epic of the Trojan War
+CANDIDE | Voltaire's optimist

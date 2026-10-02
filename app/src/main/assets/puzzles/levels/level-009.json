@@ -1,0 +1,34 @@
+{
+  "id": "level-009",
+  "title": "Farmyard",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###H#D###",
+    "G##O#U#C#",
+    "O#TRACTOR",
+    "O##S#K#W#",
+    "SHEEP####",
+    "E###I#B##",
+    "####GOAT#",
+    "######R##",
+    "####HEN##"
+  ],
+  "clues": {
+    "across": {
+      "5": "Farm vehicle that pulls a plough",
+      "6": "Woolly animal that says baa",
+      "9": "Bearded farm animal that will eat almost anything",
+      "10": "Female chicken"
+    },
+    "down": {
+      "1": "Animal you ride in a saddle",
+      "2": "Farm bird that quacks",
+      "3": "Farm bird bigger than a duck that honks",
+      "4": "Farm animal that gives milk",
+      "7": "Pink farm animal that loves mud",
+      "8": "Big red farm building"
+    }
+  },
+  "order": 9
+}

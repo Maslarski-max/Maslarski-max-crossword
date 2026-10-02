@@ -1,0 +1,37 @@
+{
+  "id": "level-066",
+  "title": "Human Body",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "VEIN#STOMACH",
+    "###E#P######",
+    "##BRAIN#L###",
+    "###V#N##U#S#",
+    "#SKELETON#K#",
+    "##I#I###G#U#",
+    "##D#V#MUSCLE",
+    "##N#E#####L#",
+    "#HEART######",
+    "##Y#########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Blood vessel to the heart",
+      "3": "Where food is digested",
+      "4": "Organ that thinks",
+      "7": "Frame of bones",
+      "10": "Tissue that moves the body",
+      "11": "Organ that pumps blood"
+    },
+    "down": {
+      "2": "It carries signals to the brain",
+      "3": "Backbone",
+      "5": "You breathe with them",
+      "6": "Bone that protects the brain",
+      "8": "Bean-shaped organ",
+      "9": "Organ that filters the blood"
+    }
+  },
+  "order": 66
+}

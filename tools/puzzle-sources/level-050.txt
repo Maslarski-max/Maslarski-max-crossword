@@ -1,0 +1,20 @@
+id: level-050
+title: Kitchen Herbs
+difficulty: MEDIUM
+order: 50
+type: level
+size: 13
+seed: 50
+---
+BASIL | Herb in pesto
+MINT | Herb for mojitos
+PARSLEY | Curly garnish herb
+THYME | Herb that sounds like time
+SAGE | Herb paired with onion stuffing
+ROSEMARY | Needle-leaved herb for lamb
+DILL | Feathery herb with fish
+OREGANO | Pizza herb
+CHIVES | Onion-flavoured herb
+CORIANDER | Herb also called cilantro
+GARLIC | Pungent bulb for flavouring
+GINGER | Spicy root

@@ -1,0 +1,40 @@
+{
+  "id": "level-044",
+  "title": "Mythology",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "############T",
+    "############H",
+    "#######P####O",
+    "###N##CENTAUR",
+    "TROY###G##T##",
+    "###M#H#APOLLO",
+    "###P#E#S##A#D",
+    "###HERCULES#I",
+    "#####M#S####N",
+    "##Z##E#######",
+    "#MEDUSA######",
+    "##U##########",
+    "##S##########"
+  ],
+  "clues": {
+    "across": {
+      "4": "Half man, half horse",
+      "6": "City besieged with a wooden horse",
+      "8": "Greek god of the sun and music",
+      "10": "Hero of the twelve labours",
+      "12": "Gorgon with snakes for hair"
+    },
+    "down": {
+      "1": "Norse god with a hammer",
+      "2": "Winged horse",
+      "3": "Nature spirit of Greek myth",
+      "5": "Titan who holds up the sky",
+      "7": "Messenger god with winged sandals",
+      "9": "One-eyed Norse chief god",
+      "11": "King of the Greek gods"
+    }
+  },
+  "order": 44
+}

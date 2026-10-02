@@ -1,0 +1,44 @@
+{
+  "id": "level-076",
+  "title": "Classical Composers",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####W########",
+    "####BACH######",
+    "#####G########",
+    "PUCCINI#######",
+    "##H##E########",
+    "#MOZART#######",
+    "##P###########",
+    "##I####B######",
+    "HANDEL#RAVEL##",
+    "A##E###A#I####",
+    "Y##BEETHOVEN##",
+    "D##U###M#A####",
+    "N##S###S#LISZT",
+    "###S#####D####",
+    "###Y#VERDI####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Composer of the Brandenburg Concertos",
+      "3": "Composer of La Boheme",
+      "5": "Composer of The Magic Flute",
+      "7": "Composer of Messiah",
+      "9": "Composer of Bolero",
+      "11": "Deaf composer of the Ninth Symphony",
+      "12": "Hungarian piano virtuoso",
+      "13": "Composer of Aida"
+    },
+    "down": {
+      "1": "Composer of the Ring cycle",
+      "4": "Polish master of piano nocturnes",
+      "6": "Composer of a famous lullaby",
+      "7": "Father of the symphony",
+      "8": "Composer of Clair de Lune",
+      "10": "Composer of The Four Seasons"
+    }
+  },
+  "order": 76
+}

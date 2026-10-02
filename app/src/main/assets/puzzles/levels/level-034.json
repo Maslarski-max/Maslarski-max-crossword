@@ -1,0 +1,35 @@
+{
+  "id": "level-034",
+  "title": "Rainy Day Games",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###Q#H####",
+    "###U#I####",
+    "###I#DICE#",
+    "PUZZLE#H##",
+    "#######E#B",
+    "##T#C##S#I",
+    "CHARADES#N",
+    "##G#R####G",
+    "####DOMINO",
+    "####S#####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Cubes you roll",
+      "5": "Jigsaw, for example",
+      "9": "Game of acting without words",
+      "10": "Tile with dots"
+    },
+    "down": {
+      "1": "Set of questions",
+      "2": "Seek's partner in a game",
+      "4": "Game with kings and queens on a board",
+      "6": "Game where you shout when your card is full",
+      "7": "Chasing game",
+      "8": "A deck of fifty-two"
+    }
+  },
+  "order": 34
+}

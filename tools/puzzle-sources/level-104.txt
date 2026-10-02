@@ -1,0 +1,22 @@
+id: level-104
+title: Shakespeare
+difficulty: HARD
+order: 104
+type: level
+size: 15
+seed: 104
+---
+OTHELLO | Moor of Venice
+ROMEO | Montague who loves Juliet
+JULIET | Capulet who loves Romeo
+LEAR | King with three daughters
+PROSPERO | Magician of The Tempest
+PUCK | Mischievous sprite of a midsummer night
+OPHELIA | Hamlet's tragic love
+IAGO | Othello's treacherous ensign
+SONNET | Fourteen-line poem
+GLOBE | Shakespeare's theatre
+BARD | Shakespeare's nickname
+TEMPEST | Storm, or a late play
+FALSTAFF | Fat knight of Henry IV
+VERONA | City of two gentlemen

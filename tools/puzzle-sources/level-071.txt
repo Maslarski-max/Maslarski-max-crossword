@@ -1,0 +1,20 @@
+id: level-071
+title: Rivers of the World
+difficulty: MEDIUM
+order: 71
+type: level
+size: 13
+seed: 71
+---
+NILE | Longest river in Africa
+AMAZON | River through Brazil
+DANUBE | River through Vienna and Budapest
+THAMES | River through London
+SEINE | River through Paris
+GANGES | Sacred river of India
+RHINE | River from the Alps to the North Sea
+VOLGA | Longest river in Europe
+YANGTZE | Longest river in Asia
+MISSISSIPPI | River through New Orleans
+TIBER | River through Rome
+CONGO | Deep river of central Africa

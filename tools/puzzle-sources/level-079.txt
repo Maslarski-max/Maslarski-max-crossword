@@ -1,0 +1,22 @@
+id: level-079
+title: Architecture
+difficulty: HARD
+order: 79
+type: level
+size: 15
+seed: 79
+---
+FACADE | Front face of a building
+BUTTRESS | Support built against a wall
+COLUMN | Upright pillar
+CUPOLA | Small dome on a roof
+GARGOYLE | Carved spout on a cathedral
+ARCHWAY | Curved opening
+GOTHIC | Style with pointed arches
+BAROQUE | Ornate seventeenth-century style
+ATRIUM | Open central hall
+CORNICE | Moulding along the top of a wall
+PORTICO | Columned porch
+SPIRE | Tapering point of a steeple
+LINTEL | Beam over a door
+MOSAIC | Picture made of small tiles

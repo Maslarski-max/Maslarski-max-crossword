@@ -1,0 +1,20 @@
+id: level-060
+title: Islands
+difficulty: MEDIUM
+order: 60
+type: level
+size: 13
+seed: 60
+---
+HAWAII | US state made of islands
+ICELAND | Nordic land of fire and ice
+CUBA | Caribbean island of Havana
+SICILY | Island off Italy's toe
+CRETE | Largest Greek island
+BALI | Indonesian holiday island
+JAMAICA | Island home of reggae
+MALTA | Mediterranean island nation
+TAHITI | Island of French Polynesia
+FIJI | Pacific nation of over three hundred islands
+CORSICA | Napoleon's birthplace
+MADAGASCAR | Island home of lemurs

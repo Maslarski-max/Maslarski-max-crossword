@@ -1,0 +1,22 @@
+id: level-082
+title: Law and Order
+difficulty: HARD
+order: 82
+type: level
+size: 15
+seed: 82
+---
+JUDGE | Person who presides over a court
+JURY | Twelve who reach a verdict
+LAWYER | Person who argues a case
+BAILIFF | Court officer
+PLAINTIFF | Person who brings a lawsuit
+DEFENDANT | Person accused in court
+SUBPOENA | Order to appear in court
+AFFIDAVIT | Written sworn statement
+STATUTE | Written law
+APPEAL | Request for a higher court review
+PAROLE | Early conditional release
+TESTIMONY | Evidence given under oath
+LIBEL | Written defamation
+VERDICT | Jury's finding

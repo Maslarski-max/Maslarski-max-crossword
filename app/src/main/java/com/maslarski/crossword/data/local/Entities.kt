@@ -105,3 +105,20 @@ data class LoginStreakEntity(
         const val SINGLETON_ID = 0
     }
 }
+
+/** A store entitlement such as Unlimited Mode, mirrored from Play's owned purchases. */
+@Entity(tableName = "entitlements")
+data class EntitlementEntity(
+    @PrimaryKey val productId: String,
+    val active: Boolean,
+    val updatedAt: Long,
+)
+
+/** Purchase tokens whose coins were credited, so a consumable is never credited twice. */
+@Entity(tableName = "purchase_credits")
+data class PurchaseCreditEntity(
+    @PrimaryKey val purchaseToken: String,
+    val productId: String,
+    val coins: Int,
+    val creditedAt: Long,
+)

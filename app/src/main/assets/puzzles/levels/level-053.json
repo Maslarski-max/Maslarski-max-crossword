@@ -1,0 +1,40 @@
+{
+  "id": "level-053",
+  "title": "Weather Science",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######S######",
+    "#DRIZZLE#####",
+    "######E######",
+    "CYCLONE#####D",
+    "######THUNDER",
+    "#M###B#U####O",
+    "#O##CLIMATE#U",
+    "#N#B#I#I#O##G",
+    "#S#R#Z#D#R##H",
+    "#O#E#Z#I#N##T",
+    "FORECAST#A###",
+    "#N#Z#R#Y#D###",
+    "###E#D###O###"
+  ],
+  "clues": {
+    "across": {
+      "2": "Light rain",
+      "3": "Large rotating storm",
+      "5": "Rumble after lightning",
+      "9": "Long-term weather pattern",
+      "12": "Weather prediction"
+    },
+    "down": {
+      "1": "Mix of rain and snow",
+      "4": "Long spell without rain",
+      "6": "Moisture in the air",
+      "7": "Seasonal rainy wind",
+      "8": "Snowstorm with strong wind",
+      "10": "Spinning funnel of wind",
+      "11": "Gentle wind"
+    }
+  },
+  "order": 53
+}

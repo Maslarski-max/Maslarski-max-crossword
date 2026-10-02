@@ -1,0 +1,44 @@
+{
+  "id": "level-081",
+  "title": "Astronomy",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "QUASAR#######N#",
+    "##S#######S##E#",
+    "##T#APHELION#P#",
+    "##E#######L##T#",
+    "##R#######S##U#",
+    "#CONSTELLATION#",
+    "##I#U#C#I#I##E#",
+    "##D#P#L#G#C####",
+    "###ZENITH#E####",
+    "#P##R#P#T######",
+    "#URANUS#Y######",
+    "#L##O#E#EQUINOX",
+    "#S##V###A######",
+    "#A##A#MERCURY##",
+    "#R#############"
+  ],
+  "clues": {
+    "across": {
+      "1": "Brilliant distant galactic core",
+      "5": "Farthest point from the Sun",
+      "6": "Pattern of stars such as Orion",
+      "10": "Point directly overhead",
+      "12": "Planet that spins on its side",
+      "13": "Day of equal day and night",
+      "14": "Planet closest to the Sun"
+    },
+    "down": {
+      "2": "Small rocky body",
+      "3": "Eighth planet",
+      "4": "Longest or shortest day",
+      "7": "Exploding star",
+      "8": "When one body hides another",
+      "9": "Distance light travels in a year",
+      "11": "Spinning neutron star"
+    }
+  },
+  "order": 81
+}

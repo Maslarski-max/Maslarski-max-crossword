@@ -1,0 +1,20 @@
+id: level-065
+title: Film Night
+difficulty: MEDIUM
+order: 65
+type: level
+size: 13
+seed: 65
+---
+POPCORN | Snack at the movies
+TRAILER | Preview of a film
+SEQUEL | Follow-up film
+DIRECTOR | Person who calls Action
+CAMERA | It films the scenes
+OSCAR | Famous film award
+COMEDY | Funny film
+THRILLER | Suspenseful film
+SCREEN | Where the film is shown
+TICKET | You show it to get in
+CREDITS | Names that roll at the end
+SCENE | Part of a film in one place

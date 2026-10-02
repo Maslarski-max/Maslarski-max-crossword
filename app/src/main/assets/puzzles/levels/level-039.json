@@ -1,0 +1,36 @@
+{
+  "id": "level-039",
+  "title": "Vegetable Patch",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "####C#####",
+    "##PEAS####",
+    "L###R#####",
+    "E#P#R#####",
+    "T#U#O##C##",
+    "TOMATO#A##",
+    "U#P##N#B##",
+    "C#K##I#B#C",
+    "E#I#POTATO",
+    "##N##N#G#R",
+    "######BEAN"
+  ],
+  "clues": {
+    "across": {
+      "2": "Small green balls in a pod",
+      "6": "Red fruit used like a vegetable",
+      "9": "Vegetable for chips",
+      "10": "Jack's magic seed"
+    },
+    "down": {
+      "1": "Orange root that rabbits love",
+      "3": "Salad leaves",
+      "4": "Orange squash carved at Halloween",
+      "5": "Leafy head often made into coleslaw",
+      "7": "Vegetable that makes you cry",
+      "8": "Yellow cobs"
+    }
+  },
+  "order": 39
+}

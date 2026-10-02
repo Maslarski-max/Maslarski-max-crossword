@@ -1,0 +1,22 @@
+id: level-084
+title: Geology
+difficulty: HARD
+order: 84
+type: level
+size: 15
+seed: 84
+---
+BASALT | Dark volcanic rock
+GRANITE | Speckled igneous rock for worktops
+QUARTZ | Common crystal mineral
+MARBLE | Metamorphic rock for statues
+LIMESTONE | Rock formed from shells
+SEDIMENT | Material settling at the bottom
+STALACTITE | Icicle-like rock hanging from a cave roof
+STALAGMITE | Rock rising from a cave floor
+EROSION | Wearing away of land
+TECTONIC | Relating to the plates of Earth's crust
+FAULT | Crack where rock moves
+CANYON | Deep gorge cut by a river
+MANTLE | Layer beneath the crust
+FELDSPAR | Abundant rock-forming mineral

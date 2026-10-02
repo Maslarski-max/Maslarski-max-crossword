@@ -1,0 +1,20 @@
+id: level-049
+title: Detective Story
+difficulty: MEDIUM
+order: 49
+type: level
+size: 13
+seed: 49
+---
+CLUE | Piece of evidence
+SUSPECT | Person who might have done it
+ALIBI | Proof you were elsewhere
+MOTIVE | Reason for a crime
+WITNESS | Person who saw it happen
+SLEUTH | Detective
+VERDICT | Jury's decision
+FINGERPRINT | Unique mark left by a hand
+MYSTERY | Puzzle to be solved
+HOLMES | Fictional detective of Baker Street
+POIROT | Christie's Belgian detective
+CULPRIT | Guilty party

@@ -1,0 +1,18 @@
+id: level-029
+title: Bakery Window
+difficulty: EASY
+order: 29
+type: level
+size: 11
+seed: 29
+---
+BREAD | Loaf from the oven
+BAGEL | Bread roll with a hole
+MUFFIN | Small cake baked in a cup
+COOKIE | Sweet baked biscuit
+DONUT | Fried ring often glazed
+CROISSANT | Flaky French crescent
+PIE | Pastry filled with fruit
+TART | Small open pastry
+FLOUR | Powder used to make bread
+OVEN | Where bread is baked

@@ -1,0 +1,38 @@
+{
+  "id": "level-074",
+  "title": "Puzzles and Riddles",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#LOGIC#######",
+    "#####RIDDLE##",
+    "#####O####N#A",
+    "#####SOLUTION",
+    "#C###S####G#A",
+    "JIGSAW####M#G",
+    "#P#U#O##Q#A#R",
+    "#H#D#REBUS##A",
+    "#E#O#D##I###M",
+    "#R#K##MAZE###",
+    "###U#########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Reasoning skill",
+      "3": "Puzzling question",
+      "6": "Answer to a puzzle",
+      "8": "Picture cut into pieces",
+      "11": "Picture puzzle for words",
+      "12": "Network of paths"
+    },
+    "down": {
+      "2": "Grid of clues and answers",
+      "4": "Mystery",
+      "5": "Word made by rearranging letters",
+      "7": "Secret code",
+      "9": "Number grid puzzle",
+      "10": "Test of knowledge"
+    }
+  },
+  "order": 74
+}

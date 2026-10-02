@@ -1,0 +1,38 @@
+{
+  "id": "level-057",
+  "title": "Dog Breeds",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####CORGI###",
+    "HUSKY###R#PUG",
+    "##P#####E#O##",
+    "BEAGLE##Y#O##",
+    "U#N#####H#D#T",
+    "L#I####COLLIE",
+    "L#E#####U#E#R",
+    "DALMATIAN###R",
+    "O#######D###I",
+    "G###########E",
+    "########BOXER"
+  ],
+  "clues": {
+    "across": {
+      "1": "Queen Elizabeth's favourite breed",
+      "3": "Sled dog of the north",
+      "5": "Small dog with a wrinkled face",
+      "6": "Snoopy's breed",
+      "8": "Lassie's breed",
+      "9": "Spotted firehouse dog",
+      "10": "Muscular breed with a square jaw"
+    },
+    "down": {
+      "2": "Fastest racing dog",
+      "4": "Breed with floppy ears",
+      "5": "Curly-coated breed",
+      "6": "British mascot breed",
+      "7": "Small, feisty digger"
+    }
+  },
+  "order": 57
+}

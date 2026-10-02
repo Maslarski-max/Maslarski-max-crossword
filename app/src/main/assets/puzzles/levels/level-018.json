@@ -1,0 +1,36 @@
+{
+  "id": "level-018",
+  "title": "Toy Box",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####B##",
+    "###Y#A##",
+    "##DOLL##",
+    "T##Y#L##",
+    "ROBOT###",
+    "U#L#E#P#",
+    "C#O#DRUM",
+    "K#C#D#Z#",
+    "##K#Y#Z#",
+    "##S###L#",
+    "###KITE#"
+  ],
+  "clues": {
+    "across": {
+      "3": "Toy that looks like a person",
+      "5": "Toy machine that may walk and talk",
+      "9": "Toy you bang with sticks",
+      "10": "Toy that flies on a string"
+    },
+    "down": {
+      "1": "Round toy you kick or throw",
+      "2": "Toy that goes up and down on a string",
+      "4": "Toy vehicle with a tipping back",
+      "6": "Wooden cubes for building",
+      "7": "Cuddly toy bear",
+      "8": "Toy made of pieces that fit together"
+    }
+  },
+  "order": 18
+}

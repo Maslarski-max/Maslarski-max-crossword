@@ -21,6 +21,7 @@ import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.domain.repository.ArenaRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
+import com.maslarski.crossword.domain.repository.EntitlementRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import com.maslarski.crossword.ui.navigation.ArenaRoute
 import dagger.hilt.android.lifecycle.HiltViewModel
@@ -55,6 +56,7 @@ data class ArenaUiState(
     val opponentTiles: Map<Int, Char> = emptyMap(),
     val flash: ScoreFlash? = null,
     val coins: Int = 0,
+    val unlimited: Boolean = false,
     val result: ArenaResult? = null,
     val showResult: Boolean = false,
 ) {
@@ -82,6 +84,7 @@ class ArenaViewModel @Inject constructor(
     private val arena: ArenaRepository,
     private val startMatch: StartArenaMatch,
     private val wallet: WalletRepository,
+    private val entitlements: EntitlementRepository,
     private val telemetry: Telemetry,
     /** Match writes run here so the last move is saved even if the screen closes right after it. */
     @ApplicationScope private val appScope: CoroutineScope,
@@ -110,6 +113,7 @@ class ArenaViewModel @Inject constructor(
 
     init {
         viewModelScope.launch { wallet.observeCoins().collect { coins -> _state.update { it.copy(coins = coins) } } }
+        viewModelScope.launch { entitlements.observeUnlimited().collect { u -> _state.update { it.copy(unlimited = u) } } }
         viewModelScope.launch { load() }
     }
 
@@ -243,7 +247,7 @@ class ArenaViewModel @Inject constructor(
                     return@launch
                 }
                 if (offered == s.hintCells) return@launch
-                val charged = !match.hasPaidHint
+                val charged = !match.hasPaidHint && !entitlements.isUnlimited()
                 if (charged && !wallet.trySpend(GameRules.HINT_COST)) {
                     _messages.send(ArenaMessage.NotEnoughCoins(GameRules.HINT_COST))
                     return@launch

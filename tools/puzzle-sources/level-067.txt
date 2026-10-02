@@ -1,0 +1,20 @@
+id: level-067
+title: Volcanoes
+difficulty: MEDIUM
+order: 67
+type: level
+size: 13
+seed: 67
+---
+LAVA | Molten rock on the surface
+MAGMA | Molten rock underground
+CRATER | Bowl at the top of a volcano
+ERUPTION | Volcanic explosion
+ASH | Fine grey dust from an eruption
+VESUVIUS | Volcano that buried Pompeii
+ETNA | Sicily's active volcano
+FUJI | Japan's sacred volcano
+GEYSER | Hot spring that spouts
+PUMICE | Light volcanic rock that floats
+DORMANT | Sleeping, for a volcano
+TREMOR | Small earthquake

@@ -1,0 +1,43 @@
+{
+  "id": "level-089",
+  "title": "Linguistics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####S#L####A#",
+    "#####U#E####N#",
+    "##PREFIX####T#",
+    "##H##F#I#IDIOM",
+    "##O##I#C##I#N#",
+    "SYNTAX#O##A#Y#",
+    "Y#E#C##N##L#M#",
+    "N#T#C###G#E###",
+    "O#I#E#V#R#C###",
+    "N#CONSONANT###",
+    "Y###T#W#M#####",
+    "M#####E#M#####",
+    "####SYLLABLE##",
+    "########R#####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Letters added to the start of a word",
+      "5": "Expression not taken literally",
+      "7": "Rules for sentence structure",
+      "11": "Letter that is not a vowel",
+      "12": "Unit of sound in a word"
+    },
+    "down": {
+      "1": "Letters added to the end of a word",
+      "2": "Vocabulary of a language",
+      "3": "Word with the opposite meaning",
+      "4": "Relating to speech sounds",
+      "6": "Regional form of a language",
+      "7": "Word with the same meaning",
+      "8": "Way of pronouncing",
+      "9": "System of a language's rules",
+      "10": "A, E, I, O or U"
+    }
+  },
+  "order": 89
+}

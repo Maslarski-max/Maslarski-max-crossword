@@ -1,0 +1,18 @@
+id: level-026
+title: Jungle Trek
+difficulty: EASY
+order: 26
+type: level
+size: 11
+seed: 26
+---
+LION | King of the jungle
+TIGER | Big cat with stripes
+MONKEY | Animal that swings through trees
+SNAKE | Animal with no legs that slithers
+PARROT | Bright bird of the rainforest
+ELEPHANT | Big animal with a trunk
+GORILLA | Largest ape
+FROG | Green jumper that croaks
+VINE | Climbing plant to swing on
+TOUCAN | Bird with a huge colourful beak

@@ -1,0 +1,20 @@
+id: level-105
+title: Ecology
+difficulty: HARD
+order: 105
+type: level
+size: 15
+seed: 105
+---
+HABITAT | Natural home of an organism
+ECOSYSTEM | Community and its environment
+BIODIVERSITY | Variety of life
+PREDATOR | Animal that hunts
+SYMBIOSIS | Mutually beneficial relationship
+EXTINCTION | Dying out of a species
+POLLINATOR | Bee, for one
+CARNIVORE | Meat eater
+HERBIVORE | Plant eater
+CONSERVATION | Protection of nature
+FOODCHAIN | Who eats whom
+MIGRATION | Seasonal movement of animals

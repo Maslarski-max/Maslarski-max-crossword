@@ -21,6 +21,7 @@ import com.maslarski.crossword.data.ads.ConsentManager
 import com.maslarski.crossword.data.telemetry.FirebaseTelemetry
 import com.maslarski.crossword.domain.model.Settings
 import com.maslarski.crossword.domain.repository.SettingsRepository
+import com.maslarski.crossword.domain.repository.StoreRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import com.maslarski.crossword.ui.components.CoinChangeToast
 import com.maslarski.crossword.ui.components.LocalConsentManager
@@ -41,6 +42,7 @@ class MainActivity : ComponentActivity() {
     @Inject lateinit var settingsRepository: SettingsRepository
     @Inject lateinit var telemetry: FirebaseTelemetry
     @Inject lateinit var walletRepository: WalletRepository
+    @Inject lateinit var storeRepository: StoreRepository
 
     override fun onCreate(savedInstanceState: Bundle?) {
         installSplashScreen()
@@ -74,5 +76,10 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+    }
+
+    override fun onResume() {
+        super.onResume()
+        lifecycleScope.launch { storeRepository.refresh() }
     }
 }

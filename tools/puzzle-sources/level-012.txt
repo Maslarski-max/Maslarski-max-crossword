@@ -1,0 +1,18 @@
+id: level-012
+title: Colour Box
+difficulty: EASY
+order: 12
+type: level
+size: 11
+seed: 12
+---
+RED | Colour of a stop sign
+BLUE | Colour of a clear sky
+GREEN | Colour of grass
+YELLOW | Colour of a banana
+ORANGE | Colour between red and yellow
+PURPLE | Colour of a violet
+PINK | Colour of flamingos
+BROWN | Colour of chocolate
+BLACK | Colour of night
+WHITE | Colour of fresh snow

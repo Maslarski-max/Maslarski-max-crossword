@@ -1,0 +1,43 @@
+{
+  "id": "level-088",
+  "title": "Oceanography",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#R#####A#P#####",
+    "#E#####B#L#C###",
+    "#ESTUARY#A#U###",
+    "#F#I###SONAR###",
+    "###D###S#K#R###",
+    "###E#####TRENCH",
+    "######M##O#N###",
+    "#####SALINITY##",
+    "######R########",
+    "TSUNAMI########",
+    "####T#A########",
+    "#LAGOON########",
+    "####L#A########",
+    "##KELP#########"
+  ],
+  "clues": {
+    "across": {
+      "5": "Where a river meets the sea",
+      "7": "Sound-based depth finder",
+      "8": "Deep canyon on the sea floor",
+      "10": "Saltiness of water",
+      "11": "Giant wave from an earthquake",
+      "13": "Shallow water cut off by a reef",
+      "14": "Large brown seaweed"
+    },
+    "down": {
+      "1": "Ridge of coral",
+      "2": "Deepest part of the ocean",
+      "3": "Drifting tiny organisms",
+      "4": "Flowing stream within the ocean",
+      "6": "Rise and fall of the sea",
+      "9": "Trench with the deepest point on Earth",
+      "12": "Ring-shaped coral island"
+    }
+  },
+  "order": 88
+}

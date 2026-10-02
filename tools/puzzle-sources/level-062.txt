@@ -1,0 +1,20 @@
+id: level-062
+title: Gardening
+difficulty: MEDIUM
+order: 62
+type: level
+size: 13
+seed: 62
+---
+COMPOST | Rotting matter used as fertiliser
+TROWEL | Small hand spade
+RAKE | Tool for gathering leaves
+HEDGE | Row of bushes
+PRUNE | Trim back a plant
+WEED | Unwanted plant
+BULB | Tulips grow from one
+SEEDLING | Young plant
+GREENHOUSE | Glass building for plants
+MULCH | Layer spread over soil
+BLOSSOM | Flowers on a fruit tree
+ORCHARD | Field of fruit trees

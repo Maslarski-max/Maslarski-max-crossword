@@ -1,0 +1,31 @@
+{
+  "id": "level-010",
+  "title": "Kitchen Drawer",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#########B#",
+    "W#######POT",
+    "H###P#P##W#",
+    "I#F#A#LADLE",
+    "SPOON#A####",
+    "K#R###T####",
+    "##KNIFE####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Deep vessel for boiling pasta",
+      "7": "Deep spoon for serving soup",
+      "8": "Utensil for eating soup",
+      "9": "Utensil for cutting"
+    },
+    "down": {
+      "1": "Dish for cereal",
+      "2": "Tool for beating eggs",
+      "4": "Flat cooking vessel with a handle",
+      "5": "You serve dinner on it",
+      "6": "Pronged eating utensil"
+    }
+  },
+  "order": 10
+}

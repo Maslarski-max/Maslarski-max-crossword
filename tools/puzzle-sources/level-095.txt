@@ -1,0 +1,22 @@
+id: level-095
+title: Computer Science
+difficulty: HARD
+order: 95
+type: level
+size: 15
+seed: 95
+---
+ALGORITHM | Step-by-step procedure
+COMPILER | Program that translates code
+RECURSION | Function calling itself
+VARIABLE | Named storage for a value
+DATABASE | Organised store of data
+ENCRYPTION | Scrambling data to protect it
+BINARY | Number system of ones and zeros
+PROTOCOL | Rules for communication
+KERNEL | Core of an operating system
+SERVER | Computer that serves requests
+BANDWIDTH | Data transfer capacity
+DEBUGGER | Tool for finding errors
+SYNTAX | Rules of a language's structure
+CACHE | Fast temporary storage

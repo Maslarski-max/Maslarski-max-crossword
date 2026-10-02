@@ -1,0 +1,18 @@
+id: level-022
+title: Birthday Party
+difficulty: EASY
+order: 22
+type: level
+size: 11
+seed: 22
+---
+CAKE | Treat with candles on top
+CANDLE | Blow it out and make a wish
+BALLOON | It floats when filled with helium
+GIFT | Present wrapped in paper
+GAMES | Fun activities at a party
+MUSIC | You dance to it
+HAT | Paper cone worn at a party
+CARD | It says Happy Birthday
+FRIENDS | Guests you invite
+SMILE | Happy face

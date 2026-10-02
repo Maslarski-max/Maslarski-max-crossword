@@ -1,0 +1,20 @@
+id: level-047
+title: Olympic Games
+difficulty: MEDIUM
+order: 47
+type: level
+size: 13
+seed: 47
+---
+ARCHERY | Sport with bows and arrows
+FENCING | Sport with foils and masks
+ROWING | Sport with oars and a boat
+JUDO | Japanese martial art at the Games
+DIVING | Sport off a springboard
+HURDLES | Barriers to jump in a race
+JAVELIN | Spear thrown for distance
+MARATHON | Race of about forty-two kilometres
+TORCH | It carries the Olympic flame
+PODIUM | Winners stand on it
+GOLD | First-place medal
+BOXING | Sport in a ring with gloves

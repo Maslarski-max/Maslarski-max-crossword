@@ -8,6 +8,7 @@ import com.maslarski.crossword.domain.model.PlayerStats
 import com.maslarski.crossword.domain.model.Puzzle
 import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
+import com.maslarski.crossword.domain.repository.EntitlementRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.ExperimentalCoroutinesApi
@@ -55,6 +56,7 @@ class HomeViewModel @Inject constructor(
     puzzles: PuzzleRepository,
     progress: ProgressRepository,
     wallet: WalletRepository,
+    private val entitlements: EntitlementRepository,
     clock: Clock,
 ) : ViewModel() {
 
@@ -89,7 +91,7 @@ class HomeViewModel @Inject constructor(
             ::Pair,
         )
         emitAll(
-            combine(boards, progress.observeLevels(), progress.observeStats(today), wallet.observeCoins()) { (dailyBoard, last), levelProgress, stats, coins ->
+            combine(boards, progress.observeLevels(), progress.observeStats(today), wallet.observeCoins(), entitlements.observeUnlimited()) { (dailyBoard, last), levelProgress, stats, coins, unlimited ->
                 val dailyBoard = dailyBoard?.takeIf { daily != null && it.matches(daily) }
                 val dailyCard = if (daily != null && dailySession != null) {
                     PuzzleCard(
@@ -110,7 +112,7 @@ class HomeViewModel @Inject constructor(
                     }
                 val next = levelProgress
                     .sortedBy { it.order }
-                    .firstOrNull { it.unlocked && !it.completed }
+                    .firstOrNull { (it.unlocked || unlimited) && !it.completed }
                     ?.let { byId[it.puzzleId] }
                     ?.takeIf { it.id != continueCard?.puzzleId }
                     ?.let { PuzzleCard(GameSession.Level(it.id).id, it.id, it.title, it.difficulty, 0f, false) }

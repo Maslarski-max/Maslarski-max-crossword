@@ -1,0 +1,20 @@
+id: level-052
+title: Computers
+difficulty: MEDIUM
+order: 52
+type: level
+size: 13
+seed: 52
+---
+MOUSE | Pointer you click
+KEYBOARD | You type on it
+SCREEN | Display
+LAPTOP | Portable computer
+CODE | Programmer's instructions
+PIXEL | Tiny dot on a screen
+BROWSER | Program for the web
+FILE | Saved document
+CURSOR | Blinking marker on a screen
+MEMORY | RAM, for example
+EMAIL | Electronic letter
+ROUTER | Box that shares your internet

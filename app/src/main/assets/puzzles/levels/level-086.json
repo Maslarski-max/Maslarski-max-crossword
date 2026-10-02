@@ -1,0 +1,44 @@
+{
+  "id": "level-086",
+  "title": "Medical Terms",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "SYMPTOM########",
+    "###L########F##",
+    "D##A#A####VIRUS",
+    "I##C#N####A#A#U",
+    "ANAESTHETIC#C#R",
+    "G##B#I####C#T#G",
+    "N##O#B####I#U#E",
+    "O####I####N#R#O",
+    "STETHOSCOPE#E#N",
+    "I##H#T###U#####",
+    "S##E#INSULIN###",
+    "###R#C###S#####",
+    "###A##ALLERGY##",
+    "###P###########",
+    "###Y###########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Sign of disease",
+      "6": "Tiny infectious agent",
+      "8": "Drug that numbs pain",
+      "9": "Doctor's listening tool",
+      "12": "Hormone for diabetes treatment",
+      "13": "Reaction to pollen, for example"
+    },
+    "down": {
+      "2": "Dummy pill in a trial",
+      "3": "Broken bone",
+      "4": "Identification of an illness",
+      "5": "Drug that kills bacteria",
+      "6": "Shot that builds immunity",
+      "7": "Doctor who operates",
+      "10": "Course of treatment",
+      "11": "Heartbeat felt at the wrist"
+    }
+  },
+  "order": 86
+}

@@ -1,0 +1,18 @@
+id: level-023
+title: Sports Day
+difficulty: EASY
+order: 23
+type: level
+size: 11
+seed: 23
+---
+RACE | Contest of speed
+JUMP | Leap into the air
+GOAL | Score in football
+MEDAL | Award for first place
+TEAM | Players on the same side
+COACH | Person who trains athletes
+SPRINT | Short fast run
+RELAY | Race where runners pass a baton
+WINNER | Person who comes first
+WHISTLE | Referee blows it

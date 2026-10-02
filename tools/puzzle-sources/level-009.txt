@@ -1,0 +1,18 @@
+id: level-009
+title: Farmyard
+difficulty: EASY
+order: 9
+type: level
+size: 11
+seed: 9
+---
+COW | Farm animal that gives milk
+PIG | Pink farm animal that loves mud
+HORSE | Animal you ride in a saddle
+SHEEP | Woolly animal that says baa
+GOAT | Bearded farm animal that will eat almost anything
+HEN | Female chicken
+BARN | Big red farm building
+TRACTOR | Farm vehicle that pulls a plough
+DUCK | Farm bird that quacks
+GOOSE | Farm bird bigger than a duck that honks

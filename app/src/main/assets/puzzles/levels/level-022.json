@@ -1,0 +1,34 @@
+{
+  "id": "level-022",
+  "title": "Birthday Party",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###CANDLE",
+    "###A#####",
+    "#H#K#GIFT",
+    "GAMES##R#",
+    "#T##MUSIC",
+    "##C#I##E#",
+    "#BALLOON#",
+    "##R#E##D#",
+    "##D####S#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Blow it out and make a wish",
+      "3": "Present wrapped in paper",
+      "5": "Fun activities at a party",
+      "7": "You dance to it",
+      "9": "It floats when filled with helium"
+    },
+    "down": {
+      "1": "Treat with candles on top",
+      "2": "Paper cone worn at a party",
+      "4": "Guests you invite",
+      "6": "Happy face",
+      "8": "It says Happy Birthday"
+    }
+  },
+  "order": 22
+}

@@ -1,0 +1,18 @@
+id: level-018
+title: Toy Box
+difficulty: EASY
+order: 18
+type: level
+size: 11
+seed: 18
+---
+DOLL | Toy that looks like a person
+BALL | Round toy you kick or throw
+KITE | Toy that flies on a string
+YOYO | Toy that goes up and down on a string
+PUZZLE | Toy made of pieces that fit together
+BLOCKS | Wooden cubes for building
+ROBOT | Toy machine that may walk and talk
+TEDDY | Cuddly toy bear
+DRUM | Toy you bang with sticks
+TRUCK | Toy vehicle with a tipping back

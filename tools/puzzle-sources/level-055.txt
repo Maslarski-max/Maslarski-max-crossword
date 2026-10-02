@@ -1,0 +1,20 @@
+id: level-055
+title: Theatre Night
+difficulty: MEDIUM
+order: 55
+type: level
+size: 13
+seed: 55
+---
+STAGE | Where actors perform
+CURTAIN | It rises before the show
+SCRIPT | Written lines for actors
+DIRECTOR | Person in charge of a production
+APPLAUSE | Clapping at the end
+USHER | Person who shows you to your seat
+COSTUME | Actor's outfit
+REHEARSAL | Practice before opening night
+ENCORE | Extra performance after demand
+BALCONY | Upper seating level
+PROMPT | Help for an actor who forgets
+DRAMA | Serious play

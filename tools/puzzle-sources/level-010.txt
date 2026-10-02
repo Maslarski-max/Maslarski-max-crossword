@@ -1,0 +1,17 @@
+id: level-010
+title: Kitchen Drawer
+difficulty: EASY
+order: 10
+type: level
+size: 11
+seed: 10
+---
+SPOON | Utensil for eating soup
+FORK | Pronged eating utensil
+KNIFE | Utensil for cutting
+LADLE | Deep spoon for serving soup
+WHISK | Tool for beating eggs
+PAN | Flat cooking vessel with a handle
+POT | Deep vessel for boiling pasta
+PLATE | You serve dinner on it
+BOWL | Dish for cereal

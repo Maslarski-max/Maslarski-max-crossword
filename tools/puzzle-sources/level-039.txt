@@ -1,0 +1,18 @@
+id: level-039
+title: Vegetable Patch
+difficulty: EASY
+order: 39
+type: level
+size: 11
+seed: 39
+---
+CARROT | Orange root that rabbits love
+POTATO | Vegetable for chips
+ONION | Vegetable that makes you cry
+PEAS | Small green balls in a pod
+CORN | Yellow cobs
+CABBAGE | Leafy head often made into coleslaw
+PUMPKIN | Orange squash carved at Halloween
+BEAN | Jack's magic seed
+LETTUCE | Salad leaves
+TOMATO | Red fruit used like a vegetable

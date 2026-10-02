@@ -1,0 +1,20 @@
+id: level-043
+title: Science Lab
+difficulty: MEDIUM
+order: 43
+type: level
+size: 13
+seed: 43
+---
+ATOM | Smallest unit of an element
+BEAKER | Glass cup for experiments
+MAGNET | It attracts iron
+GRAVITY | Force that makes apples fall
+OXYGEN | Gas we breathe to live
+ENERGY | Capacity to do work
+MICROSCOPE | It makes tiny things look big
+CELL | Basic unit of life
+ACID | Lemon juice is one
+LASER | Narrow beam of intense light
+FOSSIL | Ancient remains in rock
+VOLT | Unit of electrical potential

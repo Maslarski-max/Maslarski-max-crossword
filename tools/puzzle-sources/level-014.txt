@@ -1,0 +1,18 @@
+id: level-014
+title: Body Parts
+difficulty: EASY
+order: 14
+type: level
+size: 11
+seed: 14
+---
+HEAD | Top part of your body
+HAND | Body part with five fingers
+FOOT | Body part you stand on
+KNEE | Joint in the middle of your leg
+ELBOW | Joint in the middle of your arm
+NOSE | You smell with it
+EAR | You hear with it
+MOUTH | You eat and speak with it
+SHOULDER | Joint where the arm meets the body
+TOOTH | It may need a filling

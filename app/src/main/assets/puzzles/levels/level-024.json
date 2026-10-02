@@ -1,0 +1,36 @@
+{
+  "id": "level-024",
+  "title": "Musical Instruments",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#D###H####",
+    "#R###A###V",
+    "GUITAR#B#I",
+    "#M#R#PIANO",
+    "#S#U###N#L",
+    "###M###J#I",
+    "###P#F#O#N",
+    "##CELLO###",
+    "###T#U####",
+    "#####TUBA#",
+    "#####E####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Instrument with six strings",
+      "7": "Instrument with black and white keys",
+      "9": "Big string instrument held between the knees",
+      "10": "Biggest brass instrument"
+    },
+    "down": {
+      "1": "Instrument you hit with sticks",
+      "2": "Large instrument with many strings plucked by hand",
+      "3": "Small string instrument played with a bow",
+      "5": "Brass instrument with three valves",
+      "6": "Round string instrument used in bluegrass",
+      "8": "Thin wind instrument held sideways"
+    }
+  },
+  "order": 24
+}

@@ -1,0 +1,39 @@
+{
+  "id": "level-051",
+  "title": "Ancient Egypt",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######O######",
+    "#SCARAB##S###",
+    "##L###E##P###",
+    "HIEROGLYPH###",
+    "##O###I##I##D",
+    "PAPYRUS##NILE",
+    "H#A###K##X##S",
+    "A#TOMB######E",
+    "R#R#U#######R",
+    "A#A#M#######T",
+    "O###M########",
+    "H##PYRAMID###"
+  ],
+  "clues": {
+    "across": {
+      "2": "Sacred beetle",
+      "5": "Picture symbol of writing",
+      "7": "Ancient writing material",
+      "8": "River through Egypt",
+      "9": "Burial chamber",
+      "11": "Tomb with four triangular sides"
+    },
+    "down": {
+      "1": "Tall four-sided stone pillar",
+      "3": "Last active ruler of Ptolemaic Egypt",
+      "4": "Lion body with a human head",
+      "6": "Sandy dry land",
+      "7": "Ruler of ancient Egypt",
+      "10": "Wrapped preserved body"
+    }
+  },
+  "order": 51
+}

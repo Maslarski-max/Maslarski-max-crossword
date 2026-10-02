@@ -1,0 +1,43 @@
+{
+  "id": "level-087",
+  "title": "Ancient Rome",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##########C####",
+    "##L####G#FORUM#",
+    "##E####L##L###S",
+    "TOGA#CHARIOT##E",
+    "##I##A#D##S###N",
+    "#POMPEII##S#A#A",
+    "##N##S#AQUEDUCT",
+    "#####A#T##U#G#E",
+    "CENTURION#M#U##",
+    "O#E####R####S##",
+    "N#R#########T##",
+    "S#O#########U##",
+    "U###########S##",
+    "L##############"
+  ],
+  "clues": {
+    "across": {
+      "4": "Roman public square",
+      "6": "Roman robe",
+      "7": "Two-wheeled racing cart",
+      "8": "City buried by Vesuvius",
+      "10": "Bridge that carried water",
+      "11": "Commander of a hundred"
+    },
+    "down": {
+      "1": "Great Roman amphitheatre",
+      "2": "Roman army unit",
+      "3": "Arena fighter",
+      "5": "Roman governing body",
+      "7": "Dictator stabbed on the Ides of March",
+      "9": "First Roman emperor",
+      "11": "One of two chief magistrates",
+      "12": "Emperor said to fiddle while Rome burned"
+    }
+  },
+  "order": 87
+}

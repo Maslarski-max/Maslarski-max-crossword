@@ -1,0 +1,22 @@
+id: level-092
+title: Botany
+difficulty: HARD
+order: 92
+type: level
+size: 15
+seed: 92
+---
+PHOTOSYNTHESIS | How plants make food from light
+CHLOROPHYLL | Green pigment in leaves
+POLLEN | Fine powder from flowers
+STAMEN | Male part of a flower
+PISTIL | Female part of a flower
+SEPAL | Leaf-like part under a petal
+FERN | Plant that reproduces by spores
+CONIFER | Cone-bearing tree
+DECIDUOUS | Losing leaves each autumn
+SUCCULENT | Fleshy water-storing plant
+GERMINATE | Begin to sprout
+TUBER | Swollen underground stem like a potato
+RHIZOME | Creeping underground stem
+PERENNIAL | Plant that lives for years

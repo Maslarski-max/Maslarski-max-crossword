@@ -1,0 +1,22 @@
+id: level-093
+title: World Religions
+difficulty: HARD
+order: 93
+type: level
+size: 15
+seed: 93
+---
+TEMPLE | House of worship
+PILGRIM | Person on a holy journey
+MONASTERY | Home of monks
+SCRIPTURE | Sacred writing
+KARMA | Effect of one's actions
+NIRVANA | State of perfect peace in Buddhism
+MANTRA | Repeated sacred phrase
+PRAYER | Words to a deity
+PSALM | Sacred song
+SABBATH | Day of rest
+SYNAGOGUE | Jewish house of worship
+CATHEDRAL | Principal church of a diocese
+MOSQUE | Muslim place of worship
+SHRINE | Holy place

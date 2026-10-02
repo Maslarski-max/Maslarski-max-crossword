@@ -1,0 +1,22 @@
+id: level-081
+title: Astronomy
+difficulty: HARD
+order: 81
+type: level
+size: 15
+seed: 81
+---
+QUASAR | Brilliant distant galactic core
+PULSAR | Spinning neutron star
+SUPERNOVA | Exploding star
+ECLIPSE | When one body hides another
+EQUINOX | Day of equal day and night
+SOLSTICE | Longest or shortest day
+APHELION | Farthest point from the Sun
+ASTEROID | Small rocky body
+NEPTUNE | Eighth planet
+MERCURY | Planet closest to the Sun
+URANUS | Planet that spins on its side
+LIGHTYEAR | Distance light travels in a year
+ZENITH | Point directly overhead
+CONSTELLATION | Pattern of stars such as Orion

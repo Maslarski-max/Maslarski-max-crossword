@@ -1,0 +1,36 @@
+{
+  "id": "level-035",
+  "title": "Bugs and Beasties",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#BEETLE###",
+    "#####A####",
+    "#####D####",
+    "###FLY####",
+    "W#C##B####",
+    "A#R##I####",
+    "SPIDER#S#M",
+    "P#C##D#N#O",
+    "##K####ANT",
+    "##E####I#H",
+    "BUTTERFLY#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Insect with a hard shell",
+      "3": "Buzzing insect",
+      "6": "Eight-legged web spinner",
+      "9": "Tiny insect that lives in a colony",
+      "10": "Insect with colourful wings"
+    },
+    "down": {
+      "2": "Red beetle with black spots",
+      "4": "Striped insect that stings",
+      "5": "Insect that chirps at night",
+      "7": "Slow creature with a shell",
+      "8": "Night-flying cousin of the butterfly"
+    }
+  },
+  "order": 35
+}

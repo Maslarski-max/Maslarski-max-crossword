@@ -1,0 +1,18 @@
+id: level-025
+title: Shapes
+difficulty: EASY
+order: 25
+type: level
+size: 11
+seed: 25
+---
+CIRCLE | Perfectly round shape
+SQUARE | Shape with four equal sides
+TRIANGLE | Shape with three sides
+OVAL | Egg shape
+STAR | Shape with five points
+HEART | Shape of love
+DIAMOND | Shape of a kite or a playing-card suit
+CUBE | Shape of a dice
+CONE | Shape of an ice-cream holder
+SPHERE | Shape of a globe

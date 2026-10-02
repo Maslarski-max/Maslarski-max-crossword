@@ -1,0 +1,42 @@
+{
+  "id": "level-094",
+  "title": "Opera House",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####L####D#B##",
+    "#####I#O#FIGARO",
+    "#####B#R##V#R#V",
+    "#####RECITATIVE",
+    "#####E#H#U##T#R",
+    "#C###T#E#R##O#T",
+    "#A#M#TOSCA##N#U",
+    "ARIA#O#T#N##E#R",
+    "#M#E###R#D####E",
+    "#E#SOPRANO#####",
+    "#N#T#####T#####",
+    "###R###########",
+    "#CHORUS########"
+  ],
+  "clues": {
+    "across": {
+      "5": "Mozart's scheming barber",
+      "7": "Sung dialogue",
+      "11": "Puccini opera set in Rome",
+      "12": "Solo song in an opera",
+      "13": "Highest female voice",
+      "14": "Group singing together"
+    },
+    "down": {
+      "1": "Text of an opera",
+      "2": "Celebrated female singer",
+      "3": "Voice between tenor and bass",
+      "4": "Musicians in the pit",
+      "6": "Instrumental opening",
+      "8": "Puccini's ice princess",
+      "9": "Bizet's fiery heroine",
+      "10": "Distinguished conductor"
+    }
+  },
+  "order": 94
+}

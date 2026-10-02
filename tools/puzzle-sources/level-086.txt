@@ -1,0 +1,22 @@
+id: level-086
+title: Medical Terms
+difficulty: HARD
+order: 86
+type: level
+size: 15
+seed: 86
+---
+VACCINE | Shot that builds immunity
+ANTIBIOTIC | Drug that kills bacteria
+SURGEON | Doctor who operates
+DIAGNOSIS | Identification of an illness
+SYMPTOM | Sign of disease
+PULSE | Heartbeat felt at the wrist
+FRACTURE | Broken bone
+ALLERGY | Reaction to pollen, for example
+INSULIN | Hormone for diabetes treatment
+STETHOSCOPE | Doctor's listening tool
+ANAESTHETIC | Drug that numbs pain
+THERAPY | Course of treatment
+VIRUS | Tiny infectious agent
+PLACEBO | Dummy pill in a trial

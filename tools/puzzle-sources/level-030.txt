@@ -1,0 +1,18 @@
+id: level-030
+title: Winter Fun
+difficulty: EASY
+order: 30
+type: level
+size: 11
+seed: 30
+---
+SLED | Ride it down a snowy hill
+SKI | Glide down a mountain on it
+SNOWMAN | Figure with a carrot nose
+ICE | Frozen water
+SKATE | Glide on ice
+MITTEN | Glove without separate fingers
+SCARF | Woolly neck warmer
+IGLOO | House made of snow blocks
+COCOA | Hot chocolate drink
+FIRE | Warm yourself by it

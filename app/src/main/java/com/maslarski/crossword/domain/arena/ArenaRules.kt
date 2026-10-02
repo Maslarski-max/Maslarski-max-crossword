@@ -16,7 +16,7 @@ enum class PlacementError { NOT_YOUR_TURN, NO_TILES, BAD_TILE, CELL_TAKEN, NOT_O
  * [SCORELESS_TURN_LIMIT] consecutive turns without points.
  */
 object ArenaRules {
-    const val RACK_SIZE = 5
+    const val RACK_SIZE = 7
     const val WIN_REWARD = 20
     const val DRAW_REWARD = 10
     const val SCORELESS_TURN_LIMIT = 4

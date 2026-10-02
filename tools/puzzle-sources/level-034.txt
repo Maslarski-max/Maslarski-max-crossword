@@ -1,0 +1,18 @@
+id: level-034
+title: Rainy Day Games
+difficulty: EASY
+order: 34
+type: level
+size: 11
+seed: 34
+---
+CHESS | Game with kings and queens on a board
+CARDS | A deck of fifty-two
+DICE | Cubes you roll
+BINGO | Game where you shout when your card is full
+DOMINO | Tile with dots
+PUZZLE | Jigsaw, for example
+QUIZ | Set of questions
+CHARADES | Game of acting without words
+TAG | Chasing game
+HIDE | Seek's partner in a game

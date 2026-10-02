@@ -1,0 +1,36 @@
+{
+  "id": "level-036",
+  "title": "Bathroom Shelf",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####S###",
+    "#####H###",
+    "###SPONGE",
+    "BATH#W###",
+    "R##A#E#C#",
+    "U##MIRROR",
+    "SOAP###M#",
+    "H##O###B#",
+    "##TOWEL##",
+    "##A######",
+    "##P######"
+  ],
+  "clues": {
+    "across": {
+      "2": "Squishy bath scrubber",
+      "3": "Tub for soaking",
+      "5": "You see yourself in it",
+      "6": "Bar for washing",
+      "7": "Dry yourself with it"
+    },
+    "down": {
+      "1": "Spray of water to wash under",
+      "2": "Hair wash",
+      "3": "Tool for tidying hair",
+      "4": "Toothed tool for hair",
+      "7": "Turn it to get water"
+    }
+  },
+  "order": 36
+}

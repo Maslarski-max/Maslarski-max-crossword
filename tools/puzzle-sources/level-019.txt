@@ -1,0 +1,18 @@
+id: level-019
+title: Garden Path
+difficulty: EASY
+order: 19
+type: level
+size: 11
+seed: 19
+---
+ROSE | Thorny flower often given on Valentine's Day
+TULIP | Spring flower grown from a bulb
+DAISY | White flower with a yellow centre
+TREE | Tall plant with a trunk
+GRASS | Green lawn plant
+SEED | Plants grow from it
+SHOVEL | Tool for digging
+HOSE | Tube for watering plants
+WORM | It wriggles in the soil
+BEE | Insect that visits flowers

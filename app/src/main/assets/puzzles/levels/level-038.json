@@ -1,0 +1,35 @@
+{
+  "id": "level-038",
+  "title": "Under the Sea Treasure",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##S########",
+    "##H########",
+    "##I##M#####",
+    "##PIRATE###",
+    "###S#P##P##",
+    "F##L##C#A##",
+    "L##ANCHOR##",
+    "A##N##E#R##",
+    "GOLD##SWORD",
+    "######T#T##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Sailor with a hook and an eye patch",
+      "8": "It holds a ship in place",
+      "9": "Shiny yellow metal",
+      "10": "Pirate's weapon"
+    },
+    "down": {
+      "1": "Pirate vessel",
+      "2": "X marks the spot on it",
+      "4": "Land surrounded by water",
+      "5": "Bird on a pirate's shoulder",
+      "6": "Skull and crossbones, for one",
+      "7": "Box of treasure"
+    }
+  },
+  "order": 38
+}

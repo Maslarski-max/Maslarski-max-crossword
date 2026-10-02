@@ -1,0 +1,38 @@
+{
+  "id": "level-042",
+  "title": "World Capitals",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######R###V##",
+    "#P####O#CAIRO",
+    "#A####M###E##",
+    "#R###BERLIN##",
+    "#I########N##",
+    "OSLO###LIMA##",
+    "###TOKYO#####",
+    "###T###N#####",
+    "##MADRID#####",
+    "###W###O#####",
+    "###ATHENS####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Capital near the Pyramids of Giza",
+      "5": "German capital once divided by a wall",
+      "6": "Norway's capital",
+      "8": "Peru's capital",
+      "9": "Japan's capital",
+      "10": "Spain's capital",
+      "11": "Capital beneath the Acropolis"
+    },
+    "down": {
+      "1": "Eternal City",
+      "2": "Austrian capital famed for waltzes",
+      "3": "City of the Eiffel Tower",
+      "7": "Canada's capital",
+      "8": "Capital on the Thames"
+    }
+  },
+  "order": 42
+}

@@ -1,5 +1,6 @@
 package com.maslarski.crossword.domain.repository
 
+import android.app.Activity
 import com.maslarski.crossword.domain.arena.ArenaMatch
 import com.maslarski.crossword.domain.arena.ArenaResult
 import com.maslarski.crossword.domain.arena.ArenaState
@@ -18,7 +19,12 @@ import com.maslarski.crossword.domain.model.UnlockResult
 import com.maslarski.crossword.domain.profile.Achievement
 import com.maslarski.crossword.domain.profile.LoginReward
 import com.maslarski.crossword.domain.profile.PlayerProfile
+import com.maslarski.crossword.domain.shop.ShopEvent
+import com.maslarski.crossword.domain.shop.ShopProduct
+import com.maslarski.crossword.domain.shop.StoreListing
+import com.maslarski.crossword.domain.shop.StoreStatus
 import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.StateFlow
 import java.time.LocalDate
 
 interface PuzzleRepository {
@@ -101,4 +107,22 @@ interface SettingsRepository {
     suspend fun setDynamicColor(enabled: Boolean)
     suspend fun setHaptics(enabled: Boolean)
     suspend fun setShowTimer(enabled: Boolean)
+}
+
+interface EntitlementRepository {
+    fun observeUnlimited(): Flow<Boolean>
+    suspend fun isUnlimited(): Boolean
+    suspend fun setUnlimited(active: Boolean)
+
+    /** Adds [coins] to the wallet unless [token] was already credited; returns whether it was credited now. */
+    suspend fun creditPurchase(token: String, productId: String, coins: Int): Boolean
+}
+
+interface StoreRepository {
+    val status: StateFlow<StoreStatus>
+    val listings: StateFlow<List<StoreListing>>
+    val events: Flow<ShopEvent>
+    fun purchase(activity: Activity, product: ShopProduct)
+    /** Re-reads owned purchases from Play, applying any that were not yet delivered. */
+    suspend fun refresh()
 }

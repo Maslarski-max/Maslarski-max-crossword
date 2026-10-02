@@ -1,0 +1,34 @@
+{
+  "id": "level-014",
+  "title": "Body Parts",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#T########",
+    "MOUTH#####",
+    "#O##A###N#",
+    "#T##N#FOOT",
+    "#HEAD###S#",
+    "##L##KNEE#",
+    "##B####A##",
+    "SHOULDER##",
+    "##W#######"
+  ],
+  "clues": {
+    "across": {
+      "2": "You eat and speak with it",
+      "5": "Body part you stand on",
+      "6": "Top part of your body",
+      "8": "Joint in the middle of your leg",
+      "10": "Joint where the arm meets the body"
+    },
+    "down": {
+      "1": "It may need a filling",
+      "3": "Body part with five fingers",
+      "4": "You smell with it",
+      "7": "Joint in the middle of your arm",
+      "9": "You hear with it"
+    }
+  },
+  "order": 14
+}

@@ -1,0 +1,20 @@
+id: level-057
+title: Dog Breeds
+difficulty: MEDIUM
+order: 57
+type: level
+size: 13
+seed: 57
+---
+POODLE | Curly-coated breed
+BEAGLE | Snoopy's breed
+BOXER | Muscular breed with a square jaw
+DALMATIAN | Spotted firehouse dog
+COLLIE | Lassie's breed
+HUSKY | Sled dog of the north
+PUG | Small dog with a wrinkled face
+TERRIER | Small, feisty digger
+BULLDOG | British mascot breed
+GREYHOUND | Fastest racing dog
+CORGI | Queen Elizabeth's favourite breed
+SPANIEL | Breed with floppy ears

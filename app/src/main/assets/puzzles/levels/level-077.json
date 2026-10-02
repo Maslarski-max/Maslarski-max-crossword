@@ -1,0 +1,43 @@
+{
+  "id": "level-077",
+  "title": "Anatomy",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###C#####D#C##",
+    "#C#A#####I#O##",
+    "#LARYNX##AORTA",
+    "#A#T#####P#N##",
+    "#V#I##P##H#E##",
+    "#I#L#PANCREAS#",
+    "#C#A##T##A##T#",
+    "#L#G##E##G##E#",
+    "CEREBELLUM##R#",
+    "##E###L#####N#",
+    "##TIBIA##FEMUR",
+    "##I#########M#",
+    "TENDON########",
+    "##A###########"
+  ],
+  "clues": {
+    "across": {
+      "5": "Voice box",
+      "6": "Main artery from the heart",
+      "8": "Organ that makes insulin",
+      "10": "Brain region for balance",
+      "12": "Shinbone",
+      "13": "Longest bone in the body",
+      "14": "It ties muscle to bone"
+    },
+    "down": {
+      "1": "Flexible tissue in the nose and ears",
+      "2": "Breathing muscle under the lungs",
+      "3": "Clear front of the eye",
+      "4": "Collarbone",
+      "7": "Kneecap",
+      "9": "Breastbone",
+      "11": "Light-sensitive layer of the eye"
+    }
+  },
+  "order": 77
+}

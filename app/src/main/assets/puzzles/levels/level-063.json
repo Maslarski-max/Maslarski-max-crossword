@@ -1,0 +1,40 @@
+{
+  "id": "level-063",
+  "title": "Money Matters",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#B#W####B",
+    "SALARY##U",
+    "#N#L##I#D",
+    "#K#LOAN#G",
+    "###E##V#E",
+    "#INTEREST",
+    "P#####S##",
+    "RECEIPT##",
+    "I#O##R###",
+    "C#I##O###",
+    "E#N##F###",
+    "#####I###",
+    "#####TAX#"
+  ],
+  "clues": {
+    "across": {
+      "4": "Regular pay for work",
+      "6": "Money borrowed",
+      "7": "Extra paid on a loan",
+      "9": "Proof of purchase",
+      "12": "Money paid to the government"
+    },
+    "down": {
+      "1": "Place to keep your savings",
+      "2": "You keep cash in it",
+      "3": "Spending plan",
+      "5": "Put money in to make more",
+      "8": "What something costs",
+      "10": "Metal money",
+      "11": "Money left after costs"
+    }
+  },
+  "order": 63
+}

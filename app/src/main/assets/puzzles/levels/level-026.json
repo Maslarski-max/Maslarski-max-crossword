@@ -1,0 +1,34 @@
+{
+  "id": "level-026",
+  "title": "Jungle Trek",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#GORILLA###",
+    "#####I##P#T",
+    "#M###O##A#I",
+    "TOUCAN#FROG",
+    "#N####S#R#E",
+    "#K####N#O#R",
+    "#ELEPHANT##",
+    "#Y####K####",
+    "###VINE####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Largest ape",
+      "6": "Bird with a huge colourful beak",
+      "7": "Green jumper that croaks",
+      "9": "Big animal with a trunk",
+      "10": "Climbing plant to swing on"
+    },
+    "down": {
+      "2": "King of the jungle",
+      "3": "Bright bird of the rainforest",
+      "4": "Big cat with stripes",
+      "5": "Animal that swings through trees",
+      "8": "Animal with no legs that slithers"
+    }
+  },
+  "order": 26
+}
