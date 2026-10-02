@@ -40,6 +40,7 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.suspendCancellableCoroutine
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
+import java.util.concurrent.atomic.AtomicBoolean
 import kotlin.coroutines.resume
 
 /** Google Play Billing Library 9 store for [ShopProduct]s. */
@@ -68,21 +69,28 @@ class PlayStoreRepository(
         .enableAutoServiceReconnection()
         .build()
 
+    private val connecting = AtomicBoolean(false)
+
     init {
+        connect()
+    }
+
+    private fun connect() {
+        if (!connecting.compareAndSet(false, true)) return
+        _status.value = StoreStatus.CONNECTING
         client.startConnection(object : BillingClientStateListener {
             override fun onBillingSetupFinished(result: BillingResult) {
+                connecting.set(false)
                 if (result.responseCode != BillingResponseCode.OK) {
                     Log.w(TAG, "Billing setup failed: ${result.responseCode} ${result.debugMessage}")
                     _status.value = StoreStatus.UNAVAILABLE
                     return
                 }
-                scope.launch {
-                    loadListings()
-                    refresh()
-                }
+                scope.launch { refresh() }
             }
 
             override fun onBillingServiceDisconnected() {
+                connecting.set(false)
                 _status.value = StoreStatus.CONNECTING
             }
         })
@@ -135,12 +143,19 @@ class PlayStoreRepository(
     }
 
     override suspend fun refresh() {
-        if (!client.isReady) return
-        val result = client.queryPurchasesAsync(
-            QueryPurchasesParams.newBuilder().setProductType(BillingClient.ProductType.INAPP).build(),
-        )
-        if (result.billingResult.responseCode != BillingResponseCode.OK) return
-        processing.withLock { processor.sync(result.purchasesList.map(::owned)) }
+        if (!client.isReady) {
+            connect()
+            return
+        }
+        if (details.isEmpty()) loadListings()
+        processing.withLock {
+            val result = client.queryPurchasesAsync(
+                QueryPurchasesParams.newBuilder().setProductType(BillingClient.ProductType.INAPP).build(),
+            )
+            if (result.billingResult.responseCode == BillingResponseCode.OK) {
+                processor.sync(result.purchasesList.map(::owned))
+            }
+        }
     }
 
     override fun onPurchasesUpdated(result: BillingResult, purchases: List<Purchase>?) {
