@@ -73,11 +73,15 @@ class PlayStoreRepository(
     private val connecting = AtomicBoolean(false)
 
     init {
-        if (!verifier.configured) Log.w(TAG, "No Play licence key configured; purchases will not be delivered")
         connect()
     }
 
     private fun connect() {
+        if (!verifier.configured) {
+            Log.w(TAG, "No Play licence key configured; the shop is disabled")
+            _status.value = StoreStatus.UNAVAILABLE
+            return
+        }
         if (!connecting.compareAndSet(false, true)) return
         _status.value = StoreStatus.CONNECTING
         client.startConnection(object : BillingClientStateListener {
@@ -149,7 +153,7 @@ class PlayStoreRepository(
             connect()
             return
         }
-        if (details.isEmpty()) loadListings()
+        if (details.isEmpty()) loadListings() else _status.value = StoreStatus.READY
         processing.withLock {
             val result = client.queryPurchasesAsync(
                 QueryPurchasesParams.newBuilder().setProductType(BillingClient.ProductType.INAPP).build(),

@@ -1,3 +1,6 @@
+import java.security.KeyFactory
+import java.security.spec.X509EncodedKeySpec
+import java.util.Base64
 import java.util.Properties
 
 plugins {
@@ -36,6 +39,8 @@ val keystoreProperties = loadProperties("keystore.properties")
 fun signing(key: String, env: String): String? = keystoreProperties.getProperty(key) ?: System.getenv(env)?.takeIf { it.isNotBlank() }
 val releaseStoreFile = signing("storeFile", "CROSSWORD_KEYSTORE_FILE")
 
+val playLicenseKey = config("playLicenseKey")?.trim().orEmpty()
+
 android {
     namespace = "com.maslarski.crossword"
     // Compose BOM 2026.09 needs the API 37.2 SDK to compile; the app still targets (and is tested on) API 36.
@@ -56,7 +61,7 @@ android {
         manifestPlaceholders["admobAppId"] = requireNotNull(config("admobAppId"))
         buildConfigField("long", "PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER", "${config("playIntegrityCloudProjectNumber") ?: "0"}L")
         // Base64 RSA public key from Play Console > Monetization setup > Licensing; purchases are verified against it.
-        buildConfigField("String", "PLAY_LICENSE_KEY", "\"${config("playLicenseKey") ?: ""}\"")
+        buildConfigField("String", "PLAY_LICENSE_KEY", "\"$playLicenseKey\"")
         buildConfigField("boolean", "FIREBASE_CONFIGURED", hasFirebaseConfig.toString())
         // Hashed device id printed by the UMP SDK in logcat; lets debug builds force the EEA consent form.
         buildConfigField("String", "UMP_TEST_DEVICE_ID", "\"${config("umpTestDeviceId") ?: ""}\"")
@@ -195,3 +200,20 @@ dependencies {
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
 }
+
+// Release builds must be able to verify Play purchases; without the key buyers would be charged and get nothing.
+val checkPlayLicenseKey by tasks.registering {
+    val key = playLicenseKey
+    doLast {
+        val valid = runCatching {
+            KeyFactory.getInstance("RSA").generatePublic(X509EncodedKeySpec(Base64.getDecoder().decode(key)))
+        }.isSuccess
+        if (!valid) {
+            throw GradleException(
+                "playLicenseKey / PLAY_LICENSE_KEY is missing or not a valid Base64 RSA public key " +
+                    "(Play Console > Monetize > Monetization setup > Licensing).",
+            )
+        }
+    }
+}
+tasks.matching { it.name == "preReleaseBuild" }.configureEach { dependsOn(checkPlayLicenseKey) }

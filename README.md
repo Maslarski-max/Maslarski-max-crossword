@@ -148,7 +148,7 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 | `playIntegrityCloudProjectNumber` | `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER` | `0` (disabled) |
 | `versionCode` / `versionName` | `VERSION_CODE` / `VERSION_NAME` | `1` / `1.0.0` |
 | `umpTestDeviceId` (debug only) | `UMP_TEST_DEVICE_ID` | empty |
-| `playLicenseKey` | `PLAY_LICENSE_KEY` | empty (no purchase is delivered) |
+| `playLicenseKey` | `PLAY_LICENSE_KEY` | empty: shop disabled; release builds fail |
 
 ### AdMob and consent (UMP)
 
@@ -195,7 +195,8 @@ a licensed tester; elsewhere the shop says Google Play purchases aren't availabl
 
 Every purchase is checked against the app's Play licence key before anything is granted (`PurchaseSignatureVerifier`).
 Copy the Base64 RSA public key from **Play Console > Monetize > Monetization setup > Licensing** into `playLicenseKey`
-(it is a public key, so `gradle.properties` is fine). Without it no purchase is delivered. For stronger protection
+(it is a public key, so `gradle.properties` is fine; CI reads the `PLAY_LICENSE_KEY` secret). Without it the shop stays
+disabled and release builds fail. For stronger protection
 against modified clients, also verify tokens on a server with the Play Developer API (`purchases.products.get`).
 
 ### Security notes
