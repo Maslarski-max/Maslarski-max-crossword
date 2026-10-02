@@ -11,6 +11,7 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.aspectRatio
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.navigationBarsPadding
 import androidx.compose.foundation.layout.padding
@@ -125,7 +126,7 @@ fun AchievementToast(unlocks: Flow<Achievement>, modifier: Modifier = Modifier) 
             delay(EXIT_MS)
         }
     }
-    Box(modifier.fillMaxWidth().navigationBarsPadding().padding(bottom = 24.dp), contentAlignment = Alignment.BottomCenter) {
+    Box(modifier.fillMaxSize().navigationBarsPadding().padding(bottom = 24.dp), contentAlignment = Alignment.BottomCenter) {
         AnimatedVisibility(
             visible = visible,
             enter = slideInVertically { it } + fadeIn() + scaleIn(initialScale = 0.8f),
