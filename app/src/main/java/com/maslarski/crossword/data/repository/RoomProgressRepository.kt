@@ -93,6 +93,9 @@ class RoomProgressRepository(
             e?.let { DailyStatus(LocalDate.parse(it.date), it.puzzleId, it.completed, it.score) }
         }
 
+    override fun observeDailyCompletions(from: LocalDate, to: LocalDate): Flow<Set<LocalDate>> =
+        daily.observeCompletedBetween(from.toString(), to.toString()).map { dates -> dates.mapTo(HashSet(), LocalDate::parse) }
+
     override fun observeStats(today: LocalDate): Flow<PlayerStats> = combine(
         highScores.observeSolvedCount(),
         highScores.observeBest(),

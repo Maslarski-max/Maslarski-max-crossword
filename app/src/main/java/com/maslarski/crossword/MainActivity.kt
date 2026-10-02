@@ -9,6 +9,9 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
+import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.compose.LifecycleEventEffect
 import androidx.compose.ui.Modifier
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.lifecycleScope
@@ -22,6 +25,9 @@ import com.maslarski.crossword.domain.repository.WalletRepository
 import com.maslarski.crossword.ui.components.CoinChangeToast
 import com.maslarski.crossword.ui.components.LocalConsentManager
 import com.maslarski.crossword.ui.navigation.CrosswordNavHost
+import com.maslarski.crossword.ui.profile.AchievementToast
+import com.maslarski.crossword.ui.profile.LoginRewardDialog
+import com.maslarski.crossword.ui.profile.MainViewModel
 import com.maslarski.crossword.ui.theme.CrosswordTheme
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
@@ -52,6 +58,9 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             val settings by settingsRepository.settings.collectAsStateWithLifecycle(initialValue = Settings())
+            val main: MainViewModel = hiltViewModel()
+            val reward by main.reward.collectAsStateWithLifecycle()
+            LifecycleEventEffect(Lifecycle.Event.ON_START) { main.onAppOpened() }
             CrosswordTheme(themeMode = settings.themeMode, dynamicColor = settings.dynamicColor) {
                 CompositionLocalProvider(
                     LocalConsentManager provides consentManager,
@@ -59,6 +68,8 @@ class MainActivity : ComponentActivity() {
                     Box(Modifier.fillMaxSize()) {
                         CrosswordNavHost()
                         CoinChangeToast(remember { walletRepository.observeCoins() })
+                        AchievementToast(main.achievement.collectAsStateWithLifecycle().value)
+                        reward?.let { LoginRewardDialog(it, onDismiss = main::onRewardDismissed) }
                     }
                 }
             }

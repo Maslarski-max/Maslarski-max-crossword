@@ -12,15 +12,19 @@ import androidx.navigation.compose.rememberNavController
 import com.maslarski.crossword.ui.arena.ArenaLobbyScreen
 import com.maslarski.crossword.ui.arena.ArenaScreen
 import com.maslarski.crossword.ui.clues.CluesScreen
+import com.maslarski.crossword.ui.daily.DailyScreen
 import com.maslarski.crossword.ui.game.GameScreen
 import com.maslarski.crossword.ui.home.HomeScreen
 import com.maslarski.crossword.ui.hub.HubScreen
 import com.maslarski.crossword.ui.levels.LevelsScreen
 import com.maslarski.crossword.ui.settings.SettingsScreen
+import com.maslarski.crossword.ui.stats.StatsScreen
 import kotlinx.serialization.Serializable
 
 @Serializable data object HubRoute
 @Serializable data object SettingsRoute
+@Serializable data object DailyRoute
+@Serializable data object StatsRoute
 
 @Serializable data object ClassicGraph
 @Serializable data object ClassicHomeRoute
@@ -50,8 +54,19 @@ fun CrosswordNavHost() {
             HubScreen(
                 onClassic = { nav.navigate(ClassicGraph) },
                 onArena = { nav.navigate(ArenaGraph) },
+                onDaily = { nav.navigate(DailyRoute) },
+                onStats = { nav.navigate(StatsRoute) },
                 onSettings = { nav.navigate(SettingsRoute) },
             )
+        }
+        composable<DailyRoute> {
+            DailyScreen(
+                onBack = { nav.popBackStack() },
+                onPlay = { sessionId, puzzleId -> nav.navigate(GameRoute(sessionId, puzzleId)) },
+            )
+        }
+        composable<StatsRoute> {
+            StatsScreen(onBack = { nav.popBackStack() })
         }
         composable<SettingsRoute> {
             SettingsScreen(onBack = { nav.popBackStack() })

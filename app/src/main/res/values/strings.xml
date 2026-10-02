@@ -55,6 +55,75 @@
     <string name="mode_arena_summary">Turn-based duels against an AI opponent. Place letter tiles, grab bonus cells, outscore your rival.</string>
     <string name="mode_arena_stats" tools:ignore="PluralsCandidate">%1$d wins · %2$d losses · best %3$d</string>
     <string name="mode_play">Play</string>
+    <string name="mode_daily_summary">One brand-new crossword every day. Solve it to grow your streak and fill the calendar with stars.</string>
+    <string name="mode_daily_stats_open" tools:ignore="PluralsCandidate">Today\'s puzzle is waiting · %1$d day streak</string>
+    <string name="mode_daily_stats_done" tools:ignore="PluralsCandidate">Solved today · %1$d day streak</string>
+    <string name="mode_daily_action">Open calendar</string>
+    <string name="mode_stats_summary">Your solves, Arena record, fastest time and coin earnings, plus badges to unlock.</string>
+    <string name="mode_stats_stats" tools:ignore="PluralsCandidate">%1$d of %2$d achievements unlocked</string>
+    <string name="mode_stats_action">View stats</string>
+
+    <!-- Daily Challenge -->
+    <string name="daily_title">Daily Challenge</string>
+    <string name="daily_unavailable">Today\'s challenge couldn\'t be loaded.</string>
+    <string name="daily_play_today">Play today\'s puzzle</string>
+    <plurals name="daily_streak">
+        <item quantity="one">%1$d day streak</item>
+        <item quantity="other">%1$d day streak</item>
+    </plurals>
+    <string name="daily_month_progress" tools:ignore="PluralsCandidate">%1$d of %2$d days solved</string>
+    <string name="daily_previous_month">Previous month</string>
+    <string name="daily_next_month">Next month</string>
+    <string name="daily_day_solved">%1$s, solved</string>
+    <string name="daily_day_unsolved">%1$s, not solved</string>
+    <string name="daily_day_upcoming">%1$s, upcoming</string>
+
+    <!-- My Stats -->
+    <string name="stats_title">My Stats</string>
+    <string name="stats_puzzles_solved">Puzzles solved</string>
+    <string name="stats_arena_record">Arena W–L–D</string>
+    <string name="stats_arena_record_value">%1$d–%2$d–%3$d</string>
+    <string name="stats_fastest">Fastest solve</string>
+    <string name="stats_coins_earned">Coins earned</string>
+    <string name="stats_daily_solved">Daily challenges</string>
+    <string name="stats_login_streak">Login streak (best)</string>
+    <string name="stats_login_streak_value">%1$d (%2$d)</string>
+    <string name="stats_achievements">Achievements · %1$d/%2$d</string>
+    <string name="achievement_unlocked">Achievement unlocked</string>
+    <string name="achievement_unlocked_on">Unlocked %1$s</string>
+    <string name="achievement_locked">Locked</string>
+    <string name="achievement_progress">%1$d / %2$d</string>
+    <string name="achievement_first_solve">First Steps</string>
+    <string name="achievement_first_solve_desc">Solve your first puzzle</string>
+    <string name="achievement_puzzler">Puzzler</string>
+    <string name="achievement_puzzler_desc">Solve 10 puzzles</string>
+    <string name="achievement_word_master">Word Master</string>
+    <string name="achievement_word_master_desc">Solve 50 puzzles</string>
+    <string name="achievement_daily_devotee">Daily Devotee</string>
+    <string name="achievement_daily_devotee_desc">Complete 7 Daily Challenges</string>
+    <string name="achievement_speed_solver">Speed Solver</string>
+    <string name="achievement_speed_solver_desc">Solve a puzzle in under 2 minutes</string>
+    <string name="achievement_arena_challenger">Challenger</string>
+    <string name="achievement_arena_challenger_desc">Win your first Arena match</string>
+    <string name="achievement_arena_king">Arena King</string>
+    <string name="achievement_arena_king_desc">Win 10 Arena matches</string>
+    <string name="achievement_loyal_player">Loyal Player</string>
+    <string name="achievement_loyal_player_desc">Open the app 7 days in a row</string>
+    <string name="achievement_coin_collector">Coin Collector</string>
+    <string name="achievement_coin_collector_desc">Earn 500 coins in total</string>
+
+    <!-- Daily login bonus -->
+    <string name="login_reward_title" tools:ignore="PluralsCandidate">Day %1$d login bonus!</string>
+    <string name="login_reward_day_short">Day %1$d</string>
+    <plurals name="login_reward_message">
+        <item quantity="one">+%1$d coin added to your wallet</item>
+        <item quantity="other">+%1$d coins added to your wallet</item>
+    </plurals>
+    <plurals name="login_reward_streak">
+        <item quantity="one">%1$d day in a row. Come back tomorrow for a bigger bonus.</item>
+        <item quantity="other">%1$d days in a row. Come back tomorrow for a bigger bonus.</item>
+    </plurals>
+    <string name="login_reward_collect">Collect</string>
 
     <!-- Arena lobby -->
     <string name="arena_tagline">Take turns with the AI filling an arrow-word grid. Correct words score; bonus cells score more.</string>

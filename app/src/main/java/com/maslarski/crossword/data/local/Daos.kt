@@ -65,6 +65,10 @@ interface DailyPuzzleDao {
 
     @Query("SELECT date FROM daily_puzzles WHERE completed = 1 ORDER BY date DESC")
     fun observeCompletedDates(): Flow<List<String>>
+
+    /** Completed ISO dates in [from]..[to] inclusive. */
+    @Query("SELECT date FROM daily_puzzles WHERE completed = 1 AND date BETWEEN :from AND :to ORDER BY date")
+    fun observeCompletedBetween(from: String, to: String): Flow<List<String>>
 }
 
 @Dao
@@ -80,12 +84,18 @@ interface HighScoreDao {
 
     @Query("SELECT COUNT(DISTINCT sessionId) FROM high_scores")
     fun observeSolvedCount(): Flow<Int>
+
+    @Query("SELECT MIN(elapsedSeconds) FROM high_scores")
+    fun observeFastest(): Flow<Long?>
 }
 
 @Dao
 interface WalletDao {
     @Query("SELECT coins FROM wallet WHERE id = 0")
     fun observeCoins(): Flow<Int?>
+
+    @Query("SELECT lifetimeEarned FROM wallet WHERE id = 0")
+    fun observeLifetimeEarned(): Flow<Int?>
 
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insertIgnore(entity: WalletEntity)
@@ -128,4 +138,26 @@ interface ArenaMatchDao {
 
     @Query("SELECT difficulty, outcome, playerScore FROM arena_matches WHERE outcome IS NOT NULL ORDER BY finishedAt DESC, id DESC")
     fun observeResults(): Flow<List<ArenaResultRow>>
+}
+
+@Dao
+interface AchievementDao {
+    @Query("SELECT * FROM achievements")
+    fun observeAll(): Flow<List<AchievementEntity>>
+
+    /** Returns the row id, or -1 if the achievement was already unlocked. */
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
+    suspend fun insertIgnore(entity: AchievementEntity): Long
+}
+
+@Dao
+interface LoginStreakDao {
+    @Query("SELECT * FROM login_streak WHERE id = 0")
+    suspend fun get(): LoginStreakEntity?
+
+    @Query("SELECT * FROM login_streak WHERE id = 0")
+    fun observe(): Flow<LoginStreakEntity?>
+
+    @Upsert
+    suspend fun upsert(entity: LoginStreakEntity)
 }

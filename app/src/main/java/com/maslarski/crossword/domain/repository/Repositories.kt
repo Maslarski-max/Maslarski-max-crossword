@@ -15,6 +15,9 @@ import com.maslarski.crossword.domain.model.SavedBoard
 import com.maslarski.crossword.domain.model.Settings
 import com.maslarski.crossword.domain.model.ThemeMode
 import com.maslarski.crossword.domain.model.UnlockResult
+import com.maslarski.crossword.domain.profile.Achievement
+import com.maslarski.crossword.domain.profile.LoginReward
+import com.maslarski.crossword.domain.profile.PlayerProfile
 import kotlinx.coroutines.flow.Flow
 import java.time.LocalDate
 
@@ -41,6 +44,8 @@ interface ProgressRepository {
     suspend fun unlockLevel(levels: List<Puzzle>, puzzleId: String): UnlockResult
 
     fun observeDaily(date: LocalDate): Flow<DailyStatus?>
+    /** Days in [from]..[to] whose Daily Challenge was solved. */
+    fun observeDailyCompletions(from: LocalDate, to: LocalDate): Flow<Set<LocalDate>>
     fun observeStats(today: LocalDate): Flow<PlayerStats>
 
     /** Atomically marks the board solved, updates level/daily records, high scores and awards coins. */
@@ -68,6 +73,17 @@ interface ArenaRepository {
     suspend fun discardMatch(id: Long)
     /** Records the result of a finished [state] and awards coins; returns null if it was already recorded. */
     suspend fun finishMatch(id: Long, state: ArenaState): ArenaResult?
+}
+
+/** My Stats, achievements and the daily login bonus. */
+interface ProfileRepository {
+    fun observeProfile(today: LocalDate): Flow<PlayerProfile>
+    /** Unlocked achievements with their unlock time in epoch millis. */
+    fun observeUnlocked(): Flow<Map<Achievement, Long>>
+    /** Stores every achievement [profile] meets; returns the ones this call unlocked. */
+    suspend fun unlockMet(profile: PlayerProfile): List<Achievement>
+    /** Advances the login streak and pays its bonus in one transaction; null if today was already claimed. */
+    suspend fun claimDailyLogin(today: LocalDate): LoginReward?
 }
 
 interface WalletRepository {
