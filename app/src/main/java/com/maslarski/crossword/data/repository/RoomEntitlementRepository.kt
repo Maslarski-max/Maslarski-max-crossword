@@ -27,7 +27,7 @@ class RoomEntitlementRepository(private val db: CrosswordDatabase, private val c
 
     override suspend fun creditPurchase(token: String, productId: String, coins: Int): Boolean = db.withTransaction {
         val inserted = dao.insertCredit(PurchaseCreditEntity(token, productId, coins, clock.millis())) != -1L
-        if (inserted && coins > 0) wallet.refund(coins)
+        if (inserted && coins > 0) wallet.depositPurchased(coins)
         inserted
     }
 }
