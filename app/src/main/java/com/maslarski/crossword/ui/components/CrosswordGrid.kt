@@ -12,12 +12,12 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.Immutable
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.SideEffect
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableFloatStateOf
-import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.rememberUpdatedState
-import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clipToBounds
@@ -38,24 +38,27 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.drawText
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.rememberTextMeasurer
+import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.min
 import com.maslarski.crossword.domain.model.BoardState
 import com.maslarski.crossword.domain.model.Puzzle
 import com.maslarski.crossword.domain.model.Word
 import com.maslarski.crossword.ui.theme.LocalGridColors
 import kotlin.math.abs
+import kotlinx.coroutines.launch
 import kotlin.math.max
 
 /** Marks the most recent keystroke so the grid can play a "pop" animation on that cell. */
 @Immutable
 data class InputEvent(val index: Int, val sequence: Long)
 
-private const val MAX_ZOOM = 4f
+private val READABLE_CELL = 44.dp
 
 /**
  * Crossword board drawn on a single Canvas (one draw pass for the whole grid, no per-cell composables).
- * Supports pinch-to-zoom, panning while zoomed, double-tap to reset zoom, and keeps the selected cell
- * in view while zoomed.
+ * Boards of any size (the parser allows up to 25x25) fit the available space; pinch to zoom, drag to pan while zoomed,
+ * double-tap to zoom in on a spot or back out to the whole board. Taps map to cells through the current zoom/pan, and
+ * the selected cell is kept in view while zoomed.
  */
 @Composable
 fun CrosswordGrid(
@@ -85,40 +88,36 @@ fun CrosswordGrid(
         if (solved && wave.value < 2f) wave.animateTo(2f, tween(durationMillis = 1600)) else if (!solved) wave.snapTo(0f)
     }
 
+    val state = remember(puzzle.id) { ZoomableGridState() }
+    val scope = rememberCoroutineScope()
+
     BoxWithConstraints(
-        modifier = modifier.clipToBounds().semantics { contentDescription = description },
+        modifier = modifier
+            .clipToBounds()
+            .semantics { contentDescription = description }
+            .pointerInput(state) { detectTransformGestures { centroid, pan, zoom, _ -> state.onTransform(centroid, pan, zoom) } }
+            .pointerInput(state) {
+                detectTapGestures(
+                    onTap = { pos ->
+                        state.cellAtLocal(pos)?.let { index -> if (!puzzle.isBlock(index)) currentOnTap(index) }
+                    },
+                    onDoubleTap = { pos -> scope.launch { state.toggleZoom(pos) } },
+                )
+            },
         contentAlignment = Alignment.Center,
     ) {
         val cellDp = min(maxWidth / puzzle.cols, maxHeight / puzzle.rows)
         val gridWidth = cellDp * puzzle.cols
         val gridHeight = cellDp * puzzle.rows
         val viewport = with(density) { Size(maxWidth.toPx(), maxHeight.toPx()) }
-        val gridPx = with(density) { Size(gridWidth.toPx(), gridHeight.toPx()) }
         val cellPx = with(density) { cellDp.toPx() }
-
-        var zoom by remember(puzzle.id) { mutableFloatStateOf(1f) }
-        var offset by remember(puzzle.id) { mutableStateOf(Offset.Zero) }
-
-        fun clamp(value: Offset, scale: Float): Offset {
-            val maxX = max(0f, (gridPx.width * scale - viewport.width) / 2f)
-            val maxY = max(0f, (gridPx.height * scale - viewport.height) / 2f)
-            return Offset(value.x.coerceIn(-maxX, maxX), value.y.coerceIn(-maxY, maxY))
-        }
+        val readablePx = with(density) { READABLE_CELL.toPx() }
+        SideEffect { state.update(viewport, cellPx, puzzle.rows, puzzle.cols, readablePx) }
 
         // Keep the selected cell on screen when zoomed in.
-        LaunchedEffect(board.selected, zoom > 1f) {
-            if (zoom <= 1f) return@LaunchedEffect
-            val row = puzzle.rowOf(board.selected)
-            val col = puzzle.colOf(board.selected)
-            val cx = ((col + 0.5f) * cellPx - gridPx.width / 2f) * zoom + offset.x
-            val cy = ((row + 0.5f) * cellPx - gridPx.height / 2f) * zoom + offset.y
-            val marginX = viewport.width / 2f - cellPx * zoom
-            val marginY = viewport.height / 2f - cellPx * zoom
-            var dx = 0f
-            var dy = 0f
-            if (cx > marginX) dx = marginX - cx else if (cx < -marginX) dx = -marginX - cx
-            if (cy > marginY) dy = marginY - cy else if (cy < -marginY) dy = -marginY - cy
-            if (dx != 0f || dy != 0f) offset = clamp(offset + Offset(dx, dy), zoom)
+        val zoomed by remember(state) { derivedStateOf { state.isZoomed } }
+        LaunchedEffect(board.selected, zoomed) {
+            state.bringIntoView(puzzle.rowOf(board.selected), puzzle.colOf(board.selected))
         }
 
         val letterStyle = remember(cellPx) {
@@ -134,37 +133,11 @@ fun CrosswordGrid(
         Canvas(
             modifier = Modifier
                 .size(gridWidth, gridHeight)
-                .pointerInput(puzzle.id, viewport) {
-                    detectTransformGestures { centroid, pan, gestureZoom, _ ->
-                        val newZoom = (zoom * gestureZoom).coerceIn(1f, MAX_ZOOM)
-                        val factor = newZoom / zoom
-                        // centroid is in the unscaled canvas space; express it relative to the grid centre.
-                        val c = (centroid - Offset(gridPx.width / 2f, gridPx.height / 2f)) * zoom
-                        offset = clamp(offset * factor + c * (1 - factor) + pan * zoom, newZoom)
-                        zoom = newZoom
-                    }
-                }
-                .pointerInput(puzzle.id) {
-                    detectTapGestures(
-                        onTap = { pos ->
-                            val col = (pos.x / cellPx).toInt()
-                            val row = (pos.y / cellPx).toInt()
-                            if (row in 0 until puzzle.rows && col in 0 until puzzle.cols) {
-                                val index = puzzle.index(row, col)
-                                if (!puzzle.isBlock(index)) currentOnTap(index)
-                            }
-                        },
-                        onDoubleTap = {
-                            zoom = 1f
-                            offset = Offset.Zero
-                        },
-                    )
-                }
                 .graphicsLayer {
-                    scaleX = zoom
-                    scaleY = zoom
-                    translationX = offset.x
-                    translationY = offset.y
+                    scaleX = state.zoom
+                    scaleY = state.zoom
+                    translationX = state.offset.x
+                    translationY = state.offset.y
                 },
         ) {
             val inset = max(1f, cellPx * 0.03f)

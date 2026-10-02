@@ -9,13 +9,12 @@ import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.size
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
-import androidx.compose.runtime.Stable
+import androidx.compose.runtime.SideEffect
+import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableFloatStateOf
-import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.rememberUpdatedState
-import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clipToBounds
@@ -26,6 +25,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Path
 import androidx.compose.ui.graphics.drawscope.DrawScope
 import androidx.compose.ui.graphics.drawscope.Stroke
+import androidx.compose.ui.graphics.drawscope.scale
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.layout.onGloballyPositioned
@@ -43,6 +43,7 @@ import androidx.compose.ui.text.style.LineHeightStyle
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.Constraints
+import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.min
 import androidx.compose.ui.unit.sp
 import com.maslarski.crossword.domain.arena.ArenaLayout
@@ -50,53 +51,24 @@ import com.maslarski.crossword.domain.arena.ArenaState
 import com.maslarski.crossword.domain.arena.ArenaWord
 import com.maslarski.crossword.domain.arena.Side
 import com.maslarski.crossword.domain.model.Direction
+import com.maslarski.crossword.ui.components.ZoomableGridState
 import com.maslarski.crossword.ui.theme.ArenaColors
 import com.maslarski.crossword.ui.theme.LocalArenaColors
-import kotlin.math.floor
+import kotlinx.coroutines.launch
 import kotlin.math.max
 
-private const val MAX_ZOOM = 3f
+private val READABLE_CELL = 56.dp
 
-/** Zoom/pan of an [ArenaGrid] plus the geometry needed to map a drag position in root coordinates to a cell. */
-@Stable
-class ArenaGridState {
-    var zoom by mutableFloatStateOf(1f)
-    var offset by mutableStateOf(Offset.Zero)
-
-    internal var originInRoot = Offset.Zero
-    internal var viewport = Size.Zero
-    internal var gridPx = Size.Zero
-    internal var cellPx = 0f
-    internal var rows = 0
-    internal var cols = 0
-
-    fun cellAtRoot(position: Offset): Int? = cellAtLocal(position - originInRoot)
-
-    internal fun cellAtLocal(local: Offset): Int? {
-        if (cellPx <= 0f) return null
-        val center = Offset(viewport.width / 2f, viewport.height / 2f)
-        val p = (local - center - offset) / zoom + Offset(gridPx.width / 2f, gridPx.height / 2f)
-        val col = floor(p.x / cellPx).toInt()
-        val row = floor(p.y / cellPx).toInt()
-        return if (row in 0 until rows && col in 0 until cols) row * cols + col else null
-    }
-
-    internal fun clamp(value: Offset, scale: Float): Offset {
-        val maxX = max(0f, (gridPx.width * scale - viewport.width) / 2f)
-        val maxY = max(0f, (gridPx.height * scale - viewport.height) / 2f)
-        return Offset(value.x.coerceIn(-maxX, maxX), value.y.coerceIn(-maxY, maxY))
-    }
-
-    fun reset() {
-        zoom = 1f
-        offset = Offset.Zero
-    }
-}
+/** Zoom steps at which clue text is re-fitted, so clues stay sharp and use the extra room when zoomed in. */
+private val CLUE_SCALES = floatArrayOf(1f, 1.5f, 2f, 3f, 4f, 6f, 8f)
 
 /** Points just earned on [cells]; [sequence] distinguishes consecutive flashes. */
 data class ScoreFlash(val side: Side, val cells: List<Int>, val points: List<Int>, val sequence: Int)
 
 /**
+ * Arrow-word grid of any size; pinch to zoom, drag to pan while zoomed, double-tap to zoom in on a spot or back out.
+ * Taps and rack-tile drops map to cells through the current zoom/pan via [ZoomableGridState].
+ *
  * Arrow-word grid: clue cells carry their clue text and an arrow into the answer; letter cells show owned letters
  * tinted by who placed them, pending rack tiles, opponent tiles being laid, and "+2"/"+3" bonus badges.
  */
@@ -111,7 +83,7 @@ fun ArenaGrid(
     missCells: Set<Int>,
     dropTarget: Int?,
     flash: ScoreFlash?,
-    state: ArenaGridState,
+    state: ZoomableGridState,
     onCellTap: (Int) -> Unit,
     modifier: Modifier = Modifier,
     description: String = "",
@@ -120,6 +92,7 @@ fun ArenaGrid(
     val density = LocalDensity.current
     val textMeasurer = rememberTextMeasurer(cacheSize = 128)
     val currentOnTap by rememberUpdatedState(onCellTap)
+    val scope = rememberCoroutineScope()
 
     val flashAlpha = remember { Animatable(0f) }
     LaunchedEffect(flash?.sequence) {
@@ -135,20 +108,11 @@ fun ArenaGrid(
             .clipToBounds()
             .semantics { contentDescription = description }
             .onGloballyPositioned { state.originInRoot = it.positionInRoot() }
-            .pointerInput(layout.puzzle.id) {
-                detectTransformGestures { centroid, pan, gestureZoom, _ ->
-                    val zoom = state.zoom
-                    val newZoom = (zoom * gestureZoom).coerceIn(1f, MAX_ZOOM)
-                    val center = Offset(size.width / 2f, size.height / 2f)
-                    val anchor = centroid - center - state.offset
-                    state.offset = state.clamp(centroid + pan - center - anchor * (newZoom / zoom), newZoom)
-                    state.zoom = newZoom
-                }
-            }
-            .pointerInput(layout.puzzle.id) {
+            .pointerInput(state) { detectTransformGestures { centroid, pan, zoom, _ -> state.onTransform(centroid, pan, zoom) } }
+            .pointerInput(state) {
                 detectTapGestures(
                     onTap = { pos -> state.cellAtLocal(pos)?.let(currentOnTap) },
-                    onDoubleTap = { state.reset() },
+                    onDoubleTap = { pos -> scope.launch { state.toggleZoom(pos) } },
                 )
             },
     ) {
@@ -156,11 +120,10 @@ fun ArenaGrid(
         val gridWidth = cellDp * layout.cols
         val gridHeight = cellDp * layout.rows
         val cellPx = with(density) { cellDp.toPx() }
-        state.viewport = with(density) { Size(maxWidth.toPx(), maxHeight.toPx()) }
-        state.gridPx = Size(cellPx * layout.cols, cellPx * layout.rows)
-        state.cellPx = cellPx
-        state.rows = layout.rows
-        state.cols = layout.cols
+        val viewport = with(density) { Size(maxWidth.toPx(), maxHeight.toPx()) }
+        val readablePx = with(density) { READABLE_CELL.toPx() }
+        SideEffect { state.update(viewport, cellPx, layout.rows, layout.cols, readablePx) }
+        val clueScale by remember(state) { derivedStateOf { CLUE_SCALES.last { it <= state.zoom } } }
 
         val letterStyle = remember(cellPx) {
             TextStyle(fontSize = with(density) { (cellPx * 0.56f).toSp() }, fontWeight = FontWeight.Bold)
@@ -168,7 +131,7 @@ fun ArenaGrid(
         val badgeStyle = remember(cellPx) {
             TextStyle(fontSize = with(density) { (cellPx * 0.2f).toSp() }, fontWeight = FontWeight.Bold)
         }
-        val clueLayouts = remember(layout, cellPx, colors) { HashMap<String, TextLayoutResult>() }
+        val clueCaches = remember(layout, cellPx, colors) { HashMap<Float, HashMap<String, TextLayoutResult>>() }
         val activeCells = remember(activeWord) { activeWord?.cells?.toHashSet() ?: emptySet() }
         val flashPoints = remember(flash) { flash?.let { f -> f.cells.zip(f.points).toMap() } ?: emptyMap() }
 
@@ -196,7 +159,7 @@ fun ArenaGrid(
                     } else {
                         val active = activeWord != null && (clue.across == activeWord || clue.down == activeWord)
                         drawRect(if (active) colors.activeClueCell else colors.clueCell, topLeft, cellSize)
-                        drawClues(clue.across, clue.down, topLeft, cellSize, colors, textMeasurer, clueLayouts)
+                        drawClues(clue.across, clue.down, topLeft, cellSize, clueScale, colors, textMeasurer, clueCaches.getOrPut(clueScale) { HashMap() })
                     }
                     continue
                 }
@@ -296,6 +259,7 @@ private fun DrawScope.drawClues(
     down: ArenaWord?,
     topLeft: Offset,
     size: Size,
+    textScale: Float,
     colors: ArenaColors,
     textMeasurer: TextMeasurer,
     cache: HashMap<String, TextLayoutResult>,
@@ -308,8 +272,11 @@ private fun DrawScope.drawClues(
     var top = topLeft.y
     for (word in listOfNotNull(across, down)) {
         val box = Size(size.width, half)
-        val text = cache.getOrPut(word.key) { fitClue(word.clue, box, colors.clueText, textMeasurer) }
-        drawCentered(text, Offset(topLeft.x, top), box)
+        // Fit at the on-screen size (box * textScale), then draw scaled back into the unzoomed box.
+        val scaledBox = Size(box.width * textScale, box.height * textScale)
+        val text = cache.getOrPut(word.key) { fitClue(word.clue, scaledBox, colors.clueText, textMeasurer) }
+        val origin = Offset(topLeft.x, top)
+        scale(1f / textScale, pivot = origin) { drawCentered(text, origin, scaledBox) }
         drawArrow(word.direction, Offset(topLeft.x, top), box, size.width, colors.clueText)
         top += half
     }
