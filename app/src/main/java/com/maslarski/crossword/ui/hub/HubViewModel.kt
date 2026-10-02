@@ -4,6 +4,8 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.maslarski.crossword.domain.arena.ArenaStats
 import com.maslarski.crossword.domain.model.PlayerStats
+import com.maslarski.crossword.domain.profile.Achievement
+import com.maslarski.crossword.domain.repository.ProfileRepository
 import com.maslarski.crossword.domain.repository.ArenaRepository
 import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
@@ -34,6 +36,9 @@ data class HubUiState(
     val arena: ArenaStats = ArenaStats(),
     val arenaInProgress: Boolean = false,
     val coins: Int = 0,
+    val dailySolvedToday: Boolean = false,
+    val achievementsUnlocked: Int = 0,
+    val achievementsTotal: Int = Achievement.entries.size,
 )
 
 @OptIn(ExperimentalCoroutinesApi::class)
@@ -43,6 +48,7 @@ class HubViewModel @Inject constructor(
     progress: ProgressRepository,
     arena: ArenaRepository,
     wallet: WalletRepository,
+    profile: ProfileRepository,
     clock: Clock,
 ) : ViewModel() {
 
@@ -58,14 +64,18 @@ class HubViewModel @Inject constructor(
 
     val state: StateFlow<HubUiState> = flow {
         progress.syncLevels(puzzles.levels())
+        val extras = combine(
+            dates.flatMapLatest(progress::observeDaily),
+            profile.observeUnlocked(),
+        ) { daily, unlocked -> (daily?.completed == true) to unlocked.size }
         emitAll(
             combine(
                 progress.observeLevels(),
                 dates.flatMapLatest(progress::observeStats),
                 arena.observeStats(),
                 arena.observeActiveMatch(),
-                wallet.observeCoins(),
-            ) { levels, classic, arenaStats, active, coins ->
+                combine(wallet.observeCoins(), extras, ::Pair),
+            ) { levels, classic, arenaStats, active, (coins, extra) ->
                 HubUiState(
                     loading = false,
                     levelsSolved = levels.count { it.completed },
@@ -74,6 +84,8 @@ class HubViewModel @Inject constructor(
                     arena = arenaStats,
                     arenaInProgress = active != null,
                     coins = coins,
+                    dailySolvedToday = extra.first,
+                    achievementsUnlocked = extra.second,
                 )
             },
         )

@@ -1,0 +1,310 @@
+# Word bank for generated Daily Challenge puzzles: one "ANSWER | clue" per line.
+ACHILLES | Greek hero with a vulnerable heel
+ANCHOR | It keeps a ship in place
+ANT | Tiny insect that lives in a colony
+APPLE | Fruit that keeps the doctor away
+APRIL | Month of showers
+ARCHERY | Sport with bows and arrows
+ARTIST | Painter or sculptor
+ATLANTIS | Legendary sunken island
+ATOM | Smallest unit of an element
+AUSTERE | Severe or strict in manner
+AUTUMN | Season of falling leaves
+BAKER | Person who makes bread
+BANANA | Curved yellow fruit
+BASS | Lowest vocal range
+BEACH | Sandy strip beside the sea
+BEE | Insect that makes honey
+BERLIN | German capital once divided by a wall
+BICYCLE | Two-wheeled pedal vehicle
+BLANKET | Warm bed covering
+BLUE | Colour of a clear sky
+BOOK | Novel, for example
+BOXING | Sport in a ring with gloves
+BRAIN | Organ you think with
+BRAVE | Showing courage
+BREAD | Loaf you slice for toast
+BRIDGE | It carries a road over a river
+BRUSH | Painter's tool
+BUTTER | Spread made from cream
+CAIRO | City near the Giza pyramids
+CAJOLE | Coax with flattery
+CAKE | Birthday treat with candles
+CAMEL | Desert animal with one or two humps
+CAMERA | Device for taking photos
+CANDLE | Wax stick with a wick
+CANDOR | Frankness
+CANVAS | Surface for an oil painting
+CANYON | Deep gorge carved by a river
+CARBON | Element found in all known life
+CARD | Ace or king, for example
+CARROT | Orange root vegetable
+CASTLE | Fortified home of a medieval lord
+CAVE | Hollow in a hillside
+CENTAUR | Half-man, half-horse
+CHAIR | Seat with a back
+CHAMPION | Title holder
+CHEESE | Dairy food made from curds
+CHERRY | Small red fruit with a stone
+CHESS | Game of kings and queens
+CHORD | Three or more notes played together
+CIRCLE | Perfectly round shape
+CLEVER | Quick to learn
+CLOCK | It tells the time
+CLOUD | White puff in the sky
+COAST | Where land meets sea
+COFFEE | Morning brew
+COMET | Icy body with a glowing tail
+COMPASS | It always points north
+COOKIE | Sweet baked biscuit
+COPPER | Reddish metal in wires
+CORAL | Reef builder
+CRAB | Sideways-walking sea creature
+CRYSTAL | Clear, glittering mineral
+CUP | Mug's smaller cousin
+CYCLING | Sport of the Tour de France
+CYCLOPS | One-eyed giant
+DANCE | Move to music
+DELHI | Indian city with a "New" district
+DESERT | Very dry region
+DIAMOND | Hardest natural gem
+DICE | Cubes rolled in board games
+DOCTOR | Person who treats the sick
+DOLPHIN | Clever, playful sea mammal
+DOOR | You knock on it
+DOZEN | Twelve of something
+DRAGON | Fire-breathing mythical beast
+DREAM | What you see while asleep
+DRUM | Instrument you beat
+DRUMMER | Band member who keeps the beat
+EAGLE | Bird on many national emblems
+EAR | You hear with it
+EGG | It's fried, boiled or scrambled
+ELOQUENT | Fluent and persuasive in speech
+EMERALD | Green gemstone
+ENERGY | E in E = mc²
+ENIGMA | Puzzling person or thing
+ENZYME | Protein that speeds up a biochemical reaction
+EPHEMERAL | Lasting a very short time
+ESOTERIC | Understood by only a select few
+EVENING | Time after sunset
+EXCALIBUR | Arthur's legendary sword
+EYE | You see with it
+FAMILY | Parents and children
+FARMER | Person who grows crops
+FERN | Leafy plant that reproduces with spores
+FLUTE | Woodwind played sideways
+FOREST | Large area covered with trees
+FOSSIL | Preserved remains in rock
+FOX | Sly, bushy-tailed animal
+FRIDAY | Last working day of the week
+FRIEND | Someone you like and trust
+GALAXY | Huge system of billions of stars
+GAME | Chess or checkers, for example
+GARDEN | Where flowers and vegetables grow
+GARLIC | Pungent bulb used in cooking
+GENTLE | Kind and soft
+GIANT | Huge figure from fairy tales
+GIRAFFE | Animal with the longest neck
+GLACIER | Slow-moving river of ice
+GOLD | Metal of first place
+GOLF | Sport with tees and greens
+GRAPE | Fruit that grows in bunches on a vine
+GRAVITY | Force that keeps planets in orbit
+GREEN | Colour of grass
+GUITAR | Six-stringed instrument
+HAMMER | Tool for driving nails
+HAND | It has five fingers
+HAPPY | Feeling joyful
+HARBOR | Sheltered place for ships
+HEART | Organ that pumps blood
+HERCULES | Roman name for the hero of the twelve labors
+HOCKEY | Sport played with a puck
+HONEY | Sweet stuff made by bees
+HOPE | Wish for something good
+HOTEL | Place to stay on holiday
+HUNDRED | Ten times ten
+IRON | Metal used to make steel
+ISLAND | Land surrounded by water
+ISLE | Small island
+JANUARY | First month of the year
+JOURNEY | A long trip
+JUDO | Olympic martial art of throws
+KARATE | Martial art with belts and katas
+KING | Monarch on a throne
+KNIFE | Utensil with a blade
+KNIGHT | Armoured warrior on horseback
+KOALA | Eucalyptus-munching Australian marsupial
+LABYRINTH | Maze built by Daedalus
+LACONIC | Using very few words
+LADDER | You climb its rungs
+LAKE | Body of water surrounded by land
+LASER | Device emitting a focused beam of light
+LAUGH | Respond to a joke
+LEMON | Sour yellow citrus fruit
+LIBRARY | Place to borrow books
+LIMA | Peruvian capital
+LION | King of the jungle
+LYRIC | Word of a song
+MADRID | Spanish capital
+MAGNET | It attracts iron
+MANGO | Tropical fruit with a large flat stone
+MAP | It shows the way
+MAPLE | Tree whose leaf is on Canada's flag
+MEADOW | Grassy field
+MEDAL | Award worn around the neck
+MEDUSA | Gorgon with snakes for hair
+MELODY | A tune
+MERCURIAL | Subject to sudden changes of mood
+MIDNIGHT | Twelve o'clock at night
+MILK | White drink poured on cereal
+MINOTAUR | Bull-headed monster of Crete
+MIRROR | It shows your reflection
+MONDAY | First working day of the week
+MOON | Earth's natural satellite
+MORNING | Start of the day
+MOUNTAIN | Very high landform
+MOVIE | Film shown in a cinema
+MUSEUM | Place to see art and history
+NAIROBI | Capital of Kenya
+NEUTRON | Uncharged particle in a nucleus
+NOSE | You smell with it
+NUMBER | Seven, for example
+OBSCURE | Not well known
+OCEAN | The Pacific, for one
+OCTOBER | Month of Halloween
+ODYSSEY | Homer's epic about a long voyage home
+OLYMPUS | Mountain home of the Greek gods
+ONION | Vegetable that makes you cry
+OPERA | Drama set to music
+ORANGE | Colour or citrus fruit
+ORBIT | Path around a star
+OSLO | Norwegian capital
+OTTER | River mammal that floats on its back
+OVEN | Where a cake bakes
+OWL | Night bird known for wisdom
+OXYGEN | Element O, needed for breathing
+PAINT | Colour you brush on
+PANDA | Bamboo-eating bear from China
+PAPER | Sheet you write on
+PARADOX | Seemingly self-contradictory statement
+PARIS | City of Light
+PARROT | Colourful bird that can mimic speech
+PASTA | Spaghetti or penne
+PEACE | Freedom from war
+PEACH | Fuzzy-skinned summer fruit
+PEARL | Gem made by an oyster
+PEGASUS | Winged horse
+PENCIL | Writing tool with a lead
+PENGUIN | Flightless bird of the Antarctic
+PEPPER | Spice that makes you sneeze
+PHOENIX | Bird reborn from its ashes
+PHOTO | Picture taken with a camera
+PIANO | Instrument with 88 keys
+PILLOW | Soft cushion for your head
+PILOT | Person who flies a plane
+PIRATE | Sea robber with a treasure map
+PIZZA | Italian dish with toppings
+PLANET | Mars or Venus
+PLATE | Dinner dish
+POET | Writer of verses
+POLO | Sport played on horseback
+POND | Small, still body of water
+POSEIDON | Greek god of the sea
+POTATO | Vegetable for chips and mash
+PRAGMATIC | Dealing with things sensibly and realistically
+PRISM | Glass that splits white light into a rainbow
+PURPLE | Mix of red and blue
+PUZZLE | Brain teaser like this one
+QUEEN | Female monarch
+QUIET | Making little noise
+QUIXOTIC | Idealistic to an impractical degree
+RABBIT | Long-eared burrowing animal
+RAIN | Water falling from clouds
+RAINBOW | Arc of colours after rain
+RED | Colour of a stop sign
+RHYTHM | Pattern of beats
+RICE | Grain eaten all over Asia
+RIDDLE | Tricky question with a clever answer
+RIVER | The Nile or the Amazon
+ROCKET | Vehicle launched into space
+ROME | The Eternal City
+ROWING | Sport with oars
+RUBY | Red gemstone
+RUGBY | Sport with scrums and tries
+SAIL | Cloth that catches the wind
+SALAD | Bowl of greens
+SALT | Seawater contains lots of it
+SAND | Stuff a castle is built from at the shore
+SCHOOL | Place of learning
+SEOUL | South Korean capital
+SERENDIPITY | Happy accident
+SEVEN | Number of days in a week
+SHARK | Fish with rows of sharp teeth
+SHELL | Seaside souvenir you might hold to your ear
+SHIP | Large seagoing vessel
+SILVER | Metal of second place
+SINGER | Vocalist
+SKIING | Sport on snowy slopes
+SMILE | Happy facial expression
+SNOW | White flakes in winter
+SOCCER | Football, to Americans
+SONG | Something you sing
+SOUP | Food served in a bowl and eaten with a spoon
+SPHINX | Riddling creature of Thebes
+SPIDER | Eight-legged web spinner
+SPOON | Utensil for soup
+SPRING | Season when flowers bloom
+SQUARE | Shape with four equal sides
+STAR | Twinkling light in the night sky
+STATUE | Carved or cast figure
+STORM | Thunder and lightning weather
+SUGAR | Sweetener in a bowl
+SUMMER | Warmest season
+SUN | Star that gives us daylight
+SWIM | Do the backstroke
+SYDNEY | Australian city with a famous opera house
+TABLE | Furniture you eat at
+TACITURN | Reserved; saying little
+TEA | Drink brewed from leaves
+TEACHER | Person who runs a classroom
+TEMPO | Speed of a piece of music
+TENNIS | Wimbledon sport
+THEATER | Place to watch a play
+THOR | Norse god with a hammer
+THUNDER | Rumble after lightning
+TICKET | Pass for a train or show
+TIGER | Striped big cat
+TOKYO | Japan's capital
+TOMATO | Red fruit used in ketchup
+TOOTH | It may be pulled by a dentist
+TORONTO | Canada's largest city
+TOWEL | You dry off with it after a swim
+TOWER | Tall, narrow building
+TRAIN | It runs on rails
+TRAVEL | To go on a journey
+TREASURE | Gold hidden in a chest
+TRIANGLE | Three-sided shape
+TROPHY | Cup awarded to a champion
+TUNDRA | Treeless Arctic plain
+TURTLE | Reptile that carries its home on its back
+UBIQUITOUS | Seemingly everywhere at once
+VALHALLA | Hall of slain warriors in Norse myth
+VALLEY | Low land between hills
+VERBOSE | Using more words than needed
+VIENNA | Austrian capital famous for waltzes
+VIOLIN | Instrument played with a bow under the chin
+VOLCANO | Mountain that can erupt
+VOLTAGE | Electrical potential difference, measured in volts
+WAVE | Surfer's ride
+WHALE | Largest animal in the sea
+WIND | Moving air
+WINDOW | Glass opening in a wall
+WINNER | Person who comes first
+WINTER | Coldest season
+WIZARD | Wand-waving magician
+WOLF | Wild relative of the dog that howls
+YELLOW | Colour of a banana
+ZEALOUS | Showing great fervor
+ZEBRA | Striped African horse
+ZEUS | King of the Greek gods

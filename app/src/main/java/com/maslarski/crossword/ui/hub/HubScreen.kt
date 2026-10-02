@@ -17,7 +17,9 @@ import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.rounded.CalendarMonth
 import androidx.compose.material.icons.rounded.GridOn
+import androidx.compose.material.icons.rounded.Insights
 import androidx.compose.material.icons.rounded.Settings
 import androidx.compose.material.icons.rounded.SportsEsports
 import androidx.compose.material3.Button
@@ -48,12 +50,14 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.R
 import com.maslarski.crossword.ui.components.CoinChip
 
-/** Start screen: pick Classic Crossword or Crossword Arena. */
+/** Start screen: the Daily Challenge, Classic Crossword, Crossword Arena and My Stats. */
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun HubScreen(
     onClassic: () -> Unit,
     onArena: () -> Unit,
+    onDaily: () -> Unit,
+    onStats: () -> Unit,
     onSettings: () -> Unit,
     viewModel: HubViewModel = hiltViewModel(),
 ) {
@@ -66,6 +70,7 @@ fun HubScreen(
                 title = { Text(stringResource(R.string.app_name), fontWeight = FontWeight.Bold) },
                 actions = {
                     CoinChip(state.coins, Modifier.padding(horizontal = 4.dp))
+                    IconButton(onClick = onStats) { Icon(Icons.Rounded.Insights, stringResource(R.string.stats_title)) }
                     IconButton(onClick = onSettings) { Icon(Icons.Rounded.Settings, stringResource(R.string.settings_title)) }
                 },
                 scrollBehavior = scrollBehavior,
@@ -119,14 +124,49 @@ fun HubScreen(
                                 modifier = modifier,
                             )
                         }
+                        val daily = @Composable { modifier: Modifier ->
+                            ModeCard(
+                                title = stringResource(R.string.daily_title),
+                                summary = stringResource(R.string.mode_daily_summary),
+                                stats = stringResource(
+                                    if (state.dailySolvedToday) R.string.mode_daily_stats_done else R.string.mode_daily_stats_open,
+                                    state.classic.dailyStreak,
+                                ),
+                                icon = Icons.Rounded.CalendarMonth,
+                                accent = MaterialTheme.colorScheme.secondary,
+                                container = MaterialTheme.colorScheme.secondaryContainer,
+                                action = stringResource(R.string.mode_daily_action),
+                                onClick = onDaily,
+                                modifier = modifier,
+                            )
+                        }
+                        val stats = @Composable { modifier: Modifier ->
+                            ModeCard(
+                                title = stringResource(R.string.stats_title),
+                                summary = stringResource(R.string.mode_stats_summary),
+                                stats = stringResource(R.string.mode_stats_stats, state.achievementsUnlocked, state.achievementsTotal),
+                                icon = Icons.Rounded.Insights,
+                                accent = MaterialTheme.colorScheme.primary,
+                                container = MaterialTheme.colorScheme.surfaceContainerHighest,
+                                action = stringResource(R.string.mode_stats_action),
+                                onClick = onStats,
+                                modifier = modifier,
+                            )
+                        }
                         if (wide) {
                             Row(horizontalArrangement = Arrangement.spacedBy(16.dp)) {
                                 classic(Modifier.weight(1f))
                                 arena(Modifier.weight(1f))
                             }
+                            Row(horizontalArrangement = Arrangement.spacedBy(16.dp)) {
+                                daily(Modifier.weight(1f))
+                                stats(Modifier.weight(1f))
+                            }
                         } else {
+                            daily(Modifier.fillMaxWidth())
                             classic(Modifier.fillMaxWidth())
                             arena(Modifier.fillMaxWidth())
+                            stats(Modifier.fillMaxWidth())
                         }
                     }
                 }

@@ -56,6 +56,28 @@ class PuzzleParser(private val json: Json = DefaultJson) {
         return build(dto, type)
     }
 
+    /** Validates a grid built in code, e.g. a generated daily puzzle, with the same rules as a JSON file. */
+    fun fromGrid(
+        id: String,
+        title: String,
+        author: String,
+        difficulty: Difficulty,
+        type: PuzzleType,
+        grid: List<String>,
+        across: Map<Int, String>,
+        down: Map<Int, String>,
+    ): Puzzle = build(
+        PuzzleDto(
+            id = id,
+            title = title,
+            author = author,
+            difficulty = difficulty.name,
+            grid = grid,
+            clues = CluesDto(across.mapKeys { it.key.toString() }, down.mapKeys { it.key.toString() }),
+        ),
+        type,
+    )
+
     private fun build(dto: PuzzleDto, type: PuzzleType): Puzzle {
         val id = dto.id.trim()
         fail(id.isNotEmpty() && id.all { it.isLetterOrDigit() || it == '-' || it == '_' }) { "Invalid puzzle id '${dto.id}'" }

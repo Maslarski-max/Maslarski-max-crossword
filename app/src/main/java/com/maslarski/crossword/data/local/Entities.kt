@@ -84,3 +84,24 @@ data class ArenaMatchEntity(
 )
 
 data class ArenaResultRow(val difficulty: String, val outcome: String, val playerScore: Int)
+
+/** An unlocked achievement; rows are only ever inserted, so the unlock date never changes. */
+@Entity(tableName = "achievements")
+data class AchievementEntity(
+    @PrimaryKey val id: String,
+    val unlockedAt: Long,
+)
+
+/** Daily login streak singleton. [lastDay] is an ISO date. */
+@Entity(tableName = "login_streak")
+data class LoginStreakEntity(
+    @PrimaryKey val id: Int = SINGLETON_ID,
+    val lastDay: String,
+    val streak: Int,
+    val bestStreak: Int,
+    val totalDays: Int,
+) {
+    companion object {
+        const val SINGLETON_ID = 0
+    }
+}
