@@ -95,7 +95,7 @@ class RoomArenaRepository(
     }
 
     private fun ArenaMatchEntity.toMatch(): ArenaMatch? = try {
-        ArenaMatch(id, json.decodeFromString(ArenaState.serializer(), state))
+        ArenaMatch(id, ArenaRules.topUpRacks(json.decodeFromString(ArenaState.serializer(), state)))
     } catch (_: SerializationException) {
         null
     } catch (_: IllegalArgumentException) {

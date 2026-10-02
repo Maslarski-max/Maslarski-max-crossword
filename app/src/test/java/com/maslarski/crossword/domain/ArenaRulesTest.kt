@@ -102,6 +102,22 @@ class ArenaRulesTest {
     }
 
     @Test
+    fun `racks saved with fewer tiles are topped up from the bag`() {
+        val puzzle = PuzzleParser().parse(File("src/main/assets/puzzles/levels/medium-01.json").readText(), PuzzleType.LEVEL)
+        val match = ArenaRules.newMatch(ArenaLayout(puzzle), Difficulty.MEDIUM, seed = 42)
+        val legacy = match.copy(
+            bag = match.playerRack.drop(5) + match.opponentRack.drop(5) + match.bag,
+            playerRack = match.playerRack.take(5),
+            opponentRack = match.opponentRack.take(5),
+        )
+        val topped = ArenaRules.topUpRacks(legacy)
+        assertEquals(ArenaRules.RACK_SIZE, topped.playerRack.length)
+        assertEquals(ArenaRules.RACK_SIZE, topped.opponentRack.length)
+        assertEquals(letters(legacy), letters(topped))
+        assertEquals(match, ArenaRules.topUpRacks(match))
+    }
+
+    @Test
     fun `placements must be one word on empty cells from the rack`() {
         val s = state()
         assertEquals(PlacementError.NO_TILES, ArenaRules.check(layout, s, Side.PLAYER, emptyMap()))

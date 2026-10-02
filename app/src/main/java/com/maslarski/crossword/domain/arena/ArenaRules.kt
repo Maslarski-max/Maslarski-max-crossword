@@ -63,6 +63,20 @@ object ArenaRules {
         )
     }
 
+    /** Draws from the bag until both racks hold [RACK_SIZE] tiles, e.g. for matches saved with a smaller rack. */
+    fun topUpRacks(state: ArenaState): ArenaState {
+        if (state.finished) return state
+        val playerDraw = state.bag.take((RACK_SIZE - state.playerRack.length).coerceAtLeast(0))
+        val rest = state.bag.drop(playerDraw.length)
+        val opponentDraw = rest.take((RACK_SIZE - state.opponentRack.length).coerceAtLeast(0))
+        if (playerDraw.isEmpty() && opponentDraw.isEmpty()) return state
+        return state.copy(
+            bag = rest.drop(opponentDraw.length),
+            playerRack = state.playerRack + playerDraw,
+            opponentRack = state.opponentRack + opponentDraw,
+        )
+    }
+
     /** The single answer slot that contains all [cells], if any. */
     fun wordFor(layout: ArenaLayout, cells: Collection<Int>): ArenaWord? {
         val first = cells.firstOrNull() ?: return null
