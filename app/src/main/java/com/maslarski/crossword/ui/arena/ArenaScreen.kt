@@ -104,6 +104,7 @@ import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.components.CoinPrompt
 import com.maslarski.crossword.ui.components.CoinPromptDialog
 import com.maslarski.crossword.ui.components.Confetti
+import com.maslarski.crossword.ui.components.ZoomableGridState
 import com.maslarski.crossword.ui.theme.LocalArenaColors
 import kotlinx.coroutines.launch
 import kotlin.math.roundToInt
@@ -209,7 +210,7 @@ fun ArenaScreen(
 private fun ArenaBoard(state: ArenaUiState, viewModel: ArenaViewModel) {
     val layout = state.layout ?: return
     val match = state.match ?: return
-    val gridState = remember(layout) { ArenaGridState() }
+    val gridState = remember(layout) { ZoomableGridState() }
     var drag by remember { mutableStateOf<DragTile?>(null) }
     var rootOrigin by remember { mutableStateOf(Offset.Zero) }
     val dropTarget = drag?.let { gridState.cellAtRoot(it.position) }

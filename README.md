@@ -3,10 +3,10 @@
 A native Android crossword game built with Kotlin, Jetpack Compose and Material 3, set up for publishing on Google Play.
 The start screen offers two modes: **Classic Crossword** (solo) and **Crossword Arena** (turn-based, against an AI).
 
-- **Classic Crossword**: zoomable/pannable Canvas grid (pinch, pan, double-tap to reset), Across/Down word and active-cell
+- **Classic Crossword**: zoomable/pannable Canvas grid for boards up to 25x25 (pinch, pan, double-tap to zoom in on a spot or back out; taps hit the right cell at any zoom), Across/Down word and active-cell
   highlighting, a live clue bar, a full clue list screen, an on-screen keyboard plus hardware-keyboard support,
   animated letter entry and a confetti/score/stars completion screen.
-- **Content**: 6 levels (Easy → Hard); the first is free and each next one is unlocked in order for 50 coins, plus a rotating Daily Puzzle with a streak counter.
+- **Content**: 7 levels (Easy → Hard, ending with a 20x20 board); the first is free and each next one is unlocked in order for 50 coins, plus a rotating Daily Puzzle with a streak counter.
   Puzzles are plain JSON in `app/src/main/assets/puzzles/`; drop in a file to add a level.
 - **Crossword Arena**: an arrow-word board (clues and arrows sit in the grid) with `+2`/`+3` bonus cells, a
   "You N vs N Opponent" score banner and a 5-tile letter rack. Drag or tap tiles onto one word, then Submit (correct

@@ -1,0 +1,98 @@
+id: expert-01
+title: Grand Tour
+difficulty: HARD
+order: 7
+type: level
+size: 20
+seed: 41
+---
+SCHOOL | Place of learning
+KNIFE | Utensil with a blade
+SINGER | Vocalist
+SNOW | White flakes in winter
+STORM | Thunder and lightning weather
+DRAGON | Fire-breathing mythical beast
+FOREST | Large area covered with trees
+SPRING | Season when flowers bloom
+RAINBOW | Arc of colours after rain
+GRAVITY | Force that keeps planets in orbit
+MILK | White drink poured on cereal
+SPOON | Utensil for soup
+PEACH | Fuzzy-skinned summer fruit
+EMERALD | Green gemstone
+MINOTAUR | Bull-headed monster of Crete
+EXCALIBUR | Arthur's legendary sword
+SAIL | Cloth that catches the wind
+GALAXY | Huge system of billions of stars
+COMPASS | It always points north
+BERLIN | German capital once divided by a wall
+FLUTE | Woodwind played sideways
+MEDUSA | Gorgon with snakes for hair
+ATOM | Smallest unit of an element
+DOCTOR | Person who treats the sick
+CANDOR | Frankness
+PARROT | Colourful bird that can mimic speech
+QUEEN | Female monarch
+CARBON | Element found in all known life
+FARMER | Person who grows crops
+CENTAUR | Half-man, half-horse
+GENTLE | Kind and soft
+CAKE | Birthday treat with candles
+PLANET | Mars or Venus
+PAINT | Colour you brush on
+PUZZLE | Brain teaser like this one
+RAIN | Water falling from clouds
+BOOK | Novel, for example
+CIRCLE | Perfectly round shape
+QUIXOTIC | Idealistic to an impractical degree
+SOCCER | Football, to Americans
+MOVIE | Film shown in a cinema
+PLATE | Dinner dish
+DOOR | You knock on it
+MEDAL | Award worn around the neck
+EVENING | Time after sunset
+TOWER | Tall, narrow building
+LION | King of the jungle
+SMILE | Happy facial expression
+VALLEY | Low land between hills
+CAJOLE | Coax with flattery
+THUNDER | Rumble after lightning
+GARLIC | Pungent bulb used in cooking
+SHIP | Large seagoing vessel
+CHAMPION | Title holder
+BAKER | Person who makes bread
+DANCE | Move to music
+GARDEN | Where flowers and vegetables grow
+VIOLIN | Instrument played with a bow under the chin
+POET | Writer of verses
+GUITAR | Six-stringed instrument
+SQUARE | Shape with four equal sides
+FOSSIL | Preserved remains in rock
+PIRATE | Sea robber with a treasure map
+PENCIL | Writing tool with a lead
+CYCLOPS | One-eyed giant
+SPHINX | Riddling creature of Thebes
+LIMA | Peruvian capital
+PHOTO | Picture taken with a camera
+VALHALLA | Hall of slain warriors in Norse myth
+BREAD | Loaf you slice for toast
+WINNER | Person who comes first
+ARCHERY | Sport with bows and arrows
+PILOT | Person who flies a plane
+DOZEN | Twelve of something
+ORANGE | Colour or citrus fruit
+STATUE | Carved or cast figure
+ELOQUENT | Fluent and persuasive in speech
+RABBIT | Long-eared burrowing animal
+CHEESE | Dairy food made from curds
+COOKIE | Sweet baked biscuit
+ROCKET | Vehicle launched into space
+SERENDIPITY | Happy accident
+IRON | Metal used to make steel
+OCEAN | The Pacific, for one
+MORNING | Start of the day
+ENIGMA | Puzzling person or thing
+DRUM | Instrument you beat
+CRYSTAL | Clear, glittering mineral
+UBIQUITOUS | Seemingly everywhere at once
+BICYCLE | Two-wheeled pedal vehicle

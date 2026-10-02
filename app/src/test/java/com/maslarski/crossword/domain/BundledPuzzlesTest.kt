@@ -1,5 +1,6 @@
 package com.maslarski.crossword.domain
 
+import com.maslarski.crossword.domain.arena.ArenaLayout
 import com.maslarski.crossword.domain.model.Difficulty
 import com.maslarski.crossword.domain.model.PuzzleType
 import com.maslarski.crossword.domain.parser.PuzzleParser
@@ -34,5 +35,17 @@ class BundledPuzzlesTest {
     fun `puzzle ids are unique`() {
         val all = load("levels", PuzzleType.LEVEL) + load("daily", PuzzleType.DAILY)
         assertEquals(all.size, all.map { it.id }.toSet().size)
+    }
+
+    @Test
+    fun `a 20x20 level ships and builds an Arena board`() {
+        val large = load("levels", PuzzleType.LEVEL).filter { it.rows >= 20 && it.cols >= 20 }
+        assertTrue("expected a level of at least 20x20", large.isNotEmpty())
+        large.forEach { puzzle ->
+            val arena = ArenaLayout(puzzle)
+            assertEquals(puzzle.rows + 1, arena.rows)
+            assertEquals(puzzle.orderedWords.size, arena.words.size)
+            assertTrue(arena.words.all { w -> arena.clueAt(w.clueCell) != null })
+        }
     }
 }
