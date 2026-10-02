@@ -65,11 +65,14 @@ class DailyViewModel @Inject constructor(
         emitAll(
             combine(
                 progress.observeBoard(session?.id ?: NO_SESSION),
+                progress.observeDaily(today),
                 progress.observeDailyCompletions(month.atDay(1), month.atEndOfMonth()),
                 progress.observeStats(today),
                 wallet.observeCoins(),
-            ) { board, completed, stats, coins ->
+            ) { board, status, completed, stats, coins ->
                 val saved = board?.takeIf { puzzle != null && it.matches(puzzle) }
+                // The date stays solved even if an app update changed its grid since.
+                val solvedToday = status?.completed == true
                 DailyUiState(
                     loading = false,
                     today = today,
@@ -79,9 +82,9 @@ class DailyViewModel @Inject constructor(
                             puzzleId = puzzle.id,
                             title = puzzle.title,
                             difficulty = puzzle.difficulty,
-                            progress = saved?.let { progressOf(puzzle, it.board.entries) } ?: 0f,
-                            completed = saved?.completed == true,
-                            score = saved?.score ?: 0,
+                            progress = if (solvedToday) 1f else saved?.let { progressOf(puzzle, it.board.entries) } ?: 0f,
+                            completed = solvedToday || saved?.completed == true,
+                            score = status?.score?.takeIf { solvedToday } ?: saved?.score ?: 0,
                         )
                     } else null,
                     month = month,

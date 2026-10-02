@@ -28,7 +28,6 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
@@ -47,8 +46,6 @@ import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.profile.Achievement
 import com.maslarski.crossword.domain.profile.LoginReward
 import com.maslarski.crossword.domain.profile.LoginStreaks
-import kotlinx.coroutines.delay
-import kotlinx.coroutines.flow.Flow
 
 /** Daily login bonus: the coins are already in the wallet, this only celebrates them. */
 @Composable
@@ -112,20 +109,12 @@ private fun RewardDay(day: Int, coins: Int, current: Int, modifier: Modifier) {
     }
 }
 
-/** Shows "Achievement unlocked" banners at the bottom of the screen, one at a time. */
+/** Shows the "Achievement unlocked" banner for [current] at the bottom of the screen, or hides it when null. */
 @Composable
-fun AchievementToast(unlocks: Flow<Achievement>, modifier: Modifier = Modifier) {
-    var shown by remember { mutableStateOf<Achievement?>(null) }
-    var visible by remember { mutableStateOf(false) }
-    LaunchedEffect(unlocks) {
-        unlocks.collect { achievement ->
-            shown = achievement
-            visible = true
-            delay(SHOW_MS)
-            visible = false
-            delay(EXIT_MS)
-        }
-    }
+fun AchievementToast(current: Achievement?, modifier: Modifier = Modifier) {
+    var shown by remember { mutableStateOf(current) }
+    if (current != null) shown = current
+    val visible = current != null
     Box(modifier.fillMaxSize().navigationBarsPadding().padding(bottom = 24.dp), contentAlignment = Alignment.BottomCenter) {
         AnimatedVisibility(
             visible = visible,
@@ -155,6 +144,3 @@ fun AchievementToast(unlocks: Flow<Achievement>, modifier: Modifier = Modifier) 
         }
     }
 }
-
-private const val SHOW_MS = 2_600L
-private const val EXIT_MS = 400L
