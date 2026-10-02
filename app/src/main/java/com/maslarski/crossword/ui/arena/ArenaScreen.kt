@@ -528,6 +528,7 @@ private fun ArenaControls(
                     Text(hintCost.toString())
                 }
             },
+            modifier = Modifier.padding(end = 12.dp),
         ) {
             FilledTonalIconButton(onClick = onHint, enabled = enabled, modifier = Modifier.size(52.dp)) {
                 Icon(Icons.Rounded.Lightbulb, stringResource(R.string.arena_hint, hintCost))
