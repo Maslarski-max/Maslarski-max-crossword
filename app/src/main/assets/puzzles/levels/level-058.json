@@ -1,0 +1,40 @@
+{
+  "id": "level-058",
+  "title": "Desserts",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##CRUMBLE####",
+    "######R######",
+    "#####SORBET##",
+    "##F###W#####C",
+    "#PUDDING####H",
+    "##D###I#T###E",
+    "##G##MERINGUE",
+    "##E##O##R###S",
+    "####CUSTARD#E",
+    "#####S##M###C",
+    "#####S##I###A",
+    "TRIFLE##S###K",
+    "#######SUNDAE"
+  ],
+  "clues": {
+    "across": {
+      "1": "Baked fruit with a crumbly top",
+      "3": "Fruity frozen treat without cream",
+      "6": "Sweet course after dinner",
+      "8": "Baked whipped egg white",
+      "9": "Sweet yellow sauce",
+      "10": "Layered British dessert",
+      "11": "Ice cream with toppings"
+    },
+    "down": {
+      "2": "Square chocolate bake",
+      "4": "Soft sugary sweet",
+      "5": "Dessert on a biscuit base",
+      "7": "Italian coffee-soaked dessert",
+      "8": "Light whipped dessert"
+    }
+  },
+  "order": 58
+}

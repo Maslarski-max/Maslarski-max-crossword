@@ -1,0 +1,22 @@
+id: level-099
+title: Mountaineering
+difficulty: HARD
+order: 99
+type: level
+size: 15
+seed: 99
+---
+SUMMIT | Peak of a mountain
+CRAMPON | Spiked boot attachment for ice
+CARABINER | Metal clip for ropes
+BELAY | Secure a climbing rope
+GLACIER | River of ice
+CREVASSE | Deep crack in a glacier
+SHERPA | Himalayan guide
+EVEREST | Highest mountain on Earth
+ALTITUDE | Height above sea level
+AVALANCHE | Snow slide
+RIDGE | Narrow crest of a mountain
+BASECAMP | Starting point of an ascent
+ICEAXE | Climber's pick
+OXYGEN | Thin at high altitude

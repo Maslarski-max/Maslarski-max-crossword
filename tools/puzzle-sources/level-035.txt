@@ -1,0 +1,18 @@
+id: level-035
+title: Bugs and Beasties
+difficulty: EASY
+order: 35
+type: level
+size: 11
+seed: 35
+---
+ANT | Tiny insect that lives in a colony
+BEETLE | Insect with a hard shell
+SPIDER | Eight-legged web spinner
+MOTH | Night-flying cousin of the butterfly
+SNAIL | Slow creature with a shell
+WASP | Striped insect that stings
+FLY | Buzzing insect
+LADYBIRD | Red beetle with black spots
+CRICKET | Insect that chirps at night
+BUTTERFLY | Insect with colourful wings

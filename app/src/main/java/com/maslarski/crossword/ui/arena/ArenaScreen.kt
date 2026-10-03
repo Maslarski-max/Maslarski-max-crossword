@@ -116,6 +116,7 @@ private data class DragTile(val slot: Int, val letter: Char, val position: Offse
 fun ArenaScreen(
     onBack: () -> Unit,
     onRematch: (matchId: Long) -> Unit,
+    onShop: () -> Unit,
     viewModel: ArenaViewModel = hiltViewModel(),
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
@@ -172,7 +173,7 @@ fun ArenaScreen(
                 navigationIcon = {
                     IconButton(onClick = onBack) { Icon(Icons.AutoMirrored.Rounded.ArrowBack, stringResource(R.string.back)) }
                 },
-                actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp)) },
+                actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp), onClick = onShop) },
             )
         },
     ) { padding ->
@@ -202,7 +203,16 @@ fun ArenaScreen(
     }
 
     coinPrompt?.let { prompt ->
-        CoinPromptDialog(prompt, state.coins, onUnlock = {}, onDismiss = { coinPrompt = null })
+        CoinPromptDialog(
+            prompt,
+            state.coins,
+            onUnlock = {},
+            onDismiss = { coinPrompt = null },
+            onShop = {
+                coinPrompt = null
+                onShop()
+            },
+        )
     }
 }
 
@@ -251,7 +261,7 @@ private fun ArenaBoard(state: ArenaUiState, viewModel: ArenaViewModel) {
         )
         ArenaControls(
             hasPending = state.pending.isNotEmpty(),
-            hintCost = GameRules.HINT_COST,
+            hintCost = if (state.unlimited) 0 else GameRules.HINT_COST,
             enabled = state.playerTurn,
             onShuffle = viewModel::onShuffle,
             onSubmit = viewModel::onSubmit,
@@ -518,6 +528,7 @@ private fun ArenaControls(
                     Text(hintCost.toString())
                 }
             },
+            modifier = Modifier.padding(end = 12.dp),
         ) {
             FilledTonalIconButton(onClick = onHint, enabled = enabled, modifier = Modifier.size(52.dp)) {
                 Icon(Icons.Rounded.Lightbulb, stringResource(R.string.arena_hint, hintCost))

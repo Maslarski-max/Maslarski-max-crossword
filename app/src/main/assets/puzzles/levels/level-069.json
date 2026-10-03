@@ -1,0 +1,40 @@
+{
+  "id": "level-069",
+  "title": "Fashion",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######B#D###",
+    "#####MODEL##",
+    "######U#N###",
+    "#V#H##TAILOR",
+    "#E#E##I#M###",
+    "#L#M##Q#####",
+    "#V#L##U##C##",
+    "DESIGNER#O##",
+    "#T#N###U#L##",
+    "##SEQUIN#L##",
+    "##I####W#A##",
+    "##L###FABRIC",
+    "##K####Y####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Person who shows clothes",
+      "6": "Person who makes suits",
+      "8": "Person who creates clothes",
+      "10": "Small shiny disc on a dress",
+      "11": "Cloth"
+    },
+    "down": {
+      "1": "Small fashion shop",
+      "2": "Fabric of jeans",
+      "4": "Soft fabric with a pile",
+      "5": "Bottom edge of a skirt",
+      "7": "Part of a shirt around the neck",
+      "9": "Catwalk",
+      "10": "Fine fabric from worms"
+    }
+  },
+  "order": 69
+}

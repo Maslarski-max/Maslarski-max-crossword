@@ -1,0 +1,20 @@
+id: level-064
+title: Castles and Knights
+difficulty: MEDIUM
+order: 64
+type: level
+size: 13
+seed: 64
+---
+MOAT | Water ditch around a castle
+DRAWBRIDGE | Bridge that lifts up
+TURRET | Small tower
+ARMOUR | Knight's metal suit
+LANCE | Long spear for jousting
+SHIELD | Knight's protective plate
+JOUST | Contest on horseback
+SQUIRE | Knight's young helper
+BANNER | Flag carried into battle
+DUNGEON | Prison beneath a castle
+THRONE | Royal seat
+KEEP | Castle's strongest tower

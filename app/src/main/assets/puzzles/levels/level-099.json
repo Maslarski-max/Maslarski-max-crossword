@@ -1,0 +1,43 @@
+{
+  "id": "level-099",
+  "title": "Mountaineering",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####ICEAXE####",
+    "####A#A########",
+    "###EVEREST#####",
+    "####A#A#H######",
+    "####L#B#E##B###",
+    "##GLACIER##A##O",
+    "#A##N#N#P##S##X",
+    "#L##CREVASSE##Y",
+    "#T##H#R####C##G",
+    "RIDGE######A##E",
+    "#T######CRAMPON",
+    "SUMMIT#####P###",
+    "#D#############",
+    "BELAY##########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Climber's pick",
+      "4": "Highest mountain on Earth",
+      "7": "River of ice",
+      "10": "Deep crack in a glacier",
+      "11": "Narrow crest of a mountain",
+      "12": "Spiked boot attachment for ice",
+      "13": "Peak of a mountain",
+      "14": "Secure a climbing rope"
+    },
+    "down": {
+      "2": "Metal clip for ropes",
+      "3": "Snow slide",
+      "5": "Himalayan guide",
+      "6": "Starting point of an ascent",
+      "8": "Thin at high altitude",
+      "9": "Height above sea level"
+    }
+  },
+  "order": 99
+}

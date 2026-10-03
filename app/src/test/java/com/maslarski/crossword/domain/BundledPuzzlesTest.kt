@@ -21,9 +21,18 @@ class BundledPuzzlesTest {
     @Test
     fun `levels parse and span every difficulty`() {
         val levels = load("levels", PuzzleType.LEVEL)
-        assertTrue("expected at least 5 levels, found ${levels.size}", levels.size >= 5)
+        assertTrue("expected at least 100 levels, found ${levels.size}", levels.size >= 100)
         assertEquals(Difficulty.entries.toSet(), levels.map { it.difficulty }.toSet())
         assertEquals(levels.size, levels.map { it.order }.toSet().size)
+    }
+
+    @Test
+    fun `every level builds an Arena board with clues for all words`() {
+        load("levels", PuzzleType.LEVEL).forEach { puzzle ->
+            val arena = ArenaLayout(puzzle)
+            assertEquals(puzzle.id, puzzle.orderedWords.size, arena.words.size)
+            assertTrue(puzzle.id, arena.words.all { w -> arena.clueAt(w.clueCell) != null })
+        }
     }
 
     @Test

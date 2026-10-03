@@ -1,0 +1,39 @@
+{
+  "id": "level-046",
+  "title": "Inventions",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####CLOCK###",
+    "######I######",
+    "######G######",
+    "#####WHEEL###",
+    "####B#T######",
+    "#C##A#B#P####",
+    "ROBOT#U#A##E#",
+    "#M##TELEPHONE",
+    "#P##E#B#E##G#",
+    "CAMERA##RADIO",
+    "#S##Y######N#",
+    "#S####PRINTER"
+  ],
+  "clues": {
+    "across": {
+      "1": "It tells the time",
+      "3": "Ancient invention that rolls",
+      "7": "Programmable machine helper",
+      "9": "Bell's famous invention",
+      "10": "Device that takes photos",
+      "11": "It brings broadcasts through the air",
+      "12": "Machine that puts ink on paper"
+    },
+    "down": {
+      "2": "Edison's glowing invention",
+      "4": "Portable store of electricity",
+      "5": "It points north",
+      "6": "Ancient Chinese invention for writing",
+      "8": "It powers a car"
+    }
+  },
+  "order": 46
+}

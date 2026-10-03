@@ -1,0 +1,20 @@
+id: level-063
+title: Money Matters
+difficulty: MEDIUM
+order: 63
+type: level
+size: 13
+seed: 63
+---
+BANK | Place to keep your savings
+COIN | Metal money
+SALARY | Regular pay for work
+BUDGET | Spending plan
+LOAN | Money borrowed
+INTEREST | Extra paid on a loan
+TAX | Money paid to the government
+PROFIT | Money left after costs
+WALLET | You keep cash in it
+PRICE | What something costs
+RECEIPT | Proof of purchase
+INVEST | Put money in to make more

@@ -1,0 +1,18 @@
+id: level-013
+title: Pet Shop
+difficulty: EASY
+order: 13
+type: level
+size: 11
+seed: 13
+---
+DOG | Man's best friend
+CAT | Pet that purrs
+HAMSTER | Small pet that runs on a wheel
+RABBIT | Pet with long ears
+PARROT | Colourful bird that can talk
+GOLDFISH | Orange pet that lives in a bowl
+TURTLE | Pet that carries its home on its back
+MOUSE | Small rodent that loves cheese
+LEASH | Strap for walking a dog
+COLLAR | Band worn around a pet's neck

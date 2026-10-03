@@ -1,0 +1,22 @@
+id: level-089
+title: Linguistics
+difficulty: HARD
+order: 89
+type: level
+size: 15
+seed: 89
+---
+SYNTAX | Rules for sentence structure
+GRAMMAR | System of a language's rules
+SYLLABLE | Unit of sound in a word
+VOWEL | A, E, I, O or U
+CONSONANT | Letter that is not a vowel
+DIALECT | Regional form of a language
+IDIOM | Expression not taken literally
+SYNONYM | Word with the same meaning
+ANTONYM | Word with the opposite meaning
+PREFIX | Letters added to the start of a word
+SUFFIX | Letters added to the end of a word
+PHONETIC | Relating to speech sounds
+ACCENT | Way of pronouncing
+LEXICON | Vocabulary of a language

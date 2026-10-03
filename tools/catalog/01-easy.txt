@@ -1,0 +1,406 @@
+=== Fruit Bowl | EASY
+APPLE | Fruit that keeps the doctor away
+BANANA | Curved yellow fruit monkeys love
+GRAPE | Small fruit grown in bunches on a vine
+LEMON | Sour yellow citrus fruit
+MANGO | Tropical fruit with a large flat stone
+PEACH | Fuzzy-skinned summer fruit
+CHERRY | Small red fruit often found on top of a sundae
+MELON | Large juicy fruit with many seeds
+PEAR | Fruit shaped like a light bulb
+PLUM | Purple fruit that dries into a prune
+
+=== Farmyard | EASY
+COW | Farm animal that gives milk
+PIG | Pink farm animal that loves mud
+HORSE | Animal you ride in a saddle
+SHEEP | Woolly animal that says baa
+GOAT | Bearded farm animal that will eat almost anything
+HEN | Female chicken
+BARN | Big red farm building
+TRACTOR | Farm vehicle that pulls a plough
+DUCK | Farm bird that quacks
+GOOSE | Farm bird bigger than a duck that honks
+
+=== Kitchen Drawer | EASY
+SPOON | Utensil for eating soup
+FORK | Pronged eating utensil
+KNIFE | Utensil for cutting
+LADLE | Deep spoon for serving soup
+WHISK | Tool for beating eggs
+PAN | Flat cooking vessel with a handle
+POT | Deep vessel for boiling pasta
+PLATE | You serve dinner on it
+BOWL | Dish for cereal
+
+=== Weather Report | EASY
+RAIN | Water falling from clouds
+SNOW | White flakes in winter
+WIND | Moving air
+CLOUD | Fluffy white shape in the sky
+STORM | Bad weather with thunder
+SUNNY | Bright and clear, weather-wise
+FOG | Thick low cloud that makes driving hard
+HAIL | Small balls of ice from the sky
+FROST | Icy coating on a cold morning
+RAINBOW | Arc of colours after a shower
+
+=== Colour Box | EASY
+RED | Colour of a stop sign
+BLUE | Colour of a clear sky
+GREEN | Colour of grass
+YELLOW | Colour of a banana
+ORANGE | Colour between red and yellow
+PURPLE | Colour of a violet
+PINK | Colour of flamingos
+BROWN | Colour of chocolate
+BLACK | Colour of night
+WHITE | Colour of fresh snow
+
+=== Pet Shop | EASY
+DOG | Man's best friend
+CAT | Pet that purrs
+HAMSTER | Small pet that runs on a wheel
+RABBIT | Pet with long ears
+PARROT | Colourful bird that can talk
+GOLDFISH | Orange pet that lives in a bowl
+TURTLE | Pet that carries its home on its back
+MOUSE | Small rodent that loves cheese
+LEASH | Strap for walking a dog
+COLLAR | Band worn around a pet's neck
+
+=== Body Parts | EASY
+HEAD | Top part of your body
+HAND | Body part with five fingers
+FOOT | Body part you stand on
+KNEE | Joint in the middle of your leg
+ELBOW | Joint in the middle of your arm
+NOSE | You smell with it
+EAR | You hear with it
+MOUTH | You eat and speak with it
+SHOULDER | Joint where the arm meets the body
+TOOTH | It may need a filling
+
+=== Breakfast Table | EASY
+TOAST | Browned slice of bread
+EGG | It can be scrambled or fried
+CEREAL | Breakfast food eaten with milk
+JUICE | Orange drink at breakfast
+BACON | Crispy strips of pork
+PANCAKE | Flat cake served with syrup
+BUTTER | Spread made from cream
+HONEY | Sweet spread made by bees
+MILK | White drink from cows
+JAM | Fruit spread for toast
+
+=== At School | EASY
+TEACHER | Person who runs a classroom
+DESK | Pupil's table
+PENCIL | Writing tool with an eraser
+BOOK | You read it
+RULER | Tool for measuring straight lines
+CHALK | Writing stick for a blackboard
+LESSON | A period of teaching
+RECESS | Break time in the playground
+EXAM | Test at the end of a term
+CLASS | Group of pupils taught together
+
+=== City Streets | EASY
+BUS | Large vehicle for many passengers
+TAXI | Car you hail on the street
+BRIDGE | It crosses a river
+PARK | Green space in a city
+SHOP | Place to buy things
+ROAD | Street for cars
+TRAIN | It runs on rails
+TOWER | Very tall building
+MARKET | Place with stalls selling food
+CAFE | Small place for coffee and cake
+
+=== Toy Box | EASY
+DOLL | Toy that looks like a person
+BALL | Round toy you kick or throw
+KITE | Toy that flies on a string
+YOYO | Toy that goes up and down on a string
+PUZZLE | Toy made of pieces that fit together
+BLOCKS | Wooden cubes for building
+ROBOT | Toy machine that may walk and talk
+TEDDY | Cuddly toy bear
+DRUM | Toy you bang with sticks
+TRUCK | Toy vehicle with a tipping back
+
+=== Garden Path | EASY
+ROSE | Thorny flower often given on Valentine's Day
+TULIP | Spring flower grown from a bulb
+DAISY | White flower with a yellow centre
+TREE | Tall plant with a trunk
+GRASS | Green lawn plant
+SEED | Plants grow from it
+SHOVEL | Tool for digging
+HOSE | Tube for watering plants
+WORM | It wriggles in the soil
+BEE | Insect that visits flowers
+
+=== Ocean Life | EASY
+WHALE | Largest animal in the sea
+SHARK | Fish with sharp teeth and a fin
+DOLPHIN | Clever sea mammal that leaps
+OCTOPUS | Sea creature with eight arms
+STARFISH | Star-shaped sea creature
+CRAB | Sea creature that walks sideways
+SEAL | Sea mammal that barks
+CORAL | Reef builder
+JELLYFISH | Sea creature that can sting
+SQUID | Sea creature that squirts ink
+
+=== Transport | EASY
+CAR | Vehicle with four wheels
+BIKE | Two wheels and pedals
+PLANE | It flies passengers through the sky
+BOAT | It floats on water
+SHIP | Large boat
+ROCKET | It flies into space
+SCOOTER | Two wheels and a board
+HELICOPTER | Aircraft with spinning blades
+TRAM | Electric street train
+VAN | Vehicle for deliveries
+
+=== Birthday Party | EASY
+CAKE | Treat with candles on top
+CANDLE | Blow it out and make a wish
+BALLOON | It floats when filled with helium
+GIFT | Present wrapped in paper
+GAMES | Fun activities at a party
+MUSIC | You dance to it
+HAT | Paper cone worn at a party
+CARD | It says Happy Birthday
+FRIENDS | Guests you invite
+SMILE | Happy face
+
+=== Sports Day | EASY
+RACE | Contest of speed
+JUMP | Leap into the air
+GOAL | Score in football
+MEDAL | Award for first place
+TEAM | Players on the same side
+COACH | Person who trains athletes
+SPRINT | Short fast run
+RELAY | Race where runners pass a baton
+WINNER | Person who comes first
+WHISTLE | Referee blows it
+
+=== Musical Instruments | EASY
+PIANO | Instrument with black and white keys
+GUITAR | Instrument with six strings
+DRUMS | Instrument you hit with sticks
+FLUTE | Thin wind instrument held sideways
+VIOLIN | Small string instrument played with a bow
+TRUMPET | Brass instrument with three valves
+HARP | Large instrument with many strings plucked by hand
+CELLO | Big string instrument held between the knees
+TUBA | Biggest brass instrument
+BANJO | Round string instrument used in bluegrass
+
+=== Shapes | EASY
+CIRCLE | Perfectly round shape
+SQUARE | Shape with four equal sides
+TRIANGLE | Shape with three sides
+OVAL | Egg shape
+STAR | Shape with five points
+HEART | Shape of love
+DIAMOND | Shape of a kite or a playing-card suit
+CUBE | Shape of a dice
+CONE | Shape of an ice-cream holder
+SPHERE | Shape of a globe
+
+=== Jungle Trek | EASY
+LION | King of the jungle
+TIGER | Big cat with stripes
+MONKEY | Animal that swings through trees
+SNAKE | Animal with no legs that slithers
+PARROT | Bright bird of the rainforest
+ELEPHANT | Big animal with a trunk
+GORILLA | Largest ape
+FROG | Green jumper that croaks
+VINE | Climbing plant to swing on
+TOUCAN | Bird with a huge colourful beak
+
+=== Clothes Line | EASY
+SHIRT | Top with buttons and a collar
+DRESS | One-piece garment with a skirt
+SOCKS | You wear them inside shoes
+SCARF | Warm strip worn around the neck
+JACKET | Short coat
+GLOVES | Hand warmers with fingers
+SKIRT | Garment that hangs from the waist
+JEANS | Blue denim trousers
+BOOTS | Tall shoes for rain or snow
+HAT | You wear it on your head
+
+=== Space Trip | EASY
+SUN | Our nearest star
+MOON | It orbits the Earth
+STAR | It twinkles at night
+PLANET | Mars or Venus, for example
+ROCKET | It launches astronauts
+COMET | Icy body with a glowing tail
+ORBIT | Path around a planet
+ALIEN | Visitor from another world
+MARS | The Red Planet
+EARTH | Our home planet
+
+=== Bakery Window | EASY
+BREAD | Loaf from the oven
+BAGEL | Bread roll with a hole
+MUFFIN | Small cake baked in a cup
+COOKIE | Sweet baked biscuit
+DONUT | Fried ring often glazed
+CROISSANT | Flaky French crescent
+PIE | Pastry filled with fruit
+TART | Small open pastry
+FLOUR | Powder used to make bread
+OVEN | Where bread is baked
+
+=== Winter Fun | EASY
+SLED | Ride it down a snowy hill
+SKI | Glide down a mountain on it
+SNOWMAN | Figure with a carrot nose
+ICE | Frozen water
+SKATE | Glide on ice
+MITTEN | Glove without separate fingers
+SCARF | Woolly neck warmer
+IGLOO | House made of snow blocks
+COCOA | Hot chocolate drink
+FIRE | Warm yourself by it
+
+=== Camping Trip | EASY
+TENT | Shelter you pitch outdoors
+FIRE | Campers cook over it
+MAP | It shows the way
+TORCH | Handheld light
+HIKE | Long walk in nature
+LAKE | Body of fresh water
+FOREST | Lots of trees
+CANOE | Narrow boat paddled by hand
+BEAR | Big furry animal in the woods
+STARS | They shine above the campsite
+
+=== Feelings | EASY
+HAPPY | Feeling joy
+SAD | Feeling down
+ANGRY | Feeling mad
+SCARED | Feeling afraid
+CALM | Feeling peaceful
+PROUD | Pleased with what you did
+BORED | Nothing to do
+EXCITED | Can't wait
+TIRED | Ready for bed
+BRAVE | Not afraid
+
+=== Family Tree | EASY
+MOTHER | Mum
+FATHER | Dad
+SISTER | Female sibling
+BROTHER | Male sibling
+AUNT | Your parent's sister
+UNCLE | Your parent's brother
+COUSIN | Your aunt's child
+NIECE | Your sibling's daughter
+NEPHEW | Your sibling's son
+BABY | Newest member of the family
+
+=== Rainy Day Games | EASY
+CHESS | Game with kings and queens on a board
+CARDS | A deck of fifty-two
+DICE | Cubes you roll
+BINGO | Game where you shout when your card is full
+DOMINO | Tile with dots
+PUZZLE | Jigsaw, for example
+QUIZ | Set of questions
+CHARADES | Game of acting without words
+TAG | Chasing game
+HIDE | Seek's partner in a game
+
+=== Bugs and Beasties | EASY
+ANT | Tiny insect that lives in a colony
+BEETLE | Insect with a hard shell
+SPIDER | Eight-legged web spinner
+MOTH | Night-flying cousin of the butterfly
+SNAIL | Slow creature with a shell
+WASP | Striped insect that stings
+FLY | Buzzing insect
+LADYBIRD | Red beetle with black spots
+CRICKET | Insect that chirps at night
+BUTTERFLY | Insect with colourful wings
+
+=== Bathroom Shelf | EASY
+SOAP | Bar for washing
+TOWEL | Dry yourself with it
+BRUSH | Tool for tidying hair
+COMB | Toothed tool for hair
+SHAMPOO | Hair wash
+MIRROR | You see yourself in it
+SPONGE | Squishy bath scrubber
+BATH | Tub for soaking
+SHOWER | Spray of water to wash under
+TAP | Turn it to get water
+
+=== Days and Months | EASY
+MONDAY | First day of the work week
+FRIDAY | Last day of the work week
+SUNDAY | Day of rest
+JUNE | Month with the longest days in the north
+MAY | Fifth month
+MARCH | Third month
+AUGUST | Eighth month
+WEEK | Seven days
+YEAR | Twelve months
+DAY | Twenty-four hours
+
+=== Under the Sea Treasure | EASY
+PIRATE | Sailor with a hook and an eye patch
+CHEST | Box of treasure
+GOLD | Shiny yellow metal
+MAP | X marks the spot on it
+PARROT | Bird on a pirate's shoulder
+SHIP | Pirate vessel
+ANCHOR | It holds a ship in place
+ISLAND | Land surrounded by water
+SWORD | Pirate's weapon
+FLAG | Skull and crossbones, for one
+
+=== Vegetable Patch | EASY
+CARROT | Orange root that rabbits love
+POTATO | Vegetable for chips
+ONION | Vegetable that makes you cry
+PEAS | Small green balls in a pod
+CORN | Yellow cobs
+CABBAGE | Leafy head often made into coleslaw
+PUMPKIN | Orange squash carved at Halloween
+BEAN | Jack's magic seed
+LETTUCE | Salad leaves
+TOMATO | Red fruit used like a vegetable
+
+=== Fairy Tales | EASY
+DRAGON | Fire-breathing beast
+CASTLE | Royal home with towers
+PRINCE | King's son
+QUEEN | King's wife
+WITCH | She rides a broomstick
+GIANT | Huge person at the top of a beanstalk
+FAIRY | Tiny magical being with wings
+WAND | Magic stick
+KNIGHT | Warrior in armour
+FROG | It turns into a prince with a kiss
+
+=== Seaside Holiday | EASY
+BEACH | Sandy shore
+WAVES | They roll onto the shore
+BUCKET | Container for building sandcastles
+SPADE | Small digging tool for sand
+ICECREAM | Cold treat in a cone
+PIER | Walkway built out over the sea
+GULL | Noisy seaside bird
+SUNHAT | Wide hat for shade
+DECKCHAIR | Folding seat for the beach
+SHELLS | Things you collect on the beach

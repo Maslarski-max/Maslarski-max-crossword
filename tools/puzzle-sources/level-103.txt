@@ -1,0 +1,22 @@
+id: level-103
+title: Fine Dining
+difficulty: HARD
+order: 103
+type: level
+size: 15
+seed: 103
+---
+APERITIF | Drink before a meal
+ENTREE | Main course in the US
+SOUFFLE | Light baked egg dish
+RISOTTO | Creamy Italian rice dish
+CONSOMME | Clear soup
+TRUFFLE | Prized underground fungus
+CAVIAR | Salted fish eggs
+FONDUE | Melted cheese for dipping
+CARPACCIO | Thin slices of raw beef
+BRUSCHETTA | Toasted bread with toppings
+SOMMELIER | Wine expert in a restaurant
+MAITRED | Head waiter
+GARNISH | Decoration on a dish
+DIGESTIF | Drink after a meal

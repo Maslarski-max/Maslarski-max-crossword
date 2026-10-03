@@ -18,6 +18,7 @@ import com.maslarski.crossword.ui.home.HomeScreen
 import com.maslarski.crossword.ui.hub.HubScreen
 import com.maslarski.crossword.ui.levels.LevelsScreen
 import com.maslarski.crossword.ui.settings.SettingsScreen
+import com.maslarski.crossword.ui.shop.ShopScreen
 import com.maslarski.crossword.ui.stats.StatsScreen
 import kotlinx.serialization.Serializable
 
@@ -25,6 +26,7 @@ import kotlinx.serialization.Serializable
 @Serializable data object SettingsRoute
 @Serializable data object DailyRoute
 @Serializable data object StatsRoute
+@Serializable data object ShopRoute
 
 @Serializable data object ClassicGraph
 @Serializable data object ClassicHomeRoute
@@ -57,7 +59,11 @@ fun CrosswordNavHost() {
                 onDaily = { nav.navigate(DailyRoute) },
                 onStats = { nav.navigate(StatsRoute) },
                 onSettings = { nav.navigate(SettingsRoute) },
+                onShop = { nav.navigate(ShopRoute) },
             )
+        }
+        composable<ShopRoute> {
+            ShopScreen(onBack = { nav.popBackStack() })
         }
         composable<DailyRoute> {
             DailyScreen(
@@ -84,6 +90,7 @@ fun CrosswordNavHost() {
                 LevelsScreen(
                     onBack = { nav.popBackStack() },
                     onPlay = { sessionId, puzzleId -> nav.navigate(GameRoute(sessionId, puzzleId)) },
+                    onShop = { nav.navigate(ShopRoute) },
                 )
             }
             composable<GameRoute> { entry ->
@@ -97,6 +104,7 @@ fun CrosswordNavHost() {
                             popUpTo<GameRoute> { inclusive = true }
                         }
                     },
+                    onShop = { nav.navigate(ShopRoute) },
                 )
             }
             composable<CluesRoute> {
@@ -124,6 +132,7 @@ fun CrosswordNavHost() {
                             popUpTo<ArenaRoute> { inclusive = true }
                         }
                     },
+                    onShop = { nav.navigate(ShopRoute) },
                 )
             }
         }

@@ -1,0 +1,40 @@
+{
+  "id": "level-068",
+  "title": "Spices",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####S###C###",
+    "####VANILLA##",
+    "###P#F###O###",
+    "###A#F#T#V###",
+    "PEPPER#U#E###",
+    "###R#O#R#####",
+    "##CINNAMON###",
+    "###K###E#####",
+    "###A#CARDAMOM",
+    "#####U#I#N###",
+    "#####M#CHILI#",
+    "#####I###S###",
+    "#####NUTMEG##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Pod spice for ice cream",
+      "6": "Black or white seasoning",
+      "7": "Bark spice for buns",
+      "8": "Green pod spice in chai",
+      "10": "Hot pepper",
+      "11": "Spice grated on eggnog"
+    },
+    "down": {
+      "1": "Costly spice from crocuses",
+      "2": "Nail-shaped spice",
+      "4": "Red spice from peppers",
+      "5": "Yellow root spice",
+      "8": "Earthy spice in curry",
+      "9": "Liquorice-flavoured seed"
+    }
+  },
+  "order": 68
+}

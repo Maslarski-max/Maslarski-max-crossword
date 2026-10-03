@@ -1,0 +1,44 @@
+{
+  "id": "level-084",
+  "title": "Geology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####B##M######",
+    "M#S##A##A######",
+    "A#EROSION#####G",
+    "R#D##A##T#####R",
+    "B#I##L##L#####A",
+    "LIMESTONE#####N",
+    "E#E#T#######Q#I",
+    "##N#A#####FAULT",
+    "#STALACTITE#A#E",
+    "####A#A###L#R##",
+    "####G#N###D#T##",
+    "####M#Y###S#Z##",
+    "####I#O###P####",
+    "#TECTONIC#A####",
+    "####E#####R####"
+  ],
+  "clues": {
+    "across": {
+      "5": "Wearing away of land",
+      "7": "Rock formed from shells",
+      "10": "Crack where rock moves",
+      "11": "Icicle-like rock hanging from a cave roof",
+      "13": "Relating to the plates of Earth's crust"
+    },
+    "down": {
+      "1": "Dark volcanic rock",
+      "2": "Layer beneath the crust",
+      "3": "Metamorphic rock for statues",
+      "4": "Material settling at the bottom",
+      "6": "Speckled igneous rock for worktops",
+      "8": "Rock rising from a cave floor",
+      "9": "Common crystal mineral",
+      "10": "Abundant rock-forming mineral",
+      "12": "Deep gorge cut by a river"
+    }
+  },
+  "order": 84
+}

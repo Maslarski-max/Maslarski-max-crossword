@@ -1,0 +1,43 @@
+{
+  "id": "level-106",
+  "title": "Cryptography",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "########KEY####",
+    "#####T###N#####",
+    "P#V##U##CIPHER#",
+    "A#I##R#S#G#A###",
+    "S#G##I#I#M#S###",
+    "STEGANOGRAPHY##",
+    "W#N##G#N##L###C",
+    "O#E###CAESAR##O",
+    "R#R####T##I###D",
+    "D#E####U##NONCE",
+    "####DECRYPT###B",
+    "#######E##E###O",
+    "##########X###O",
+    "##########T###K"
+  ],
+  "clues": {
+    "across": {
+      "1": "Value that unlocks a code",
+      "6": "Method of encoding",
+      "9": "Hiding a message inside another",
+      "12": "Shift cipher named after an emperor",
+      "13": "Number used once",
+      "14": "Turn ciphertext back into plain text"
+    },
+    "down": {
+      "2": "German wartime cipher machine",
+      "3": "Codebreaker of Bletchley Park",
+      "4": "Secret word for login",
+      "5": "Polyalphabetic cipher",
+      "7": "One-way digest of data",
+      "8": "Proof of who signed a message",
+      "10": "Message before encryption",
+      "11": "List of code words"
+    }
+  },
+  "order": 106
+}

@@ -9,6 +9,7 @@ import com.maslarski.crossword.domain.model.GameSession
 import com.maslarski.crossword.domain.model.UnlockResult
 import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
+import com.maslarski.crossword.domain.repository.EntitlementRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import com.maslarski.crossword.ui.components.CoinPrompt
 import dagger.hilt.android.lifecycle.HiltViewModel
@@ -55,6 +56,7 @@ class LevelsViewModel @Inject constructor(
     private val puzzles: PuzzleRepository,
     private val progress: ProgressRepository,
     wallet: WalletRepository,
+    entitlements: EntitlementRepository,
 ) : ViewModel() {
 
     private val _events = Channel<LevelsEvent>(Channel.BUFFERED)
@@ -64,7 +66,7 @@ class LevelsViewModel @Inject constructor(
         val levels = puzzles.levels()
         progress.syncLevels(levels)
         emitAll(
-            combine(progress.observeLevels(), wallet.observeCoins()) { records, coins ->
+            combine(progress.observeLevels(), wallet.observeCoins(), entitlements.observeUnlimited()) { records, coins, unlimited ->
                 val byId = records.associateBy { it.puzzleId }
                 val unlockedIds = records.filter { it.unlocked }.mapTo(HashSet()) { it.puzzleId }
                 val nextUnlockable = LevelUnlocks.nextUnlockable(levels.map { it.id }, unlockedIds)
@@ -82,8 +84,8 @@ class LevelsViewModel @Inject constructor(
                             rows = puzzle.rows,
                             cols = puzzle.cols,
                             wordCount = puzzle.words.size,
-                            unlocked = record?.unlocked ?: (i == 0),
-                            unlockable = puzzle.id == nextUnlockable,
+                            unlocked = unlimited || (record?.unlocked ?: (i == 0)),
+                            unlockable = !unlimited && puzzle.id == nextUnlockable,
                             completed = record?.completed == true,
                             stars = record?.stars ?: 0,
                             bestScore = record?.bestScore ?: 0,

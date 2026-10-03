@@ -1,0 +1,39 @@
+{
+  "id": "level-067",
+  "title": "Volcanoes",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####MAGMA",
+    "#######E##",
+    "###P###Y##",
+    "VESUVIUS##",
+    "#R#M###E##",
+    "FUJI###R##",
+    "#P#C##C###",
+    "#TREMOR##L",
+    "#I####A##A",
+    "DORMANT##V",
+    "#N##S#ETNA",
+    "####H#R###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Molten rock underground",
+      "4": "Volcano that buried Pompeii",
+      "6": "Japan's sacred volcano",
+      "8": "Small earthquake",
+      "10": "Sleeping, for a volcano",
+      "12": "Sicily's active volcano"
+    },
+    "down": {
+      "2": "Hot spring that spouts",
+      "3": "Light volcanic rock that floats",
+      "5": "Volcanic explosion",
+      "7": "Bowl at the top of a volcano",
+      "9": "Molten rock on the surface",
+      "11": "Fine grey dust from an eruption"
+    }
+  },
+  "order": 67
+}

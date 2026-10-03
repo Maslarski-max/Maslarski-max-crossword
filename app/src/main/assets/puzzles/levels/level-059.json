@@ -1,0 +1,39 @@
+{
+  "id": "level-059",
+  "title": "Musical Terms",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####FORTE#",
+    "#####P#E##",
+    "OCTAVE#N##",
+    "#H###R#O##",
+    "SONATA#R#R",
+    "#R##E####H",
+    "#D##MELODY",
+    "####P#Y##T",
+    "##CHOIR##H",
+    "######I##M",
+    "######C###",
+    "######SOLO"
+  ],
+  "clues": {
+    "across": {
+      "1": "Loudly, in music",
+      "4": "Eight notes apart",
+      "6": "Instrumental composition",
+      "9": "Tune",
+      "11": "Group of singers",
+      "12": "Performance by one"
+    },
+    "down": {
+      "2": "Drama sung throughout",
+      "3": "High male voice",
+      "5": "Three or more notes together",
+      "7": "Speed of the music",
+      "8": "Pattern of beats",
+      "10": "Words of a song"
+    }
+  },
+  "order": 59
+}

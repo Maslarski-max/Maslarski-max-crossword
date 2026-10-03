@@ -1,0 +1,18 @@
+id: level-028
+title: Space Trip
+difficulty: EASY
+order: 28
+type: level
+size: 11
+seed: 28
+---
+SUN | Our nearest star
+MOON | It orbits the Earth
+STAR | It twinkles at night
+PLANET | Mars or Venus, for example
+ROCKET | It launches astronauts
+COMET | Icy body with a glowing tail
+ORBIT | Path around a planet
+ALIEN | Visitor from another world
+MARS | The Red Planet
+EARTH | Our home planet

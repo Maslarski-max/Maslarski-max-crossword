@@ -1,0 +1,22 @@
+id: level-106
+title: Cryptography
+difficulty: HARD
+order: 106
+type: level
+size: 15
+seed: 106
+---
+CIPHER | Method of encoding
+ENIGMA | German wartime cipher machine
+TURING | Codebreaker of Bletchley Park
+KEY | Value that unlocks a code
+HASH | One-way digest of data
+DECRYPT | Turn ciphertext back into plain text
+CAESAR | Shift cipher named after an emperor
+VIGENERE | Polyalphabetic cipher
+PLAINTEXT | Message before encryption
+CODEBOOK | List of code words
+NONCE | Number used once
+SIGNATURE | Proof of who signed a message
+PASSWORD | Secret word for login
+STEGANOGRAPHY | Hiding a message inside another

@@ -1,0 +1,40 @@
+{
+  "id": "level-061",
+  "title": "Bird Watching",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######F####",
+    "######L####",
+    "####SPARROW",
+    "######M###R",
+    "######I###E",
+    "####PENGUIN",
+    "####E#G####",
+    "##FALCON###",
+    "####I###H#E",
+    "####CRANE#A",
+    "####A###R#G",
+    "ROBIN###OWL",
+    "#####SWAN#E"
+  ],
+  "clues": {
+    "across": {
+      "2": "Small brown city bird",
+      "4": "Bird that cannot fly but swims",
+      "5": "Fastest diving bird",
+      "8": "Long-necked bird or a building machine",
+      "9": "Red-breasted garden bird",
+      "10": "Night bird that hoots",
+      "11": "Graceful white water bird"
+    },
+    "down": {
+      "1": "Pink bird that stands on one leg",
+      "3": "Tiny brown songbird",
+      "4": "Bird with a pouched bill",
+      "6": "Tall wading bird",
+      "7": "Bird of prey on the US seal"
+    }
+  },
+  "order": 61
+}

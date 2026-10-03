@@ -63,6 +63,7 @@ import kotlinx.coroutines.launch
 fun LevelsScreen(
     onBack: () -> Unit,
     onPlay: (sessionId: String, puzzleId: String) -> Unit,
+    onShop: () -> Unit,
     viewModel: LevelsViewModel = hiltViewModel(),
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
@@ -91,7 +92,7 @@ fun LevelsScreen(
                 navigationIcon = {
                     IconButton(onClick = onBack) { Icon(Icons.AutoMirrored.Rounded.ArrowBack, stringResource(R.string.back)) }
                 },
-                actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp)) },
+                actions = { CoinChip(state.coins, Modifier.padding(horizontal = 8.dp), onClick = onShop) },
             )
         },
     ) { padding ->
@@ -122,6 +123,10 @@ fun LevelsScreen(
                 viewModel.unlock(puzzleId)
             },
             onDismiss = { coinPrompt = null },
+            onShop = {
+                coinPrompt = null
+                onShop()
+            },
         )
     }
 }

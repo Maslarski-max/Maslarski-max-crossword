@@ -1,0 +1,22 @@
+id: level-097
+title: Physics
+difficulty: HARD
+order: 97
+type: level
+size: 15
+seed: 97
+---
+MOMENTUM | Mass times velocity
+VELOCITY | Speed in a given direction
+FRICTION | Force that resists sliding
+INERTIA | Resistance to change in motion
+QUANTUM | Smallest discrete unit of energy
+PHOTON | Particle of light
+NEWTON | Unit of force
+JOULE | Unit of energy
+ENTROPY | Measure of disorder
+WAVELENGTH | Distance between wave peaks
+FREQUENCY | Number of cycles per second
+RELATIVITY | Einstein's theory
+MAGNETISM | Force around a magnet
+PRISM | It splits white light

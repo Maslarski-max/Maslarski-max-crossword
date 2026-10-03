@@ -1,0 +1,20 @@
+id: level-061
+title: Bird Watching
+difficulty: MEDIUM
+order: 61
+type: level
+size: 13
+seed: 61
+---
+EAGLE | Bird of prey on the US seal
+FALCON | Fastest diving bird
+OWL | Night bird that hoots
+HERON | Tall wading bird
+ROBIN | Red-breasted garden bird
+SPARROW | Small brown city bird
+PELICAN | Bird with a pouched bill
+FLAMINGO | Pink bird that stands on one leg
+SWAN | Graceful white water bird
+PENGUIN | Bird that cannot fly but swims
+WREN | Tiny brown songbird
+CRANE | Long-necked bird or a building machine

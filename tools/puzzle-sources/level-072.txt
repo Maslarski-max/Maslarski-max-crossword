@@ -1,0 +1,20 @@
+id: level-072
+title: Healthy Habits
+difficulty: MEDIUM
+order: 72
+type: level
+size: 13
+seed: 72
+---
+EXERCISE | Physical activity
+SLEEP | Rest at night
+WATER | Drink plenty of it
+VITAMIN | Nutrient such as C or D
+PROTEIN | Nutrient in eggs and beans
+YOGA | Stretching practice
+WALKING | Gentle daily exercise
+SALAD | Bowl of greens
+FIBRE | It aids digestion
+STRETCH | Loosen your muscles
+BREATHE | Inhale and exhale
+POSTURE | How you hold your body

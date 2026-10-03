@@ -1,0 +1,18 @@
+id: level-015
+title: Breakfast Table
+difficulty: EASY
+order: 15
+type: level
+size: 11
+seed: 15
+---
+TOAST | Browned slice of bread
+EGG | It can be scrambled or fried
+CEREAL | Breakfast food eaten with milk
+JUICE | Orange drink at breakfast
+BACON | Crispy strips of pork
+PANCAKE | Flat cake served with syrup
+BUTTER | Spread made from cream
+HONEY | Sweet spread made by bees
+MILK | White drink from cows
+JAM | Fruit spread for toast

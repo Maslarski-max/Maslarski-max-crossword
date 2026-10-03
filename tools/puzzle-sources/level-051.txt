@@ -1,0 +1,20 @@
+id: level-051
+title: Ancient Egypt
+difficulty: MEDIUM
+order: 51
+type: level
+size: 13
+seed: 51
+---
+PHARAOH | Ruler of ancient Egypt
+PYRAMID | Tomb with four triangular sides
+SPHINX | Lion body with a human head
+MUMMY | Wrapped preserved body
+NILE | River through Egypt
+PAPYRUS | Ancient writing material
+SCARAB | Sacred beetle
+TOMB | Burial chamber
+OBELISK | Tall four-sided stone pillar
+DESERT | Sandy dry land
+CLEOPATRA | Last active ruler of Ptolemaic Egypt
+HIEROGLYPH | Picture symbol of writing

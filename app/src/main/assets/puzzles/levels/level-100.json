@@ -1,0 +1,44 @@
+{
+  "id": "level-100",
+  "title": "Journalism",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####I##TABLOID",
+    "#####N#P##Y####",
+    "##EDITORIAL####",
+    "#####E#E##I#H##",
+    "##CORRESPONDENT",
+    "##O##V#S##E#A##",
+    "##L##I######D##",
+    "SOURCE######L#R",
+    "C#M##W#DEADLINE",
+    "O#N#####D###N#P",
+    "O#######I###E#O",
+    "P#######T#####R",
+    "######BROADCAST",
+    "########R#####E",
+    "##############R"
+  ],
+  "clues": {
+    "across": {
+      "2": "Popular newspaper format",
+      "5": "Article giving the paper's view",
+      "7": "Reporter based abroad",
+      "8": "Person who gives information",
+      "10": "Time a story is due",
+      "12": "Transmit on radio or TV"
+    },
+    "down": {
+      "1": "Question-and-answer meeting",
+      "3": "Writer's name on an article",
+      "4": "The news media",
+      "6": "Title of a news story",
+      "7": "Regular opinion piece",
+      "8": "Exclusive story",
+      "9": "Person who gathers news",
+      "11": "Person who checks and revises copy"
+    }
+  },
+  "order": 100
+}

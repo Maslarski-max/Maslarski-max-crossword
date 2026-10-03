@@ -1,0 +1,20 @@
+id: level-053
+title: Weather Science
+difficulty: MEDIUM
+order: 53
+type: level
+size: 13
+seed: 53
+---
+TORNADO | Spinning funnel of wind
+CYCLONE | Large rotating storm
+DROUGHT | Long spell without rain
+BLIZZARD | Snowstorm with strong wind
+DRIZZLE | Light rain
+THUNDER | Rumble after lightning
+HUMIDITY | Moisture in the air
+FORECAST | Weather prediction
+MONSOON | Seasonal rainy wind
+BREEZE | Gentle wind
+CLIMATE | Long-term weather pattern
+SLEET | Mix of rain and snow

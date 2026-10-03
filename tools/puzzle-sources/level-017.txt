@@ -1,0 +1,18 @@
+id: level-017
+title: City Streets
+difficulty: EASY
+order: 17
+type: level
+size: 11
+seed: 17
+---
+BUS | Large vehicle for many passengers
+TAXI | Car you hail on the street
+BRIDGE | It crosses a river
+PARK | Green space in a city
+SHOP | Place to buy things
+ROAD | Street for cars
+TRAIN | It runs on rails
+TOWER | Very tall building
+MARKET | Place with stalls selling food
+CAFE | Small place for coffee and cake

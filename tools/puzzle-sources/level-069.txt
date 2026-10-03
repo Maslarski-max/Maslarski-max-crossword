@@ -1,0 +1,20 @@
+id: level-069
+title: Fashion
+difficulty: MEDIUM
+order: 69
+type: level
+size: 13
+seed: 69
+---
+DESIGNER | Person who creates clothes
+RUNWAY | Catwalk
+MODEL | Person who shows clothes
+FABRIC | Cloth
+SILK | Fine fabric from worms
+VELVET | Soft fabric with a pile
+DENIM | Fabric of jeans
+BOUTIQUE | Small fashion shop
+SEQUIN | Small shiny disc on a dress
+TAILOR | Person who makes suits
+COLLAR | Part of a shirt around the neck
+HEMLINE | Bottom edge of a skirt

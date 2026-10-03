@@ -1,0 +1,35 @@
+{
+  "id": "level-025",
+  "title": "Shapes",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###C#O#####",
+    "###I#V###H#",
+    "##TRIANGLE#",
+    "###C#L###A#",
+    "###L##STAR#",
+    "CUBE##Q##T#",
+    "######U#C##",
+    "####DIAMOND",
+    "######R#N##",
+    "###SPHERE##"
+  ],
+  "clues": {
+    "across": {
+      "4": "Shape with three sides",
+      "5": "Shape with five points",
+      "6": "Shape of a dice",
+      "8": "Shape of a kite or a playing-card suit",
+      "9": "Shape of a globe"
+    },
+    "down": {
+      "1": "Perfectly round shape",
+      "2": "Egg shape",
+      "3": "Shape of love",
+      "5": "Shape with four equal sides",
+      "7": "Shape of an ice-cream holder"
+    }
+  },
+  "order": 25
+}

@@ -1,0 +1,20 @@
+id: level-044
+title: Mythology
+difficulty: MEDIUM
+order: 44
+type: level
+size: 13
+seed: 44
+---
+ZEUS | King of the Greek gods
+THOR | Norse god with a hammer
+ATLAS | Titan who holds up the sky
+HERMES | Messenger god with winged sandals
+ODIN | One-eyed Norse chief god
+APOLLO | Greek god of the sun and music
+MEDUSA | Gorgon with snakes for hair
+PEGASUS | Winged horse
+HERCULES | Hero of the twelve labours
+TROY | City besieged with a wooden horse
+NYMPH | Nature spirit of Greek myth
+CENTAUR | Half man, half horse

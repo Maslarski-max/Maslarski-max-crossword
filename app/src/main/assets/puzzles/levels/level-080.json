@@ -1,0 +1,44 @@
+{
+  "id": "level-080",
+  "title": "Literature Classics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###J###########",
+    "##MACBETH####W#",
+    "###N##M###ILIAD",
+    "###E##M######L#",
+    "REBECCA######D#",
+    "###Y#A##I##B#E#",
+    "##FRANKENSTEIN#",
+    "###E#D##F##O###",
+    "##U##I##E##W#H#",
+    "##L##D#DRACULA#",
+    "ODYSSEY#N##L#M#",
+    "##S#####O##F#L#",
+    "##S##########E#",
+    "##E##########T#",
+    "##S############"
+  ],
+  "clues": {
+    "across": {
+      "2": "Scottish play",
+      "5": "Homer's epic of the Trojan War",
+      "6": "Du Maurier novel of Manderley",
+      "10": "Shelley's creator of a monster",
+      "13": "Stoker's count",
+      "14": "Homer's epic of a long voyage home"
+    },
+    "down": {
+      "1": "Bronte's governess heroine",
+      "3": "Austen heroine and matchmaker",
+      "4": "Thoreau's book of life by a pond",
+      "7": "Voltaire's optimist",
+      "8": "First part of Dante's Divine Comedy",
+      "9": "Old English epic hero",
+      "11": "Joyce's Dublin novel",
+      "12": "Prince of Denmark"
+    }
+  },
+  "order": 80
+}

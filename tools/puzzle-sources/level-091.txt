@@ -1,0 +1,22 @@
+id: level-091
+title: Greek Alphabet
+difficulty: HARD
+order: 91
+type: level
+size: 15
+seed: 91
+---
+ALPHA | First Greek letter
+BETA | Second Greek letter
+GAMMA | Third Greek letter, also a ray
+DELTA | Triangular Greek letter, also a river mouth
+EPSILON | Fifth Greek letter
+THETA | Letter often used for angles
+LAMBDA | Letter used for wavelength
+SIGMA | Letter used for sum
+OMEGA | Last Greek letter
+KAPPA | Tenth Greek letter
+ZETA | Sixth Greek letter
+IOTA | Tiny amount, or a Greek letter
+OMICRON | Short O in Greek
+UPSILON | Twentieth Greek letter

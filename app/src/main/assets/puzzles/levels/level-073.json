@@ -1,0 +1,40 @@
+{
+  "id": "level-073",
+  "title": "Railway Journey",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##SLEEPER#F##",
+    "##I#######R##",
+    "E#G###TICKET#",
+    "X#N##L####I#C",
+    "PLATFORM##G#A",
+    "R#L##C####H#R",
+    "E###CONDUCTOR",
+    "S####M######I",
+    "STATION#####A",
+    "#####T######G",
+    "####TIMETABLE",
+    "#####V#######",
+    "#TUNNEL######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Train with beds",
+      "4": "You need one to board",
+      "7": "You wait on it for a train",
+      "8": "Person who checks tickets",
+      "9": "Where trains stop",
+      "10": "Schedule of departures",
+      "11": "Railway through a hill"
+    },
+    "down": {
+      "1": "Light telling a train to stop or go",
+      "2": "Goods carried by train",
+      "3": "Fast train with few stops",
+      "5": "Engine that pulls a train",
+      "6": "Passenger car of a train"
+    }
+  },
+  "order": 73
+}

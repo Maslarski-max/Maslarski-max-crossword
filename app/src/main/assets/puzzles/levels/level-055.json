@@ -1,0 +1,38 @@
+{
+  "id": "level-055",
+  "title": "Theatre Night",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######DRAMA##",
+    "##C#######P##",
+    "##U###B###P#D",
+    "##REHEARSAL#I",
+    "##T###L###A#R",
+    "STAGE#COSTUME",
+    "C#I###O###S#C",
+    "R#N##ENCORE#T",
+    "I#####Y#####O",
+    "PROMPT##USHER",
+    "T############"
+  ],
+  "clues": {
+    "across": {
+      "1": "Serious play",
+      "6": "Practice before opening night",
+      "7": "Where actors perform",
+      "8": "Actor's outfit",
+      "9": "Extra performance after demand",
+      "10": "Help for an actor who forgets",
+      "11": "Person who shows you to your seat"
+    },
+    "down": {
+      "2": "Clapping at the end",
+      "3": "It rises before the show",
+      "4": "Upper seating level",
+      "5": "Person in charge of a production",
+      "7": "Written lines for actors"
+    }
+  },
+  "order": 55
+}

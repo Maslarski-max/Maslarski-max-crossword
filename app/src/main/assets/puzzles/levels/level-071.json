@@ -1,0 +1,40 @@
+{
+  "id": "level-071",
+  "title": "Rivers of the World",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######Y#V###",
+    "####AMAZON##",
+    "######N#L###",
+    "######G#G###",
+    "CONGO#THAMES",
+    "###A##Z#####",
+    "#DANUBE#####",
+    "###G###R####",
+    "#N#E###H##T#",
+    "MISSISSIPPI#",
+    "#L#####N##B#",
+    "#E####SEINE#",
+    "##########R#"
+  ],
+  "clues": {
+    "across": {
+      "3": "River through Brazil",
+      "4": "Deep river of central Africa",
+      "6": "River through London",
+      "7": "River through Vienna and Budapest",
+      "11": "River through New Orleans",
+      "12": "River through Paris"
+    },
+    "down": {
+      "1": "Longest river in Asia",
+      "2": "Longest river in Europe",
+      "5": "Sacred river of India",
+      "8": "River from the Alps to the North Sea",
+      "9": "Longest river in Africa",
+      "10": "River through Rome"
+    }
+  },
+  "order": 71
+}

@@ -20,6 +20,7 @@ import com.maslarski.crossword.domain.model.Word
 import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
 import com.maslarski.crossword.domain.repository.SettingsRepository
+import com.maslarski.crossword.domain.repository.EntitlementRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import com.maslarski.crossword.ui.components.InputEvent
 import com.maslarski.crossword.ui.navigation.GameRoute
@@ -49,6 +50,8 @@ data class GameUiState(
     val elapsedSeconds: Long = 0,
     val checksUsed: Int = 0,
     val coins: Int = 0,
+    /** Unlimited Mode: hints are free and every level is open. */
+    val unlimited: Boolean = false,
     val settings: Settings = Settings(),
     val solved: Boolean = false,
     /** Set when the puzzle was solved in this visit; drives the celebration dialog. */
@@ -81,6 +84,7 @@ class GameViewModel @Inject constructor(
     private val puzzles: PuzzleRepository,
     private val progress: ProgressRepository,
     private val wallet: WalletRepository,
+    private val entitlements: EntitlementRepository,
     settingsRepository: SettingsRepository,
     private val telemetry: Telemetry,
     /** Board writes run here so a save queued just before the screen closes is not cancelled with it. */
@@ -108,6 +112,7 @@ class GameViewModel @Inject constructor(
 
     init {
         viewModelScope.launch { wallet.observeCoins().collect { coins -> _state.update { it.copy(coins = coins) } } }
+        viewModelScope.launch { entitlements.observeUnlimited().collect { u -> _state.update { it.copy(unlimited = u) } } }
         viewModelScope.launch { settingsRepository.settings.collect { s -> _state.update { it.copy(settings = s) } } }
         viewModelScope.launch { load() }
     }
@@ -177,13 +182,14 @@ class GameViewModel @Inject constructor(
                     _messages.send(it)
                     return@launch
                 }
-                if (!wallet.trySpend(hint.cost)) {
-                    _messages.send(GameMessage.NotEnoughCoins(hint.cost))
+                val cost = if (entitlements.isUnlimited()) 0 else hint.cost
+                if (!wallet.trySpend(cost)) {
+                    _messages.send(GameMessage.NotEnoughCoins(cost))
                     return@launch
                 }
                 // The board may have changed, or the screen closed, while the wallet write was suspended.
                 if (cleared) {
-                    wallet.refund(hint.cost)
+                    wallet.refund(cost)
                     return@launch
                 }
                 val now = _state.value
@@ -193,7 +199,7 @@ class GameViewModel @Inject constructor(
                     unavailable(hint, now.puzzle, now.board)
                 }
                 if (stale != null) {
-                    wallet.refund(hint.cost)
+                    wallet.refund(cost)
                     _messages.send(stale)
                     return@launch
                 }
@@ -227,7 +233,7 @@ class GameViewModel @Inject constructor(
     fun onPlayNext(puzzleId: String) {
         viewModelScope.launch {
             val unlocked = progress.observeLevels().first().filter { it.unlocked }.mapTo(HashSet()) { it.puzzleId }
-            if (puzzleId in unlocked) {
+            if (puzzleId in unlocked || entitlements.isUnlimited()) {
                 _messages.send(GameMessage.OpenLevel(puzzleId))
                 return@launch
             }

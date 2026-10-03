@@ -1,0 +1,18 @@
+id: level-016
+title: At School
+difficulty: EASY
+order: 16
+type: level
+size: 11
+seed: 16
+---
+TEACHER | Person who runs a classroom
+DESK | Pupil's table
+PENCIL | Writing tool with an eraser
+BOOK | You read it
+RULER | Tool for measuring straight lines
+CHALK | Writing stick for a blackboard
+LESSON | A period of teaching
+RECESS | Break time in the playground
+EXAM | Test at the end of a term
+CLASS | Group of pupils taught together

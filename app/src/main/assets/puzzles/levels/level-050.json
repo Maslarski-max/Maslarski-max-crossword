@@ -1,0 +1,39 @@
+{
+  "id": "level-050",
+  "title": "Kitchen Herbs",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##SAGE#######",
+    "####A########",
+    "###OREGANO###",
+    "####L#I######",
+    "#CORIANDER###",
+    "#H##C#G##O###",
+    "MINT##E##S###",
+    "#V##PARSLEY#D",
+    "#E#######M##I",
+    "#S######BASIL",
+    "#########R##L",
+    "#######THYME#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Herb paired with onion stuffing",
+      "3": "Pizza herb",
+      "5": "Herb also called cilantro",
+      "7": "Herb for mojitos",
+      "8": "Curly garnish herb",
+      "10": "Herb in pesto",
+      "11": "Herb that sounds like time"
+    },
+    "down": {
+      "2": "Pungent bulb for flavouring",
+      "4": "Spicy root",
+      "5": "Onion-flavoured herb",
+      "6": "Needle-leaved herb for lamb",
+      "9": "Feathery herb with fish"
+    }
+  },
+  "order": 50
+}

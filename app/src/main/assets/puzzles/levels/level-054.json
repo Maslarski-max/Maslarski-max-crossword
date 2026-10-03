@@ -1,0 +1,39 @@
+{
+  "id": "level-054",
+  "title": "Gemstones",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####T###A#",
+    "#####O#D#M#",
+    "##SAPPHIRE#",
+    "#G###A#A#T#",
+    "JADE#Z#M#H#",
+    "#R#####ONYX",
+    "#N#P###N#S#",
+    "#EMERALD#T#",
+    "#T#A#M#####",
+    "###RUBY####",
+    "OPAL#E#####",
+    "#####R#####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Blue gemstone",
+      "6": "Green stone prized in China",
+      "7": "Banded black gem",
+      "9": "Green gemstone",
+      "11": "Red gemstone",
+      "12": "Gem with shifting colours"
+    },
+    "down": {
+      "1": "Golden-yellow gem",
+      "2": "Purple quartz",
+      "3": "Hardest natural gem",
+      "5": "January's deep red birthstone",
+      "8": "Gem made by an oyster",
+      "10": "Fossilised tree resin"
+    }
+  },
+  "order": 54
+}

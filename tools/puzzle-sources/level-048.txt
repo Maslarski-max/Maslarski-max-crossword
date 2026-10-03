@@ -1,0 +1,20 @@
+id: level-048
+title: Rainforest
+difficulty: MEDIUM
+order: 48
+type: level
+size: 13
+seed: 48
+---
+CANOPY | Top layer of the forest
+JAGUAR | Spotted big cat of the Americas
+SLOTH | Very slow tree-dweller
+TOUCAN | Bird with a huge colourful beak
+PIRANHA | Fish with razor teeth
+ORCHID | Exotic flower
+AMAZON | Largest rainforest on Earth
+LIANA | Woody climbing vine
+TAPIR | Pig-like animal with a short trunk
+MACAW | Large colourful parrot
+HUMID | Warm and damp
+ANACONDA | Huge snake of South America

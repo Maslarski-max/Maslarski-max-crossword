@@ -1,0 +1,36 @@
+{
+  "id": "level-032",
+  "title": "Feelings",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "H###S##B#",
+    "A#B#ANGRY",
+    "PROUD##A#",
+    "P#R####V#",
+    "Y#EXCITED",
+    "##D###I##",
+    "######R##",
+    "##SCARED#",
+    "###A##D##",
+    "###L#####",
+    "###M#####"
+  ],
+  "clues": {
+    "across": {
+      "5": "Feeling mad",
+      "6": "Pleased with what you did",
+      "7": "Can't wait",
+      "9": "Feeling afraid"
+    },
+    "down": {
+      "1": "Feeling joy",
+      "2": "Feeling down",
+      "3": "Not afraid",
+      "4": "Nothing to do",
+      "8": "Ready for bed",
+      "10": "Feeling peaceful"
+    }
+  },
+  "order": 32
+}

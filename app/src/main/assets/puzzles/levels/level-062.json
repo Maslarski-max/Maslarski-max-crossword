@@ -1,0 +1,38 @@
+{
+  "id": "level-062",
+  "title": "Gardening",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###COMPOST#",
+    "H####U###R#",
+    "E###BLOSSOM",
+    "D##S#C###W#",
+    "GREENHOUSE#",
+    "E##E##R##L#",
+    "###D##C####",
+    "#BULB#H##W#",
+    "###I##A##E#",
+    "PRUNE#RAKE#",
+    "###G##D##D#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Rotting matter used as fertiliser",
+      "5": "Flowers on a fruit tree",
+      "7": "Glass building for plants",
+      "9": "Tulips grow from one",
+      "11": "Trim back a plant",
+      "12": "Tool for gathering leaves"
+    },
+    "down": {
+      "2": "Layer spread over soil",
+      "3": "Small hand spade",
+      "4": "Row of bushes",
+      "6": "Young plant",
+      "8": "Field of fruit trees",
+      "10": "Unwanted plant"
+    }
+  },
+  "order": 62
+}

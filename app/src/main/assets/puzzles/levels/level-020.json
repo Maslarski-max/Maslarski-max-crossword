@@ -1,0 +1,35 @@
+{
+  "id": "level-020",
+  "title": "Ocean Life",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "OCTOPUS###",
+    "#R####T###",
+    "#A##SHARK#",
+    "#B#D##R###",
+    "###O##F###",
+    "JELLYFISH#",
+    "###P##S##S",
+    "###H#WHALE",
+    "SQUID####A",
+    "###N#CORAL"
+  ],
+  "clues": {
+    "across": {
+      "1": "Sea creature with eight arms",
+      "4": "Fish with sharp teeth and a fin",
+      "6": "Sea creature that can sting",
+      "8": "Largest animal in the sea",
+      "9": "Sea creature that squirts ink",
+      "10": "Reef builder"
+    },
+    "down": {
+      "2": "Sea creature that walks sideways",
+      "3": "Star-shaped sea creature",
+      "5": "Clever sea mammal that leaps",
+      "7": "Sea mammal that barks"
+    }
+  },
+  "order": 20
+}

@@ -1,0 +1,18 @@
+id: level-032
+title: Feelings
+difficulty: EASY
+order: 32
+type: level
+size: 11
+seed: 32
+---
+HAPPY | Feeling joy
+SAD | Feeling down
+ANGRY | Feeling mad
+SCARED | Feeling afraid
+CALM | Feeling peaceful
+PROUD | Pleased with what you did
+BORED | Nothing to do
+EXCITED | Can't wait
+TIRED | Ready for bed
+BRAVE | Not afraid

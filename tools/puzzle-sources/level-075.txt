@@ -1,0 +1,22 @@
+id: level-075
+title: Philosophy
+difficulty: HARD
+order: 75
+type: level
+size: 15
+seed: 75
+---
+PLATO | Student of Socrates who wrote The Republic
+SOCRATES | Athenian who drank hemlock
+ETHICS | Study of right and wrong
+LOGIC | Study of valid reasoning
+STOIC | Follower of Zeno, unmoved by passion
+DESCARTES | I think, therefore I am
+KANT | Author of Critique of Pure Reason
+NIETZSCHE | Philosopher who declared God is dead
+PARADOX | Self-contradictory truth
+VIRTUE | Moral excellence
+DOGMA | Belief held beyond question
+SKEPTIC | One who doubts accepted opinions
+UTOPIA | Imagined perfect society
+AXIOM | Self-evident starting truth

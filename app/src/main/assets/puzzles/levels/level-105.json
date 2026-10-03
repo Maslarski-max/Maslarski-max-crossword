@@ -1,0 +1,41 @@
+{
+  "id": "level-105",
+  "title": "Ecology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "H###ECOSYSTEM##",
+    "E###X##########",
+    "R###T##P###S###",
+    "BIODIVERSITY###",
+    "I###N##E###M#P#",
+    "V#F#C##D#M#B#O#",
+    "O#O#T##A#I#I#L#",
+    "R#O#I##T#G#O#L#",
+    "E#D#O##O#R#S#I#",
+    "##CONSERVATION#",
+    "##H######T#S#A#",
+    "#HABITAT#I###T#",
+    "##I######O###O#",
+    "##N###CARNIVORE"
+  ],
+  "clues": {
+    "across": {
+      "2": "Community and its environment",
+      "5": "Variety of life",
+      "9": "Protection of nature",
+      "10": "Natural home of an organism",
+      "11": "Meat eater"
+    },
+    "down": {
+      "1": "Plant eater",
+      "2": "Dying out of a species",
+      "3": "Animal that hunts",
+      "4": "Mutually beneficial relationship",
+      "6": "Bee, for one",
+      "7": "Who eats whom",
+      "8": "Seasonal movement of animals"
+    }
+  },
+  "order": 105
+}

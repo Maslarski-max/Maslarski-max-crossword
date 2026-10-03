@@ -108,6 +108,9 @@ interface WalletDao {
 
     @Query("UPDATE wallet SET coins = coins + :amount WHERE id = 0")
     suspend fun refund(amount: Int): Int
+
+    @Query("UPDATE wallet SET coins = coins + :amount WHERE id = 0")
+    suspend fun depositPurchased(amount: Int): Int
 }
 
 @Dao
@@ -160,4 +163,20 @@ interface LoginStreakDao {
 
     @Upsert
     suspend fun upsert(entity: LoginStreakEntity)
+}
+
+@Dao
+interface EntitlementDao {
+    @Query("SELECT active FROM entitlements WHERE productId = :productId")
+    fun observeActive(productId: String): Flow<Boolean?>
+
+    @Query("SELECT active FROM entitlements WHERE productId = :productId")
+    suspend fun isActive(productId: String): Boolean?
+
+    @Upsert
+    suspend fun upsert(entity: EntitlementEntity)
+
+    /** Returns -1 when [entity]'s token was already credited. */
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
+    suspend fun insertCredit(entity: PurchaseCreditEntity): Long
 }

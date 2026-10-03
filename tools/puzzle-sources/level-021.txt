@@ -1,0 +1,18 @@
+id: level-021
+title: Transport
+difficulty: EASY
+order: 21
+type: level
+size: 11
+seed: 21
+---
+CAR | Vehicle with four wheels
+BIKE | Two wheels and pedals
+PLANE | It flies passengers through the sky
+BOAT | It floats on water
+SHIP | Large boat
+ROCKET | It flies into space
+SCOOTER | Two wheels and a board
+HELICOPTER | Aircraft with spinning blades
+TRAM | Electric street train
+VAN | Vehicle for deliveries

@@ -1,0 +1,22 @@
+id: level-107
+title: Grand Finale
+difficulty: HARD
+order: 107
+type: level
+size: 15
+seed: 107
+---
+MASTERPIECE | Greatest work
+CHAMPION | Winner of a contest
+ODYSSEY | Long adventurous journey
+ZENITH | Highest point
+PINNACLE | Peak of achievement
+TRIUMPH | Great victory
+LABYRINTH | Complicated maze
+VOCABULARY | Words a person knows
+ERUDITE | Very learned
+EPIPHANY | Sudden realisation
+SERENDIPITY | Happy accident
+QUINTESSENCE | Perfect example
+ELOQUENT | Fluent and persuasive
+FINALE | Last part of a show

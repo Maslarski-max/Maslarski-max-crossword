@@ -16,7 +16,7 @@ enum class PlacementError { NOT_YOUR_TURN, NO_TILES, BAD_TILE, CELL_TAKEN, NOT_O
  * [SCORELESS_TURN_LIMIT] consecutive turns without points.
  */
 object ArenaRules {
-    const val RACK_SIZE = 5
+    const val RACK_SIZE = 7
     const val WIN_REWARD = 20
     const val DRAW_REWARD = 10
     const val SCORELESS_TURN_LIMIT = 4
@@ -60,6 +60,20 @@ object ArenaRules {
             bag = bag.drop(RACK_SIZE * 2),
             playerRack = bag.take(RACK_SIZE),
             opponentRack = bag.drop(RACK_SIZE).take(RACK_SIZE),
+        )
+    }
+
+    /** Draws from the bag until both racks hold [RACK_SIZE] tiles, e.g. for matches saved with a smaller rack. */
+    fun topUpRacks(state: ArenaState): ArenaState {
+        if (state.finished) return state
+        val playerDraw = state.bag.take((RACK_SIZE - state.playerRack.length).coerceAtLeast(0))
+        val rest = state.bag.drop(playerDraw.length)
+        val opponentDraw = rest.take((RACK_SIZE - state.opponentRack.length).coerceAtLeast(0))
+        if (playerDraw.isEmpty() && opponentDraw.isEmpty()) return state
+        return state.copy(
+            bag = rest.drop(opponentDraw.length),
+            playerRack = state.playerRack + playerDraw,
+            opponentRack = state.opponentRack + opponentDraw,
         )
     }
 

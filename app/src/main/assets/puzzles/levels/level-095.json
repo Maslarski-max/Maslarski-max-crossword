@@ -1,0 +1,44 @@
+{
+  "id": "level-095",
+  "title": "Computer Science",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######E#######",
+    "###D#BANDWIDTH#",
+    "###E###C#######",
+    "#D#BINARY######",
+    "#A#U###Y#CACHE#",
+    "#T#G###P#O#####",
+    "#ALGORITHM###K#",
+    "#B#E#E#I#P#S#E#",
+    "#A#R#C#O#I#Y#R#",
+    "#S###U#N#L#N#N#",
+    "SERVER###E#T#E#",
+    "#####S#VARIABLE",
+    "#####I#####X###",
+    "#PROTOCOL######",
+    "#####N#########"
+  ],
+  "clues": {
+    "across": {
+      "3": "Data transfer capacity",
+      "5": "Number system of ones and zeros",
+      "6": "Fast temporary storage",
+      "7": "Step-by-step procedure",
+      "11": "Computer that serves requests",
+      "12": "Named storage for a value",
+      "13": "Rules for communication"
+    },
+    "down": {
+      "1": "Scrambling data to protect it",
+      "2": "Tool for finding errors",
+      "4": "Organised store of data",
+      "6": "Program that translates code",
+      "8": "Function calling itself",
+      "9": "Core of an operating system",
+      "10": "Rules of a language's structure"
+    }
+  },
+  "order": 95
+}

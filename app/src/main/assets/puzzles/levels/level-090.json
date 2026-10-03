@@ -1,0 +1,44 @@
+{
+  "id": "level-090",
+  "title": "Engineering",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####H###P#####",
+    "#ALLOY###I#####",
+    "#####D###S#####",
+    "####PROTOTYPE##",
+    "#V###A###O#####",
+    "#O##SUSPENSION#",
+    "#L###L########T",
+    "#T###I###C#G##O",
+    "#A###CANTILEVER",
+    "#G##G####R#A##Q",
+    "WELDING##C#R##U",
+    "####R###TURBINE",
+    "####D####I#O###",
+    "#BLUEPRINT#X###",
+    "####R##########"
+  ],
+  "clues": {
+    "across": {
+      "3": "Metal mixture",
+      "4": "First working model",
+      "6": "Springs and shocks under a car",
+      "10": "Beam fixed at one end only",
+      "12": "Joining metal with heat",
+      "13": "Rotary engine driven by fluid",
+      "14": "Technical drawing"
+    },
+    "down": {
+      "1": "Powered by liquid pressure",
+      "2": "Part moving inside a cylinder",
+      "5": "Electrical pressure",
+      "7": "Twisting force",
+      "8": "Path for electric current",
+      "9": "Housing of a vehicle's gears",
+      "11": "Large steel beam"
+    }
+  },
+  "order": 90
+}

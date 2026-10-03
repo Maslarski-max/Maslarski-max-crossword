@@ -1,0 +1,18 @@
+id: level-020
+title: Ocean Life
+difficulty: EASY
+order: 20
+type: level
+size: 11
+seed: 20
+---
+WHALE | Largest animal in the sea
+SHARK | Fish with sharp teeth and a fin
+DOLPHIN | Clever sea mammal that leaps
+OCTOPUS | Sea creature with eight arms
+STARFISH | Star-shaped sea creature
+CRAB | Sea creature that walks sideways
+SEAL | Sea mammal that barks
+CORAL | Reef builder
+JELLYFISH | Sea creature that can sting
+SQUID | Sea creature that squirts ink

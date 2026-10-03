@@ -1,0 +1,36 @@
+{
+  "id": "level-029",
+  "title": "Bakery Window",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#######P#",
+    "###MUFFIN",
+    "#####L#E#",
+    "###C#O###",
+    "##DONUT#T",
+    "###O#R##A",
+    "#B#K##B#R",
+    "CROISSANT",
+    "#E#E##G##",
+    "#A##OVEN#",
+    "#D####L##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Small cake baked in a cup",
+      "5": "Fried ring often glazed",
+      "9": "Flaky French crescent",
+      "10": "Where bread is baked"
+    },
+    "down": {
+      "1": "Pastry filled with fruit",
+      "3": "Powder used to make bread",
+      "4": "Sweet baked biscuit",
+      "6": "Small open pastry",
+      "7": "Loaf from the oven",
+      "8": "Bread roll with a hole"
+    }
+  },
+  "order": 29
+}

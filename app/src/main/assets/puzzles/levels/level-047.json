@@ -1,0 +1,38 @@
+{
+  "id": "level-047",
+  "title": "Olympic Games",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####JUDO####",
+    "F######I####J",
+    "E####P#V####A",
+    "N#H#BOXING##V",
+    "C#U##D#N##A#E",
+    "I#ROWING##R#L",
+    "N#D##U####C#I",
+    "GOLD#MARATHON",
+    "##E#######E##",
+    "##S#####TORCH",
+    "##########Y##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Japanese martial art at the Games",
+      "7": "Sport in a ring with gloves",
+      "9": "Sport with oars and a boat",
+      "10": "First-place medal",
+      "11": "Race of about forty-two kilometres",
+      "12": "It carries the Olympic flame"
+    },
+    "down": {
+      "2": "Sport off a springboard",
+      "3": "Sport with foils and masks",
+      "4": "Spear thrown for distance",
+      "5": "Winners stand on it",
+      "6": "Barriers to jump in a race",
+      "8": "Sport with bows and arrows"
+    }
+  },
+  "order": 47
+}

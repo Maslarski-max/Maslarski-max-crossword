@@ -1,0 +1,43 @@
+{
+  "id": "level-103",
+  "title": "Fine Dining",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###C##C##R####",
+    "###A#GARNISH##",
+    "###V##R##S####",
+    "###I##P##O####",
+    "C##A##A##T####",
+    "O#BRUSCHETTA##",
+    "N#####C##O#P#S",
+    "SOMMELIER##E#O",
+    "O##A##O####R#U",
+    "M##I#######I#F",
+    "M##T##DIGESTIF",
+    "ENTREE#####I#L",
+    "###E###TRUFFLE",
+    "FONDUE########"
+  ],
+  "clues": {
+    "across": {
+      "4": "Decoration on a dish",
+      "6": "Toasted bread with toppings",
+      "9": "Wine expert in a restaurant",
+      "11": "Drink after a meal",
+      "12": "Main course in the US",
+      "13": "Prized underground fungus",
+      "14": "Melted cheese for dipping"
+    },
+    "down": {
+      "1": "Salted fish eggs",
+      "2": "Thin slices of raw beef",
+      "3": "Creamy Italian rice dish",
+      "5": "Clear soup",
+      "7": "Drink before a meal",
+      "8": "Light baked egg dish",
+      "10": "Head waiter"
+    }
+  },
+  "order": 103
+}

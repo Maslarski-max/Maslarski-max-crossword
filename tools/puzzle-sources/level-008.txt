@@ -1,0 +1,18 @@
+id: level-008
+title: Fruit Bowl
+difficulty: EASY
+order: 8
+type: level
+size: 11
+seed: 8
+---
+APPLE | Fruit that keeps the doctor away
+BANANA | Curved yellow fruit monkeys love
+GRAPE | Small fruit grown in bunches on a vine
+LEMON | Sour yellow citrus fruit
+MANGO | Tropical fruit with a large flat stone
+PEACH | Fuzzy-skinned summer fruit
+CHERRY | Small red fruit often found on top of a sundae
+MELON | Large juicy fruit with many seeds
+PEAR | Fruit shaped like a light bulb
+PLUM | Purple fruit that dries into a prune

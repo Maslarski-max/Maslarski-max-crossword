@@ -1,0 +1,35 @@
+{
+  "id": "level-017",
+  "title": "City Streets",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##R##BUS",
+    "#TOWER#H",
+    "##A##I#O",
+    "##D##D#P",
+    "###M#G##",
+    "##CAFE##",
+    "###R##T#",
+    "PARK##A#",
+    "###E##X#",
+    "###TRAIN"
+  ],
+  "clues": {
+    "across": {
+      "2": "Large vehicle for many passengers",
+      "4": "Very tall building",
+      "6": "Small place for coffee and cake",
+      "8": "Green space in a city",
+      "9": "It runs on rails"
+    },
+    "down": {
+      "1": "Street for cars",
+      "2": "It crosses a river",
+      "3": "Place to buy things",
+      "5": "Place with stalls selling food",
+      "7": "Car you hail on the street"
+    }
+  },
+  "order": 17
+}

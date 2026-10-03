@@ -1,0 +1,461 @@
+=== World Capitals | MEDIUM
+PARIS | City of the Eiffel Tower
+LONDON | Capital on the Thames
+ROME | Eternal City
+MADRID | Spain's capital
+BERLIN | German capital once divided by a wall
+TOKYO | Japan's capital
+CAIRO | Capital near the Pyramids of Giza
+OTTAWA | Canada's capital
+LIMA | Peru's capital
+OSLO | Norway's capital
+VIENNA | Austrian capital famed for waltzes
+ATHENS | Capital beneath the Acropolis
+
+=== Science Lab | MEDIUM
+ATOM | Smallest unit of an element
+BEAKER | Glass cup for experiments
+MAGNET | It attracts iron
+GRAVITY | Force that makes apples fall
+OXYGEN | Gas we breathe to live
+ENERGY | Capacity to do work
+MICROSCOPE | It makes tiny things look big
+CELL | Basic unit of life
+ACID | Lemon juice is one
+LASER | Narrow beam of intense light
+FOSSIL | Ancient remains in rock
+VOLT | Unit of electrical potential
+
+=== Mythology | MEDIUM
+ZEUS | King of the Greek gods
+THOR | Norse god with a hammer
+ATLAS | Titan who holds up the sky
+HERMES | Messenger god with winged sandals
+ODIN | One-eyed Norse chief god
+APOLLO | Greek god of the sun and music
+MEDUSA | Gorgon with snakes for hair
+PEGASUS | Winged horse
+HERCULES | Hero of the twelve labours
+TROY | City besieged with a wooden horse
+NYMPH | Nature spirit of Greek myth
+CENTAUR | Half man, half horse
+
+=== Coffee House | MEDIUM
+ESPRESSO | Short, strong coffee
+LATTE | Coffee with lots of steamed milk
+MOCHA | Coffee with chocolate
+BARISTA | Person who makes your coffee
+BEANS | Coffee is ground from them
+FOAM | Frothy top on a cappuccino
+SAUCER | Small plate under a cup
+DECAF | Coffee without the buzz
+GRINDER | Machine that crushes beans
+ROAST | Dark or light, for coffee beans
+CUP | You drink from it
+SUGAR | Sweet cube for tea
+
+=== Inventions | MEDIUM
+WHEEL | Ancient invention that rolls
+PRINTER | Machine that puts ink on paper
+TELEPHONE | Bell's famous invention
+COMPASS | It points north
+CAMERA | Device that takes photos
+ENGINE | It powers a car
+BATTERY | Portable store of electricity
+RADIO | It brings broadcasts through the air
+LIGHTBULB | Edison's glowing invention
+PAPER | Ancient Chinese invention for writing
+CLOCK | It tells the time
+ROBOT | Programmable machine helper
+
+=== Olympic Games | MEDIUM
+ARCHERY | Sport with bows and arrows
+FENCING | Sport with foils and masks
+ROWING | Sport with oars and a boat
+JUDO | Japanese martial art at the Games
+DIVING | Sport off a springboard
+HURDLES | Barriers to jump in a race
+JAVELIN | Spear thrown for distance
+MARATHON | Race of about forty-two kilometres
+TORCH | It carries the Olympic flame
+PODIUM | Winners stand on it
+GOLD | First-place medal
+BOXING | Sport in a ring with gloves
+
+=== Rainforest | MEDIUM
+CANOPY | Top layer of the forest
+JAGUAR | Spotted big cat of the Americas
+SLOTH | Very slow tree-dweller
+TOUCAN | Bird with a huge colourful beak
+PIRANHA | Fish with razor teeth
+ORCHID | Exotic flower
+AMAZON | Largest rainforest on Earth
+LIANA | Woody climbing vine
+TAPIR | Pig-like animal with a short trunk
+MACAW | Large colourful parrot
+HUMID | Warm and damp
+ANACONDA | Huge snake of South America
+
+=== Detective Story | MEDIUM
+CLUE | Piece of evidence
+SUSPECT | Person who might have done it
+ALIBI | Proof you were elsewhere
+MOTIVE | Reason for a crime
+WITNESS | Person who saw it happen
+SLEUTH | Detective
+VERDICT | Jury's decision
+FINGERPRINT | Unique mark left by a hand
+MYSTERY | Puzzle to be solved
+HOLMES | Fictional detective of Baker Street
+POIROT | Christie's Belgian detective
+CULPRIT | Guilty party
+
+=== Kitchen Herbs | MEDIUM
+BASIL | Herb in pesto
+MINT | Herb for mojitos
+PARSLEY | Curly garnish herb
+THYME | Herb that sounds like time
+SAGE | Herb paired with onion stuffing
+ROSEMARY | Needle-leaved herb for lamb
+DILL | Feathery herb with fish
+OREGANO | Pizza herb
+CHIVES | Onion-flavoured herb
+CORIANDER | Herb also called cilantro
+GARLIC | Pungent bulb for flavouring
+GINGER | Spicy root
+
+=== Ancient Egypt | MEDIUM
+PHARAOH | Ruler of ancient Egypt
+PYRAMID | Tomb with four triangular sides
+SPHINX | Lion body with a human head
+MUMMY | Wrapped preserved body
+NILE | River through Egypt
+PAPYRUS | Ancient writing material
+SCARAB | Sacred beetle
+TOMB | Burial chamber
+OBELISK | Tall four-sided stone pillar
+DESERT | Sandy dry land
+CLEOPATRA | Last active ruler of Ptolemaic Egypt
+HIEROGLYPH | Picture symbol of writing
+
+=== Computers | MEDIUM
+MOUSE | Pointer you click
+KEYBOARD | You type on it
+SCREEN | Display
+LAPTOP | Portable computer
+CODE | Programmer's instructions
+PIXEL | Tiny dot on a screen
+BROWSER | Program for the web
+FILE | Saved document
+CURSOR | Blinking marker on a screen
+MEMORY | RAM, for example
+EMAIL | Electronic letter
+ROUTER | Box that shares your internet
+
+=== Weather Science | MEDIUM
+TORNADO | Spinning funnel of wind
+CYCLONE | Large rotating storm
+DROUGHT | Long spell without rain
+BLIZZARD | Snowstorm with strong wind
+DRIZZLE | Light rain
+THUNDER | Rumble after lightning
+HUMIDITY | Moisture in the air
+FORECAST | Weather prediction
+MONSOON | Seasonal rainy wind
+BREEZE | Gentle wind
+CLIMATE | Long-term weather pattern
+SLEET | Mix of rain and snow
+
+=== Gemstones | MEDIUM
+RUBY | Red gemstone
+EMERALD | Green gemstone
+SAPPHIRE | Blue gemstone
+DIAMOND | Hardest natural gem
+PEARL | Gem made by an oyster
+OPAL | Gem with shifting colours
+TOPAZ | Golden-yellow gem
+AMETHYST | Purple quartz
+JADE | Green stone prized in China
+AMBER | Fossilised tree resin
+GARNET | January's deep red birthstone
+ONYX | Banded black gem
+
+=== Theatre Night | MEDIUM
+STAGE | Where actors perform
+CURTAIN | It rises before the show
+SCRIPT | Written lines for actors
+DIRECTOR | Person in charge of a production
+APPLAUSE | Clapping at the end
+USHER | Person who shows you to your seat
+COSTUME | Actor's outfit
+REHEARSAL | Practice before opening night
+ENCORE | Extra performance after demand
+BALCONY | Upper seating level
+PROMPT | Help for an actor who forgets
+DRAMA | Serious play
+
+=== Space Exploration | MEDIUM
+ASTRONAUT | Space traveller
+SATELLITE | It orbits Earth sending signals
+GALAXY | Huge system of stars
+NEBULA | Cloud of gas in space
+ROVER | Vehicle that explores Mars
+METEOR | Shooting star
+JUPITER | Largest planet
+SATURN | Planet with famous rings
+VENUS | Hottest planet
+TELESCOPE | It shows distant stars
+CRATER | Bowl-shaped dent on the Moon
+COSMOS | The universe
+
+=== Dog Breeds | MEDIUM
+POODLE | Curly-coated breed
+BEAGLE | Snoopy's breed
+BOXER | Muscular breed with a square jaw
+DALMATIAN | Spotted firehouse dog
+COLLIE | Lassie's breed
+HUSKY | Sled dog of the north
+PUG | Small dog with a wrinkled face
+TERRIER | Small, feisty digger
+BULLDOG | British mascot breed
+GREYHOUND | Fastest racing dog
+CORGI | Queen Elizabeth's favourite breed
+SPANIEL | Breed with floppy ears
+
+=== Desserts | MEDIUM
+SUNDAE | Ice cream with toppings
+TIRAMISU | Italian coffee-soaked dessert
+CRUMBLE | Baked fruit with a crumbly top
+BROWNIE | Square chocolate bake
+MOUSSE | Light whipped dessert
+CUSTARD | Sweet yellow sauce
+MERINGUE | Baked whipped egg white
+PUDDING | Sweet course after dinner
+TRIFLE | Layered British dessert
+SORBET | Fruity frozen treat without cream
+FUDGE | Soft sugary sweet
+CHEESECAKE | Dessert on a biscuit base
+
+=== Musical Terms | MEDIUM
+TEMPO | Speed of the music
+CHORD | Three or more notes together
+OCTAVE | Eight notes apart
+MELODY | Tune
+RHYTHM | Pattern of beats
+SONATA | Instrumental composition
+OPERA | Drama sung throughout
+CHOIR | Group of singers
+SOLO | Performance by one
+TENOR | High male voice
+FORTE | Loudly, in music
+LYRICS | Words of a song
+
+=== Islands | MEDIUM
+HAWAII | US state made of islands
+ICELAND | Nordic land of fire and ice
+CUBA | Caribbean island of Havana
+SICILY | Island off Italy's toe
+CRETE | Largest Greek island
+BALI | Indonesian holiday island
+JAMAICA | Island home of reggae
+MALTA | Mediterranean island nation
+TAHITI | Island of French Polynesia
+FIJI | Pacific nation of over three hundred islands
+CORSICA | Napoleon's birthplace
+MADAGASCAR | Island home of lemurs
+
+=== Bird Watching | MEDIUM
+EAGLE | Bird of prey on the US seal
+FALCON | Fastest diving bird
+OWL | Night bird that hoots
+HERON | Tall wading bird
+ROBIN | Red-breasted garden bird
+SPARROW | Small brown city bird
+PELICAN | Bird with a pouched bill
+FLAMINGO | Pink bird that stands on one leg
+SWAN | Graceful white water bird
+PENGUIN | Bird that cannot fly but swims
+WREN | Tiny brown songbird
+CRANE | Long-necked bird or a building machine
+
+=== Gardening | MEDIUM
+COMPOST | Rotting matter used as fertiliser
+TROWEL | Small hand spade
+RAKE | Tool for gathering leaves
+HEDGE | Row of bushes
+PRUNE | Trim back a plant
+WEED | Unwanted plant
+BULB | Tulips grow from one
+SEEDLING | Young plant
+GREENHOUSE | Glass building for plants
+MULCH | Layer spread over soil
+BLOSSOM | Flowers on a fruit tree
+ORCHARD | Field of fruit trees
+
+=== Money Matters | MEDIUM
+BANK | Place to keep your savings
+COIN | Metal money
+SALARY | Regular pay for work
+BUDGET | Spending plan
+LOAN | Money borrowed
+INTEREST | Extra paid on a loan
+TAX | Money paid to the government
+PROFIT | Money left after costs
+WALLET | You keep cash in it
+PRICE | What something costs
+RECEIPT | Proof of purchase
+INVEST | Put money in to make more
+
+=== Castles and Knights | MEDIUM
+MOAT | Water ditch around a castle
+DRAWBRIDGE | Bridge that lifts up
+TURRET | Small tower
+ARMOUR | Knight's metal suit
+LANCE | Long spear for jousting
+SHIELD | Knight's protective plate
+JOUST | Contest on horseback
+SQUIRE | Knight's young helper
+BANNER | Flag carried into battle
+DUNGEON | Prison beneath a castle
+THRONE | Royal seat
+KEEP | Castle's strongest tower
+
+=== Film Night | MEDIUM
+POPCORN | Snack at the movies
+TRAILER | Preview of a film
+SEQUEL | Follow-up film
+DIRECTOR | Person who calls Action
+CAMERA | It films the scenes
+OSCAR | Famous film award
+COMEDY | Funny film
+THRILLER | Suspenseful film
+SCREEN | Where the film is shown
+TICKET | You show it to get in
+CREDITS | Names that roll at the end
+SCENE | Part of a film in one place
+
+=== Human Body | MEDIUM
+HEART | Organ that pumps blood
+LUNGS | You breathe with them
+BRAIN | Organ that thinks
+LIVER | Organ that filters the blood
+SKELETON | Frame of bones
+MUSCLE | Tissue that moves the body
+KIDNEY | Bean-shaped organ
+STOMACH | Where food is digested
+SPINE | Backbone
+VEIN | Blood vessel to the heart
+SKULL | Bone that protects the brain
+NERVE | It carries signals to the brain
+
+=== Volcanoes | MEDIUM
+LAVA | Molten rock on the surface
+MAGMA | Molten rock underground
+CRATER | Bowl at the top of a volcano
+ERUPTION | Volcanic explosion
+ASH | Fine grey dust from an eruption
+VESUVIUS | Volcano that buried Pompeii
+ETNA | Sicily's active volcano
+FUJI | Japan's sacred volcano
+GEYSER | Hot spring that spouts
+PUMICE | Light volcanic rock that floats
+DORMANT | Sleeping, for a volcano
+TREMOR | Small earthquake
+
+=== Spices | MEDIUM
+PEPPER | Black or white seasoning
+CINNAMON | Bark spice for buns
+NUTMEG | Spice grated on eggnog
+SAFFRON | Costly spice from crocuses
+PAPRIKA | Red spice from peppers
+CUMIN | Earthy spice in curry
+CLOVE | Nail-shaped spice
+TURMERIC | Yellow root spice
+VANILLA | Pod spice for ice cream
+CHILI | Hot pepper
+ANISE | Liquorice-flavoured seed
+CARDAMOM | Green pod spice in chai
+
+=== Fashion | MEDIUM
+DESIGNER | Person who creates clothes
+RUNWAY | Catwalk
+MODEL | Person who shows clothes
+FABRIC | Cloth
+SILK | Fine fabric from worms
+VELVET | Soft fabric with a pile
+DENIM | Fabric of jeans
+BOUTIQUE | Small fashion shop
+SEQUIN | Small shiny disc on a dress
+TAILOR | Person who makes suits
+COLLAR | Part of a shirt around the neck
+HEMLINE | Bottom edge of a skirt
+
+=== Chess Board | MEDIUM
+KING | Piece you must protect
+QUEEN | Most powerful piece
+BISHOP | Piece that moves diagonally
+KNIGHT | Piece that moves in an L
+ROOK | Castle piece
+PAWN | Smallest piece
+CHECKMATE | Game-ending move
+CASTLING | Special move with king and rook
+GAMBIT | Opening that sacrifices a pawn
+STALEMATE | Draw with no legal move
+OPENING | First moves of a game
+TIMER | Clock for each player
+
+=== Rivers of the World | MEDIUM
+NILE | Longest river in Africa
+AMAZON | River through Brazil
+DANUBE | River through Vienna and Budapest
+THAMES | River through London
+SEINE | River through Paris
+GANGES | Sacred river of India
+RHINE | River from the Alps to the North Sea
+VOLGA | Longest river in Europe
+YANGTZE | Longest river in Asia
+MISSISSIPPI | River through New Orleans
+TIBER | River through Rome
+CONGO | Deep river of central Africa
+
+=== Healthy Habits | MEDIUM
+EXERCISE | Physical activity
+SLEEP | Rest at night
+WATER | Drink plenty of it
+VITAMIN | Nutrient such as C or D
+PROTEIN | Nutrient in eggs and beans
+YOGA | Stretching practice
+WALKING | Gentle daily exercise
+SALAD | Bowl of greens
+FIBRE | It aids digestion
+STRETCH | Loosen your muscles
+BREATHE | Inhale and exhale
+POSTURE | How you hold your body
+
+=== Railway Journey | MEDIUM
+STATION | Where trains stop
+PLATFORM | You wait on it for a train
+TICKET | You need one to board
+CARRIAGE | Passenger car of a train
+LOCOMOTIVE | Engine that pulls a train
+TUNNEL | Railway through a hill
+SIGNAL | Light telling a train to stop or go
+CONDUCTOR | Person who checks tickets
+TIMETABLE | Schedule of departures
+FREIGHT | Goods carried by train
+SLEEPER | Train with beds
+EXPRESS | Fast train with few stops
+
+=== Puzzles and Riddles | MEDIUM
+RIDDLE | Puzzling question
+SUDOKU | Number grid puzzle
+JIGSAW | Picture cut into pieces
+MAZE | Network of paths
+ANAGRAM | Word made by rearranging letters
+REBUS | Picture puzzle for words
+CIPHER | Secret code
+LOGIC | Reasoning skill
+CROSSWORD | Grid of clues and answers
+ENIGMA | Mystery
+QUIZ | Test of knowledge
+SOLUTION | Answer to a puzzle

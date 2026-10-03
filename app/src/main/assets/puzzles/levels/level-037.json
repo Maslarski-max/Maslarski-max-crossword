@@ -1,0 +1,36 @@
+{
+  "id": "level-037",
+  "title": "Days and Months",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#MAY#S##",
+    "###E#U#D",
+    "###A#N#A",
+    "##FRIDAY",
+    "#####A##",
+    "MONDAY##",
+    "A###U###",
+    "R###G#W#",
+    "C##JUNE#",
+    "H###S#E#",
+    "####T#K#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Fifth month",
+      "5": "Last day of the work week",
+      "6": "First day of the work week",
+      "9": "Month with the longest days in the north"
+    },
+    "down": {
+      "2": "Twelve months",
+      "3": "Day of rest",
+      "4": "Twenty-four hours",
+      "6": "Third month",
+      "7": "Eighth month",
+      "8": "Seven days"
+    }
+  },
+  "order": 37
+}

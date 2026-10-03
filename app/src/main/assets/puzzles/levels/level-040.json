@@ -1,0 +1,36 @@
+{
+  "id": "level-040",
+  "title": "Fairy Tales",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##########Q",
+    "########K#U",
+    "#####PRINCE",
+    "########I#E",
+    "#####DRAGON",
+    "#C#F####H##",
+    "FAIRY#WITCH",
+    "#S#O##A####",
+    "#T#GIANT###",
+    "#L####D####",
+    "#E#########"
+  ],
+  "clues": {
+    "across": {
+      "3": "King's son",
+      "4": "Fire-breathing beast",
+      "7": "Tiny magical being with wings",
+      "8": "She rides a broomstick",
+      "9": "Huge person at the top of a beanstalk"
+    },
+    "down": {
+      "1": "King's wife",
+      "2": "Warrior in armour",
+      "5": "Royal home with towers",
+      "6": "It turns into a prince with a kiss",
+      "8": "Magic stick"
+    }
+  },
+  "order": 40
+}

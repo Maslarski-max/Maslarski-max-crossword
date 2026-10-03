@@ -9,11 +9,15 @@ import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
 import com.maslarski.crossword.data.ads.AdsManager
 import com.maslarski.crossword.data.ads.ConsentManager
+import com.maslarski.crossword.BuildConfig
+import com.maslarski.crossword.data.billing.PlayStoreRepository
+import com.maslarski.crossword.data.billing.PurchaseSignatureVerifier
 import com.maslarski.crossword.data.integrity.PlayIntegrityChecker
 import com.maslarski.crossword.data.local.CrosswordDatabase
 import com.maslarski.crossword.data.repository.AssetPuzzleRepository
 import com.maslarski.crossword.data.repository.RoomArenaRepository
 import com.maslarski.crossword.data.repository.DataStoreSettingsRepository
+import com.maslarski.crossword.data.repository.RoomEntitlementRepository
 import com.maslarski.crossword.data.repository.RoomProfileRepository
 import com.maslarski.crossword.data.repository.RoomProgressRepository
 import com.maslarski.crossword.data.repository.RoomWalletRepository
@@ -24,9 +28,11 @@ import com.maslarski.crossword.domain.parser.PuzzleParser
 import com.maslarski.crossword.domain.profile.AchievementTracker
 import com.maslarski.crossword.domain.repository.ProfileRepository
 import com.maslarski.crossword.domain.repository.ArenaRepository
+import com.maslarski.crossword.domain.repository.EntitlementRepository
 import com.maslarski.crossword.domain.repository.ProgressRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
 import com.maslarski.crossword.domain.repository.SettingsRepository
+import com.maslarski.crossword.domain.repository.StoreRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import dagger.Module
 import dagger.Provides
@@ -94,6 +100,16 @@ object AppModule {
 
     @Provides @Singleton
     fun provideWalletRepository(db: CrosswordDatabase): WalletRepository = RoomWalletRepository(db.walletDao())
+
+    @Provides @Singleton
+    fun provideEntitlementRepository(db: CrosswordDatabase, clock: Clock): EntitlementRepository = RoomEntitlementRepository(db, clock)
+
+    @Provides @Singleton
+    fun provideStoreRepository(
+        @ApplicationContext context: Context,
+        entitlements: EntitlementRepository,
+        @ApplicationScope scope: CoroutineScope,
+    ): StoreRepository = PlayStoreRepository(context, entitlements, scope, PurchaseSignatureVerifier(BuildConfig.PLAY_LICENSE_KEY))
 
     @Provides @Singleton
     fun provideSettingsRepository(@ApplicationContext context: Context): SettingsRepository =

@@ -1,0 +1,18 @@
+id: level-027
+title: Clothes Line
+difficulty: EASY
+order: 27
+type: level
+size: 11
+seed: 27
+---
+SHIRT | Top with buttons and a collar
+DRESS | One-piece garment with a skirt
+SOCKS | You wear them inside shoes
+SCARF | Warm strip worn around the neck
+JACKET | Short coat
+GLOVES | Hand warmers with fingers
+SKIRT | Garment that hangs from the waist
+JEANS | Blue denim trousers
+BOOTS | Tall shoes for rain or snow
+HAT | You wear it on your head

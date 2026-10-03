@@ -1,0 +1,44 @@
+{
+  "id": "level-102",
+  "title": "Arctic and Antarctic",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "####PUFFIN####",
+    "########N###W#",
+    "##CARIBOU###A#",
+    "#F###C##I###L#",
+    "SLEDGE##TUNDRA",
+    "#O###B####A#U#",
+    "#E##PERMAFROST",
+    "#####R##U#W###",
+    "#####G##R#H###",
+    "#######POLAR##",
+    "######K#R#L###",
+    "#####ORCA#####",
+    "######I#######",
+    "######L#######",
+    "######L#######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Seabird with a colourful beak",
+      "4": "North American reindeer",
+      "7": "Sled pulled by dogs",
+      "8": "Treeless frozen plain",
+      "10": "Ground that stays frozen",
+      "12": "Relating to the poles",
+      "14": "Killer whale"
+    },
+    "down": {
+      "2": "People of the Arctic",
+      "3": "Tusked Arctic mammal",
+      "5": "Floating mass of ice",
+      "6": "Sheet of floating ice",
+      "9": "Whale with a long tusk",
+      "11": "Northern or southern lights",
+      "13": "Tiny shrimp whales eat"
+    }
+  },
+  "order": 102
+}

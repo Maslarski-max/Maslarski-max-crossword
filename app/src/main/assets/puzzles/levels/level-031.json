@@ -1,0 +1,33 @@
+{
+  "id": "level-031",
+  "title": "Camping Trip",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#C#########",
+    "MAP###T#S##",
+    "#N#FOREST##",
+    "#O#I##N#A##",
+    "BEAR##TORCH",
+    "###E####S#I",
+    "##########K",
+    "#######LAKE"
+  ],
+  "clues": {
+    "across": {
+      "2": "It shows the way",
+      "5": "Lots of trees",
+      "6": "Big furry animal in the woods",
+      "7": "Handheld light",
+      "9": "Body of fresh water"
+    },
+    "down": {
+      "1": "Narrow boat paddled by hand",
+      "3": "Shelter you pitch outdoors",
+      "4": "They shine above the campsite",
+      "5": "Campers cook over it",
+      "8": "Long walk in nature"
+    }
+  },
+  "order": 31
+}

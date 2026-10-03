@@ -1,0 +1,38 @@
+{
+  "id": "level-060",
+  "title": "Islands",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####J#######",
+    "#####A#######",
+    "#####MALTA###",
+    "##CUBA#######",
+    "#####I#SICILY",
+    "#H#T#C###O###",
+    "MADAGASCAR###",
+    "#W#H###R#S###",
+    "BALI###E#I###",
+    "#I#T###T#C###",
+    "FIJI#ICELAND#"
+  ],
+  "clues": {
+    "across": {
+      "2": "Mediterranean island nation",
+      "3": "Caribbean island of Havana",
+      "4": "Island off Italy's toe",
+      "8": "Island home of lemurs",
+      "10": "Indonesian holiday island",
+      "11": "Pacific nation of over three hundred islands",
+      "12": "Nordic land of fire and ice"
+    },
+    "down": {
+      "1": "Island home of reggae",
+      "5": "Napoleon's birthplace",
+      "6": "US state made of islands",
+      "7": "Island of French Polynesia",
+      "9": "Largest Greek island"
+    }
+  },
+  "order": 60
+}

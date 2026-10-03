@@ -1,0 +1,37 @@
+{
+  "id": "level-048",
+  "title": "Rainforest",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##A###P#SLOTH",
+    "##N###I###R##",
+    "#JAGUAR###C##",
+    "##C###A###H##",
+    "#TOUCAN###I##",
+    "L#N#A#HUMID##",
+    "I#D#N#A#A####",
+    "AMAZON##C####",
+    "N###P##TAPIR#",
+    "A###Y###W####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Very slow tree-dweller",
+      "5": "Spotted big cat of the Americas",
+      "6": "Bird with a huge colourful beak",
+      "9": "Warm and damp",
+      "11": "Largest rainforest on Earth",
+      "12": "Pig-like animal with a short trunk"
+    },
+    "down": {
+      "1": "Huge snake of South America",
+      "2": "Fish with razor teeth",
+      "4": "Exotic flower",
+      "7": "Top layer of the forest",
+      "8": "Woody climbing vine",
+      "10": "Large colourful parrot"
+    }
+  },
+  "order": 48
+}

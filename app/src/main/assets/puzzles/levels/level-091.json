@@ -1,0 +1,40 @@
+{
+  "id": "level-091",
+  "title": "Greek Alphabet",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "########U######",
+    "#####B#EPSILON#",
+    "#####E##S######",
+    "#####T##IOTA###",
+    "#DELTA##L#H#K##",
+    "###A####OMEGA##",
+    "##OMICRON#T#P#G",
+    "###B######ALPHA",
+    "###D########A#M",
+    "ZETA##########M",
+    "##########SIGMA"
+  ],
+  "clues": {
+    "across": {
+      "3": "Fifth Greek letter",
+      "4": "Tiny amount, or a Greek letter",
+      "6": "Triangular Greek letter, also a river mouth",
+      "9": "Last Greek letter",
+      "10": "Short O in Greek",
+      "12": "First Greek letter",
+      "13": "Sixth Greek letter",
+      "14": "Letter used for sum"
+    },
+    "down": {
+      "1": "Twentieth Greek letter",
+      "2": "Second Greek letter",
+      "5": "Letter often used for angles",
+      "7": "Letter used for wavelength",
+      "8": "Tenth Greek letter",
+      "11": "Third Greek letter, also a ray"
+    }
+  },
+  "order": 91
+}

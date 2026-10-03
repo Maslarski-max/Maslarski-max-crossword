@@ -1,0 +1,22 @@
+id: level-078
+title: Chemistry
+difficulty: HARD
+order: 78
+type: level
+size: 15
+seed: 78
+---
+ISOTOPE | Atom variant with extra neutrons
+CATALYST | It speeds a reaction unchanged
+MOLECULE | Group of bonded atoms
+ELECTRON | Negative particle
+PROTON | Positive particle in the nucleus
+NEUTRON | Uncharged nuclear particle
+POLYMER | Long chain of repeating units
+ALKALI | Base that dissolves in water
+ENZYME | Biological catalyst
+SODIUM | Element with symbol Na
+HELIUM | Gas that makes balloons float
+CARBON | Element in all organic life
+VALENCE | Combining power of an atom
+REAGENT | Substance used in a reaction

@@ -1,0 +1,20 @@
+id: level-059
+title: Musical Terms
+difficulty: MEDIUM
+order: 59
+type: level
+size: 13
+seed: 59
+---
+TEMPO | Speed of the music
+CHORD | Three or more notes together
+OCTAVE | Eight notes apart
+MELODY | Tune
+RHYTHM | Pattern of beats
+SONATA | Instrumental composition
+OPERA | Drama sung throughout
+CHOIR | Group of singers
+SOLO | Performance by one
+TENOR | High male voice
+FORTE | Loudly, in music
+LYRICS | Words of a song

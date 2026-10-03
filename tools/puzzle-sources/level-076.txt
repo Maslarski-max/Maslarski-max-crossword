@@ -1,0 +1,22 @@
+id: level-076
+title: Classical Composers
+difficulty: HARD
+order: 76
+type: level
+size: 15
+seed: 76
+---
+BACH | Composer of the Brandenburg Concertos
+MOZART | Composer of The Magic Flute
+BEETHOVEN | Deaf composer of the Ninth Symphony
+CHOPIN | Polish master of piano nocturnes
+VIVALDI | Composer of The Four Seasons
+HANDEL | Composer of Messiah
+VERDI | Composer of Aida
+WAGNER | Composer of the Ring cycle
+HAYDN | Father of the symphony
+BRAHMS | Composer of a famous lullaby
+LISZT | Hungarian piano virtuoso
+DEBUSSY | Composer of Clair de Lune
+RAVEL | Composer of Bolero
+PUCCINI | Composer of La Boheme

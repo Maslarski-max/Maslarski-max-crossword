@@ -1,0 +1,20 @@
+id: level-046
+title: Inventions
+difficulty: MEDIUM
+order: 46
+type: level
+size: 13
+seed: 46
+---
+WHEEL | Ancient invention that rolls
+PRINTER | Machine that puts ink on paper
+TELEPHONE | Bell's famous invention
+COMPASS | It points north
+CAMERA | Device that takes photos
+ENGINE | It powers a car
+BATTERY | Portable store of electricity
+RADIO | It brings broadcasts through the air
+LIGHTBULB | Edison's glowing invention
+PAPER | Ancient Chinese invention for writing
+CLOCK | It tells the time
+ROBOT | Programmable machine helper

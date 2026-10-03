@@ -129,6 +129,14 @@ python3 tools/puzzle_builder.py tools/puzzle-sources/easy-03.txt
 
 Words that can't be interlocked are reported and left out; tweak `size`/`seed` or the word list and re-run.
 
+The 100 themed levels after the hand-made ones live in `tools/catalog/*.txt` (`=== Title | DIFFICULTY` headers
+followed by `WORD | clue` lines). Regenerate their sources and JSON with:
+
+```bash
+python3 tools/catalog_to_sources.py
+python3 tools/puzzle_builder.py tools/puzzle-sources/level-*.txt
+```
+
 ## Configuration
 
 All values below are read from (in order) a Gradle property (`-Pname=...` or `~/.gradle/gradle.properties`),
@@ -140,6 +148,7 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 | `playIntegrityCloudProjectNumber` | `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER` | `0` (disabled) |
 | `versionCode` / `versionName` | `VERSION_CODE` / `VERSION_NAME` | `1` / `1.0.0` |
 | `umpTestDeviceId` (debug only) | `UMP_TEST_DEVICE_ID` | empty |
+| `playLicenseKey` | `PLAY_LICENSE_KEY` | empty: shop disabled; release builds fail |
 
 ### AdMob and consent (UMP)
 
@@ -168,6 +177,27 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 `requestToken(requestHash)` returns an integrity token (both no-ops returning a failure while unconfigured). Set `playIntegrityCloudProjectNumber` to your Google Cloud project number to enable it,
 link the project in Play Console → **App integrity**, and send tokens to **your server** for decoding and
 verification — never trust a verdict decoded on the device. The game itself is offline, so nothing calls it by default.
+
+### In-app purchases (Play Billing Library 9)
+
+The Shop sells two one-time products. Create them in Play Console under **Monetize > Products > In-app products**
+with exactly these ids and US price tiers (Play converts the tier for other countries):
+
+| Product id | Type | US price | Delivers |
+| --- | --- | --- | --- |
+| `crossword_coins_1000` | Consumable | $0.99 | 1,000 coins, credited once per purchase token, then consumed |
+| `crossword_unlimited_mode` | Non-consumable | $4.99 | Unlimited Mode: all Classic levels open and every hint free |
+
+The ids and tiers are defined in `ShopProduct`; the shop shows the localized price Play returns and logs a warning if
+the US price in Play Console differs. Owned purchases are re-read from Play on every app resume, so Unlimited Mode is
+restored on reinstall and removed if refunded. Products only load for builds installed from a Play testing track by
+a licensed tester; elsewhere the shop says Google Play purchases aren't available.
+
+Every purchase is checked against the app's Play licence key before anything is granted (`PurchaseSignatureVerifier`).
+Copy the Base64 RSA public key from **Play Console > Monetize > Monetization setup > Licensing** into `playLicenseKey`
+(it is a public key, so `gradle.properties` is fine; CI reads the `PLAY_LICENSE_KEY` secret). Without it the shop stays
+disabled and release builds fail. For stronger protection
+against modified clients, also verify tokens on a server with the Play Developer API (`purchases.products.get`).
 
 ### Security notes
 

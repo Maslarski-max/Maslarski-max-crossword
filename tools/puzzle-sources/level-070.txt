@@ -1,0 +1,20 @@
+id: level-070
+title: Chess Board
+difficulty: MEDIUM
+order: 70
+type: level
+size: 13
+seed: 70
+---
+KING | Piece you must protect
+QUEEN | Most powerful piece
+BISHOP | Piece that moves diagonally
+KNIGHT | Piece that moves in an L
+ROOK | Castle piece
+PAWN | Smallest piece
+CHECKMATE | Game-ending move
+CASTLING | Special move with king and rook
+GAMBIT | Opening that sacrifices a pawn
+STALEMATE | Draw with no legal move
+OPENING | First moves of a game
+TIMER | Clock for each player

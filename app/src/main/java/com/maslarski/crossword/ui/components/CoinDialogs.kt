@@ -23,14 +23,27 @@ sealed interface CoinPrompt {
 }
 
 @Composable
-fun CoinPromptDialog(prompt: CoinPrompt, balance: Int, onUnlock: (puzzleId: String) -> Unit, onDismiss: () -> Unit) {
+fun CoinPromptDialog(
+    prompt: CoinPrompt,
+    balance: Int,
+    onUnlock: (puzzleId: String) -> Unit,
+    onDismiss: () -> Unit,
+    onShop: (() -> Unit)? = null,
+) {
     when (prompt) {
         is CoinPrompt.NotEnoughCoins -> AlertDialog(
             onDismissRequest = onDismiss,
             icon = { Icon(Icons.Rounded.Toll, contentDescription = null, tint = MaterialTheme.colorScheme.error, modifier = Modifier.size(32.dp)) },
             title = { Text(stringResource(R.string.not_enough_coins_title)) },
             text = { Text(stringResource(R.string.not_enough_coins_message, prompt.cost, balance)) },
-            confirmButton = { Button(onClick = onDismiss) { Text(stringResource(R.string.ok)) } },
+            confirmButton = {
+                if (onShop != null) {
+                    Button(onClick = onShop) { Text(stringResource(R.string.shop_get_coins)) }
+                } else {
+                    Button(onClick = onDismiss) { Text(stringResource(R.string.ok)) }
+                }
+            },
+            dismissButton = onShop?.let { { TextButton(onClick = onDismiss) { Text(stringResource(R.string.cancel)) } } },
         )
         is CoinPrompt.UnlockLevel -> AlertDialog(
             onDismissRequest = onDismiss,

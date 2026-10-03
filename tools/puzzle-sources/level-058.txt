@@ -1,0 +1,20 @@
+id: level-058
+title: Desserts
+difficulty: MEDIUM
+order: 58
+type: level
+size: 13
+seed: 58
+---
+SUNDAE | Ice cream with toppings
+TIRAMISU | Italian coffee-soaked dessert
+CRUMBLE | Baked fruit with a crumbly top
+BROWNIE | Square chocolate bake
+MOUSSE | Light whipped dessert
+CUSTARD | Sweet yellow sauce
+MERINGUE | Baked whipped egg white
+PUDDING | Sweet course after dinner
+TRIFLE | Layered British dessert
+SORBET | Fruity frozen treat without cream
+FUDGE | Soft sugary sweet
+CHEESECAKE | Dessert on a biscuit base

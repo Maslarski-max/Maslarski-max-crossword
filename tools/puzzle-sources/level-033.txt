@@ -1,0 +1,18 @@
+id: level-033
+title: Family Tree
+difficulty: EASY
+order: 33
+type: level
+size: 11
+seed: 33
+---
+MOTHER | Mum
+FATHER | Dad
+SISTER | Female sibling
+BROTHER | Male sibling
+AUNT | Your parent's sister
+UNCLE | Your parent's brother
+COUSIN | Your aunt's child
+NIECE | Your sibling's daughter
+NEPHEW | Your sibling's son
+BABY | Newest member of the family

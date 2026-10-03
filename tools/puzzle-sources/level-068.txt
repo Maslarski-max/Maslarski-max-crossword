@@ -1,0 +1,20 @@
+id: level-068
+title: Spices
+difficulty: MEDIUM
+order: 68
+type: level
+size: 13
+seed: 68
+---
+PEPPER | Black or white seasoning
+CINNAMON | Bark spice for buns
+NUTMEG | Spice grated on eggnog
+SAFFRON | Costly spice from crocuses
+PAPRIKA | Red spice from peppers
+CUMIN | Earthy spice in curry
+CLOVE | Nail-shaped spice
+TURMERIC | Yellow root spice
+VANILLA | Pod spice for ice cream
+CHILI | Hot pepper
+ANISE | Liquorice-flavoured seed
+CARDAMOM | Green pod spice in chai

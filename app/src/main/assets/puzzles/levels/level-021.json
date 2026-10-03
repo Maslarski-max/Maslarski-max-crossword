@@ -1,0 +1,34 @@
+{
+  "id": "level-021",
+  "title": "Transport",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#B####S###",
+    "#I####H##C",
+    "#K##S#I##A",
+    "HELICOPTER",
+    "####O#####",
+    "####O####B",
+    "##V#TRAM#O",
+    "PLANE####A",
+    "##N#ROCKET"
+  ],
+  "clues": {
+    "across": {
+      "5": "Aircraft with spinning blades",
+      "8": "Electric street train",
+      "9": "It flies passengers through the sky",
+      "10": "It flies into space"
+    },
+    "down": {
+      "1": "Two wheels and pedals",
+      "2": "Large boat",
+      "3": "Vehicle with four wheels",
+      "4": "Two wheels and a board",
+      "6": "It floats on water",
+      "7": "Vehicle for deliveries"
+    }
+  },
+  "order": 21
+}

@@ -1,0 +1,22 @@
+id: level-094
+title: Opera House
+difficulty: HARD
+order: 94
+type: level
+size: 15
+seed: 94
+---
+ARIA | Solo song in an opera
+LIBRETTO | Text of an opera
+SOPRANO | Highest female voice
+BARITONE | Voice between tenor and bass
+OVERTURE | Instrumental opening
+CARMEN | Bizet's fiery heroine
+TOSCA | Puccini opera set in Rome
+FIGARO | Mozart's scheming barber
+DIVA | Celebrated female singer
+MAESTRO | Distinguished conductor
+CHORUS | Group singing together
+RECITATIVE | Sung dialogue
+TURANDOT | Puccini's ice princess
+ORCHESTRA | Musicians in the pit

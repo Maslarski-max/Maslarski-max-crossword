@@ -1,0 +1,22 @@
+id: level-085
+title: Art History
+difficulty: HARD
+order: 85
+type: level
+size: 15
+seed: 85
+---
+MONET | Painter of water lilies
+PICASSO | Co-founder of Cubism
+REMBRANDT | Dutch master of The Night Watch
+VERMEER | Painter of Girl with a Pearl Earring
+DALI | Surrealist with melting clocks
+MATISSE | Fauvist famous for paper cut-outs
+CARAVAGGIO | Master of dramatic shadows
+FRESCO | Painting on wet plaster
+CUBISM | Style of fractured forms
+SURREAL | Dreamlike, as some art
+EASEL | Painter's stand
+PALETTE | Board for mixing paint
+RENAISSANCE | Rebirth of art in Europe
+SKETCH | Rough drawing

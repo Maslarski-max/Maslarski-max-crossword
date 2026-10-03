@@ -1,0 +1,22 @@
+id: level-077
+title: Anatomy
+difficulty: HARD
+order: 77
+type: level
+size: 15
+seed: 77
+---
+FEMUR | Longest bone in the body
+TIBIA | Shinbone
+CORNEA | Clear front of the eye
+AORTA | Main artery from the heart
+PANCREAS | Organ that makes insulin
+CLAVICLE | Collarbone
+STERNUM | Breastbone
+CARTILAGE | Flexible tissue in the nose and ears
+TENDON | It ties muscle to bone
+RETINA | Light-sensitive layer of the eye
+PATELLA | Kneecap
+DIAPHRAGM | Breathing muscle under the lungs
+CEREBELLUM | Brain region for balance
+LARYNX | Voice box

@@ -1,0 +1,39 @@
+{
+  "id": "level-056",
+  "title": "Space Exploration",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "C#GALAXY###T#",
+    "O####S##ROVER",
+    "S##V#T#####L#",
+    "METEOR#####E#",
+    "O##N#O#N###S#",
+    "SATURN#E#J#C#",
+    "###S#A#B#U#O#",
+    "#####U#U#P#P#",
+    "###SATELLITE#",
+    "#######A#T###",
+    "#########E###",
+    "####CRATER###"
+  ],
+  "clues": {
+    "across": {
+      "2": "Huge system of stars",
+      "5": "Vehicle that explores Mars",
+      "7": "Shooting star",
+      "9": "Planet with famous rings",
+      "11": "It orbits Earth sending signals",
+      "12": "Bowl-shaped dent on the Moon"
+    },
+    "down": {
+      "1": "The universe",
+      "3": "Space traveller",
+      "4": "It shows distant stars",
+      "6": "Hottest planet",
+      "8": "Cloud of gas in space",
+      "10": "Largest planet"
+    }
+  },
+  "order": 56
+}

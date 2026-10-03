@@ -1,0 +1,34 @@
+{
+  "id": "level-030",
+  "title": "Winter Fun",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##SLED###",
+    "##K#####S",
+    "SCARF###N",
+    "K#T#IGLOO",
+    "ICE#R###W",
+    "#O##E###M",
+    "#C######A",
+    "#O#MITTEN",
+    "#A#######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Ride it down a snowy hill",
+      "3": "Woolly neck warmer",
+      "5": "House made of snow blocks",
+      "6": "Frozen water",
+      "8": "Glove without separate fingers"
+    },
+    "down": {
+      "1": "Glide on ice",
+      "2": "Figure with a carrot nose",
+      "3": "Glide down a mountain on it",
+      "4": "Warm yourself by it",
+      "7": "Hot chocolate drink"
+    }
+  },
+  "order": 30
+}

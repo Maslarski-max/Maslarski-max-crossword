@@ -1,0 +1,34 @@
+{
+  "id": "level-027",
+  "title": "Clothes Line",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "DRESS#JEANS",
+    "###K##A###O",
+    "#G#I##C###C",
+    "#L#R##K###K",
+    "BOOTS#E###S",
+    "#V##HAT####",
+    "#E##I######",
+    "#SCARF#####",
+    "####T######"
+  ],
+  "clues": {
+    "across": {
+      "1": "One-piece garment with a skirt",
+      "3": "Blue denim trousers",
+      "6": "Tall shoes for rain or snow",
+      "8": "You wear it on your head",
+      "9": "Warm strip worn around the neck"
+    },
+    "down": {
+      "2": "Garment that hangs from the waist",
+      "3": "Short coat",
+      "4": "You wear them inside shoes",
+      "5": "Hand warmers with fingers",
+      "7": "Top with buttons and a collar"
+    }
+  },
+  "order": 27
+}

@@ -89,6 +89,7 @@ fun GameScreen(
     onBack: () -> Unit,
     onOpenClues: (sessionId: String, puzzleId: String) -> Unit,
     onPlayNext: (sessionId: String, puzzleId: String) -> Unit,
+    onShop: () -> Unit,
     viewModel: GameViewModel = hiltViewModel(),
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
@@ -171,7 +172,7 @@ fun GameScreen(
                             modifier = Modifier.padding(horizontal = 8.dp),
                         )
                     }
-                    CoinChip(state.coins, Modifier.padding(horizontal = 4.dp))
+                    CoinChip(state.coins, Modifier.padding(horizontal = 4.dp), onClick = onShop)
                     IconButton(onClick = { onOpenClues(viewModel.session.id, viewModel.session.puzzleId) }) {
                         Icon(Icons.AutoMirrored.Rounded.ListAlt, stringResource(R.string.clues_title))
                     }
@@ -270,6 +271,7 @@ fun GameScreen(
                                 HintBar(
                                     onHint = viewModel::onHint,
                                     modifier = Modifier.padding(vertical = 8.dp).widthIn(max = 600.dp),
+                                    free = state.unlimited,
                                 )
                                 LetterKeyboard(
                                     onLetter = viewModel::onLetter,
@@ -322,6 +324,10 @@ fun GameScreen(
                 viewModel.unlockLevel(puzzleId)
             },
             onDismiss = { coinPrompt = null },
+            onShop = {
+                coinPrompt = null
+                onShop()
+            },
         )
     }
 

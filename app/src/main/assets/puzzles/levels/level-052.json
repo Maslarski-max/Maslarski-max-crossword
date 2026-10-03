@@ -1,0 +1,40 @@
+{
+  "id": "level-052",
+  "title": "Computers",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##E##########",
+    "##M##########",
+    "#LAPTOP######",
+    "##I###I####S#",
+    "FILE##X####C#",
+    "#####KEYBOARD",
+    "######L#R##E#",
+    "#####M#ROUTER",
+    "##CODE##W##N#",
+    "#####MOUSE###",
+    "#####O##E####",
+    "###CURSOR####",
+    "#####Y#######"
+  ],
+  "clues": {
+    "across": {
+      "2": "Portable computer",
+      "5": "Saved document",
+      "6": "You type on it",
+      "9": "Box that shares your internet",
+      "10": "Programmer's instructions",
+      "11": "Pointer you click",
+      "12": "Blinking marker on a screen"
+    },
+    "down": {
+      "1": "Electronic letter",
+      "3": "Tiny dot on a screen",
+      "4": "Display",
+      "7": "Program for the web",
+      "8": "RAM, for example"
+    }
+  },
+  "order": 52
+}

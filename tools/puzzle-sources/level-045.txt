@@ -1,0 +1,20 @@
+id: level-045
+title: Coffee House
+difficulty: MEDIUM
+order: 45
+type: level
+size: 13
+seed: 45
+---
+ESPRESSO | Short, strong coffee
+LATTE | Coffee with lots of steamed milk
+MOCHA | Coffee with chocolate
+BARISTA | Person who makes your coffee
+BEANS | Coffee is ground from them
+FOAM | Frothy top on a cappuccino
+SAUCER | Small plate under a cup
+DECAF | Coffee without the buzz
+GRINDER | Machine that crushes beans
+ROAST | Dark or light, for coffee beans
+CUP | You drink from it
+SUGAR | Sweet cube for tea

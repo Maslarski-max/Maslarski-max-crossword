@@ -1,0 +1,42 @@
+{
+  "id": "level-078",
+  "title": "Chemistry",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "######HELIUM##P",
+    "#######L#S####R",
+    "#######E#O####O",
+    "##N####CATALYST",
+    "#REAGENT#O####O",
+    "##U####R#P##A#N",
+    "##T#P#MOLECULE#",
+    "CARBON#N####K##",
+    "##O#L#######A##",
+    "#ENZYME#####L##",
+    "####M####SODIUM",
+    "#VALENCE#######",
+    "####R##########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Gas that makes balloons float",
+      "6": "It speeds a reaction unchanged",
+      "7": "Substance used in a reaction",
+      "10": "Group of bonded atoms",
+      "11": "Element in all organic life",
+      "12": "Biological catalyst",
+      "13": "Element with symbol Na",
+      "14": "Combining power of an atom"
+    },
+    "down": {
+      "2": "Negative particle",
+      "3": "Atom variant with extra neutrons",
+      "4": "Positive particle in the nucleus",
+      "5": "Uncharged nuclear particle",
+      "8": "Base that dissolves in water",
+      "9": "Long chain of repeating units"
+    }
+  },
+  "order": 78
+}

@@ -1,0 +1,40 @@
+{
+  "id": "level-049",
+  "title": "Detective Story",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##C#########",
+    "##U##W###V##",
+    "#ALIBI###E#M",
+    "##P##T###R#Y",
+    "##R##N###D#S",
+    "#FINGERPRINT",
+    "##T##S###C#E",
+    "#H#SUSPECT#R",
+    "#O#L##O####Y",
+    "CLUE##I#####",
+    "#M#U##R#####",
+    "#E#T#MOTIVE#",
+    "#S#H##T#####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Proof you were elsewhere",
+      "6": "Unique mark left by a hand",
+      "8": "Person who might have done it",
+      "10": "Piece of evidence",
+      "11": "Reason for a crime"
+    },
+    "down": {
+      "1": "Guilty party",
+      "2": "Person who saw it happen",
+      "3": "Jury's decision",
+      "5": "Puzzle to be solved",
+      "7": "Fictional detective of Baker Street",
+      "8": "Detective",
+      "9": "Christie's Belgian detective"
+    }
+  },
+  "order": 49
+}

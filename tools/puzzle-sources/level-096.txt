@@ -1,0 +1,22 @@
+id: level-096
+title: Exploration History
+difficulty: HARD
+order: 96
+type: level
+size: 15
+seed: 96
+---
+COLUMBUS | Sailed in 1492
+MAGELLAN | His expedition first circled the globe
+COOK | Captain who charted New Zealand
+POLO | Venetian who travelled to China
+AMUNDSEN | First to reach the South Pole
+SHACKLETON | Leader of the Endurance expedition
+HILLARY | First up Everest with Tenzing
+ARMSTRONG | First man on the Moon
+VOYAGE | Long journey by sea
+SEXTANT | Navigator's angle tool
+EXPEDITION | Organised journey of discovery
+CARAVEL | Small Portuguese sailing ship
+FRONTIER | Edge of settled land
+ATLAS | Book of maps

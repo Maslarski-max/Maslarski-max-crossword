@@ -1,0 +1,22 @@
+id: level-098
+title: Wine Cellar
+difficulty: HARD
+order: 98
+type: level
+size: 15
+seed: 98
+---
+VINTAGE | Year a wine was made
+CORK | Bottle stopper
+MERLOT | Soft red grape
+CHARDONNAY | Popular white grape
+RIESLING | Aromatic German white grape
+BORDEAUX | French region of claret
+CHAMPAGNE | Sparkling wine from France
+SOMMELIER | Wine waiter
+DECANTER | Glass vessel for serving wine
+BARREL | Oak cask for ageing
+TANNIN | Compound that makes red wine dry
+BOUQUET | Aroma of a wine
+VINEYARD | Grape farm
+CABERNET | Bold red grape

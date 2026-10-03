@@ -1,0 +1,18 @@
+id: level-041
+title: Seaside Holiday
+difficulty: EASY
+order: 41
+type: level
+size: 11
+seed: 41
+---
+BEACH | Sandy shore
+WAVES | They roll onto the shore
+BUCKET | Container for building sandcastles
+SPADE | Small digging tool for sand
+ICECREAM | Cold treat in a cone
+PIER | Walkway built out over the sea
+GULL | Noisy seaside bird
+SUNHAT | Wide hat for shade
+DECKCHAIR | Folding seat for the beach
+SHELLS | Things you collect on the beach

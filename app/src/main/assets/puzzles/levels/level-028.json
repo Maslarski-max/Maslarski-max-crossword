@@ -1,0 +1,35 @@
+{
+  "id": "level-028",
+  "title": "Space Trip",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###STAR####",
+    "######O####",
+    "####M#COMET",
+    "####O#K#A##",
+    "####O#EARTH",
+    "#PLANET#S##",
+    "###L#######",
+    "ORBIT######",
+    "###E#######",
+    "#SUN#######"
+  ],
+  "clues": {
+    "across": {
+      "1": "It twinkles at night",
+      "4": "Icy body with a glowing tail",
+      "6": "Our home planet",
+      "7": "Mars or Venus, for example",
+      "9": "Path around a planet",
+      "10": "Our nearest star"
+    },
+    "down": {
+      "2": "It launches astronauts",
+      "3": "It orbits the Earth",
+      "5": "The Red Planet",
+      "8": "Visitor from another world"
+    }
+  },
+  "order": 28
+}

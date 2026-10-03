@@ -1,0 +1,18 @@
+id: level-031
+title: Camping Trip
+difficulty: EASY
+order: 31
+type: level
+size: 11
+seed: 31
+---
+TENT | Shelter you pitch outdoors
+FIRE | Campers cook over it
+MAP | It shows the way
+TORCH | Handheld light
+HIKE | Long walk in nature
+LAKE | Body of fresh water
+FOREST | Lots of trees
+CANOE | Narrow boat paddled by hand
+BEAR | Big furry animal in the woods
+STARS | They shine above the campsite

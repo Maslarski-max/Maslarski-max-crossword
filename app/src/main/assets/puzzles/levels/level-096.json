@@ -1,0 +1,44 @@
+{
+  "id": "level-096",
+  "title": "Exploration History",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###COOK########",
+    "###A###########",
+    "###R#####P#####",
+    "#S#ARMSTRONG###",
+    "#H#V#####L#####",
+    "#A#E#A###O#####",
+    "#COLUMBUS#F####",
+    "#K###U####R###S",
+    "#L###N##H#O###E",
+    "#EXPEDITION###X",
+    "#T###S##L#T#A#T",
+    "VOYAGE##L#I#T#A",
+    "#N###N#MAGELLAN",
+    "########R#R#A#T",
+    "########Y###S##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Captain who charted New Zealand",
+      "4": "First man on the Moon",
+      "6": "Sailed in 1492",
+      "10": "Organised journey of discovery",
+      "12": "Long journey by sea",
+      "13": "His expedition first circled the globe"
+    },
+    "down": {
+      "1": "Small Portuguese sailing ship",
+      "2": "Venetian who travelled to China",
+      "3": "Leader of the Endurance expedition",
+      "5": "First to reach the South Pole",
+      "7": "Edge of settled land",
+      "8": "Navigator's angle tool",
+      "9": "First up Everest with Tenzing",
+      "11": "Book of maps"
+    }
+  },
+  "order": 96
+}

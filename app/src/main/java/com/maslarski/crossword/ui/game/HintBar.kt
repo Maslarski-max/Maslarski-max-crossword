@@ -24,11 +24,11 @@ import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.engine.Hint
 
 @Composable
-fun HintBar(onHint: (Hint) -> Unit, modifier: Modifier = Modifier) {
+fun HintBar(onHint: (Hint) -> Unit, modifier: Modifier = Modifier, free: Boolean = false) {
     Row(modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-        HintButton(Icons.Rounded.Lightbulb, stringResource(R.string.hint_reveal_letter), Hint.REVEAL_LETTER, onHint, Modifier.weight(1f))
-        HintButton(Icons.Rounded.AutoFixHigh, stringResource(R.string.hint_reveal_word), Hint.REVEAL_WORD, onHint, Modifier.weight(1f))
-        HintButton(Icons.Rounded.FactCheck, stringResource(R.string.hint_check), Hint.CHECK_ERRORS, onHint, Modifier.weight(1f))
+        HintButton(Icons.Rounded.Lightbulb, stringResource(R.string.hint_reveal_letter), Hint.REVEAL_LETTER, free, onHint, Modifier.weight(1f))
+        HintButton(Icons.Rounded.AutoFixHigh, stringResource(R.string.hint_reveal_word), Hint.REVEAL_WORD, free, onHint, Modifier.weight(1f))
+        HintButton(Icons.Rounded.FactCheck, stringResource(R.string.hint_check), Hint.CHECK_ERRORS, free, onHint, Modifier.weight(1f))
     }
 }
 
@@ -37,6 +37,7 @@ private fun HintButton(
     icon: ImageVector,
     label: String,
     hint: Hint,
+    free: Boolean,
     onHint: (Hint) -> Unit,
     modifier: Modifier,
 ) {
@@ -47,7 +48,7 @@ private fun HintButton(
     ) {
         Icon(icon, contentDescription = null, modifier = Modifier.size(18.dp))
         Text(
-            text = stringResource(R.string.hint_with_cost, label, hint.cost),
+            text = if (free) stringResource(R.string.hint_free, label) else stringResource(R.string.hint_with_cost, label, hint.cost),
             style = MaterialTheme.typography.labelMedium,
             maxLines = 1,
             overflow = TextOverflow.Ellipsis,

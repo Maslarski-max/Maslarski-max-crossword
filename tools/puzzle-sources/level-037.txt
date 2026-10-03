@@ -1,0 +1,18 @@
+id: level-037
+title: Days and Months
+difficulty: EASY
+order: 37
+type: level
+size: 11
+seed: 37
+---
+MONDAY | First day of the work week
+FRIDAY | Last day of the work week
+SUNDAY | Day of rest
+JUNE | Month with the longest days in the north
+MAY | Fifth month
+MARCH | Third month
+AUGUST | Eighth month
+WEEK | Seven days
+YEAR | Twelve months
+DAY | Twenty-four hours

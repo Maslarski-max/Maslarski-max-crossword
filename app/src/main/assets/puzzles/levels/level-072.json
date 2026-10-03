@@ -1,0 +1,39 @@
+{
+  "id": "level-072",
+  "title": "Healthy Habits",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####P#######",
+    "####YOGA#####",
+    "#####S######F",
+    "#####T######I",
+    "###S#U######B",
+    "#WATER##B#V#R",
+    "#A#R#EXERCISE",
+    "SLEEP###E#T##",
+    "#K#T###SALAD#",
+    "#I#C####T#M##",
+    "#N#H####H#I##",
+    "#G##PROTEIN##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Stretching practice",
+      "5": "Drink plenty of it",
+      "8": "Physical activity",
+      "9": "Rest at night",
+      "10": "Bowl of greens",
+      "11": "Nutrient in eggs and beans"
+    },
+    "down": {
+      "1": "How you hold your body",
+      "3": "It aids digestion",
+      "4": "Loosen your muscles",
+      "5": "Gentle daily exercise",
+      "6": "Inhale and exhale",
+      "7": "Nutrient such as C or D"
+    }
+  },
+  "order": 72
+}

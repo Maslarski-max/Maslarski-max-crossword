@@ -1,0 +1,20 @@
+id: level-042
+title: World Capitals
+difficulty: MEDIUM
+order: 42
+type: level
+size: 13
+seed: 42
+---
+PARIS | City of the Eiffel Tower
+LONDON | Capital on the Thames
+ROME | Eternal City
+MADRID | Spain's capital
+BERLIN | German capital once divided by a wall
+TOKYO | Japan's capital
+CAIRO | Capital near the Pyramids of Giza
+OTTAWA | Canada's capital
+LIMA | Peru's capital
+OSLO | Norway's capital
+VIENNA | Austrian capital famed for waltzes
+ATHENS | Capital beneath the Acropolis

@@ -1,0 +1,20 @@
+id: level-066
+title: Human Body
+difficulty: MEDIUM
+order: 66
+type: level
+size: 13
+seed: 66
+---
+HEART | Organ that pumps blood
+LUNGS | You breathe with them
+BRAIN | Organ that thinks
+LIVER | Organ that filters the blood
+SKELETON | Frame of bones
+MUSCLE | Tissue that moves the body
+KIDNEY | Bean-shaped organ
+STOMACH | Where food is digested
+SPINE | Backbone
+VEIN | Blood vessel to the heart
+SKULL | Bone that protects the brain
+NERVE | It carries signals to the brain

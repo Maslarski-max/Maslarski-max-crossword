@@ -1,0 +1,44 @@
+{
+  "id": "level-082",
+  "title": "Law and Order",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######A######",
+    "##BAILIFF#####",
+    "#######F######",
+    "###A##LIBEL###",
+    "###P#T#D######",
+    "SUBPOENA######",
+    "###E#S#VERDICT",
+    "###A#T#I##E###",
+    "##PLAINTIFF###",
+    "##A##M####E###",
+    "JURY#O####N##J",
+    "##O##N####D##U",
+    "##LAWYER##A##D",
+    "##E#######N##G",
+    "#######STATUTE"
+  ],
+  "clues": {
+    "across": {
+      "2": "Court officer",
+      "4": "Written defamation",
+      "6": "Order to appear in court",
+      "7": "Jury's finding",
+      "9": "Person who brings a lawsuit",
+      "10": "Twelve who reach a verdict",
+      "12": "Person who argues a case",
+      "13": "Written law"
+    },
+    "down": {
+      "1": "Written sworn statement",
+      "3": "Request for a higher court review",
+      "5": "Evidence given under oath",
+      "8": "Person accused in court",
+      "9": "Early conditional release",
+      "11": "Person who presides over a court"
+    }
+  },
+  "order": 82
+}

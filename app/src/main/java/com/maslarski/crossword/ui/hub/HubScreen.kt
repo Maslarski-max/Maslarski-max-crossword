@@ -22,6 +22,7 @@ import androidx.compose.material.icons.rounded.GridOn
 import androidx.compose.material.icons.rounded.Insights
 import androidx.compose.material.icons.rounded.Settings
 import androidx.compose.material.icons.rounded.SportsEsports
+import androidx.compose.material.icons.rounded.Storefront
 import androidx.compose.material3.Button
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
@@ -59,6 +60,7 @@ fun HubScreen(
     onDaily: () -> Unit,
     onStats: () -> Unit,
     onSettings: () -> Unit,
+    onShop: () -> Unit,
     viewModel: HubViewModel = hiltViewModel(),
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
@@ -69,7 +71,8 @@ fun HubScreen(
             LargeTopAppBar(
                 title = { Text(stringResource(R.string.app_name), fontWeight = FontWeight.Bold) },
                 actions = {
-                    CoinChip(state.coins, Modifier.padding(horizontal = 4.dp))
+                    CoinChip(state.coins, Modifier.padding(horizontal = 4.dp), onClick = onShop)
+                    IconButton(onClick = onShop) { Icon(Icons.Rounded.Storefront, stringResource(R.string.shop_title)) }
                     IconButton(onClick = onStats) { Icon(Icons.Rounded.Insights, stringResource(R.string.stats_title)) }
                     IconButton(onClick = onSettings) { Icon(Icons.Rounded.Settings, stringResource(R.string.settings_title)) }
                 },

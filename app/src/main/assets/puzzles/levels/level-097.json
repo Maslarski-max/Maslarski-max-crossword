@@ -1,0 +1,43 @@
+{
+  "id": "level-097",
+  "title": "Physics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "######R#M######",
+    "#I###VELOCITY##",
+    "#N####L#M######",
+    "#E###WAVELENGTH",
+    "#R####T#N######",
+    "#T##FRICTION#E#",
+    "#I##R#V#U##E#N#",
+    "MAGNETISM##W#T#",
+    "####Q#T####T#R#",
+    "##J#U#Y##PHOTON",
+    "##O#E####R#N#P#",
+    "#QUANTUM#I###Y#",
+    "##L#C####S#####",
+    "##E#Y####M#####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Speed in a given direction",
+      "5": "Distance between wave peaks",
+      "6": "Force that resists sliding",
+      "9": "Force around a magnet",
+      "11": "Particle of light",
+      "12": "Smallest discrete unit of energy"
+    },
+    "down": {
+      "1": "Einstein's theory",
+      "2": "Mass times velocity",
+      "3": "Resistance to change in motion",
+      "6": "Number of cycles per second",
+      "7": "Unit of force",
+      "8": "Measure of disorder",
+      "10": "Unit of energy",
+      "11": "It splits white light"
+    }
+  },
+  "order": 97
+}

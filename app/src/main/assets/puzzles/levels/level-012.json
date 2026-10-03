@@ -1,0 +1,36 @@
+{
+  "id": "level-012",
+  "title": "Colour Box",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#######P#",
+    "##Y##BLUE",
+    "#RED#R#R#",
+    "##L##O#P#",
+    "##L##W#L#",
+    "##ORANGE#",
+    "##W###R##",
+    "####P#E##",
+    "##WHITE##",
+    "####N#N##",
+    "BLACK####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Colour of a clear sky",
+      "4": "Colour of a stop sign",
+      "5": "Colour between red and yellow",
+      "8": "Colour of fresh snow",
+      "9": "Colour of night"
+    },
+    "down": {
+      "1": "Colour of a violet",
+      "2": "Colour of a banana",
+      "3": "Colour of chocolate",
+      "6": "Colour of grass",
+      "7": "Colour of flamingos"
+    }
+  },
+  "order": 12
+}

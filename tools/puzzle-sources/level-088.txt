@@ -1,0 +1,22 @@
+id: level-088
+title: Oceanography
+difficulty: HARD
+order: 88
+type: level
+size: 15
+seed: 88
+---
+CURRENT | Flowing stream within the ocean
+TIDE | Rise and fall of the sea
+TRENCH | Deep canyon on the sea floor
+PLANKTON | Drifting tiny organisms
+LAGOON | Shallow water cut off by a reef
+ESTUARY | Where a river meets the sea
+SALINITY | Saltiness of water
+ATOLL | Ring-shaped coral island
+TSUNAMI | Giant wave from an earthquake
+ABYSS | Deepest part of the ocean
+KELP | Large brown seaweed
+MARIANA | Trench with the deepest point on Earth
+SONAR | Sound-based depth finder
+REEF | Ridge of coral
