@@ -36,38 +36,51 @@ import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.maslarski.crossword.R
-import kotlinx.coroutines.channels.Channel
+import com.maslarski.crossword.domain.model.CoinChange
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.flowOf
+import kotlinx.coroutines.flow.mapNotNull
+import kotlinx.coroutines.withTimeoutOrNull
 import kotlin.math.absoluteValue
-
-private data class CoinChange(val delta: Int, val id: Long)
+import kotlin.time.TimeSource
 
 /**
  * Pops a "+20 coins" / "−10 coins" pill at the top of the screen for every committed wallet change ([changes] is
- * [com.maslarski.crossword.domain.repository.WalletRepository.observeChanges]), one at a time in order.
- * Queued changes wait while [paused] emits true, e.g. behind a dialog, so none expires unseen.
+ * [com.maslarski.crossword.domain.repository.WalletRepository.observeChanges]), one at a time in order, and reports
+ * each through [onShown] once its full display time has passed. While [paused] emits true the pill stays hidden and
+ * its remaining time is kept, e.g. behind a dialog, so none expires unseen.
  */
 @Composable
-fun CoinChangeToast(changes: Flow<Int>, modifier: Modifier = Modifier, paused: Flow<Boolean> = flowOf(false)) {
+fun CoinChangeToast(
+    changes: Flow<List<CoinChange>>,
+    onShown: (Long) -> Unit,
+    modifier: Modifier = Modifier,
+    paused: Flow<Boolean> = flowOf(false),
+) {
     var change by remember { mutableStateOf<CoinChange?>(null) }
     var visible by remember { mutableStateOf(false) }
-    val pending = remember { Channel<Int>(Channel.UNLIMITED) }
     val currentPaused by rememberUpdatedState(paused)
+    val currentOnShown by rememberUpdatedState(onShown)
 
     LaunchedEffect(changes) {
-        changes.collect { delta -> if (delta != 0) pending.trySend(delta) }
-    }
-    LaunchedEffect(pending) {
-        var sequence = 0L
-        for (delta in pending) {
-            currentPaused.first { !it }
-            change = CoinChange(delta, ++sequence)
-            visible = true
-            delay(SHOW_MS)
-            visible = false
+        var lastShown = Long.MIN_VALUE
+        while (true) {
+            val next = changes.mapNotNull { pending -> pending.firstOrNull { it.id > lastShown } }.first()
+            change = next
+            var remaining = SHOW_MS
+            while (true) {
+                currentPaused.first { !it }
+                visible = true
+                val shownAt = TimeSource.Monotonic.markNow()
+                val pausedAgain = withTimeoutOrNull(remaining) { currentPaused.first { it } }
+                visible = false
+                if (pausedAgain == null) break
+                remaining = (remaining - shownAt.elapsedNow().inWholeMilliseconds).coerceAtLeast(MIN_RESUME_MS)
+            }
+            lastShown = next.id
+            currentOnShown(next.id)
             delay(EXIT_MS)
         }
     }
@@ -107,3 +120,4 @@ fun CoinChangeToast(changes: Flow<Int>, modifier: Modifier = Modifier, paused: F
 
 private const val SHOW_MS = 1_400L
 private const val EXIT_MS = 400L
+private const val MIN_RESUME_MS = 600L

@@ -6,6 +6,7 @@ import com.maslarski.crossword.domain.arena.ArenaResult
 import com.maslarski.crossword.domain.arena.ArenaState
 import com.maslarski.crossword.domain.arena.ArenaStats
 import com.maslarski.crossword.domain.model.BoardState
+import com.maslarski.crossword.domain.model.CoinChange
 import com.maslarski.crossword.domain.model.CompletionResult
 import com.maslarski.crossword.domain.model.DailyStatus
 import com.maslarski.crossword.domain.model.GameSession
@@ -94,8 +95,10 @@ interface ProfileRepository {
 
 interface WalletRepository {
     fun observeCoins(): Flow<Int>
-    /** Every committed balance change (earn, spend, refund, purchase) as a signed delta, in order. */
-    fun observeChanges(): Flow<Int>
+    /** Committed balance changes (earn, spend, refund, purchase) not yet acknowledged, oldest first. */
+    fun observeChanges(): Flow<List<CoinChange>>
+    /** Marks a change from [observeChanges] as shown so it leaves the queue. */
+    fun acknowledgeChange(id: Long)
     /** Deducts [amount] only if the balance covers it. */
     suspend fun trySpend(amount: Int): Boolean
     suspend fun earn(amount: Int)

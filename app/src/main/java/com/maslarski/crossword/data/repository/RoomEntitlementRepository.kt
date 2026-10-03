@@ -29,9 +29,11 @@ class RoomEntitlementRepository(
         dao.upsert(EntitlementEntity(ShopProduct.UNLIMITED.id, active, clock.millis()))
     }
 
-    override suspend fun creditPurchase(token: String, productId: String, coins: Int): Boolean = db.withTransaction {
-        val inserted = dao.insertCredit(PurchaseCreditEntity(token, productId, coins, clock.millis())) != -1L
-        if (inserted && coins > 0) wallet.depositPurchased(coins)
-        inserted
-    }.also { if (it) ledger.record(coins) }
+    override suspend fun creditPurchase(token: String, productId: String, coins: Int): Boolean = ledger.commit({
+        db.withTransaction {
+            val inserted = dao.insertCredit(PurchaseCreditEntity(token, productId, coins, clock.millis())) != -1L
+            if (inserted && coins > 0) wallet.depositPurchased(coins)
+            inserted
+        }
+    }) { if (it) coins else 0 }
 }

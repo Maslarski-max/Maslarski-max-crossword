@@ -60,13 +60,15 @@ class RoomProfileRepository(
         return Achievements.met(profile).filter { achievements.insertIgnore(AchievementEntity(it.id, now)) != -1L }
     }
 
-    override suspend fun claimDailyLogin(today: LocalDate): LoginReward? = db.withTransaction {
-        val next = LoginStreaks.next(logins.get()?.toDomain(), today) ?: return@withTransaction null
-        logins.upsert(LoginStreakEntity(lastDay = next.lastDay.toString(), streak = next.streak, bestStreak = next.bestStreak, totalDays = next.totalDays))
-        val coins = LoginStreaks.reward(next.streak)
-        wallet.earn(coins)
-        LoginReward(next.streak, LoginStreaks.cycleDay(next.streak), coins)
-    }?.also { ledger.record(it.coins) }
+    override suspend fun claimDailyLogin(today: LocalDate): LoginReward? = ledger.commit({
+        db.withTransaction {
+            val next = LoginStreaks.next(logins.get()?.toDomain(), today) ?: return@withTransaction null
+            logins.upsert(LoginStreakEntity(lastDay = next.lastDay.toString(), streak = next.streak, bestStreak = next.bestStreak, totalDays = next.totalDays))
+            val coins = LoginStreaks.reward(next.streak)
+            wallet.earn(coins)
+            LoginReward(next.streak, LoginStreaks.cycleDay(next.streak), coins)
+        }
+    }) { it?.coins ?: 0 }
 
     private fun LoginStreakEntity.toDomain() = LoginStreak(LocalDate.parse(lastDay), streak, bestStreak, totalDays)
 }

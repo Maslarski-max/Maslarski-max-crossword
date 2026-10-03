@@ -20,12 +20,9 @@ import com.maslarski.crossword.domain.model.Puzzle
 import com.maslarski.crossword.domain.model.PuzzleType
 import com.maslarski.crossword.domain.model.UnlockResult
 import com.maslarski.crossword.domain.parser.PuzzleParser
-import kotlinx.coroutines.CoroutineStart
 import kotlinx.coroutines.async
 import kotlinx.coroutines.awaitAll
 import kotlinx.coroutines.flow.first
-import kotlinx.coroutines.flow.take
-import kotlinx.coroutines.flow.toList
 import kotlinx.coroutines.runBlocking
 import org.junit.After
 import org.junit.Assert.assertEquals
@@ -98,14 +95,16 @@ class CoinEconomyDatabaseTest {
 
     @Test
     fun everyCommittedChangeIsReportedEvenWhenTheBalanceReturnsToStart() = runBlocking {
-        val changes = async(start = CoroutineStart.UNDISPATCHED) { wallet.observeChanges().take(4).toList() }
         assertTrue(wallet.trySpend(GameRules.HINT_COST))
         wallet.refund(GameRules.HINT_COST)
         assertFalse(wallet.trySpend(GameRules.STARTING_COINS + 1))
         assertEquals(UnlockResult.ALREADY_UNLOCKED, progress.unlockLevel(levels, "l1"))
         assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l2"))
         wallet.earn(5)
-        assertEquals(listOf(-GameRules.HINT_COST, GameRules.HINT_COST, -GameRules.LEVEL_UNLOCK_COST, 5), changes.await())
+        assertEquals(
+            listOf(-GameRules.HINT_COST, GameRules.HINT_COST, -GameRules.LEVEL_UNLOCK_COST, 5),
+            wallet.observeChanges().first().map { it.delta },
+        )
     }
 
     @Test

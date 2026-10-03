@@ -79,7 +79,7 @@ class RoomProgressRepository(
     }
 
     override suspend fun unlockLevel(levels: List<Puzzle>, puzzleId: String): UnlockResult =
-        unlockLevelTransaction(levels, puzzleId).also { if (it == UnlockResult.UNLOCKED) ledger.record(-GameRules.LEVEL_UNLOCK_COST) }
+        ledger.commit({ unlockLevelTransaction(levels, puzzleId) }) { if (it == UnlockResult.UNLOCKED) -GameRules.LEVEL_UNLOCK_COST else 0 }
 
     private suspend fun unlockLevelTransaction(levels: List<Puzzle>, puzzleId: String): UnlockResult = db.withTransaction {
         val records = this.levels.getAll().associateBy { it.puzzleId }
@@ -116,7 +116,7 @@ class RoomProgressRepository(
         checksUsed: Int,
         nextPuzzleId: String?,
     ): CompletionResult = boardLock.withLock {
-        recordCompletionLocked(session, puzzle, board, elapsedSeconds, checksUsed, nextPuzzleId).also { ledger.record(it.coinsEarned) }
+        ledger.commit({ recordCompletionLocked(session, puzzle, board, elapsedSeconds, checksUsed, nextPuzzleId) }) { it.coinsEarned }
     }
 
     private suspend fun recordCompletionLocked(
