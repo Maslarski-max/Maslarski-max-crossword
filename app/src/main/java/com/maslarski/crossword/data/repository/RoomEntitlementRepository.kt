@@ -11,7 +11,11 @@ import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.map
 import java.time.Clock
 
-class RoomEntitlementRepository(private val db: CrosswordDatabase, private val clock: Clock) : EntitlementRepository {
+class RoomEntitlementRepository(
+    private val db: CrosswordDatabase,
+    private val clock: Clock,
+    private val ledger: CoinLedger,
+) : EntitlementRepository {
     private val dao = db.entitlementDao()
     private val wallet = db.walletDao()
 
@@ -29,5 +33,5 @@ class RoomEntitlementRepository(private val db: CrosswordDatabase, private val c
         val inserted = dao.insertCredit(PurchaseCreditEntity(token, productId, coins, clock.millis())) != -1L
         if (inserted && coins > 0) wallet.depositPurchased(coins)
         inserted
-    }
+    }.also { if (it) ledger.record(coins) }
 }

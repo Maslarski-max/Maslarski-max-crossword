@@ -23,6 +23,7 @@ import java.time.Clock
 class RoomArenaRepository(
     private val db: CrosswordDatabase,
     private val clock: Clock,
+    private val ledger: CoinLedger,
     private val json: Json = Json { ignoreUnknownKeys = true },
 ) : ArenaRepository {
 
@@ -91,7 +92,7 @@ class RoomArenaRepository(
             val coins = ArenaRules.rewardCoins(outcome)
             if (coins > 0) wallet.earn(coins)
             ArenaResult(outcome, state.playerScore, state.opponentScore, coins)
-        }
+        }?.also { ledger.record(it.coinsEarned) }
     }
 
     private fun ArenaMatchEntity.toMatch(): ArenaMatch? = try {

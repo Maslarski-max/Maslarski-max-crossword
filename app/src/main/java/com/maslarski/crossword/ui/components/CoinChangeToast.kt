@@ -25,6 +25,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -38,32 +39,31 @@ import com.maslarski.crossword.R
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.flow.flowOf
 import kotlin.math.absoluteValue
 
 private data class CoinChange(val delta: Int, val id: Long)
 
 /**
- * Pops a "+20 coins" / "−10 coins" pill at the top of the screen whenever the stored balance changes, so every
- * earn, spend and refund anywhere in the app is confirmed from the database value itself. Changes show one at a time.
+ * Pops a "+20 coins" / "−10 coins" pill at the top of the screen for every committed wallet change ([changes] is
+ * [com.maslarski.crossword.domain.repository.WalletRepository.observeChanges]), one at a time in order.
+ * Queued changes wait while [paused] emits true, e.g. behind a dialog, so none expires unseen.
  */
 @Composable
-fun CoinChangeToast(coins: Flow<Int>, modifier: Modifier = Modifier) {
+fun CoinChangeToast(changes: Flow<Int>, modifier: Modifier = Modifier, paused: Flow<Boolean> = flowOf(false)) {
     var change by remember { mutableStateOf<CoinChange?>(null) }
     var visible by remember { mutableStateOf(false) }
     val pending = remember { Channel<Int>(Channel.UNLIMITED) }
+    val currentPaused by rememberUpdatedState(paused)
 
-    LaunchedEffect(coins) {
-        var previous: Int? = null
-        coins.distinctUntilChanged().collect { balance ->
-            val last = previous
-            previous = balance
-            if (last != null) pending.trySend(balance - last)
-        }
+    LaunchedEffect(changes) {
+        changes.collect { delta -> if (delta != 0) pending.trySend(delta) }
     }
     LaunchedEffect(pending) {
         var sequence = 0L
         for (delta in pending) {
+            currentPaused.first { !it }
             change = CoinChange(delta, ++sequence)
             visible = true
             delay(SHOW_MS)

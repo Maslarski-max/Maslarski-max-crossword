@@ -15,6 +15,7 @@ import com.maslarski.crossword.data.billing.PurchaseSignatureVerifier
 import com.maslarski.crossword.data.integrity.PlayIntegrityChecker
 import com.maslarski.crossword.data.local.CrosswordDatabase
 import com.maslarski.crossword.data.repository.AssetPuzzleRepository
+import com.maslarski.crossword.data.repository.CoinLedger
 import com.maslarski.crossword.data.repository.RoomArenaRepository
 import com.maslarski.crossword.data.repository.DataStoreSettingsRepository
 import com.maslarski.crossword.data.repository.RoomEntitlementRepository
@@ -85,24 +86,30 @@ object AppModule {
         AssetPuzzleRepository(context.assets, PuzzleParser(), io)
 
     @Provides @Singleton
-    fun provideProgressRepository(db: CrosswordDatabase, clock: Clock): ProgressRepository = RoomProgressRepository(db, clock)
+    fun provideCoinLedger(): CoinLedger = CoinLedger()
 
     @Provides @Singleton
-    fun provideArenaRepository(db: CrosswordDatabase, clock: Clock): ArenaRepository = RoomArenaRepository(db, clock)
+    fun provideProgressRepository(db: CrosswordDatabase, clock: Clock, ledger: CoinLedger): ProgressRepository =
+        RoomProgressRepository(db, clock, ledger)
 
     @Provides @Singleton
-    fun provideProfileRepository(db: CrosswordDatabase, arena: ArenaRepository, clock: Clock): ProfileRepository =
-        RoomProfileRepository(db, arena, clock)
+    fun provideArenaRepository(db: CrosswordDatabase, clock: Clock, ledger: CoinLedger): ArenaRepository =
+        RoomArenaRepository(db, clock, ledger)
+
+    @Provides @Singleton
+    fun provideProfileRepository(db: CrosswordDatabase, arena: ArenaRepository, clock: Clock, ledger: CoinLedger): ProfileRepository =
+        RoomProfileRepository(db, arena, clock, ledger)
 
     @Provides @Singleton
     fun provideAchievementTracker(profile: ProfileRepository, clock: Clock, @ApplicationScope scope: CoroutineScope): AchievementTracker =
         AchievementTracker(profile, clock, scope)
 
     @Provides @Singleton
-    fun provideWalletRepository(db: CrosswordDatabase): WalletRepository = RoomWalletRepository(db.walletDao())
+    fun provideWalletRepository(db: CrosswordDatabase, ledger: CoinLedger): WalletRepository = RoomWalletRepository(db.walletDao(), ledger)
 
     @Provides @Singleton
-    fun provideEntitlementRepository(db: CrosswordDatabase, clock: Clock): EntitlementRepository = RoomEntitlementRepository(db, clock)
+    fun provideEntitlementRepository(db: CrosswordDatabase, clock: Clock, ledger: CoinLedger): EntitlementRepository =
+        RoomEntitlementRepository(db, clock, ledger)
 
     @Provides @Singleton
     fun provideStoreRepository(
