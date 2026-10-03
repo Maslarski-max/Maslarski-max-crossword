@@ -33,6 +33,7 @@ import java.time.LocalDate
 class RoomProgressRepository(
     private val db: CrosswordDatabase,
     private val clock: Clock,
+    private val ledger: CoinLedger,
 ) : ProgressRepository {
 
     private val boards = db.boardProgressDao()
@@ -77,7 +78,10 @@ class RoomProgressRepository(
         Unit
     }
 
-    override suspend fun unlockLevel(levels: List<Puzzle>, puzzleId: String): UnlockResult = db.withTransaction {
+    override suspend fun unlockLevel(levels: List<Puzzle>, puzzleId: String): UnlockResult =
+        ledger.commit({ unlockLevelTransaction(levels, puzzleId) }) { if (it == UnlockResult.UNLOCKED) -GameRules.LEVEL_UNLOCK_COST else 0 }
+
+    private suspend fun unlockLevelTransaction(levels: List<Puzzle>, puzzleId: String): UnlockResult = db.withTransaction {
         val records = this.levels.getAll().associateBy { it.puzzleId }
         val record = records[puzzleId] ?: return@withTransaction UnlockResult.NOT_NEXT
         if (record.unlocked) return@withTransaction UnlockResult.ALREADY_UNLOCKED
@@ -111,7 +115,9 @@ class RoomProgressRepository(
         elapsedSeconds: Long,
         checksUsed: Int,
         nextPuzzleId: String?,
-    ): CompletionResult = boardLock.withLock { recordCompletionLocked(session, puzzle, board, elapsedSeconds, checksUsed, nextPuzzleId) }
+    ): CompletionResult = boardLock.withLock {
+        ledger.commit({ recordCompletionLocked(session, puzzle, board, elapsedSeconds, checksUsed, nextPuzzleId) }) { it.coinsEarned }
+    }
 
     private suspend fun recordCompletionLocked(
         session: GameSession,

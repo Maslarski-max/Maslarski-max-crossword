@@ -23,6 +23,7 @@ import java.time.Clock
 class RoomArenaRepository(
     private val db: CrosswordDatabase,
     private val clock: Clock,
+    private val ledger: CoinLedger,
     private val json: Json = Json { ignoreUnknownKeys = true },
 ) : ArenaRepository {
 
@@ -78,20 +79,22 @@ class RoomArenaRepository(
 
     override suspend fun finishMatch(id: Long, state: ArenaState): ArenaResult? = lock.withLock {
         val outcome = state.outcome ?: return@withLock null
-        db.withTransaction {
-            val updated = matches.finish(
-                id = id,
-                state = json.encodeToString(ArenaState.serializer(), state),
-                playerScore = state.playerScore,
-                opponentScore = state.opponentScore,
-                outcome = outcome.name,
-                now = clock.millis(),
-            )
-            if (updated == 0) return@withTransaction null
-            val coins = ArenaRules.rewardCoins(outcome)
-            if (coins > 0) wallet.earn(coins)
-            ArenaResult(outcome, state.playerScore, state.opponentScore, coins)
-        }
+        ledger.commit({
+            db.withTransaction {
+                val updated = matches.finish(
+                    id = id,
+                    state = json.encodeToString(ArenaState.serializer(), state),
+                    playerScore = state.playerScore,
+                    opponentScore = state.opponentScore,
+                    outcome = outcome.name,
+                    now = clock.millis(),
+                )
+                if (updated == 0) return@withTransaction null
+                val coins = ArenaRules.rewardCoins(outcome)
+                if (coins > 0) wallet.earn(coins)
+                ArenaResult(outcome, state.playerScore, state.opponentScore, coins)
+            }
+        }) { it?.coinsEarned ?: 0 }
     }
 
     private fun ArenaMatchEntity.toMatch(): ArenaMatch? = try {

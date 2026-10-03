@@ -27,6 +27,11 @@ class MainViewModel @Inject constructor(
     private val _reward = MutableStateFlow<LoginReward?>(null)
     val reward: StateFlow<LoginReward?> = _reward.asStateFlow()
 
+    private val _holdCoinToasts = MutableStateFlow(false)
+
+    /** True from the start of a login-bonus claim until its dialog is dismissed, so its coin pop-up follows the dialog. */
+    val holdCoinToasts: StateFlow<Boolean> = _holdCoinToasts.asStateFlow()
+
     private val _achievement = MutableStateFlow<Achievement?>(null)
 
     /** Achievement banner currently on screen, kept here so it survives configuration changes. */
@@ -46,12 +51,18 @@ class MainViewModel @Inject constructor(
     /** Called whenever the app comes to the foreground; pays at most one bonus per calendar day. */
     fun onAppOpened() {
         viewModelScope.launch {
-            profile.claimDailyLogin(LocalDate.now(clock))?.let { _reward.value = it }
+            _holdCoinToasts.value = true
+            try {
+                profile.claimDailyLogin(LocalDate.now(clock))?.let { _reward.value = it }
+            } finally {
+                if (_reward.value == null) _holdCoinToasts.value = false
+            }
         }
     }
 
     fun onRewardDismissed() {
         _reward.value = null
+        _holdCoinToasts.value = false
     }
 
     private companion object {

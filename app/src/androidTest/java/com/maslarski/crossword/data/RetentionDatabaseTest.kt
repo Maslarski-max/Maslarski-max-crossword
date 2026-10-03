@@ -5,6 +5,7 @@ import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.maslarski.crossword.data.local.CrosswordDatabase
 import com.maslarski.crossword.data.local.WalletEntity
+import com.maslarski.crossword.data.repository.CoinLedger
 import com.maslarski.crossword.data.repository.RoomArenaRepository
 import com.maslarski.crossword.data.repository.RoomProfileRepository
 import com.maslarski.crossword.data.repository.RoomProgressRepository
@@ -34,6 +35,7 @@ import java.time.LocalDate
 class RetentionDatabaseTest {
 
     private lateinit var db: CrosswordDatabase
+    private val ledger = CoinLedger()
     private lateinit var wallet: RoomWalletRepository
     private lateinit var progress: RoomProgressRepository
     private lateinit var profile: RoomProfileRepository
@@ -43,9 +45,9 @@ class RetentionDatabaseTest {
     fun setUp() = runBlocking {
         db = Room.inMemoryDatabaseBuilder(ApplicationProvider.getApplicationContext(), CrosswordDatabase::class.java).build()
         db.walletDao().insertIgnore(WalletEntity(coins = 0, lifetimeEarned = 0))
-        wallet = RoomWalletRepository(db.walletDao())
-        progress = RoomProgressRepository(db, Clock.systemUTC())
-        profile = RoomProfileRepository(db, RoomArenaRepository(db, Clock.systemUTC()), Clock.systemUTC())
+        wallet = RoomWalletRepository(db.walletDao(), ledger)
+        progress = RoomProgressRepository(db, Clock.systemUTC(), ledger)
+        profile = RoomProfileRepository(db, RoomArenaRepository(db, Clock.systemUTC(), ledger), Clock.systemUTC(), ledger)
     }
 
     @After

@@ -5,6 +5,7 @@ import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.maslarski.crossword.data.local.CrosswordDatabase
 import com.maslarski.crossword.data.local.WalletEntity
+import com.maslarski.crossword.data.repository.CoinLedger
 import com.maslarski.crossword.data.repository.RoomArenaRepository
 import com.maslarski.crossword.data.repository.RoomProgressRepository
 import com.maslarski.crossword.data.repository.RoomWalletRepository
@@ -38,6 +39,7 @@ import java.time.Clock
 class CoinEconomyDatabaseTest {
 
     private lateinit var db: CrosswordDatabase
+    private val ledger = CoinLedger()
     private lateinit var wallet: RoomWalletRepository
     private lateinit var progress: RoomProgressRepository
     private lateinit var arena: RoomArenaRepository
@@ -47,9 +49,9 @@ class CoinEconomyDatabaseTest {
     fun setUp() = runBlocking {
         db = Room.inMemoryDatabaseBuilder(ApplicationProvider.getApplicationContext(), CrosswordDatabase::class.java).build()
         db.walletDao().insertIgnore(WalletEntity(coins = GameRules.STARTING_COINS, lifetimeEarned = 0))
-        wallet = RoomWalletRepository(db.walletDao())
-        progress = RoomProgressRepository(db, Clock.systemUTC())
-        arena = RoomArenaRepository(db, Clock.systemUTC())
+        wallet = RoomWalletRepository(db.walletDao(), ledger)
+        progress = RoomProgressRepository(db, Clock.systemUTC(), ledger)
+        arena = RoomArenaRepository(db, Clock.systemUTC(), ledger)
         progress.syncLevels(levels)
     }
 
@@ -89,6 +91,20 @@ class CoinEconomyDatabaseTest {
         assertEquals(UnlockResult.NOT_ENOUGH_COINS, progress.unlockLevel(levels, "l2"))
         assertEquals(49, coins())
         assertEquals(listOf("l1"), unlocked())
+    }
+
+    @Test
+    fun everyCommittedChangeIsReportedEvenWhenTheBalanceReturnsToStart() = runBlocking {
+        assertTrue(wallet.trySpend(GameRules.HINT_COST))
+        wallet.refund(GameRules.HINT_COST)
+        assertFalse(wallet.trySpend(GameRules.STARTING_COINS + 1))
+        assertEquals(UnlockResult.ALREADY_UNLOCKED, progress.unlockLevel(levels, "l1"))
+        assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l2"))
+        wallet.earn(5)
+        assertEquals(
+            listOf(-GameRules.HINT_COST, GameRules.HINT_COST, -GameRules.LEVEL_UNLOCK_COST, 5),
+            wallet.observeChanges().first().map { it.delta },
+        )
     }
 
     @Test
