@@ -94,6 +94,8 @@ interface ProfileRepository {
 
 interface WalletRepository {
     fun observeCoins(): Flow<Int>
+    /** Every committed balance change (earn, spend, refund, purchase) as a signed delta, in order. */
+    fun observeChanges(): Flow<Int>
     /** Deducts [amount] only if the balance covers it. */
     suspend fun trySpend(amount: Int): Boolean
     suspend fun earn(amount: Int)

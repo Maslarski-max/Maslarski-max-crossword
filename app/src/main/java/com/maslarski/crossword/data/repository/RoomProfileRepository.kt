@@ -23,6 +23,7 @@ class RoomProfileRepository(
     private val db: CrosswordDatabase,
     private val arena: ArenaRepository,
     private val clock: Clock,
+    private val ledger: CoinLedger,
 ) : ProfileRepository {
 
     private val highScores = db.highScoreDao()
@@ -65,7 +66,7 @@ class RoomProfileRepository(
         val coins = LoginStreaks.reward(next.streak)
         wallet.earn(coins)
         LoginReward(next.streak, LoginStreaks.cycleDay(next.streak), coins)
-    }
+    }?.also { ledger.record(it.coins) }
 
     private fun LoginStreakEntity.toDomain() = LoginStreak(LocalDate.parse(lastDay), streak, bestStreak, totalDays)
 }

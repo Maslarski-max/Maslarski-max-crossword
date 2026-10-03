@@ -38,28 +38,22 @@ import com.maslarski.crossword.R
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
-import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlin.math.absoluteValue
 
 private data class CoinChange(val delta: Int, val id: Long)
 
 /**
- * Pops a "+20 coins" / "−10 coins" pill at the top of the screen whenever the stored balance changes, so every
- * earn, spend and refund anywhere in the app is confirmed from the database value itself. Changes show one at a time.
+ * Pops a "+20 coins" / "−10 coins" pill at the top of the screen for every committed wallet change ([changes] is
+ * [com.maslarski.crossword.domain.repository.WalletRepository.observeChanges]), one at a time in order.
  */
 @Composable
-fun CoinChangeToast(coins: Flow<Int>, modifier: Modifier = Modifier) {
+fun CoinChangeToast(changes: Flow<Int>, modifier: Modifier = Modifier) {
     var change by remember { mutableStateOf<CoinChange?>(null) }
     var visible by remember { mutableStateOf(false) }
     val pending = remember { Channel<Int>(Channel.UNLIMITED) }
 
-    LaunchedEffect(coins) {
-        var previous: Int? = null
-        coins.distinctUntilChanged().collect { balance ->
-            val last = previous
-            previous = balance
-            if (last != null) pending.trySend(balance - last)
-        }
+    LaunchedEffect(changes) {
+        changes.collect { delta -> if (delta != 0) pending.trySend(delta) }
     }
     LaunchedEffect(pending) {
         var sequence = 0L
