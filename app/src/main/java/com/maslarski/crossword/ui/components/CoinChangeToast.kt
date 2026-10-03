@@ -25,6 +25,8 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberUpdatedState
+import androidx.compose.runtime.snapshotFlow
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -38,6 +40,7 @@ import com.maslarski.crossword.R
 import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.first
 import kotlin.math.absoluteValue
 
 private data class CoinChange(val delta: Int, val id: Long)
@@ -45,12 +48,14 @@ private data class CoinChange(val delta: Int, val id: Long)
 /**
  * Pops a "+20 coins" / "−10 coins" pill at the top of the screen for every committed wallet change ([changes] is
  * [com.maslarski.crossword.domain.repository.WalletRepository.observeChanges]), one at a time in order.
+ * Queued changes wait while [paused], e.g. behind a dialog, so none expires unseen.
  */
 @Composable
-fun CoinChangeToast(changes: Flow<Int>, modifier: Modifier = Modifier) {
+fun CoinChangeToast(changes: Flow<Int>, modifier: Modifier = Modifier, paused: Boolean = false) {
     var change by remember { mutableStateOf<CoinChange?>(null) }
     var visible by remember { mutableStateOf(false) }
     val pending = remember { Channel<Int>(Channel.UNLIMITED) }
+    val isPaused by rememberUpdatedState(paused)
 
     LaunchedEffect(changes) {
         changes.collect { delta -> if (delta != 0) pending.trySend(delta) }
@@ -58,6 +63,7 @@ fun CoinChangeToast(changes: Flow<Int>, modifier: Modifier = Modifier) {
     LaunchedEffect(pending) {
         var sequence = 0L
         for (delta in pending) {
+            snapshotFlow { isPaused }.first { !it }
             change = CoinChange(delta, ++sequence)
             visible = true
             delay(SHOW_MS)

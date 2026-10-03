@@ -69,7 +69,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Box(Modifier.fillMaxSize()) {
                         CrosswordNavHost()
-                        CoinChangeToast(remember { walletRepository.observeChanges() })
+                        CoinChangeToast(remember { walletRepository.observeChanges() }, paused = reward != null)
                         AchievementToast(main.achievement.collectAsStateWithLifecycle().value)
                         reward?.let { LoginRewardDialog(it, onDismiss = main::onRewardDismissed) }
                     }
