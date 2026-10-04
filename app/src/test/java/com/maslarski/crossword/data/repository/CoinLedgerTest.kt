@@ -34,9 +34,10 @@ class CoinLedgerTest {
     }
 
     @Test
-    fun dropsTheOldestChangesBeyondCapacity() = runTest {
-        val ledger = CoinLedger(capacity = 2)
-        listOf(1, 2, 3).forEach { delta -> ledger.commit<Int>({ delta }) { it } }
-        assertEquals(listOf(2, 3), ledger.deltas())
+    fun keepsALongUnacknowledgedBacklog() = runTest {
+        val ledger = CoinLedger()
+        val deltas = (1..200).toList()
+        deltas.forEach { delta -> ledger.commit<Int>({ delta }) { it } }
+        assertEquals(deltas, ledger.deltas())
     }
 }

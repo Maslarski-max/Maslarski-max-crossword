@@ -37,9 +37,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.model.CoinChange
+import kotlinx.coroutines.awaitCancellation
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.flow.firstOrNull
 import kotlinx.coroutines.flow.flowOf
 import kotlinx.coroutines.flow.mapNotNull
 import kotlinx.coroutines.withTimeoutOrNull
@@ -71,10 +73,10 @@ fun CoinChangeToast(
             change = next
             var remaining = SHOW_MS
             while (true) {
-                currentPaused.first { !it }
+                currentPaused.firstOrNull { !it }
                 visible = true
                 val shownAt = TimeSource.Monotonic.markNow()
-                val pausedAgain = withTimeoutOrNull(remaining) { currentPaused.first { it } }
+                val pausedAgain = withTimeoutOrNull(remaining) { currentPaused.firstOrNull { it } ?: awaitCancellation() }
                 visible = false
                 if (pausedAgain == null) break
                 remaining = (remaining - shownAt.elapsedNow().inWholeMilliseconds).coerceAtLeast(MIN_RESUME_MS)

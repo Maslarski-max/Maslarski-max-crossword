@@ -13,7 +13,7 @@ import kotlinx.coroutines.sync.withLock
  * so every wallet write goes through [commit]. A change stays queued until [acknowledge], so a collector that starts
  * late or is recreated still gets it.
  */
-class CoinLedger(private val capacity: Int = MAX_PENDING) {
+class CoinLedger {
     private val lock = Mutex()
     private val queue = MutableStateFlow<List<CoinChange>>(emptyList())
     private var lastId = 0L
@@ -24,13 +24,9 @@ class CoinLedger(private val capacity: Int = MAX_PENDING) {
     suspend fun <T> commit(write: suspend () -> T, delta: (T) -> Int): T = lock.withLock {
         write().also { result ->
             val change = delta(result)
-            if (change != 0) queue.update { (it + CoinChange(++lastId, change)).takeLast(capacity) }
+            if (change != 0) queue.update { it + CoinChange(++lastId, change) }
         }
     }
 
     fun acknowledge(id: Long) = queue.update { changes -> changes.filterNot { it.id == id } }
-
-    private companion object {
-        const val MAX_PENDING = 50
-    }
 }
