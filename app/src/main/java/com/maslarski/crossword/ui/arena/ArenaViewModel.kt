@@ -49,7 +49,7 @@ data class ArenaUiState(
     val pending: Map<Int, Int> = emptyMap(),
     val selectedSlot: Int? = null,
     val activeWord: ArenaWord? = null,
-    /** Letter cell the player last tapped; Reveal Letter fills it while it is open. */
+    /** Letter cell the player last tapped or dropped a tile on (null after picking a clue); Reveal Letter fills it while it is open. */
     val focusCell: Int? = null,
     val missCells: Set<Int> = emptySet(),
     val opponentThinking: Boolean = false,
@@ -156,12 +156,12 @@ class ArenaViewModel @Inject constructor(
         val clue = layout.clueAt(cell)
         if (clue != null) {
             val word = if (clue.across != null && clue.down != null && s.activeWord == clue.across) clue.down else clue.across ?: clue.down
-            _state.update { it.copy(activeWord = word) }
+            _state.update { it.copy(activeWord = word, focusCell = null) }
             return
         }
         if (!layout.isLetter(cell)) return
         when {
-            cell in s.pending -> _state.update { it.copy(pending = it.pending - cell) }
+            cell in s.pending -> _state.update { it.copy(pending = it.pending - cell, focusCell = cell) }
             s.playerTurn && s.selectedSlot != null && match.isEmpty(cell) -> place(s.selectedSlot, cell)
             else -> {
                 val words = layout.wordsAt(cell)
@@ -188,7 +188,7 @@ class ArenaViewModel @Inject constructor(
                 ?: s.activeWord?.takeIf { cell in it.cells }
                 ?: layout.wordAt(cell, s.activeWord?.direction ?: Direction.ACROSS)
                 ?: layout.wordsAt(cell).firstOrNull()
-            s.copy(pending = pending, selectedSlot = null, activeWord = word)
+            s.copy(pending = pending, selectedSlot = null, activeWord = word, focusCell = cell)
         }
     }
 
