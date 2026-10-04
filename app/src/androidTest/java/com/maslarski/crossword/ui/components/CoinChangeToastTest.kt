@@ -1,5 +1,6 @@
 package com.maslarski.crossword.ui.components
 
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.ui.test.junit4.createComposeRule
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import com.maslarski.crossword.domain.model.CoinChange
@@ -41,6 +42,24 @@ class CoinChangeToastTest {
     @Test
     fun emptyPauseSourceKeepsChangeQueued() {
         assertEquals(emptyList<Long>(), shownWith(emptyFlow()))
+    }
+
+    @Test
+    fun replacingAFinishedPausedSourceResumesTheQueuedChange() {
+        val pending = MutableStateFlow(listOf(CoinChange(1, -10)))
+        val shown = mutableListOf<Long>()
+        val paused = mutableStateOf(flowOf(true))
+        compose.setContent {
+            CoinChangeToast(pending, onShown = { shown += it }, paused = paused.value)
+        }
+        compose.mainClock.advanceTimeBy(5_000)
+        compose.waitForIdle()
+        assertEquals(emptyList<Long>(), shown)
+
+        paused.value = flowOf(false)
+        compose.mainClock.advanceTimeBy(5_000)
+        compose.waitForIdle()
+        assertEquals(listOf(1L), shown)
     }
 
     private fun shownWith(paused: Flow<Boolean>): List<Long> {

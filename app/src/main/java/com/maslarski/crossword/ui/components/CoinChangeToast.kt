@@ -27,6 +27,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.runtime.setValue
+import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.pluralStringResource
@@ -37,11 +38,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.model.CoinChange
-import kotlinx.coroutines.awaitCancellation
+import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.first
-import kotlinx.coroutines.flow.firstOrNull
+import kotlinx.coroutines.flow.flatMapLatest
 import kotlinx.coroutines.flow.flowOf
 import kotlinx.coroutines.flow.mapNotNull
 import kotlinx.coroutines.withTimeoutOrNull
@@ -52,8 +53,10 @@ import kotlin.time.TimeSource
  * Pops a "+20 coins" / "−10 coins" pill at the top of the screen for every committed wallet change ([changes] is
  * [com.maslarski.crossword.domain.repository.WalletRepository.observeChanges]), one at a time in order, and reports
  * each through [onShown] once its full display time has passed. While [paused] emits true the pill stays hidden and
- * its remaining time is kept, e.g. behind a dialog, so none expires unseen.
+ * its remaining time is kept, e.g. behind a dialog, so none expires unseen. A finished [paused] flow keeps its last
+ * value (none counts as paused) until a new flow is passed.
  */
+@OptIn(ExperimentalCoroutinesApi::class)
 @Composable
 fun CoinChangeToast(
     changes: Flow<List<CoinChange>>,
@@ -63,20 +66,21 @@ fun CoinChangeToast(
 ) {
     var change by remember { mutableStateOf<CoinChange?>(null) }
     var visible by remember { mutableStateOf(false) }
-    val currentPaused by rememberUpdatedState(paused)
+    val currentPaused = rememberUpdatedState(paused)
     val currentOnShown by rememberUpdatedState(onShown)
 
     LaunchedEffect(changes) {
+        val pauseState = snapshotFlow { currentPaused.value }.flatMapLatest { it }
         var lastShown = Long.MIN_VALUE
         while (true) {
             val next = changes.mapNotNull { pending -> pending.firstOrNull { it.id > lastShown } }.first()
             change = next
             var remaining = SHOW_MS
             while (true) {
-                currentPaused.firstOrNull { !it } ?: awaitCancellation()
+                pauseState.first { !it }
                 visible = true
                 val shownAt = TimeSource.Monotonic.markNow()
-                val pausedAgain = withTimeoutOrNull(remaining) { currentPaused.firstOrNull { it } ?: awaitCancellation() }
+                val pausedAgain = withTimeoutOrNull(remaining) { pauseState.first { it } }
                 visible = false
                 if (pausedAgain == null) break
                 remaining = (remaining - shownAt.elapsedNow().inWholeMilliseconds).coerceAtLeast(MIN_RESUME_MS)
