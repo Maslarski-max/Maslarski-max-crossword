@@ -73,7 +73,7 @@ fun CoinChangeToast(
             change = next
             var remaining = SHOW_MS
             while (true) {
-                currentPaused.firstOrNull { !it }
+                currentPaused.firstOrNull { !it } ?: awaitCancellation()
                 visible = true
                 val shownAt = TimeSource.Monotonic.markNow()
                 val pausedAgain = withTimeoutOrNull(remaining) { currentPaused.firstOrNull { it } ?: awaitCancellation() }
