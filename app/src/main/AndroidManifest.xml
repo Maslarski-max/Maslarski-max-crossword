@@ -2,11 +2,19 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Ads, UMP consent, Firebase and Play Integrity. The game itself works fully offline. -->
+    <!-- Firebase, Play Billing and Play Integrity. The game itself works fully offline. -->
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <!-- Declared explicitly for the Play Console advertising-ID declaration (Android 13+). -->
-    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <!-- No ads: drop the advertising-ID and ad-attribution permissions Firebase Analytics would merge in. -->
+    <uses-permission
+        android:name="com.google.android.gms.permission.AD_ID"
+        tools:node="remove" />
+    <uses-permission
+        android:name="android.permission.ACCESS_ADSERVICES_AD_ID"
+        tools:node="remove" />
+    <uses-permission
+        android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION"
+        tools:node="remove" />
 
     <application
         android:name=".CrosswordApplication"
@@ -34,18 +42,10 @@
             </intent-filter>
         </activity>
 
-        <!-- AdMob app id; defaults to Google's test id, override via -PadmobAppId / ADMOB_APP_ID. -->
+        <!-- No ads: Analytics never collects the advertising ID or ad signals. -->
         <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="${admobAppId}" />
-        <meta-data
-            android:name="com.google.android.gms.ads.flag.OPTIMIZE_INITIALIZATION"
-            android:value="true" />
-        <meta-data
-            android:name="com.google.android.gms.ads.flag.OPTIMIZE_AD_LOADING"
-            android:value="true" />
-
-        <!-- Analytics waits for the UMP consent result (see FirebaseTelemetry / Consent Mode). -->
+            android:name="google_analytics_adid_collection_enabled"
+            android:value="false" />
         <meta-data
             android:name="google_analytics_default_allow_ad_storage"
             android:value="false" />

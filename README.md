@@ -12,19 +12,18 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
   "You N vs N Opponent" score banner and a 5-tile letter rack. Drag or tap tiles onto one word, then Submit (correct
   tiles score their cell value, completing a word adds its length, the rack refills) or Pass. The AI opponent
   (Rookie / Challenger / Champion) then takes its turn. The match ends when the board is full or after four scoreless turns
-  in a row. Hints cost 10 coins; a win pays 20 coins (a draw 10) and unlocks stronger opponents. Arena boards are built from the same
+  in a row. A hint (Reveal Letter: the open cell you last tapped gets its correct letter) costs 3 coins; a win pays 20 coins (a draw 10) and unlocks stronger opponents. Arena boards are built from the same
   puzzle JSON, so new levels are playable in both modes.
 - **Coins**: one Room-backed wallet (starts at 100) shown in the Hub, level list and both game headers. Reveal Letter
-  and Reveal Word cost 10 coins (Check Errors 3); solving puzzles and winning Arena matches earn coins. Every balance
+  costs 3 coins, Check Errors 5 and Reveal Word 10; solving puzzles and winning Arena matches earn coins. Every balance
   change pops a +/− notification, and anything you can't afford opens a "Not enough coins!" dialog.
 - **Persistence**: the board is saved to Room on every keystroke; progress, unlocks, high scores, daily state and
   the wallet live in Room, settings in DataStore. Arena matches (in progress and finished) are kept in their own
   `arena_matches` table, so Arena stats and unlocks are tracked separately from Classic progress.
 - **UI**: phones, tablets and foldables (adaptive layouts), light/dark theme, Material You dynamic color on Android 12+,
   edge-to-edge, predictive back.
-- **Play readiness**: 100% ad-free (no banners or interstitials); the AdMob SDK and UMP consent (GDPR / US states) stay
-  wired up for optional rewarded ads later,
-  Firebase Analytics + Crashlytics with Consent Mode, a Play Integrity hook, backup/data-extraction rules,
+- **Play readiness**: 100% ad-free with no ad SDK, no consent pop-up and no advertising ID,
+  Firebase Analytics + Crashlytics, a Play Integrity hook, backup/data-extraction rules,
   HTTPS-only network config, R8, a signed-AAB pipeline (Gradle, fastlane and GitHub Actions), store listing text,
   a privacy policy and Data safety answers.
 
@@ -52,8 +51,8 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
 
 Or open the folder in Android Studio and run the `app` configuration.
 
-The app shows no ads. The AdMob SDK is initialised with Google's **test** app ID unless you override it. Firebase is
-disabled until you add `app/google-services.json` (the app runs fine without it).
+The app has no ads and no ad SDK. Firebase is disabled until you add `app/google-services.json` (the app runs fine
+without it).
 
 ## Architecture
 
@@ -68,7 +67,6 @@ app/src/main/java/com/maslarski/crossword/
 ├── data/
 │   ├── local/         Room entities, DAOs, database, mappers
 │   ├── repository/    Asset puzzles, Room progress/wallet, DataStore settings
-│   ├── ads/           ConsentManager (UMP), AdsManager (SDK init only; no ad formats yet)
 │   ├── telemetry/     Telemetry interface + Firebase implementation
 │   └── integrity/     PlayIntegrityChecker
 ├── di/                Hilt modules
@@ -144,24 +142,9 @@ then an environment variable, then the defaults in `gradle.properties`. **Never 
 
 | Gradle property | Environment variable | Default |
 | --- | --- | --- |
-| `admobAppId` | `ADMOB_APP_ID` | Google test app ID |
 | `playIntegrityCloudProjectNumber` | `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER` | `0` (disabled) |
 | `versionCode` / `versionName` | `VERSION_CODE` / `VERSION_NAME` | `1` / `1.0.0` |
-| `umpTestDeviceId` (debug only) | `UMP_TEST_DEVICE_ID` | empty |
 | `playLicenseKey` | `PLAY_LICENSE_KEY` | empty: shop disabled; release builds fail |
-
-### AdMob and consent (UMP)
-
-1. Create the app in AdMob and set `admobAppId` for release builds. No ad units are needed while the app is ad-free.
-2. In AdMob → **Privacy & messaging**, create a **European regulations** (GDPR) message and a **US state regulations**
-   message. `ConsentManager` requests consent info on every launch, shows the form when required, and the Settings
-   screen shows **Ad privacy choices** when the user must be able to change their choice.
-3. The Mobile Ads SDK is only initialised after `canRequestAds()` is true. Firebase Consent Mode ad signals follow the
-   same result; analytics defaults to denied ad storage until then (see the manifest meta-data).
-4. No ad formats are shown. To add rewarded ads later, create a rewarded ad unit and load it from `AdsManager` once
-   `adsReady` is true.
-5. To test the EEA consent flow on a debug build, pass your device's hashed ID (UMP prints it in logcat) as
-   `-PumpTestDeviceId=...`; `ConsentManager` then forces EEA geography for that device.
 
 ### Firebase Analytics and Crashlytics
 
@@ -203,7 +186,7 @@ against modified clients, also verify tokens on a server with the Play Developer
 
 - `network_security_config.xml` blocks cleartext traffic; the app has no exported components besides the launcher.
 - Backups include only the Room database and the settings DataStore (`backup_rules.xml`, `data_extraction_rules.xml`);
-  ad, consent and Firebase identifiers are excluded.
+  Firebase identifiers are excluded.
 - Release builds are minified and resource-shrunk with R8; verbose/debug/info `Log` calls are stripped.
 - Signing keys, `google-services.json` and Play service-account keys are git-ignored.
 
@@ -231,8 +214,7 @@ this key is only your upload key. Back it up.
 ### 2. Build
 
 ```bash
-./gradlew :app:bundleRelease -PversionCode=2 -PversionName=1.0.1 \
-  -PadmobAppId=ca-app-pub-XXXX~YYYY
+./gradlew :app:bundleRelease -PversionCode=2 -PversionName=1.0.1
 # → app/build/outputs/bundle/release/app-release.aab
 ```
 
@@ -258,7 +240,7 @@ uploaded manually in Play Console.
 `.github/workflows/android.yml` runs tests, lint and a debug build on every push/PR. Pushing a tag `v1.2.3` also builds
 a signed AAB (version name `1.2.3`, version code = run number) and attaches it as an artifact. Repository secrets:
 `UPLOAD_KEYSTORE_BASE64` (`base64 -w0 upload-keystore.jks`), `CROSSWORD_KEYSTORE_PASSWORD`, `CROSSWORD_KEY_ALIAS`,
-`CROSSWORD_KEY_PASSWORD`, and optionally `GOOGLE_SERVICES_JSON`, `ADMOB_APP_ID`,
+`CROSSWORD_KEY_PASSWORD`, `PLAY_LICENSE_KEY`, and optionally `GOOGLE_SERVICES_JSON` and
 `PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER`.
 
 ## Google Play checklist
@@ -267,7 +249,7 @@ a signed AAB (version name `1.2.3`, version code = run number) and attaches it a
 - **Privacy policy**: `docs/privacy-policy.html` — publish it (e.g. GitHub Pages from `/docs`), fill in the developer
   name/contact, and keep `privacy_policy_url` in `strings.xml` in sync.
 - **Data safety / App content**: suggested answers in `docs/play-store-data-safety.md`.
-- **Advertising ID**: declared in the manifest (`com.google.android.gms.permission.AD_ID`); answer "Yes" in App content.
+- **Advertising ID**: not used; the manifest removes `com.google.android.gms.permission.AD_ID`. Answer "No" in App content.
 - **Store listing**: `fastlane/metadata/android/en-US/` (title, short/full description, changelogs). Add screenshots and
   a 512×512 icon / 1024×500 feature graphic in Play Console or under `fastlane/metadata/android/en-US/images/`.
 - **16 KB page sizes**: the app ships no native code of its own; keep AGP and SDKs current so bundled SDK libraries stay aligned.

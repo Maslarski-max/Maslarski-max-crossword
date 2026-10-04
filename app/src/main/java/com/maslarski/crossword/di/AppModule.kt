@@ -7,8 +7,6 @@ import androidx.datastore.preferences.preferencesDataStore
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
-import com.maslarski.crossword.data.ads.AdsManager
-import com.maslarski.crossword.data.ads.ConsentManager
 import com.maslarski.crossword.BuildConfig
 import com.maslarski.crossword.data.billing.PlayStoreRepository
 import com.maslarski.crossword.data.billing.PurchaseSignatureVerifier
@@ -121,16 +119,6 @@ object AppModule {
     @Provides @Singleton
     fun provideSettingsRepository(@ApplicationContext context: Context): SettingsRepository =
         DataStoreSettingsRepository(context.settingsDataStore)
-
-    @Provides @Singleton
-    fun provideConsentManager(@ApplicationContext context: Context): ConsentManager = ConsentManager(context)
-
-    @Provides @Singleton
-    fun provideAdsManager(
-        @ApplicationContext context: Context,
-        @ApplicationScope scope: CoroutineScope,
-        @IoDispatcher io: CoroutineDispatcher,
-    ): AdsManager = AdsManager(context, scope, io)
 
     @Provides @Singleton
     fun provideFirebaseTelemetry(@ApplicationContext context: Context): FirebaseTelemetry = FirebaseTelemetry(context)

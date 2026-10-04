@@ -17,7 +17,7 @@ import com.maslarski.crossword.domain.arena.MoveKind
 import com.maslarski.crossword.domain.arena.PlacementError
 import com.maslarski.crossword.domain.arena.Side
 import com.maslarski.crossword.domain.arena.StartArenaMatch
-import com.maslarski.crossword.domain.engine.GameRules
+import com.maslarski.crossword.domain.engine.Hint
 import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.domain.repository.ArenaRepository
 import com.maslarski.crossword.domain.repository.PuzzleRepository
@@ -49,7 +49,8 @@ data class ArenaUiState(
     val pending: Map<Int, Int> = emptyMap(),
     val selectedSlot: Int? = null,
     val activeWord: ArenaWord? = null,
-    val hintCells: Set<Int> = emptySet(),
+    /** Letter cell the player last tapped; Reveal Letter fills it while it is open. */
+    val focusCell: Int? = null,
     val missCells: Set<Int> = emptySet(),
     val opponentThinking: Boolean = false,
     /** Opponent tiles being laid down one by one before its move resolves. */
@@ -107,7 +108,7 @@ class ArenaViewModel @Inject constructor(
     private var rematchJob: Job? = null
     private var flashSequence = 0
 
-    /** Serialises hint purchases so a double tap can't pay twice for the same highlight. */
+    /** Serialises hint purchases so a double tap can't reveal the same cell twice. */
     private val hintLock = Mutex()
     @Volatile private var cleared = false
 
@@ -132,7 +133,6 @@ class ArenaViewModel @Inject constructor(
                 loading = false,
                 layout = layout,
                 match = s,
-                hintCells = if (s.hasPaidHint) ArenaRules.hintCells(layout, s) else emptySet(),
                 activeWord = layout.words.firstOrNull { w -> w.cells.any(s::isEmpty) },
                 result = s.outcome?.let { outcome -> ArenaResult(outcome, s.playerScore, s.opponentScore, 0) },
             )
@@ -166,7 +166,7 @@ class ArenaViewModel @Inject constructor(
             else -> {
                 val words = layout.wordsAt(cell)
                 val word = if (s.activeWord in words && words.size > 1) words.first { it != s.activeWord } else words.firstOrNull()
-                _state.update { it.copy(activeWord = word) }
+                _state.update { it.copy(activeWord = word, focusCell = cell) }
             }
         }
     }
@@ -231,8 +231,9 @@ class ArenaViewModel @Inject constructor(
     }
 
     /**
-     * Highlights where the rack fits best for [GameRules.HINT_COST] coins. Runs in the app
-     * scope so a charge that lands after the screen closed is refunded rather than lost.
+     * Reveal Letter: writes the correct letter into the focused cell (see [ArenaRules.revealTarget]) for
+     * [Hint.REVEAL_LETTER] coins. Runs in the app scope so a charge that lands after the screen closed is
+     * refunded rather than lost.
      */
     fun onHint() {
         appScope.launch {
@@ -241,31 +242,42 @@ class ArenaViewModel @Inject constructor(
                 val layout = s.layout ?: return@launch
                 val match = s.match ?: return@launch
                 if (!s.playerTurn) return@launch
-                val offered = ArenaRules.hintCells(layout, match)
-                if (offered.isEmpty()) {
+                if (s.revealTarget(layout, match) == null) {
                     _messages.send(ArenaMessage.NoHintMoves)
                     return@launch
                 }
-                if (offered == s.hintCells) return@launch
-                val charged = !match.hasPaidHint && !entitlements.isUnlimited()
-                if (charged && !wallet.trySpend(GameRules.HINT_COST)) {
-                    _messages.send(ArenaMessage.NotEnoughCoins(GameRules.HINT_COST))
+                val cost = if (entitlements.isUnlimited()) 0 else Hint.REVEAL_LETTER.cost
+                if (!wallet.trySpend(cost)) {
+                    _messages.send(ArenaMessage.NotEnoughCoins(cost))
                     return@launch
                 }
                 val now = _state.value
                 val current = now.match?.takeUnless { cleared || !now.playerTurn || it.turnNumber != match.turnNumber }
-                val cells = current?.let { ArenaRules.hintCells(layout, it) }.orEmpty()
-                if (current == null || cells.isEmpty()) {
-                    if (charged) wallet.refund(GameRules.HINT_COST)
+                val cell = current?.let { now.revealTarget(layout, it) }
+                if (current == null || cell == null) {
+                    wallet.refund(cost)
                     if (!cleared) _messages.send(ArenaMessage.NoHintMoves)
                     return@launch
                 }
-                val next = current.copy(hintTurn = current.turnNumber)
-                _state.update { it.copy(match = next, hintCells = cells, activeWord = ArenaRules.wordFor(layout, cells) ?: it.activeWord) }
+                val next = ArenaRules.revealLetter(layout, current, cell)
+                val rackChanged = next.playerRack != current.playerRack
+                _state.update {
+                    it.copy(
+                        match = next,
+                        pending = if (rackChanged) emptyMap() else it.pending,
+                        selectedSlot = if (rackChanged) null else it.selectedSlot,
+                        focusCell = cell,
+                        activeWord = it.activeWord?.takeIf { w -> cell in w.cells } ?: layout.wordsAt(cell).firstOrNull(),
+                    )
+                }
                 persist(next)
+                if (next.finished) finish(next)
             }
         }
     }
+
+    private fun ArenaUiState.revealTarget(layout: ArenaLayout, match: ArenaState): Int? =
+        ArenaRules.revealTarget(layout, match, focusCell, activeWord, pending.keys)
 
     fun dismissResult() {
         _state.update { it.copy(showResult = false) }
@@ -293,7 +305,6 @@ class ArenaViewModel @Inject constructor(
                 match = next,
                 pending = if (move.side == Side.PLAYER) emptyMap() else it.pending,
                 selectedSlot = null,
-                hintCells = if (move.side == Side.PLAYER) emptySet() else it.hintCells.filterTo(HashSet(), next::isEmpty),
                 flash = flash ?: it.flash,
                 missCells = miss,
                 opponentTiles = emptyMap(),
@@ -362,9 +373,6 @@ class ArenaViewModel @Inject constructor(
             _state.update { it.copy(result = result, showResult = true) }
         }
     }
-
-    private val ArenaState.hasPaidHint: Boolean
-        get() = !finished && turn == Side.PLAYER && hintTurn == turnNumber
 
     override fun onCleared() {
         cleared = true

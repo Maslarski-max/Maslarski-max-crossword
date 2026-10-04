@@ -38,19 +38,6 @@ class FirebaseTelemetry(private val context: Context) : Telemetry {
         FirebaseCrashlytics.getInstance().isCrashlyticsCollectionEnabled = !BuildConfig.DEBUG
     }
 
-    /** Consent Mode v2: ad-related signals follow the UMP result; analytics storage stays on for stability metrics. */
-    fun updateConsent(adsConsentGranted: Boolean) {
-        val ads = if (adsConsentGranted) FirebaseAnalytics.ConsentStatus.GRANTED else FirebaseAnalytics.ConsentStatus.DENIED
-        analytics?.setConsent(
-            mapOf(
-                FirebaseAnalytics.ConsentType.ANALYTICS_STORAGE to FirebaseAnalytics.ConsentStatus.GRANTED,
-                FirebaseAnalytics.ConsentType.AD_STORAGE to ads,
-                FirebaseAnalytics.ConsentType.AD_USER_DATA to ads,
-                FirebaseAnalytics.ConsentType.AD_PERSONALIZATION to ads,
-            ),
-        )
-    }
-
     override fun puzzleStarted(puzzle: Puzzle) = log(FirebaseAnalytics.Event.LEVEL_START) {
         putString(FirebaseAnalytics.Param.LEVEL_NAME, puzzle.id)
         putString(PARAM_DIFFICULTY, puzzle.difficulty.name)

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Android 11 and lower (android:fullBackupContent). Only game progress and settings are backed up;
-     ad/consent SDK state and caches are device-specific and excluded. -->
+     SDK state and caches are device-specific and excluded. -->
 <full-backup-content>
     <include domain="database" path="crossword.db" />
     <include domain="file" path="datastore/settings.preferences_pb" />

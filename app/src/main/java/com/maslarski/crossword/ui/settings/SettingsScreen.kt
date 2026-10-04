@@ -1,7 +1,6 @@
 package com.maslarski.crossword.ui.settings
 
 import android.os.Build
-import androidx.activity.compose.LocalActivity
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -15,7 +14,6 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.rounded.ArrowBack
 import androidx.compose.material.icons.automirrored.rounded.OpenInNew
-import androidx.compose.material.icons.rounded.PrivacyTip
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.Icon
@@ -42,14 +40,11 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.BuildConfig
 import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.model.ThemeMode
-import com.maslarski.crossword.ui.components.LocalConsentManager
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SettingsScreen(onBack: () -> Unit, viewModel: SettingsViewModel = hiltViewModel()) {
     val settings by viewModel.settings.collectAsStateWithLifecycle()
-    val consent = LocalConsentManager.current
-    val activity = LocalActivity.current
     val uriHandler = LocalUriHandler.current
     val privacyUrl = stringResource(R.string.privacy_policy_url)
 
@@ -107,15 +102,6 @@ fun SettingsScreen(onBack: () -> Unit, viewModel: SettingsViewModel = hiltViewMo
 
                 HorizontalDivider(Modifier.padding(vertical = 8.dp))
                 SectionHeader(stringResource(R.string.settings_privacy))
-                val privacyOptionsRequired = consent?.privacyOptionsRequired?.collectAsStateWithLifecycle()?.value == true
-                if (consent != null && activity != null && privacyOptionsRequired) {
-                    ListItem(
-                        headlineContent = { Text(stringResource(R.string.settings_privacy_options)) },
-                        supportingContent = { Text(stringResource(R.string.settings_privacy_options_summary)) },
-                        leadingContent = { Icon(Icons.Rounded.PrivacyTip, contentDescription = null) },
-                        modifier = Modifier.clickable(role = Role.Button) { consent.showPrivacyOptionsForm(activity) },
-                    )
-                }
                 ListItem(
                     headlineContent = { Text(stringResource(R.string.settings_privacy_policy)) },
                     trailingContent = { Icon(Icons.AutoMirrored.Rounded.OpenInNew, contentDescription = null) },

@@ -6,16 +6,15 @@ import com.maslarski.crossword.domain.model.PuzzleType
 import kotlin.math.max
 import kotlin.math.roundToInt
 
+/** Hint prices in coins. Arena's hint is a [REVEAL_LETTER]. */
 enum class Hint(val cost: Int) {
-    REVEAL_LETTER(GameRules.HINT_COST),
-    REVEAL_WORD(GameRules.HINT_COST),
-    CHECK_ERRORS(3),
+    REVEAL_LETTER(3),
+    CHECK_ERRORS(5),
+    REVEAL_WORD(10),
 }
 
 object GameRules {
     const val STARTING_COINS = 100
-    /** Price of a Reveal Letter / Reveal Word hint in Classic, and of a hint in Arena. */
-    const val HINT_COST = 10
     /** Price of unlocking the next Classic level. */
     const val LEVEL_UNLOCK_COST = 50
     const val CHECK_PENALTY = 20

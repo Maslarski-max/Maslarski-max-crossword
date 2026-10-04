@@ -78,7 +78,7 @@ fun ArenaGrid(
     pending: Map<Int, Char>,
     opponentTiles: Map<Int, Char>,
     activeWord: ArenaWord?,
-    hintCells: Set<Int>,
+    focusCell: Int?,
     missCells: Set<Int>,
     dropTarget: Int?,
     flash: ScoreFlash?,
@@ -164,7 +164,6 @@ fun ArenaGrid(
                 }
 
                 val background = when {
-                    index in hintCells && match.isEmpty(index) -> colors.hint
                     index in activeCells -> colors.activeWord
                     else -> colors.cell
                 }
@@ -198,6 +197,9 @@ fun ArenaGrid(
                 }
                 if (index in missCells) {
                     drawRect(colors.miss, topLeft, cellSize, style = Stroke(width = cellPx * 0.08f))
+                }
+                if (index == focusCell && match.isEmpty(index) && index !in pending) {
+                    drawRect(colors.player.copy(alpha = 0.6f), topLeft, cellSize, style = Stroke(width = cellPx * 0.06f))
                 }
                 if (index == dropTarget && match.isEmpty(index)) {
                     drawRect(colors.player, topLeft, cellSize, style = Stroke(width = cellPx * 0.09f))

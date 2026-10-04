@@ -18,6 +18,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.maslarski.crossword.R
@@ -27,8 +28,8 @@ import com.maslarski.crossword.domain.engine.Hint
 fun HintBar(onHint: (Hint) -> Unit, modifier: Modifier = Modifier, free: Boolean = false) {
     Row(modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
         HintButton(Icons.Rounded.Lightbulb, stringResource(R.string.hint_reveal_letter), Hint.REVEAL_LETTER, free, onHint, Modifier.weight(1f))
-        HintButton(Icons.Rounded.AutoFixHigh, stringResource(R.string.hint_reveal_word), Hint.REVEAL_WORD, free, onHint, Modifier.weight(1f))
         HintButton(Icons.Rounded.FactCheck, stringResource(R.string.hint_check), Hint.CHECK_ERRORS, free, onHint, Modifier.weight(1f))
+        HintButton(Icons.Rounded.AutoFixHigh, stringResource(R.string.hint_reveal_word), Hint.REVEAL_WORD, free, onHint, Modifier.weight(1f))
     }
 }
 
@@ -50,7 +51,8 @@ private fun HintButton(
         Text(
             text = if (free) stringResource(R.string.hint_free, label) else stringResource(R.string.hint_with_cost, label, hint.cost),
             style = MaterialTheme.typography.labelMedium,
-            maxLines = 1,
+            textAlign = TextAlign.Center,
+            maxLines = 2,
             overflow = TextOverflow.Ellipsis,
             modifier = Modifier.padding(start = 4.dp),
         )
