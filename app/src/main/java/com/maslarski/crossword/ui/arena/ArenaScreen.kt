@@ -98,7 +98,7 @@ import com.maslarski.crossword.domain.arena.ArenaWord
 import com.maslarski.crossword.domain.arena.PlacementError
 import com.maslarski.crossword.domain.arena.Side
 import com.maslarski.crossword.domain.model.Difficulty
-import com.maslarski.crossword.domain.engine.GameRules
+import com.maslarski.crossword.domain.engine.Hint
 import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.components.CoinPrompt
@@ -232,7 +232,7 @@ private fun ArenaBoard(state: ArenaUiState, viewModel: ArenaViewModel) {
             pending = state.pendingLetters,
             opponentTiles = state.opponentTiles,
             activeWord = state.activeWord,
-            hintCells = state.hintCells,
+            focusCell = state.focusCell,
             missCells = state.missCells,
             dropTarget = dropTarget,
             flash = state.flash,
@@ -261,7 +261,7 @@ private fun ArenaBoard(state: ArenaUiState, viewModel: ArenaViewModel) {
         )
         ArenaControls(
             hasPending = state.pending.isNotEmpty(),
-            hintCost = if (state.unlimited) 0 else GameRules.HINT_COST,
+            hintCost = if (state.unlimited) 0 else Hint.REVEAL_LETTER.cost,
             enabled = state.playerTurn,
             onShuffle = viewModel::onShuffle,
             onSubmit = viewModel::onSubmit,

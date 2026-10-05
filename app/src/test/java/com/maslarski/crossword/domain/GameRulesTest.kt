@@ -46,8 +46,9 @@ class GameRulesTest {
     }
 
     @Test
-    fun `reveal hints cost ten coins, unlocks fifty`() {
-        assertEquals(10, Hint.REVEAL_LETTER.cost)
+    fun `hints cost 3, 5 and 10 coins, unlocks fifty`() {
+        assertEquals(3, Hint.REVEAL_LETTER.cost)
+        assertEquals(5, Hint.CHECK_ERRORS.cost)
         assertEquals(10, Hint.REVEAL_WORD.cost)
         assertEquals(50, GameRules.LEVEL_UNLOCK_COST)
     }

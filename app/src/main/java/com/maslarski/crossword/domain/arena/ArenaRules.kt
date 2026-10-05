@@ -170,12 +170,39 @@ object ArenaRules {
         return fill.keys.sumOf(state::valueAt) + if (completes) word.cells.size else 0
     }
 
-    /** Cells of the slot where the player's rack fits best, without saying which tile goes where. */
-    fun hintCells(layout: ArenaLayout, state: ArenaState): Set<Int> = layout.words
-        .map { fillable(it, layout, state, state.playerRack) to it }
-        .filter { (fill, _) -> fill.isNotEmpty() }
-        .maxWithOrNull(compareBy({ it.first.size }, { potential(it.second, state, it.first) }))
-        ?.first?.keys.orEmpty()
+    /**
+     * Empty cell a Reveal Letter hint fills: [selected] if it is still open, else the first open cell of [word],
+     * else the first open cell on the board. Cells in [skip] (tiles placed but not yet submitted) are never chosen.
+     */
+    fun revealTarget(layout: ArenaLayout, state: ArenaState, selected: Int?, word: ArenaWord?, skip: Set<Int>): Int? {
+        fun open(cell: Int) = layout.isLetter(cell) && state.isEmpty(cell) && cell !in skip
+        return selected?.takeIf(::open)
+            ?: word?.cells?.firstOrNull(::open)
+            ?: layout.letterCells.firstOrNull(::open)
+    }
+
+    /**
+     * Writes the solution letter into empty [cell] as a given letter, without scoring or ending the turn. The tile is
+     * taken from the bag if possible, otherwise from a rack, which then draws a replacement, so the bag and racks keep
+     * spelling exactly the open cells.
+     */
+    fun revealLetter(layout: ArenaLayout, state: ArenaState, cell: Int): ArenaState {
+        require(layout.isLetter(cell) && state.isEmpty(cell)) { "Cell $cell is not open" }
+        val letter = layout.solutionAt(cell)
+        val owners = state.owners.toCharArray().also { it[cell] = ArenaState.GIVEN }
+        var bag = state.bag
+        var playerRack = state.playerRack
+        var opponentRack = state.opponentRack
+        fun String.without(index: Int) = removeRange(index, index + 1)
+        fun refill(rack: String): String = (rack + bag.take(RACK_SIZE - rack.length)).also { bag = bag.drop(it.length - rack.length) }
+        when {
+            letter in bag -> bag = bag.without(bag.indexOf(letter))
+            letter in playerRack -> playerRack = refill(playerRack.without(playerRack.indexOf(letter)))
+            else -> opponentRack = refill(opponentRack.without(opponentRack.indexOf(letter)))
+        }
+        val next = state.copy(owners = String(owners), bag = bag, playerRack = playerRack, opponentRack = opponentRack)
+        return if (next.emptyCells == 0) next.copy(finished = true) else next
+    }
 
     fun rewardCoins(outcome: ArenaOutcome): Int = when (outcome) {
         ArenaOutcome.WON -> WIN_REWARD

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Android 12+ (android:dataExtractionRules). Progress and settings go to cloud backup and device transfer;
-     nothing else (ad identifiers, UMP consent, Firebase installation ids, caches) leaves the device. -->
+     nothing else (Firebase installation ids, caches) leaves the device. -->
 <data-extraction-rules>
     <cloud-backup disableIfNoEncryptionCapabilities="true">
         <include domain="database" path="crossword.db" />

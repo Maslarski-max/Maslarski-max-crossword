@@ -14,6 +14,7 @@ import com.maslarski.crossword.domain.arena.ArenaRules
 import com.maslarski.crossword.domain.arena.ArenaState
 import com.maslarski.crossword.domain.engine.CrosswordEngine
 import com.maslarski.crossword.domain.engine.GameRules
+import com.maslarski.crossword.domain.engine.Hint
 import com.maslarski.crossword.domain.model.Difficulty
 import com.maslarski.crossword.domain.model.GameSession
 import com.maslarski.crossword.domain.model.Puzzle
@@ -95,14 +96,14 @@ class CoinEconomyDatabaseTest {
 
     @Test
     fun everyCommittedChangeIsReportedEvenWhenTheBalanceReturnsToStart() = runBlocking {
-        assertTrue(wallet.trySpend(GameRules.HINT_COST))
-        wallet.refund(GameRules.HINT_COST)
+        assertTrue(wallet.trySpend(Hint.REVEAL_WORD.cost))
+        wallet.refund(Hint.REVEAL_WORD.cost)
         assertFalse(wallet.trySpend(GameRules.STARTING_COINS + 1))
         assertEquals(UnlockResult.ALREADY_UNLOCKED, progress.unlockLevel(levels, "l1"))
         assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l2"))
         wallet.earn(5)
         assertEquals(
-            listOf(-GameRules.HINT_COST, GameRules.HINT_COST, -GameRules.LEVEL_UNLOCK_COST, 5),
+            listOf(-Hint.REVEAL_WORD.cost, Hint.REVEAL_WORD.cost, -GameRules.LEVEL_UNLOCK_COST, 5),
             wallet.observeChanges().first().map { it.delta },
         )
     }
@@ -126,13 +127,13 @@ class CoinEconomyDatabaseTest {
 
     @Test
     fun hintSpendIsAtomicAndRefundable() = runBlocking {
-        val spends = List(15) { async { wallet.trySpend(GameRules.HINT_COST) } }.awaitAll()
-        assertEquals(GameRules.STARTING_COINS / GameRules.HINT_COST, spends.count { it })
+        val spends = List(15) { async { wallet.trySpend(Hint.REVEAL_WORD.cost) } }.awaitAll()
+        assertEquals(GameRules.STARTING_COINS / Hint.REVEAL_WORD.cost, spends.count { it })
         assertEquals(0, coins())
-        assertFalse(wallet.trySpend(GameRules.HINT_COST))
+        assertFalse(wallet.trySpend(Hint.REVEAL_WORD.cost))
 
-        wallet.refund(GameRules.HINT_COST)
-        assertEquals(GameRules.HINT_COST, coins())
+        wallet.refund(Hint.REVEAL_WORD.cost)
+        assertEquals(Hint.REVEAL_WORD.cost, coins())
         assertEquals(0, db.query("SELECT lifetimeEarned FROM wallet", null).use { it.moveToFirst(); it.getInt(0) })
     }
 
@@ -158,12 +159,13 @@ class CoinEconomyDatabaseTest {
     }
 
     @Test
-    fun boughtArenaHintSurvivesReopeningTheMatch() = runBlocking {
-        val id = arena.startMatch(arenaState(finished = false))
-        arena.saveMatch(id, arenaState(finished = false).copy(turnNumber = 2, hintTurn = 2))
+    fun revealedArenaLetterSurvivesReopeningTheMatch() = runBlocking {
+        val racks = arenaState(finished = false).copy(playerRack = "ABCDEFG", opponentRack = "HIJKLMN")
+        val id = arena.startMatch(racks.copy(owners = "#..", bag = "AB"))
+        arena.saveMatch(id, racks.copy(owners = "#G.", bag = "B"))
         val reloaded = arena.loadMatch(id)?.state
-        assertEquals(2, reloaded?.hintTurn)
-        assertEquals(reloaded?.turnNumber, reloaded?.hintTurn)
+        assertEquals("#G.", reloaded?.owners)
+        assertEquals("B", reloaded?.bag)
     }
 
     private fun arenaState(finished: Boolean, playerScore: Int = 0, opponentScore: Int = 0) = ArenaState(

@@ -165,7 +165,7 @@
     <string name="arena_submit">Submit</string>
     <string name="arena_pass">Pass</string>
     <string name="arena_shuffle">Shuffle tiles</string>
-    <string name="arena_hint" tools:ignore="PluralsCandidate">Hint, %1$d coins</string>
+    <string name="arena_hint" tools:ignore="PluralsCandidate">Reveal letter, %1$d coins</string>
     <string name="arena_clue_prompt">Drag tiles onto the grid to spell a word</string>
     <string name="arena_clue_length">%1$s (%2$d)</string>
     <string name="arena_tile">Tile %1$s</string>
@@ -187,7 +187,7 @@
     </plurals>
     <string name="arena_message_opponent_missed">Opponent guessed wrong</string>
     <string name="arena_message_opponent_passed">Opponent passed</string>
-    <string name="arena_message_no_hint">None of your tiles fit an open word right now</string>
+    <string name="arena_message_no_hint">No open cell left to reveal</string>
     <string name="arena_result_won">You win!</string>
     <string name="arena_result_lost">Opponent wins</string>
     <string name="arena_result_draw">It\'s a draw</string>
@@ -217,9 +217,9 @@
     <string name="next_clue">Next clue</string>
     <string name="key_toggle_direction">Switch between across and down</string>
     <string name="key_delete">Delete</string>
-    <string name="hint_reveal_letter">Letter</string>
-    <string name="hint_reveal_word">Word</string>
-    <string name="hint_check">Check</string>
+    <string name="hint_reveal_letter">Reveal letter</string>
+    <string name="hint_reveal_word">Reveal word</string>
+    <string name="hint_check">Check errors</string>
     <string name="hint_with_cost">%1$s · %2$d</string>
     <plurals name="message_errors_found">
         <item quantity="one">%1$d incorrect letter marked</item>
@@ -261,8 +261,6 @@
     <string name="settings_timer">Show timer</string>
     <string name="settings_haptics">Keyboard vibration</string>
     <string name="settings_privacy">Privacy</string>
-    <string name="settings_privacy_options">Ad privacy choices</string>
-    <string name="settings_privacy_options_summary">Review or change your consent for personalized ads</string>
     <string name="settings_privacy_policy">Privacy policy</string>
     <string name="settings_version">Version</string>
     <string name="hint_free">%1$s · Free</string>

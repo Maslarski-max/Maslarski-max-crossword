@@ -58,13 +58,10 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables { useSupportLibrary = true }
 
-        manifestPlaceholders["admobAppId"] = requireNotNull(config("admobAppId"))
         buildConfigField("long", "PLAY_INTEGRITY_CLOUD_PROJECT_NUMBER", "${config("playIntegrityCloudProjectNumber") ?: "0"}L")
         // Base64 RSA public key from Play Console > Monetization setup > Licensing; purchases are verified against it.
         buildConfigField("String", "PLAY_LICENSE_KEY", "\"$playLicenseKey\"")
         buildConfigField("boolean", "FIREBASE_CONFIGURED", hasFirebaseConfig.toString())
-        // Hashed device id printed by the UMP SDK in logcat; lets debug builds force the EEA consent form.
-        buildConfigField("String", "UMP_TEST_DEVICE_ID", "\"${config("umpTestDeviceId") ?: ""}\"")
     }
 
     signingConfigs {
@@ -188,8 +185,6 @@ dependencies {
     implementation(libs.firebase.analytics)
     implementation(libs.firebase.crashlytics)
 
-    implementation(libs.play.services.ads)
-    implementation(libs.ump)
     implementation(libs.play.integrity)
     implementation(libs.play.billing)
 

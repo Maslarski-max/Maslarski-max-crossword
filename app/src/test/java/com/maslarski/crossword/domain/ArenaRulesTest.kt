@@ -183,9 +183,46 @@ class ArenaRulesTest {
     }
 
     @Test
-    fun `hint marks the slot the rack fills best`() {
-        assertEquals(setOf(5, 6, 7), ArenaRules.hintCells(layout, state(playerRack = "CATXY")))
-        assertTrue(ArenaRules.hintCells(layout, state(playerRack = "XYZ")).isEmpty())
+    fun `reveal letter writes the solution into the cell and keeps tiles consistent`() {
+        // Bag "AO" holds the A at cell 9, so the racks are untouched.
+        val fromBag = ArenaRules.revealLetter(layout, state(), 9)
+        assertEquals(ArenaState.GIVEN, fromBag.owners[9])
+        assertEquals("O", fromBag.bag)
+        assertEquals("CAT", fromBag.playerRack)
+        assertEquals(state().turnNumber, fromBag.turnNumber)
+        assertEquals(state().playerScore, fromBag.playerScore)
+        assertEquals(emptyLetters(fromBag), letters(fromBag))
+
+        // C is only in the player's rack: it leaves the rack, which tops up from the bag.
+        val fromRack = ArenaRules.revealLetter(layout, state(), 5)
+        assertEquals("ATAO", fromRack.playerRack)
+        assertEquals("", fromRack.bag)
+        assertEquals(emptyLetters(fromRack), letters(fromRack))
+
+        val fromOpponent = ArenaRules.revealLetter(layout, state(), 15)
+        assertEquals("BOAO", fromOpponent.opponentRack)
+        assertEquals("", fromOpponent.bag)
+        assertEquals(emptyLetters(fromOpponent), letters(fromOpponent))
+    }
+
+    @Test
+    fun `reveal target prefers the selected open cell, then the active word`() {
+        val s = state()
+        val cab = layout.wordAt(9, Direction.DOWN)
+        assertEquals(14, ArenaRules.revealTarget(layout, s, selected = 14, word = cab, skip = emptySet()))
+        assertEquals(5, ArenaRules.revealTarget(layout, s, selected = 14, word = cab, skip = setOf(14)))
+        val filled = ArenaRules.revealLetter(layout, s, 14)
+        assertEquals(5, ArenaRules.revealTarget(layout, filled, selected = 14, word = cab, skip = emptySet()))
+        assertEquals(5, ArenaRules.revealTarget(layout, s, selected = null, word = null, skip = emptySet()))
+    }
+
+    @Test
+    fun `revealing the last open cell finishes the match`() {
+        var s = state()
+        layout.letterCells.forEach { s = ArenaRules.revealLetter(layout, s, it) }
+        assertEquals(0, s.emptyCells)
+        assertTrue(s.finished)
+        assertEquals("", s.bag + s.playerRack + s.opponentRack)
     }
 
     @Test
