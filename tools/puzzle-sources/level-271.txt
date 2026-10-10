@@ -1,0 +1,21 @@
+id: level-271
+title: Bacterial Genetics
+difficulty: HARD
+order: 271
+type: level
+size: 15
+seed: 271
+---
+PLASMID | Small DNA molecule separate from a chromosome
+OPERON | Cluster of genes controlled together
+PROMOTER | DNA region where transcription can begin
+REPRESSOR | Protein that can switch off gene expression
+CHROMOSOME | Long DNA molecule carrying many bacterial genes
+MUTATION | Change in genetic material
+TRANSFER | Movement of genetic material between cells
+RIBOSOME | Cell structure that makes proteins
+GENOME | Complete set of genetic instructions
+BACTERIUM | Single-celled microorganism without a nucleus
+RESISTANCE | Ability to withstand an antibiotic
+ENZYME | Protein that speeds up a chemical reaction
+TRANSCRIPTION | Copying genetic instructions into RNA

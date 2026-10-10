@@ -1,0 +1,20 @@
+id: level-173
+title: Weather Station
+difficulty: MEDIUM
+order: 173
+type: level
+size: 13
+seed: 173
+---
+BAROMETER | Instrument for measuring air pressure
+HYGROMETER | Instrument that measures moisture in air
+ANEMOMETER | Device that measures wind speed
+RAINGAUGE | Container used to measure rainfall
+FORECAST | Statement about expected weather
+ISOBAR | Line joining places with equal pressure
+FRONT | Boundary between two air masses
+CYCLONE | Large rotating storm system
+UPDRAFT | Rising current of air
+HUMIDITY | Amount of water vapour in the air
+RADAR | System that detects distant precipitation
+SATELLITE | Object in orbit used to observe weather

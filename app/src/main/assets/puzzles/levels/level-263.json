@@ -1,0 +1,41 @@
+{
+  "id": "level-263",
+  "title": "Cell Signaling",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "####C###R######",
+    "####Y##MEMBRANE",
+    "####T#P#C######",
+    "####O#R#E###M##",
+    "####PHOSPHATE##",
+    "#P##L#T#T###S#A",
+    "CASCADE#O###S#M",
+    "#T##S#I#R#L#E#P",
+    "#HORMONE#SIGNAL",
+    "#W########G#G#I",
+    "#A#####KINASE#F",
+    "#Y########N#R#Y",
+    "##########D####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Thin barrier surrounding a cell",
+      "6": "Group transferred in many cell reactions",
+      "9": "Series of linked reactions",
+      "11": "Chemical messenger made by the body",
+      "12": "Information that triggers a cellular response",
+      "13": "Enzyme that adds a phosphate group"
+    },
+    "down": {
+      "1": "Material filling the inside of a cell",
+      "2": "Cell protein that detects a signal",
+      "4": "Molecule built from amino acids",
+      "5": "Molecule carrying information inside a cell",
+      "7": "Chain of reactions inside a cell",
+      "8": "Increase the strength of a signal",
+      "10": "Molecule that binds to a receptor"
+    }
+  },
+  "order": 263
+}

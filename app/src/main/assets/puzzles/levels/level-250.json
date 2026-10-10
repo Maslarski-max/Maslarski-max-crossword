@@ -1,0 +1,35 @@
+{
+  "id": "level-250",
+  "title": "Roadside Diner",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "M#COFFEE###",
+    "E###R###D##",
+    "NAPKIN#BILL",
+    "U#I#E#W#N##",
+    "##E#SHAKE##",
+    "######I#R##",
+    "###BOOTH###",
+    "######E####",
+    "COUNTER####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Dark drink brewed from roasted beans",
+      "5": "Cloth or paper used to wipe the mouth",
+      "7": "Paper showing how much a meal costs",
+      "9": "Cold drink mixed until foamy",
+      "10": "Bench seating beside a small table",
+      "11": "Long worktop where customers may sit"
+    },
+    "down": {
+      "1": "List of meals a restaurant serves",
+      "3": "Potato strips cooked in hot oil",
+      "4": "Casual restaurant often near a highway",
+      "6": "Baked dessert with a crust",
+      "8": "Worker who brings food to a table"
+    }
+  },
+  "order": 250
+}

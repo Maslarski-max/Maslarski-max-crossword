@@ -1,0 +1,19 @@
+id: level-162
+title: Puppet Theatre
+difficulty: EASY
+order: 162
+type: level
+size: 11
+seed: 162
+---
+PUPPET | Figure controlled by a performer
+STAGE | Raised place for a show
+STRING | Thin cord used to move a figure
+MASK | Face covering worn by a character
+ACTOR | Person who performs a role
+SCRIPT | Written words for a show
+CURTAIN | Cloth that opens before a play
+FELT | Soft cloth used to make a figure
+GLOVE | Hand covering used to operate a puppet
+VOICE | Sound made by a performer
+SHOW | Performance for an audience

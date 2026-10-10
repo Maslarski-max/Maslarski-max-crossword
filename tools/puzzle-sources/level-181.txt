@@ -1,0 +1,21 @@
+id: level-181
+title: Deep Sea Research
+difficulty: HARD
+order: 181
+type: level
+size: 15
+seed: 181
+---
+ABYSSAL | Relating to the ocean's deepest regions
+HADAL | Relating to the deepest ocean trenches
+SUBMERSIBLE | Small craft that travels underwater
+SONAR | Method that uses sound to detect objects underwater
+LUMINESCENCE | Light emitted without high temperature
+HYDROTHERMAL | Relating to hot water from Earth's interior
+PRESSURE | Force exerted by the surrounding water
+VENT | Opening in the seafloor where hot fluid escapes
+BATHYSCAPHE | Deep-diving vessel for ocean exploration
+PLANKTON | Tiny organisms drifting in water
+TRENCH | Long, narrow depression in the seafloor
+CRUSTACEAN | Animal group that includes crabs and shrimp
+OCEANOGRAPHY | Scientific study of the sea

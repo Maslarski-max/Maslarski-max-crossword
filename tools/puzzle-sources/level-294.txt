@@ -1,0 +1,21 @@
+id: level-294
+title: Coastal Geomorphology
+difficulty: HARD
+order: 294
+type: level
+size: 15
+seed: 294
+---
+SPIT | Narrow ridge of sand projecting from a coast
+TOMBOLO | Sand or gravel bar joining an island to land
+LAGOON | Shallow water separated from the sea
+ESTUARY | Coastal area where river water meets the sea
+EROSION | Wearing away of rock by natural forces
+DEPOSITION | Laying down of sediment
+LONGSHORE | Moving parallel to a coast
+CLIFF | Steep rock face by the sea
+BEACH | Shoreline covered with sand or pebbles
+HEADLAND | High land projecting into the sea
+TIDAL | Relating to the rise and fall of the sea
+SEDIMENT | Particles that settle out of water
+GEOMORPHOLOGY | Study of landforms and the processes that shape them

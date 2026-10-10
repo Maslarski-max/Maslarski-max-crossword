@@ -1,0 +1,43 @@
+{
+  "id": "level-209",
+  "title": "Glacier Science",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######G#######",
+    "#######L####M##",
+    "###CREVASSE#O##",
+    "#A#####C#N##R##",
+    "#B#####ISOSTASY",
+    "#L#####O#U##I##",
+    "#ACCUMULATION##",
+    "#T#A#E#O##C#E##",
+    "TILL#L#G##E####",
+    "#O#V#T#Y##F####",
+    "#N#I#W###FIRN##",
+    "###N#A####E####",
+    "###G#T####L####",
+    "####SERAC#D####",
+    "#####R#########"
+  ],
+  "clues": {
+    "across": {
+      "3": "Deep crack in glacial ice",
+      "6": "Balance of Earth's crust floating on the mantle",
+      "7": "Addition of snow to a glacier",
+      "11": "Unsorted sediment deposited by ice",
+      "12": "Old granular snow that may become glacial ice",
+      "13": "Towering block of ice on a glacier"
+    },
+    "down": {
+      "1": "Scientific study of ice and glaciers",
+      "2": "Ridge of rock debris left by a glacier",
+      "4": "Lowest end of a glacier",
+      "5": "Loss of ice through melting or evaporation",
+      "8": "Breaking of ice from a glacier's edge",
+      "9": "Water formed as snow or ice melts",
+      "10": "Broad area feeding several glaciers"
+    }
+  },
+  "order": 209
+}

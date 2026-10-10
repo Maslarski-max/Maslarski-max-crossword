@@ -1,0 +1,42 @@
+{
+  "id": "level-130",
+  "title": "Ancient Greece",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "####H#O#A######",
+    "#DEMOCRACY#####",
+    "####P#A#R##A###",
+    "####L#C#OLYMPIA",
+    "####I#L#P##P##G",
+    "#PARTHENON#H##O",
+    "####E###L#HOMER",
+    "#S#T####I##R##A",
+    "#PERICLES##A###",
+    "#A#I###########",
+    "#R#R###########",
+    "ATHENS#########",
+    "#A#M###########",
+    "###E###########"
+  ],
+  "clues": {
+    "across": {
+      "4": "Rule by the people",
+      "6": "Site of the original Games",
+      "8": "Temple of Athena",
+      "9": "Poet of the Iliad",
+      "12": "Statesman of the golden age",
+      "13": "City named after a goddess"
+    },
+    "down": {
+      "1": "Armoured foot soldier",
+      "2": "Prophet at Delphi",
+      "3": "Citadel above Athens",
+      "5": "Two-handled jar",
+      "7": "Public marketplace",
+      "10": "City of fierce warriors",
+      "11": "Warship with three banks of oars"
+    }
+  },
+  "order": 130
+}

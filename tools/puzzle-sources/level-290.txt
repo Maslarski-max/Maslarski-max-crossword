@@ -1,0 +1,20 @@
+id: level-290
+title: Public Health
+difficulty: MEDIUM
+order: 290
+type: level
+size: 13
+seed: 290
+---
+HYGIENE | Practices that support cleanliness and health
+VACCINE | Preparation that helps prevent a disease
+MASK | Face covering worn to limit germs
+SANITATION | Systems that safely manage waste
+EPIDEMIC | Widespread occurrence of a disease
+PREVENTION | Action taken to reduce risk
+CLINIC | Place where people receive medical care
+SCREENING | Testing people before symptoms appear
+NUTRITION | Study or process of nourishing the body
+COMMUNITY | People living or working in one area
+IMMUNITY | Ability to resist a particular infection
+MONITORING | Ongoing collection of health information

@@ -81,6 +81,8 @@ data class ArenaMatchEntity(
     val startedAt: Long,
     val updatedAt: Long,
     val finishedAt: Long?,
+    @ColumnInfo(defaultValue = "0") val coinsEarned: Int = 0,
+    @ColumnInfo(defaultValue = "0") val coinsLost: Int = 0,
 )
 
 data class ArenaResultRow(val difficulty: String, val outcome: String, val playerScore: Int)

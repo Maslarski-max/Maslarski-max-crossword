@@ -1,0 +1,21 @@
+id: level-267
+title: Graph Theory
+difficulty: HARD
+order: 267
+type: level
+size: 15
+seed: 267
+---
+VERTEX | Point in a mathematical network
+EDGE | Connection between two points
+PATH | Sequence of connected edges
+DEGREE | Number of edges touching a point
+CYCLE | Path that returns to its starting point
+PLANAR | Drawable without crossing edges
+WEIGHTED | Having a value assigned to each connection
+DIRECTED | Having edges with a set direction
+MATRIX | Rectangular array used to represent connections
+NETWORK | Set of connected points
+TREE | Connected graph with no cycles
+BRIDGE | Edge whose removal disconnects a graph
+ISOMORPHISM | Structure-preserving correspondence between graphs

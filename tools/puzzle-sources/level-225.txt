@@ -1,0 +1,20 @@
+id: level-225
+title: Lighthouse Keepers
+difficulty: MEDIUM
+order: 225
+type: level
+size: 13
+seed: 225
+---
+LANTERN | Enclosed lamp used to guide vessels
+BEACON | Signal that helps sailors find a route
+LENS | Curved glass that focuses a beam
+FOGSIGNAL | Warning sound heard in mist
+KEEPER | Person who maintains a lighthouse
+COAST | Land beside the sea
+TIDE | Regular rise and fall of the sea
+CLIFF | Steep rock face above the shore
+HARBOR | Sheltered place where boats can anchor
+WICK | Fibrous part that draws fuel to a flame
+ROTATION | Turning motion of a light mechanism
+SHIPWRECK | Destruction of a vessel at sea

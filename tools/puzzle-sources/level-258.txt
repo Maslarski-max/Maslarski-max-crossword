@@ -1,0 +1,20 @@
+id: level-258
+title: Orchard Science
+difficulty: MEDIUM
+order: 258
+type: level
+size: 13
+seed: 258
+---
+POLLINATION | Transfer of pollen to a flower's receptive part
+ROOTSTOCK | Plant base onto which a fruit variety is grafted
+GRAFT | Join parts of two plants so they grow together
+PRUNING | Cutting away selected branches
+BLOOM | Flowering period of a fruit tree
+POLLEN | Fine grains involved in plant reproduction
+ORCHARD | Area planted with fruit trees
+HARVEST | Picking mature fruit
+VARIETY | Distinct cultivated kind of a plant
+DORMANCY | Period when growth slows or stops
+POLLINATOR | Animal that carries pollen between flowers
+CANOPY | Upper spread of branches and leaves

@@ -1,0 +1,19 @@
+id: level-218
+title: At the Laundromat
+difficulty: EASY
+order: 218
+type: level
+size: 11
+seed: 218
+---
+WASH | Clean clothes with water
+SOAP | Cleaner that makes bubbles
+DRYER | Machine that removes water from clothes
+COIN | Small metal money used to start a machine
+SOCK | Garment worn on a foot
+SHIRT | Garment covering the upper body
+TOWEL | Cloth used to dry the body
+BASKET | Container for carrying laundry
+SPIN | Turn quickly around an axis
+FOLD | Bend cloth over itself
+DETERGENT | Cleaning powder or liquid for clothes

@@ -1,0 +1,37 @@
+{
+  "id": "level-163",
+  "title": "Construction Site",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###PLANS#",
+    "####E####",
+    "##H#VEST#",
+    "CRANE#I##",
+    "E#R#L#T##",
+    "M#D##BEAM",
+    "E#H##R###",
+    "N#A##I###",
+    "T#TRUCK##",
+    "#####K###",
+    "#NAILS###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Drawings that guide a building project",
+      "4": "Bright clothing that helps workers be seen",
+      "6": "Tall machine that lifts heavy loads",
+      "7": "Long strong piece that supports a roof",
+      "8": "Vehicle that carries building supplies",
+      "9": "Metal pins used to join wood"
+    },
+    "down": {
+      "2": "Tool that checks if a surface is flat",
+      "3": "Protective cap worn at work",
+      "5": "Place where a building is being made",
+      "6": "Powder mixed with water for building",
+      "7": "Blocks used to build a wall"
+    }
+  },
+  "order": 163
+}

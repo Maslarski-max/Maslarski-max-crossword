@@ -1,0 +1,20 @@
+id: level-282
+title: Wildlife Tracking
+difficulty: MEDIUM
+order: 282
+type: level
+size: 13
+seed: 282
+---
+TRACKER | Person who follows signs left by animals
+FOOTPRINT | Mark made by a foot on the ground
+SCAT | Animal droppings examined for clues
+CAMERA | Device that records images of wildlife
+COLLAR | Band fitted around an animal's neck
+TAGGING | Attaching a marker to an animal for study
+MIGRATION | Seasonal movement between habitats
+RANGE | Area where an animal normally lives
+DEN | Small animal shelter
+TRAIL | Path followed by an animal
+SPECIES | Group of similar organisms
+TRACK | Mark left by an animal passing by

@@ -1,0 +1,39 @@
+{
+  "id": "level-148",
+  "title": "Spy Mission",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####C#S####",
+    "##D##O#AGENT",
+    "##E##D#F###A",
+    "##B#DEFECTOR",
+    "G#R#I##H###G",
+    "ALIAS#DOUBLE",
+    "D#E#G##U#U#T",
+    "G#F#U##S#G##",
+    "E##CIPHER###",
+    "T###S#######",
+    "#MOLE#######"
+  ],
+  "clues": {
+    "across": {
+      "4": "Secret operative",
+      "6": "One who switches sides",
+      "8": "Assumed name",
+      "9": "___ agent, working both sides",
+      "11": "Secret writing",
+      "12": "Spy inside an organisation"
+    },
+    "down": {
+      "1": "Hidden message system",
+      "2": "Secret hideout",
+      "3": "Report after a mission",
+      "5": "Mission objective",
+      "6": "False appearance",
+      "7": "Clever device",
+      "10": "Hidden microphone"
+    }
+  },
+  "order": 148
+}

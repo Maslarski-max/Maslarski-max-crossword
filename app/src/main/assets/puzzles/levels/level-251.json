@@ -1,0 +1,36 @@
+{
+  "id": "level-251",
+  "title": "Ski Lodge",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###B#######",
+    "#SNOW######",
+    "#K#O#######",
+    "LIFT#P#H###",
+    "O##SLOPE###",
+    "D####L#L#A#",
+    "GOGGLE#M#P#",
+    "E######E#R#",
+    "#####MITTEN",
+    "#########S#"
+  ],
+  "clues": {
+    "across": {
+      "2": "Frozen flakes falling from clouds",
+      "3": "Cable ride that carries skiers uphill",
+      "6": "Slanted surface for sliding downhill",
+      "8": "Protective eyewear for snowy conditions",
+      "9": "Warm hand covering with one space for fingers"
+    },
+    "down": {
+      "1": "Sturdy footwear worn with skis",
+      "2": "Long narrow runner worn on snow",
+      "3": "Building where visitors stay",
+      "4": "Long stick used for balance",
+      "5": "Hard covering that protects the head",
+      "7": "Social time after a day of skiing"
+    }
+  },
+  "order": 251
+}

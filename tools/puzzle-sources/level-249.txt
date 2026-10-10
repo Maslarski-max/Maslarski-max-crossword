@@ -1,0 +1,19 @@
+id: level-249
+title: Science Garden
+difficulty: EASY
+order: 249
+type: level
+size: 11
+seed: 249
+---
+SEED | Beginning of a new plant
+SOIL | Earth where roots grow
+ROOT | Part of a plant that takes up water
+STEM | Structure that holds a plant upright
+LEAF | Plant part that gathers sunlight
+SUN | Star that warms our planet
+RAIN | Water that falls from clouds
+GROW | Become larger over time
+SHADE | Cool area out of direct sunlight
+COMPOST | Decayed plant matter used to enrich soil
+FLOWER | Colourful part that may make seeds

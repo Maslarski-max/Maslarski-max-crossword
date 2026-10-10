@@ -1,0 +1,37 @@
+{
+  "id": "level-281",
+  "title": "Firework Display",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#######S##",
+    "###F###P##",
+    "##DISPLAY#",
+    "###R###R##",
+    "FUSE#B#K#S",
+    "###W#U###A",
+    "COLOUR#N#F",
+    "###R#SMOKE",
+    "ROCKET#I#T",
+    "#######SKY",
+    "#######E##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Public show for an audience",
+      "4": "Cord that carries flame to a charge",
+      "7": "Visual quality such as red or blue",
+      "9": "Cloud released by a firework",
+      "10": "Firework that shoots upward",
+      "11": "Space above the ground"
+    },
+    "down": {
+      "1": "Tiny glowing particle",
+      "2": "Device that bursts into coloured light",
+      "5": "Sudden outward explosion",
+      "6": "Protection from danger",
+      "8": "Loud sound made during a display"
+    }
+  },
+  "order": 281
+}

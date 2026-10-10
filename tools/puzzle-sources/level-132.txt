@@ -1,0 +1,21 @@
+id: level-132
+title: Heraldry
+difficulty: HARD
+order: 132
+type: level
+size: 15
+seed: 132
+---
+SHIELD | Main surface of a coat of arms
+CREST | Emblem above the helmet
+MOTTO | Phrase on a scroll
+GULES | Heraldic red
+AZURE | Heraldic blue
+ARGENT | Heraldic silver
+SABLE | Heraldic black
+LION | Common royal beast
+RAMPANT | Rearing on hind legs
+CHEVRON | Inverted V band
+GRIFFIN | Eagle-lion creature
+BLAZON | Formal description of arms
+HERALD | Officer of arms

@@ -1,0 +1,41 @@
+{
+  "id": "level-132",
+  "title": "Heraldry",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######L#####M",
+    "#######I##G##O",
+    "#######O#CREST",
+    "##RAMPANT#I##T",
+    "######Z###F##O",
+    "######U###F###",
+    "######R#A#I###",
+    "####CHEVRON###",
+    "G##S#E##G#####",
+    "U##A#R##E#####",
+    "L##BLAZON#####",
+    "E##L#L##T#####",
+    "SHIELD########"
+  ],
+  "clues": {
+    "across": {
+      "4": "Emblem above the helmet",
+      "5": "Rearing on hind legs",
+      "8": "Inverted V band",
+      "12": "Formal description of arms",
+      "13": "Main surface of a coat of arms"
+    },
+    "down": {
+      "1": "Common royal beast",
+      "2": "Phrase on a scroll",
+      "3": "Eagle-lion creature",
+      "6": "Heraldic blue",
+      "7": "Heraldic silver",
+      "9": "Officer of arms",
+      "10": "Heraldic red",
+      "11": "Heraldic black"
+    }
+  },
+  "order": 132
+}

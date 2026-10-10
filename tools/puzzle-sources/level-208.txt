@@ -1,0 +1,21 @@
+id: level-208
+title: Evolutionary Biology
+difficulty: HARD
+order: 208
+type: level
+size: 15
+seed: 208
+---
+ADAPTATION | Inherited feature that can improve survival
+SELECTION | Process that favours some inherited traits
+MUTATION | Change in the sequence of genetic material
+ALLELE | One version of a gene
+GENOTYPE | Genetic makeup of an organism
+PHENOTYPE | Observable traits of an organism
+SPECIATION | Formation of distinct species
+ANCESTRY | Line of descent from earlier organisms
+HOMOLOGY | Similarity due to shared evolutionary origin
+DRIFT | Random change in a population's gene frequencies
+FITNESS | Relative contribution to future generations
+FOSSIL | Preserved trace of ancient life
+POPULATION | Members of one species in an area

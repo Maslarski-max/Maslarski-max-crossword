@@ -1,0 +1,38 @@
+{
+  "id": "level-108",
+  "title": "Picnic Basket",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#BASKET###",
+    "#L#####J##",
+    "PARK###U##",
+    "#N##S##I#A",
+    "#K##A##CUP",
+    "LEMONADE#P",
+    "#T##D####L",
+    "####W#CAKE",
+    "NAPKIN#N##",
+    "####C##T##",
+    "###CHEESE#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Wicker carrier with a lid",
+      "3": "Grassy public place for a day out",
+      "6": "Small drinking vessel",
+      "7": "Sweet citrus drink",
+      "8": "Sweet baked treat cut into slices",
+      "10": "Paper square for wiping fingers",
+      "11": "Cheddar or brie"
+    },
+    "down": {
+      "1": "Spread it on the grass to sit on",
+      "2": "Drink squeezed from fruit",
+      "4": "Two slices of bread with a filling",
+      "5": "Crunchy fruit packed for lunch",
+      "9": "Tiny uninvited guests"
+    }
+  },
+  "order": 108
+}

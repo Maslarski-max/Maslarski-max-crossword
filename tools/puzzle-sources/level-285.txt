@@ -1,0 +1,20 @@
+id: level-285
+title: Medieval Guilds
+difficulty: MEDIUM
+order: 285
+type: level
+size: 13
+seed: 285
+---
+GUILD | Association of workers in a craft
+APPRENTICE | Beginner learning a skilled trade
+MASTER | Highly skilled craftsperson who leads a workshop
+WEAVER | Person who makes cloth on a loom
+DYER | Worker who colours fabric
+CARPENTER | Craft worker who builds with wood
+TRAINING | Period of learning a trade
+WORKSHOP | Place where goods are made
+MERCHANT | Person who buys and sells goods
+CRAFTSMAN | Person skilled at making things by hand
+JOURNEYMAN | Craft worker who has completed training but not mastered a trade
+MARKET | Place where goods are sold

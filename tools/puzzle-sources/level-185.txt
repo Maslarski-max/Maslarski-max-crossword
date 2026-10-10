@@ -1,0 +1,21 @@
+id: level-185
+title: Coral Reef Ecology
+difficulty: HARD
+order: 185
+type: level
+size: 15
+seed: 185
+---
+SYMBIOSIS | Close relationship between different species
+POLYP | Small animal that builds a coral colony
+ZOXANTHELLAE | Algae that live within many reef-building corals
+BLEACHING | Loss of colour after coral stress
+ATOLL | Ring-shaped reef surrounding a lagoon
+LAGOON | Shallow body of water inside a reef
+HERBIVORE | Animal that feeds mainly on plants
+PREDATOR | Animal that hunts other animals
+SPAWNING | Release of eggs and sperm into the water
+NURSERY | Protected place where young animals grow
+CURRENT | Flow of water in a particular direction
+ACIDIFICATION | Increase in ocean water acidity
+BIOME | Large region defined by its climate and life

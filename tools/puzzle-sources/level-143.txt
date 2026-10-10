@@ -1,0 +1,21 @@
+id: level-143
+title: Card Games
+difficulty: MEDIUM
+order: 143
+type: level
+size: 13
+seed: 143
+---
+POKER | Bluffing game with chips
+BRIDGE | Partnership bidding game
+SNAP | Shout it when cards match
+SOLITAIRE | Game for one player
+RUMMY | Game of sets and runs
+ACE | Highest card in many games
+JOKER | Wild card
+TRUMP | Suit that beats the others
+DEALER | Person handing out cards
+SHUFFLE | Mix the deck
+HEARTS | Red suit
+SPADES | Black suit
+BLACKJACK | Aim for twenty-one

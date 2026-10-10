@@ -1,0 +1,19 @@
+id: level-110
+title: Playground
+difficulty: EASY
+order: 110
+type: level
+size: 11
+seed: 110
+---
+SWING | Seat hung on chains that goes to and fro
+SLIDE | Smooth slope you whoosh down
+SEESAW | Plank that tips up and down
+SANDPIT | Box of sand for digging
+TAG | Chasing game: you are it
+LADDER | Steps for climbing up
+BENCH | Long seat for parents
+HOPSCOTCH | Jumping game drawn in chalk
+ROPE | Skip with it
+BALL | Round toy to kick or throw
+FRIEND | Someone you like to play with

@@ -1,0 +1,19 @@
+id: level-194
+title: Campfire Tales
+difficulty: EASY
+order: 194
+type: level
+size: 11
+seed: 194
+---
+CAMP | Temporary place to sleep outdoors
+FLAME | Bright hot part of a fire
+LOG | Thick piece of cut wood
+CANDY | Soft sweet treat often toasted over a fire
+STORY | Tale told for fun
+TENT | Portable shelter made from fabric
+SPARK | Tiny glowing piece from a fire
+NIGHT | Dark time after sunset
+GUITAR | Stringed instrument used for songs
+BEDROLL | Padded cover for sleeping outside
+STARS | Bright points seen in the night sky

@@ -1,0 +1,36 @@
+{
+  "id": "level-279",
+  "title": "Fishing Pier",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###N#FISH#",
+    "##REEL##O#",
+    "###T#O#ROD",
+    "#####A##K#",
+    "BUCKET####",
+    "##R#######",
+    "#BAIT#####",
+    "##B#I#####",
+    "####D#####",
+    "##PIER####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Animal with gills and fins",
+      "4": "Device that winds in fishing line",
+      "5": "Long flexible pole used for angling",
+      "6": "Open container for a catch",
+      "8": "Food attached to a hook to attract fish",
+      "10": "Raised walkway extending over water"
+    },
+    "down": {
+      "1": "Mesh used to catch fish",
+      "2": "Bobbing marker on a fishing line",
+      "3": "Curved metal point used to catch a fish",
+      "7": "Sea animal with claws and a hard shell",
+      "9": "Regular rise and fall of the sea"
+    }
+  },
+  "order": 279
+}

@@ -1,0 +1,20 @@
+id: level-172
+title: Shipyard
+difficulty: MEDIUM
+order: 172
+type: level
+size: 13
+seed: 172
+---
+HULL | Watertight body of a vessel
+DOCK | Structure where a vessel is tied up
+ANCHOR | Heavy hook lowered to hold a boat
+RIVET | Metal pin joining two plates
+WELDER | Worker who joins metal with heat
+BLUEPRINT | Detailed plan for a vessel
+PROPELLER | Spinning blades that push a boat
+CABIN | Small room aboard a vessel
+DECKHAND | Crew member who works on deck
+SHIPWRIGHT | Builder of wooden vessels
+LAUNCH | Put a newly built vessel into the water
+KEELSON | Strong beam fitted above a ship's keel

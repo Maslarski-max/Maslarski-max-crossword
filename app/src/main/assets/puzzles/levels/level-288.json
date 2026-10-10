@@ -1,0 +1,40 @@
+{
+  "id": "level-288",
+  "title": "Radio Astronomy",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "SIGNAL####D#",
+    "##A#N##RADIO",
+    "##L#T#T###S#",
+    "#WAVELENGTH#",
+    "##X#N#L####S",
+    "##Y#N#E####P",
+    "####A#S####E",
+    "##Q###COSMIC",
+    "##U###O####T",
+    "##A###PULSAR",
+    "OBSERVE####U",
+    "##A########M",
+    "##R#########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Measurable transmission from a source",
+      "5": "Part of the electromagnetic spectrum",
+      "7": "Distance between repeating parts of a wave",
+      "10": "Relating to the universe",
+      "11": "Spinning neutron star sending regular radio pulses",
+      "12": "Watch carefully to collect information"
+    },
+    "down": {
+      "2": "Vast system of stars and gas",
+      "3": "Device that receives signals from space",
+      "4": "Curved reflector that gathers radio waves",
+      "6": "Instrument for observing distant objects",
+      "8": "Range of wavelengths from a source",
+      "9": "Extremely bright distant galactic core"
+    }
+  },
+  "order": 288
+}

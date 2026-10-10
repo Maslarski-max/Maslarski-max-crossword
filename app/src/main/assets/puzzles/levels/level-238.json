@@ -1,0 +1,43 @@
+{
+  "id": "level-238",
+  "title": "Renaissance Architecture",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###F#SYMMETRY##",
+    "###A#####N#####",
+    "#ARCHITECT#####",
+    "###A#####A###C#",
+    "#C#D#####B###L#",
+    "DOME##PALLADIAN",
+    "#L##P#R##A###S#",
+    "PORTICO##T###S#",
+    "#N##L#P##U###I#",
+    "#N##A#O##R###C#",
+    "BALUSTRADE###A#",
+    "#D##T#T######L#",
+    "#E#PEDIMENT####",
+    "####R#O########",
+    "######N########"
+  ],
+  "clues": {
+    "across": {
+      "2": "Balanced arrangement of corresponding parts",
+      "4": "Person who designs buildings",
+      "7": "Rounded roof over a building",
+      "8": "Relating to a style inspired by Andrea Palladio",
+      "10": "Covered entrance supported by columns",
+      "11": "Row of small supports beneath a handrail",
+      "12": "Triangular upper part above a classical portico"
+    },
+    "down": {
+      "1": "Front face of a building",
+      "3": "Horizontal structure above a row of columns",
+      "5": "Based on ancient Greek or Roman design",
+      "6": "Row of columns supporting a roof",
+      "8": "Relationship between the sizes of parts",
+      "9": "Shallow rectangular column attached to a wall"
+    }
+  },
+  "order": 238
+}

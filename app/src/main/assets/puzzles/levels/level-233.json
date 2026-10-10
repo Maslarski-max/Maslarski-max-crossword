@@ -1,0 +1,40 @@
+{
+  "id": "level-233",
+  "title": "Concert Hall",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#PROGRAM##R##",
+    "######C###E##",
+    "B####SOLOIST#",
+    "A#####U#V#O##",
+    "L#E###S#E#U##",
+    "CONDUCTOR#N#A",
+    "O#S###I#T#D#P",
+    "N#E###C#U###P",
+    "Y#M#F###R###L",
+    "##B#ORCHESTRA",
+    "##L#Y#######U",
+    "#REHEARSAL##S",
+    "####R#######E"
+  ],
+  "clues": {
+    "across": {
+      "1": "Printed list of a concert's works",
+      "5": "Musician performing alone",
+      "8": "Leader who directs musicians",
+      "11": "Large group of instrumental musicians",
+      "12": "Practice before a performance"
+    },
+    "down": {
+      "2": "Relating to how sound behaves in a space",
+      "3": "Echo or ring through a space",
+      "4": "Raised seating area above the main floor",
+      "6": "Instrumental music that opens an opera",
+      "7": "Group performing together",
+      "9": "Clapping from an audience",
+      "10": "Entrance hall of a theatre"
+    }
+  },
+  "order": 233
+}

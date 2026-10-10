@@ -1,0 +1,40 @@
+{
+  "id": "level-253",
+  "title": "National Parks",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###C#######T#",
+    "##BACKCOUNTRY",
+    "###M#######A#",
+    "###P###SUMMIT",
+    "M##G#######L#",
+    "E##R###P#C###",
+    "A##O#V#R#A#S#",
+    "D##U#I#E#N#C#",
+    "O##N#S#S#Y#E#",
+    "WILDLIFE#O#N#",
+    "#####T#RANGER",
+    "#####O#V###R#",
+    "WILDERNESS#Y#"
+  ],
+  "clues": {
+    "across": {
+      "3": "Remote area away from roads and towns",
+      "4": "Top of a hill or mountain",
+      "10": "Animals living freely in nature",
+      "11": "Official who protects a park",
+      "12": "Large natural area with little development"
+    },
+    "down": {
+      "1": "Place set aside for tents and campers",
+      "2": "Marked route for walking",
+      "5": "Open grassy area",
+      "6": "Area protected from development",
+      "7": "Deep valley with steep sides",
+      "8": "Person who comes to see a place",
+      "9": "Natural features seen in a landscape"
+    }
+  },
+  "order": 253
+}

@@ -1,0 +1,21 @@
+id: level-213
+title: Ancient Trade Routes
+difficulty: HARD
+order: 213
+type: level
+size: 15
+seed: 213
+---
+CARAVANSERAI | Roadside inn for travelling merchants
+SILKROAD | Network of routes linking East Asia with the west
+SPICE | Aromatic plant material traded for cooking
+INCENSE | Fragrant material burned for its scent
+WAREHOUSE | Building used to store goods
+PORTAGE | Carrying goods between waterways
+MONSOON | Seasonal wind that shaped Indian Ocean sailing
+MERCHANT | Person who trades goods
+CARAVAN | Group travelling together with goods
+TARIFF | Charge on goods crossing a border
+MARKET | Place where goods are bought and sold
+EXPORT | Goods sent to another country for sale
+IMPORT | Goods brought in from another country

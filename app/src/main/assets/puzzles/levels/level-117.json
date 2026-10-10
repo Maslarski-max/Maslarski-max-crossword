@@ -1,0 +1,41 @@
+{
+  "id": "level-117",
+  "title": "Airport",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###T#########",
+    "###I###HANGAR",
+    "###C######A##",
+    "###K##PILOT##",
+    "#R#E##A###E##",
+    "CUSTOMS#T####",
+    "#N####S#E#L#J",
+    "#W##DEPARTURE",
+    "#A####O#M#G#T",
+    "#Y#BOARDING#L",
+    "######T#N#A#A",
+    "########A#G#G",
+    "##ARRIVAL#E##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Building where planes are stored",
+      "4": "Person who flies the aircraft",
+      "6": "Where imported goods are checked",
+      "10": "Leaving, on the big board",
+      "11": "Getting onto the plane",
+      "12": "Landing, on the big board"
+    },
+    "down": {
+      "1": "Pass for your seat",
+      "3": "Numbered door to your flight",
+      "4": "Document needed to cross borders",
+      "5": "Strip where planes take off",
+      "7": "Main airport building",
+      "8": "Suitcases and bags",
+      "9": "Tiredness after crossing time zones"
+    }
+  },
+  "order": 117
+}

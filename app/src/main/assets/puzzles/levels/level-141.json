@@ -1,0 +1,35 @@
+{
+  "id": "level-141",
+  "title": "Shopping Mall",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###C#######",
+    "##LIFT#####",
+    "#T#N#######",
+    "MONEY##SHOP",
+    "#Y#M#B#H##R",
+    "ESCALATOR#I",
+    "##A##G#E##C",
+    "##F####SALE",
+    "##E########"
+  ],
+  "clues": {
+    "across": {
+      "2": "It goes up and down floors",
+      "4": "What you pay with",
+      "5": "Place that sells things",
+      "8": "Moving staircase",
+      "10": "Time of cheap prices"
+    },
+    "down": {
+      "1": "Place to watch films",
+      "3": "Things children play with",
+      "5": "Footwear store item",
+      "6": "Cost on the label",
+      "7": "Carry your buys in it",
+      "9": "Place for a coffee break"
+    }
+  },
+  "order": 141
+}

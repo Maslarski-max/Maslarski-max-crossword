@@ -1,0 +1,37 @@
+{
+  "id": "level-221",
+  "title": "Bicycle Repair",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#G#CHAIN#",
+    "#E##E####",
+    "HANDLEBAR",
+    "#R##M#R##",
+    "###PEDAL#",
+    "####T#K##",
+    "#####SEAT",
+    "##PUMP##I",
+    "#####O##R",
+    "#####K##E",
+    "##WHEEL##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Linked metal loop that drives the rear wheel",
+      "4": "Bar used to steer a bicycle",
+      "6": "Footrest turned to move a bicycle",
+      "7": "Place where a rider sits",
+      "9": "Tool that pushes air into a tube",
+      "10": "Round part that rolls along the ground"
+    },
+    "down": {
+      "1": "Setting that changes pedalling effort",
+      "3": "Protective head covering",
+      "5": "Device that slows a bicycle",
+      "7": "Thin rod connecting a hub to a rim",
+      "8": "Rubber ring around a wheel"
+    }
+  },
+  "order": 221
+}

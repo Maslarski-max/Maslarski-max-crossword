@@ -1,0 +1,20 @@
+id: level-168
+title: Sailboat Regatta
+difficulty: MEDIUM
+order: 168
+type: level
+size: 13
+seed: 168
+---
+SAILOR | Crew member aboard a small boat
+RUDDER | Hinged blade used to steer
+MAST | Tall pole holding the sails
+JIB | Small triangular sail at the front
+TACKLE | Change direction by turning through the wind
+REGATTA | Series of boat races
+KEEL | Long structure along the bottom of a hull
+BUOY | Floating marker used on a course
+TILLER | Handle that moves the rudder
+LEEWARD | Side sheltered from the wind
+STARBOARD | Right side when facing the bow
+SPINNAKER | Large sail used with the wind behind

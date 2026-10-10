@@ -1,0 +1,20 @@
+id: level-109
+title: Zoo Visit
+difficulty: EASY
+order: 109
+type: level
+size: 11
+seed: 109
+---
+LION | King of the jungle
+ZEBRA | Striped horse of Africa
+GIRAFFE | Tallest animal on land
+MONKEY | Banana-loving climber
+PANDA | Black-and-white bamboo eater
+TIGER | Big cat with orange stripes
+SEAL | Flippered animal that claps
+PENGUIN | Bird in a tuxedo that cannot fly
+HIPPO | Huge river animal with a wide mouth
+CAMEL | Desert animal with humps
+KEEPER | Person who feeds the zoo animals
+OWL | Night bird that hoots

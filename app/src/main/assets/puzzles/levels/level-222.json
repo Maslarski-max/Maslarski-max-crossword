@@ -1,0 +1,35 @@
+{
+  "id": "level-222",
+  "title": "Lemonade Stand",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#I###CUP###",
+    "#C#C###I#T#",
+    "LEMON#STRAW",
+    "###I###C#B#",
+    "SIGN#S#H#L#",
+    "###SQUEEZE#",
+    "#####G#R###",
+    "#####A#####",
+    "##THIRST###"
+  ],
+  "clues": {
+    "across": {
+      "2": "Small vessel for drinking",
+      "6": "Sour yellow fruit",
+      "7": "Thin tube used for sipping",
+      "8": "Board showing what is for sale",
+      "10": "Press fruit to release its juice",
+      "11": "Need for a drink"
+    },
+    "down": {
+      "1": "Frozen water used to chill a glass",
+      "3": "Tall vessel used for serving a drink",
+      "4": "Small pieces of metal money",
+      "5": "Furniture holding the stand's goods",
+      "9": "Sweet crystals stirred into a drink"
+    }
+  },
+  "order": 222
+}

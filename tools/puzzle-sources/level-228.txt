@@ -1,0 +1,20 @@
+id: level-228
+title: Polar Research Camp
+difficulty: MEDIUM
+order: 228
+type: level
+size: 13
+seed: 228
+---
+ICECORE | Cylinder drilled from a sheet of ice
+TENT | Fabric shelter used in the field
+SNOWMOBILE | Vehicle that travels over snow
+THERMAL | Designed to retain body heat
+GLACIER | Slow-moving mass of ice on land
+COMPASS | Tool that shows direction
+PARKA | Warm outer coat for cold conditions
+SLEDGE | Runner vehicle pulled over snow
+SAMPLE | Small amount collected for study
+DRILL | Tool for making a hole in ice
+BLIZZARD | Severe snowstorm with strong winds
+RESEARCHER | Person who carries out a scientific study

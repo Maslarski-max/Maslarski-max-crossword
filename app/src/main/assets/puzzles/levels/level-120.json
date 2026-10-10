@@ -1,0 +1,40 @@
+{
+  "id": "level-120",
+  "title": "Bridges",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####T#######",
+    "####GOLDEN###",
+    "#####W#R#####",
+    "#V###E#A#####",
+    "GIRDER#W#S###",
+    "#A#####B#P###",
+    "#D#####R#ARCH",
+    "SUSPENSION#A#",
+    "#C#I###D###B#",
+    "#TOLL##G###L#",
+    "###L###E###E#",
+    "###A#########",
+    "###RIVER#####"
+  ],
+  "clues": {
+    "across": {
+      "2": "___ Gate in San Francisco",
+      "5": "Heavy steel beam",
+      "7": "Curved bridge shape",
+      "9": "Bridge hung from cables",
+      "11": "Fee paid to cross",
+      "12": "Water flowing under"
+    },
+    "down": {
+      "1": "London bridge with two of them",
+      "3": "Castle bridge that lifts up",
+      "4": "Long bridge carrying a railway",
+      "6": "Distance between supports",
+      "8": "Thick steel rope",
+      "10": "Upright support"
+    }
+  },
+  "order": 120
+}

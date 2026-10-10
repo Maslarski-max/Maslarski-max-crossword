@@ -1,0 +1,40 @@
+{
+  "id": "level-237",
+  "title": "Marine Mammal Biology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##PINNIPED#####",
+    "########C##C###",
+    "#####P##H##E###",
+    "###ODONTOCETE##",
+    "#####D##L##A###",
+    "#B######O##CALF",
+    "#L#MYSTICETE##L",
+    "#U#A####A##A##I",
+    "#B#MIGRATION##P",
+    "#B#M####I#####P",
+    "#E#A###VOCALIZE",
+    "KRILL###N#####R"
+  ],
+  "clues": {
+    "across": {
+      "1": "Seal, sea lion, or walrus",
+      "5": "Toothed whale",
+      "7": "Young whale or dolphin",
+      "9": "Baleen whale",
+      "10": "Seasonal journey between feeding areas",
+      "11": "Make sounds for communication",
+      "12": "Tiny crustacean eaten by many whales"
+    },
+    "down": {
+      "2": "Use of sound echoes to locate objects",
+      "3": "Member of the whale, dolphin, or porpoise group",
+      "4": "Social group of dolphins or whales",
+      "6": "Thick insulating fat beneath the skin",
+      "8": "Broad limb used for swimming",
+      "9": "Warm-blooded animal that feeds young with milk"
+    }
+  },
+  "order": 237
+}

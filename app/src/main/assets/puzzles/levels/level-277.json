@@ -1,0 +1,37 @@
+{
+  "id": "level-277",
+  "title": "Ice Rink",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##S#I###",
+    "##PUCK##",
+    "F#I#E##G",
+    "RINK###L",
+    "O###H##O",
+    "SKATE##V",
+    "T###LACE",
+    "#G##M###",
+    "HOCKEY##",
+    "#A##T###",
+    "#L######"
+  ],
+  "clues": {
+    "across": {
+      "3": "Flat disc used in hockey",
+      "6": "Enclosed area for skating",
+      "8": "Gliding shoe with a blade",
+      "9": "Cord threaded through a skate",
+      "11": "Team game played with sticks on ice"
+    },
+    "down": {
+      "1": "Turn around on one foot",
+      "2": "Frozen water beneath a skater",
+      "4": "Thin icy coating on a cold surface",
+      "5": "Hand covering worn for warmth",
+      "7": "Hard head covering for safety",
+      "10": "Target between two posts"
+    }
+  },
+  "order": 277
+}

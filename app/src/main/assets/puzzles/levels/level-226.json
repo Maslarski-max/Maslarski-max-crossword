@@ -1,0 +1,40 @@
+{
+  "id": "level-226",
+  "title": "Animated Films",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####ANIMATION",
+    "###S####N####",
+    "##CEL###I###V",
+    "###Q##S#M###O",
+    "#SOUNDTRACK#I",
+    "###E##O#T#E#C",
+    "#RENDER#O#Y#E",
+    "###C##Y#R#F#O",
+    "MODEL#B###R#V",
+    "######O#FRAME",
+    "######A###M#R",
+    "###CHARACTER#",
+    "######D######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Making drawings or models appear to move",
+      "4": "Clear sheet used in traditional animation",
+      "7": "Music and audio for a film",
+      "9": "Produce a finished image from a model",
+      "10": "Three-dimensional figure used in stop motion",
+      "11": "Single image in a moving picture",
+      "12": "Person or creature in a story"
+    },
+    "down": {
+      "2": "Artist who creates movement in a film",
+      "3": "Connected series of shots",
+      "5": "Recorded speech heard over images",
+      "6": "Sequence of sketches planning a film",
+      "8": "Main drawing that marks a motion pose"
+    }
+  },
+  "order": 226
+}

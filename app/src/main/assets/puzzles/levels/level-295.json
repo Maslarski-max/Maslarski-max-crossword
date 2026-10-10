@@ -1,0 +1,43 @@
+{
+  "id": "level-295",
+  "title": "Historical Linguistics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "S###S#########L",
+    "A#PROTOLANGUAGE",
+    "N###U#########X",
+    "SEMANTIC#B####I",
+    "K#O#D####O##E#C",
+    "R#RECONSTRUCT#O",
+    "I#P#H####R##Y#N",
+    "T#H#A####O##M##",
+    "#COGNATE#W##O##",
+    "##L#G####I##L##",
+    "##O#E##L#N##O##",
+    "##G###LANGUAGE#",
+    "##Y####T####Y##",
+    "#######I#######",
+    "####PHONOLOGY##"
+  ],
+  "clues": {
+    "across": {
+      "4": "Reconstructed ancestor of related languages",
+      "5": "Relating to meaning in language",
+      "9": "Infer an earlier form from later evidence",
+      "10": "Word related to one in another language",
+      "12": "System of communication used by a community",
+      "13": "Study of a language's sound system"
+    },
+    "down": {
+      "1": "Ancient language of South Asia",
+      "2": "Regular alteration of speech sounds over time",
+      "3": "Vocabulary of a language",
+      "6": "Study of word forms and structure",
+      "7": "Adoption of a word from another language",
+      "8": "Study of the history of words",
+      "11": "Language of ancient Rome"
+    }
+  },
+  "order": 295
+}

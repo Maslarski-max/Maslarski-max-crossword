@@ -1,0 +1,21 @@
+id: level-295
+title: Historical Linguistics
+difficulty: HARD
+order: 295
+type: level
+size: 15
+seed: 295
+---
+ETYMOLOGY | Study of the history of words
+COGNATE | Word related to one in another language
+PHONOLOGY | Study of a language's sound system
+MORPHOLOGY | Study of word forms and structure
+PROTOLANGUAGE | Reconstructed ancestor of related languages
+SOUNDCHANGE | Regular alteration of speech sounds over time
+BORROWING | Adoption of a word from another language
+SEMANTIC | Relating to meaning in language
+LEXICON | Vocabulary of a language
+SANSKRIT | Ancient language of South Asia
+LATIN | Language of ancient Rome
+RECONSTRUCT | Infer an earlier form from later evidence
+LANGUAGE | System of communication used by a community

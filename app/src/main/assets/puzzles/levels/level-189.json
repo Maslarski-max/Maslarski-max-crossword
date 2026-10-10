@@ -1,0 +1,37 @@
+{
+  "id": "level-189",
+  "title": "Home Sewing Box",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####S##N#",
+    "#T###C##E#",
+    "#H##ZIPPER",
+    "PIN##S##D#",
+    "#M###S##L#",
+    "#BUTTON#E#",
+    "#L#H#R#P##",
+    "#E#R#SEAM#",
+    "###E###T##",
+    "##FABRIC##",
+    "###D###HEM"
+  ],
+  "clues": {
+    "across": {
+      "4": "Fastener with interlocking teeth",
+      "5": "Sharp fastener with a small head",
+      "6": "Small fastener sewn onto a garment",
+      "9": "Line where two pieces of cloth are joined",
+      "10": "Cloth used to make clothing",
+      "11": "Folded edge at the bottom of a garment"
+    },
+    "down": {
+      "1": "Tool with two blades for cutting",
+      "2": "Slender tool used for stitching",
+      "3": "Cap that protects a finger while sewing",
+      "7": "Fine strand drawn through cloth",
+      "8": "Small piece of cloth covering a tear"
+    }
+  },
+  "order": 189
+}

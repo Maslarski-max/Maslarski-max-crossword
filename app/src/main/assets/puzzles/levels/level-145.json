@@ -1,0 +1,38 @@
+{
+  "id": "level-145",
+  "title": "Board Games",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###SPINNER###",
+    "#M#C#########",
+    "#O#R##LUDO###",
+    "#N#A####R##C#",
+    "GO#BACKGAMMON",
+    "#P#B####U##U#",
+    "#O#L####G##N#",
+    "CLUEDO##H##T#",
+    "#Y##I###TOKEN",
+    "####CHESS##R#",
+    "####E########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Arrow you flick",
+      "3": "Race home with four pieces",
+      "6": "Japanese stone game",
+      "7": "Ancient race with dice",
+      "8": "Murder mystery game",
+      "10": "Marker on the board",
+      "11": "Game of kings and pawns"
+    },
+    "down": {
+      "1": "Tile word game",
+      "2": "Game of property and hotels",
+      "4": "Game of jumping counters",
+      "5": "Small playing piece",
+      "9": "Cubes you roll"
+    }
+  },
+  "order": 145
+}

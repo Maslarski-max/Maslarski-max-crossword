@@ -1,0 +1,19 @@
+id: level-115
+title: Snow Day
+difficulty: EASY
+order: 115
+type: level
+size: 11
+seed: 115
+---
+SNOWMAN | Frosty figure with a carrot nose
+SLED | Ride it down a snowy hill
+SCARF | Warm strip worn round the neck
+MITTENS | Gloves without separate fingers
+ICICLE | Frozen spike hanging from a roof
+FLAKE | Single crystal of snow
+COCOA | Hot chocolate drink
+BOOTS | Warm waterproof footwear
+SHOVEL | Tool to clear the path
+IGLOO | Dome house made of ice blocks
+COLD | Opposite of hot

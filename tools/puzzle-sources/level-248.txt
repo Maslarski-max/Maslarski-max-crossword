@@ -1,0 +1,19 @@
+id: level-248
+title: Farmhouse Kitchen
+difficulty: EASY
+order: 248
+type: level
+size: 11
+seed: 248
+---
+STOVE | Appliance used to cook food
+OVEN | Enclosed chamber for baking
+KETTLE | Vessel that heats water
+JAR | Glass container for storing food
+SPOON | Utensil with a small curved bowl
+PLATE | Flat dish for serving food
+SINK | Basin with a water tap
+PANTRY | Small room for keeping food
+TAP | Fitting that releases water
+MIXER | Appliance that beats ingredients
+TABLE | Furniture where people eat

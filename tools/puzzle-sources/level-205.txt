@@ -1,0 +1,20 @@
+id: level-205
+title: Mountain Rescue
+difficulty: MEDIUM
+order: 205
+type: level
+size: 13
+seed: 205
+---
+SUMMIT | Highest point of a mountain
+ROPE | Strong cord used for climbing
+HARNESS | Straps that secure a climber
+CARABINER | Metal clip with a spring gate
+CRAMPON | Spiked frame attached to a boot on ice
+AVALANCHE | Rapid flow of snow down a slope
+BEACON | Device that helps rescuers locate someone
+STRETCHER | Frame used to carry an injured person
+ALTITUDE | Height above sea level
+SHELTER | Protected place to wait out bad weather
+HELICOPTER | Aircraft used to reach remote slopes
+RESCUER | Person who brings someone out of danger

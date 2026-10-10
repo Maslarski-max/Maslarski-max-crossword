@@ -1,0 +1,43 @@
+{
+  "id": "level-131",
+  "title": "Microbiology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#############P",
+    "B############A",
+    "AGAR#####V#M#T",
+    "C####PETRIDISH",
+    "T#Y##E###R#C#O",
+    "E#E##N###U#R#G",
+    "R#A#MICROSCOPE",
+    "I#S##C#####B#N",
+    "ANTIBIOTIC#E##",
+    "#####L###U####",
+    "####FLAGELLUM#",
+    "#####I###T####",
+    "#####N###U####",
+    "#########R####",
+    "#####SPORE####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Gel used as a growth medium",
+      "6": "Shallow lab plate for cultures",
+      "8": "Instrument for seeing tiny things",
+      "9": "Drug that kills bacteria",
+      "11": "Whip-like tail for movement",
+      "12": "Hardy reproductive cell"
+    },
+    "down": {
+      "1": "Disease-causing organism",
+      "2": "Single-celled microbes",
+      "4": "Infectious agent that hijacks cells",
+      "5": "Tiny living thing",
+      "6": "Fleming's discovery",
+      "7": "Fungus that leavens bread",
+      "10": "Colony grown in a lab"
+    }
+  },
+  "order": 131
+}

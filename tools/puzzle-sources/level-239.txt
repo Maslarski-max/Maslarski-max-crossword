@@ -1,0 +1,21 @@
+id: level-239
+title: Phonetics Laboratory
+difficulty: HARD
+order: 239
+type: level
+size: 15
+seed: 239
+---
+PHONEME | Smallest sound unit that distinguishes words
+ALLOPHONE | One of several pronunciations of a phoneme
+VOWEL | Speech sound made with an open vocal tract
+CONSONANT | Speech sound made with a narrowed vocal tract
+SYLLABLE | Unit of speech built around a vowel sound
+ARTICULATE | Produce a speech sound with the vocal organs
+FORMANT | Resonant frequency peak in a speech sound
+TONGUE | Muscle that helps shape speech sounds
+LARYNX | Voice box containing the vocal folds
+IPA | Alphabet used to represent speech sounds
+NASAL | Sound produced with air through the nose
+PHONATION | Production of voice by the vocal folds
+INTONATION | Rise and fall of pitch in speech

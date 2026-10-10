@@ -1,0 +1,39 @@
+{
+  "id": "level-168",
+  "title": "Sailboat Regatta",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#T#########",
+    "SAILOR#####",
+    "#C#E#####S#",
+    "#KEEL####P#",
+    "#L#W####JIB",
+    "REGATTA##N#",
+    "U##R#I###N#",
+    "D##D#L###A#",
+    "D#M##L#B#K#",
+    "E#A##E#U#E#",
+    "R#STARBOARD",
+    "##T####Y###"
+  ],
+  "clues": {
+    "across": {
+      "2": "Crew member aboard a small boat",
+      "5": "Long structure along the bottom of a hull",
+      "6": "Small triangular sail at the front",
+      "7": "Series of boat races",
+      "11": "Right side when facing the bow"
+    },
+    "down": {
+      "1": "Change direction by turning through the wind",
+      "3": "Side sheltered from the wind",
+      "4": "Large sail used with the wind behind",
+      "7": "Hinged blade used to steer",
+      "8": "Handle that moves the rudder",
+      "9": "Tall pole holding the sails",
+      "10": "Floating marker used on a course"
+    }
+  },
+  "order": 168
+}

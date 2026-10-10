@@ -1,0 +1,40 @@
+{
+  "id": "level-256",
+  "title": "Space Station",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##EXERCISE###",
+    "#A##X###T####",
+    "#I##P###A#T#A",
+    "#R#WEIGHTLESS",
+    "#L##R###I#L#T",
+    "DOCKING#O#E#R",
+    "#C##M###N#M#O",
+    "#K##E#M###E#N",
+    "S###N#O###T#A",
+    "ORBIT#D###R#U",
+    "L####SUPPLY#T",
+    "A#####L######",
+    "R#####E######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Activity used to keep muscles strong",
+      "7": "Condition of very weak apparent weight",
+      "8": "Joining of two spacecraft",
+      "11": "Curved path around a celestial body",
+      "12": "Food or equipment delivered to a crew"
+    },
+    "down": {
+      "2": "Test designed to answer a question",
+      "3": "Structure where a crew lives in orbit",
+      "4": "Chamber between spaces at different pressures",
+      "5": "Automatic transmission of measurement data",
+      "6": "Person trained to travel in space",
+      "9": "Separate section of a spacecraft",
+      "10": "Relating to the sun"
+    }
+  },
+  "order": 256
+}

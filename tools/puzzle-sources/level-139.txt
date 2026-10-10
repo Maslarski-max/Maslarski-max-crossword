@@ -1,0 +1,19 @@
+id: level-139
+title: Dinosaurs
+difficulty: EASY
+order: 139
+type: level
+size: 11
+seed: 139
+---
+FOSSIL | Remains in rock
+TREX | Tyrant lizard king
+EGG | Baby dinosaurs hatched from one
+BONES | Skeleton parts dug up
+CLAW | Sharp toe nail
+TAIL | Long end of a stegosaurus
+SWAMP | Wet muddy land
+ROAR | Loud scary noise
+HERD | Group of plant eaters
+EXTINCT | No longer alive anywhere
+MUSEUM | Place to see skeletons

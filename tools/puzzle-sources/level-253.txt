@@ -1,0 +1,20 @@
+id: level-253
+title: National Parks
+difficulty: MEDIUM
+order: 253
+type: level
+size: 13
+seed: 253
+---
+RANGER | Official who protects a park
+TRAIL | Marked route for walking
+CAMPGROUND | Place set aside for tents and campers
+WILDERNESS | Large natural area with little development
+WILDLIFE | Animals living freely in nature
+PRESERVE | Area protected from development
+VISITOR | Person who comes to see a place
+CANYON | Deep valley with steep sides
+MEADOW | Open grassy area
+SUMMIT | Top of a hill or mountain
+SCENERY | Natural features seen in a landscape
+BACKCOUNTRY | Remote area away from roads and towns

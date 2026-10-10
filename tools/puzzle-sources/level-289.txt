@@ -1,0 +1,20 @@
+id: level-289
+title: Steam Locomotives
+difficulty: MEDIUM
+order: 289
+type: level
+size: 13
+seed: 289
+---
+BOILER | Vessel that heats water to make steam
+PISTON | Sliding part driven by steam pressure
+CYLINDER | Chamber in which a piston moves
+FIREBOX | Part of an engine where fuel burns
+WHISTLE | Steam-powered signal on a locomotive
+TENDER | Car carrying fuel and water behind an engine
+RAILWAY | Track system used by trains
+VALVE | Device that controls steam flow
+SMOKEBOX | Chamber at the front of a steam engine
+DRIVER | Wheel that receives power from the pistons
+LOCOMOTIVE | Powered rail vehicle that pulls a train
+GAUGE | Distance between the rails

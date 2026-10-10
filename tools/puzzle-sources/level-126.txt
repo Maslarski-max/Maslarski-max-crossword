@@ -1,0 +1,21 @@
+id: level-126
+title: Volcanic Islands
+difficulty: HARD
+order: 126
+type: level
+size: 15
+seed: 126
+---
+HAWAII | Pacific state with Mauna Loa
+ICELAND | Land of fire and ice
+KRAKATOA | Volcano that erupted catastrophically in 1883
+SANTORINI | Greek island in a caldera
+GALAPAGOS | Islands that inspired Darwin
+CALDERA | Collapsed volcanic crater
+BASALT | Dark volcanic rock
+TSUNAMI | Giant wave from an undersea quake
+MAGMA | Molten rock below ground
+ARCHIPELAGO | Chain of islands
+ATOLL | Ring-shaped coral reef
+PUMICE | Light rock that floats
+FUMAROLE | Vent emitting steam and gas

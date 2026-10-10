@@ -1,0 +1,20 @@
+id: level-288
+title: Radio Astronomy
+difficulty: MEDIUM
+order: 288
+type: level
+size: 13
+seed: 288
+---
+RADIO | Part of the electromagnetic spectrum
+ANTENNA | Device that receives signals from space
+PULSAR | Spinning neutron star sending regular radio pulses
+QUASAR | Extremely bright distant galactic core
+DISH | Curved reflector that gathers radio waves
+SIGNAL | Measurable transmission from a source
+GALAXY | Vast system of stars and gas
+SPECTRUM | Range of wavelengths from a source
+TELESCOPE | Instrument for observing distant objects
+OBSERVE | Watch carefully to collect information
+COSMIC | Relating to the universe
+WAVELENGTH | Distance between repeating parts of a wave

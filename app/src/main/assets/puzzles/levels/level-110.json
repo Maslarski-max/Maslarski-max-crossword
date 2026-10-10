@@ -1,0 +1,37 @@
+{
+  "id": "level-110",
+  "title": "Playground",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####S#####",
+    "####BALL###",
+    "#####N#A###",
+    "#####D#D##F",
+    "B####P#D##R",
+    "E##SLIDE##I",
+    "N##E#T#ROPE",
+    "C##E######N",
+    "HOPSCOTCH#D",
+    "###A##A####",
+    "##SWING####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Round toy to kick or throw",
+      "6": "Smooth slope you whoosh down",
+      "7": "Skip with it",
+      "8": "Jumping game drawn in chalk",
+      "10": "Seat hung on chains that goes to and fro"
+    },
+    "down": {
+      "1": "Box of sand for digging",
+      "3": "Steps for climbing up",
+      "4": "Someone you like to play with",
+      "5": "Long seat for parents",
+      "6": "Plank that tips up and down",
+      "9": "Chasing game: you are it"
+    }
+  },
+  "order": 110
+}

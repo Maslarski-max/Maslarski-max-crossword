@@ -1,0 +1,20 @@
+id: level-259
+title: Printing Press
+difficulty: MEDIUM
+order: 259
+type: level
+size: 13
+seed: 259
+---
+TYPE | Raised letter used to print a page
+INK | Coloured liquid transferred to paper
+PRESS | Machine that transfers ink to a surface
+COMPOSITOR | Worker who arranges type for printing
+GALLEY | Tray holding lines of type
+IMPRESSION | Mark made by pressing one surface onto another
+PROOF | Trial print checked for errors
+PAPER | Thin sheet used for printing
+PLATEN | Flat plate that presses paper against type
+FONT | Set of letters in a particular design
+EDITION | Copies of a work printed together
+BOOKBIND | Join pages together to form a book

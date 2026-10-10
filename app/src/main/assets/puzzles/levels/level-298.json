@@ -1,0 +1,42 @@
+{
+  "id": "level-298",
+  "title": "Statistical Mechanics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#ENTROPY#ENERGY",
+    "###E#######Q###",
+    "#S#M###M###U###",
+    "#T#PROBABILITY#",
+    "#A#E###C###L###",
+    "#T#R#PARTITION#",
+    "#I#A#R#O###B##E",
+    "#S#T#E#S#T#R##N",
+    "#T#U#S#T#H#I##S",
+    "MICROSTATE#U##E",
+    "#C#E#U#T#R#M##M",
+    "#A###R#E#M####B",
+    "#L###E###A####L",
+    "#######MOLECULE"
+  ],
+  "clues": {
+    "across": {
+      "1": "Measure of the number of microscopic arrangements",
+      "3": "Capacity to do work or transfer heat",
+      "7": "Measure of how likely an event is",
+      "8": "Function that summarizes statistical states",
+      "11": "Specific microscopic arrangement of a system",
+      "12": "Group of atoms bonded together"
+    },
+    "down": {
+      "2": "Measure related to average thermal energy",
+      "4": "State with no net large-scale change",
+      "5": "Relating to probability and data",
+      "6": "Large-scale description of a system",
+      "8": "Force exerted per unit area",
+      "9": "Collection of possible states used in a model",
+      "10": "Relating to heat"
+    }
+  },
+  "order": 298
+}

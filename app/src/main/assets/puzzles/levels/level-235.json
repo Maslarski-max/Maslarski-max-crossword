@@ -1,0 +1,43 @@
+{
+  "id": "level-235",
+  "title": "Atmospheric Optics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##M###S##I#####",
+    "##I###C##R#####",
+    "##REFRACTION###",
+    "##A###T##D####C",
+    "##G###T##E#S##O",
+    "##E#CREPUSCULAR",
+    "######R##C#N##O",
+    "#####DISPERSION",
+    "#R####N##N#E##A",
+    "RAYLEIGH#C#T###",
+    "#I#####A#E#####",
+    "#N#####L#######",
+    "#B##ATMOSPHERE#",
+    "#O#############",
+    "TWILIGHT#######"
+  ],
+  "clues": {
+    "across": {
+      "4": "Bending of light as it passes between materials",
+      "7": "Relating to twilight",
+      "8": "Separation of light into different wavelengths",
+      "10": "Name of scattering that favours shorter wavelengths",
+      "12": "Layer of gases surrounding a planet",
+      "13": "Period of dim light after sunset"
+    },
+    "down": {
+      "1": "Optical effect caused by layers of air",
+      "2": "Redirection of light by particles",
+      "3": "Shifting display of colours on a surface",
+      "5": "Glow close around a bright celestial object",
+      "6": "Time when the sun goes below the horizon",
+      "9": "Arc of colours formed by water droplets",
+      "11": "Ring of light around the sun or moon"
+    }
+  },
+  "order": 235
+}

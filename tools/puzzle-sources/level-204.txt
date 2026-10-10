@@ -1,0 +1,20 @@
+id: level-204
+title: Desert Caravan
+difficulty: MEDIUM
+order: 204
+type: level
+size: 13
+seed: 204
+---
+CARAVAN | Group travelling together across a region
+OASIS | Fertile spot with water in dry country
+CAMEL | Long-legged animal used to carry loads
+SADDLE | Seat placed on an animal's back
+CANVAS | Strong cloth used for a shade shelter
+CISTERN | Tank for storing collected water
+MIRAGE | Optical effect that can resemble distant water
+SCORPION | Arachnid with a curved tail
+SANDSTONE | Rock formed from compressed sand grains
+GUIDE | Person who leads travellers
+WATERSKIN | Flexible container carried by a traveller
+TRADER | Person who buys and sells goods

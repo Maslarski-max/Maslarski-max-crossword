@@ -1,0 +1,40 @@
+{
+  "id": "level-225",
+  "title": "Lighthouse Keepers",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "C##C#######",
+    "L#ROTATION#",
+    "I##A#######",
+    "FOGSIGNAL##",
+    "F##T####A##",
+    "######LENS#",
+    "####T###T##",
+    "##SHIPWRECK",
+    "####D#I#R#E",
+    "###BEACON#E",
+    "######K###P",
+    "##########E",
+    "#####HARBOR"
+  ],
+  "clues": {
+    "across": {
+      "3": "Turning motion of a light mechanism",
+      "4": "Warning sound heard in mist",
+      "6": "Curved glass that focuses a beam",
+      "8": "Destruction of a vessel at sea",
+      "11": "Signal that helps sailors find a route",
+      "12": "Sheltered place where boats can anchor"
+    },
+    "down": {
+      "1": "Steep rock face above the shore",
+      "2": "Land beside the sea",
+      "5": "Enclosed lamp used to guide vessels",
+      "7": "Regular rise and fall of the sea",
+      "9": "Fibrous part that draws fuel to a flame",
+      "10": "Person who maintains a lighthouse"
+    }
+  },
+  "order": 225
+}

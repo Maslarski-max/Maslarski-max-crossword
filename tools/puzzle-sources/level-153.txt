@@ -1,0 +1,21 @@
+id: level-153
+title: Silk Road
+difficulty: HARD
+order: 153
+type: level
+size: 15
+seed: 153
+---
+CARAVAN | Travelling group of traders
+SAMARKAND | Uzbek trading city
+CAMEL | Beast of burden in the desert
+SPICE | Valuable seasoning traded west
+SILK | Fabric that named the route
+MARCOPOLO | Venetian who reached China
+CARAVANSERAI | Roadside inn for traders
+JADE | Prized green stone
+PORCELAIN | Fine white ceramic
+KASHGAR | Oasis city in western China
+MERCHANT | Trader
+BAZAAR | Market in the Middle East
+NOMAD | Wandering herder

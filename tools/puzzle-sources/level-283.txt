@@ -1,0 +1,20 @@
+id: level-283
+title: Desert Botany
+difficulty: MEDIUM
+order: 283
+type: level
+size: 13
+seed: 283
+---
+CACTUS | Spiny plant adapted to dry conditions
+SUCCULENT | Plant that stores water in thick tissues
+WAXY | Having a surface that helps limit water loss
+THORN | Sharp point growing on a plant
+ROOTLET | Small branch of a plant's root
+SEEDBANK | Seeds stored naturally in soil
+DORMANT | Temporarily inactive during harsh conditions
+POLLEN | Fine grains involved in plant reproduction
+FLOWER | Plant structure that can form seeds
+RAINFALL | Water that descends from clouds
+XEROPHYTE | Plant adapted to very dry conditions
+SHADE | Shelter from direct sunlight

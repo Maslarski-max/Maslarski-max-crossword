@@ -1,0 +1,19 @@
+id: level-159
+title: Art Supplies
+difficulty: EASY
+order: 159
+type: level
+size: 11
+seed: 159
+---
+PAINT | Colour in a tube or pot
+BRUSH | Tool with bristles for painting
+CRAYON | Wax stick for drawing
+CANVAS | Cloth stretched for painting
+PALETTE | Board for mixing colours
+EASEL | Stand that holds a picture
+SKETCH | Quick simple drawing
+PAPER | Thin material for writing or drawing
+PASTEL | Soft stick of coloured chalk
+SMOCK | Shirt worn to protect clothes
+INK | Dark liquid used for writing

@@ -1,0 +1,20 @@
+id: level-200
+title: Underground Railway
+difficulty: MEDIUM
+order: 200
+type: level
+size: 13
+seed: 200
+---
+TUNNEL | Passage dug beneath the ground
+PLATFORM | Raised area where riders board a train
+SUBWAY | City railway running mostly below ground
+ESCALATOR | Moving stairway inside a station
+TURNSTILE | Rotating gate that admits one rider at a time
+SIGNAL | Device that tells a train when to proceed
+CONDUCTOR | Railway worker who checks fares or helps riders
+CAROUSEL | Circular display for signs or luggage
+VENTILATE | Circulate fresh air through an enclosed space
+TRACK | Rails that guide a train
+COMMUTER | Person who travels regularly to work
+STATION | Place where a train stops for riders

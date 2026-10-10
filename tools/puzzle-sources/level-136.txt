@@ -1,0 +1,19 @@
+id: level-136
+title: Music Class
+difficulty: EASY
+order: 136
+type: level
+size: 11
+seed: 136
+---
+DRUM | Instrument you hit with sticks
+PIANO | Black and white keys
+GUITAR | Six-stringed strummer
+FLUTE | Silver pipe blown sideways
+SONG | Words set to music
+NOTE | Single musical sound
+CHOIR | Group of singers
+BELL | It rings with a ding
+TRUMPET | Brass horn with three valves
+BAND | Group of musicians
+HUM | Sing with your mouth shut

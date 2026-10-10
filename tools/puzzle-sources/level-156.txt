@@ -1,0 +1,21 @@
+id: level-156
+title: Opera Heroines
+difficulty: HARD
+order: 156
+type: level
+size: 15
+seed: 156
+---
+CARMEN | Bizet's gypsy
+TOSCA | Puccini's singer who leaps
+AIDA | Ethiopian princess of Verdi
+MIMI | Seamstress of La Boheme
+VIOLETTA | Heroine of La Traviata
+NORMA | Bellini's druid priestess
+SALOME | Strauss heroine of the seven veils
+LUCIA | Mad bride of Lammermoor
+ISOLDE | Wagner's Irish princess
+BUTTERFLY | Madama of Nagasaki
+ARIA | Solo song
+SOPRANO | Highest female voice
+DIVA | Celebrated female singer

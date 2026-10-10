@@ -1,0 +1,20 @@
+id: level-124
+title: Newspaper
+difficulty: MEDIUM
+order: 124
+type: level
+size: 13
+seed: 124
+---
+HEADLINE | Big bold title on page one
+EDITOR | Person in charge of content
+COLUMN | Regular opinion piece
+REPORTER | Journalist who gathers news
+CROSSWORD | Grid puzzle on the back pages
+OBITUARY | Notice of a death
+HOROSCOPE | Star-sign forecast
+CARTOON | Funny drawing
+PRESS | Printing machine, or the media
+DEADLINE | Time a story must be finished
+SCOOP | Exclusive story
+ISSUE | Single edition

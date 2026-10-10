@@ -1,0 +1,19 @@
+id: level-274
+title: Home Repair
+difficulty: EASY
+order: 274
+type: level
+size: 11
+seed: 274
+---
+HAMMER | Tool used to drive nails
+SCREW | Fastener turned with a tool
+DRILL | Tool that makes holes
+PAINT | Coloured coating for a wall
+BRUSH | Tool used to spread paint
+HINGE | Joint that lets a door swing
+LADDER | Climbable frame used to reach high places
+WRENCH | Tool for turning nuts and bolts
+LEAK | Unwanted escape of water
+PATCH | Small piece that covers a damaged spot
+TOOLBOX | Box for keeping repair equipment

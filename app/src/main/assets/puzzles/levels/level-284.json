@@ -1,0 +1,39 @@
+{
+  "id": "level-284",
+  "title": "Antarctic Ocean",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#S##P#######",
+    "RESEARCH#K##",
+    "#A##C####R#C",
+    "PLANKTON#I#U",
+    "##N#I####L#R",
+    "##T#C##POLAR",
+    "WHALE#V####E",
+    "##R##PENGUIN",
+    "##C###S####T",
+    "##T###S#####",
+    "##ICEBERG###",
+    "##C###L#####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Careful study to learn new facts",
+      "6": "Tiny drifting organisms in water",
+      "8": "Relating to the Earth's cold regions",
+      "9": "Very large marine mammal",
+      "11": "Flightless seabird of the southern hemisphere",
+      "12": "Large floating mass of freshwater ice"
+    },
+    "down": {
+      "1": "Marine mammal with flippers",
+      "2": "Sea ice gathered into a broad sheet",
+      "4": "Small crustacean eaten by whales",
+      "5": "Flow of ocean water",
+      "7": "Relating to the region around the South Pole",
+      "10": "Ship used for travel or work"
+    }
+  },
+  "order": 284
+}

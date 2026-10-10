@@ -1,0 +1,21 @@
+id: level-155
+title: Navigation
+difficulty: HARD
+order: 155
+type: level
+size: 15
+seed: 155
+---
+LATITUDE | Distance north or south
+LONGITUDE | Distance east or west
+SEXTANT | Instrument for measuring star angles
+MERIDIAN | Line of longitude
+COMPASS | Magnetic direction finder
+BEARING | Direction to a point
+KNOT | Nautical mile per hour
+CHART | Sea map
+EQUATOR | Zero degrees latitude
+WAYPOINT | Stop on a planned route
+ASTROLABE | Ancient star instrument
+LIGHTHOUSE | Coastal warning tower
+TROPIC | Line of Cancer or Capricorn

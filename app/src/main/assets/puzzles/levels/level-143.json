@@ -1,0 +1,41 @@
+{
+  "id": "level-143",
+  "title": "Card Games",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###SHUFFLE#",
+    "###O#######",
+    "##BLACKJACK",
+    "###I###O###",
+    "###T#POKER#",
+    "###A###E#U#",
+    "#D#I##TRUMP",
+    "HEARTS###M#",
+    "#A#E#P###Y#",
+    "#L###ACE###",
+    "#E###D#####",
+    "BRIDGE#####",
+    "#####SNAP##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Mix the deck",
+      "2": "Aim for twenty-one",
+      "4": "Bluffing game with chips",
+      "7": "Suit that beats the others",
+      "8": "Red suit",
+      "10": "Highest card in many games",
+      "11": "Partnership bidding game",
+      "12": "Shout it when cards match"
+    },
+    "down": {
+      "1": "Game for one player",
+      "3": "Wild card",
+      "5": "Game of sets and runs",
+      "6": "Person handing out cards",
+      "9": "Black suit"
+    }
+  },
+  "order": 143
+}

@@ -1,0 +1,43 @@
+{
+  "id": "level-261",
+  "title": "Planetary Geology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###########B###",
+    "###########A###",
+    "########EROSION",
+    "###########A###",
+    "#######REGOLITH",
+    "#####M#I###T###",
+    "####GEOLOGY#V##",
+    "###M#T#L####O##",
+    "#PLANETESIMAL##",
+    "###N#O###M##C##",
+    "CRATER###P#LAVA",
+    "###L#I###A##N##",
+    "##TECTONIC##I##",
+    "#####E###T##S##",
+    "############M##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Wearing away of rock by natural forces",
+      "3": "Loose material covering solid rock on a world",
+      "5": "Study of a world's rocks and structure",
+      "8": "Small early body that helped form planets",
+      "10": "Bowl-shaped hollow made by impact or eruption",
+      "11": "Molten rock that reaches the surface",
+      "12": "Relating to large moving sections of crust"
+    },
+    "down": {
+      "1": "Dark volcanic rock",
+      "3": "Long narrow valley on the moon",
+      "4": "Space fragment recovered after reaching the ground",
+      "6": "Processes involving the eruption of molten rock",
+      "7": "Layer beneath a planet's crust",
+      "9": "Collision of one object with another"
+    }
+  },
+  "order": 261
+}

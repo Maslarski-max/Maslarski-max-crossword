@@ -1,0 +1,40 @@
+{
+  "id": "level-204",
+  "title": "Desert Caravan",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##O#C######",
+    "##A#A#T####",
+    "##S#MIRAGE#",
+    "GUIDE#A####",
+    "##S#L#D###C",
+    "######E#C#A",
+    "#C#SCORPION",
+    "#A#A####S#V",
+    "#R#D####T#A",
+    "SANDSTONE#S",
+    "#V#L####R##",
+    "WATERSKIN##",
+    "#N#########"
+  ],
+  "clues": {
+    "across": {
+      "4": "Optical effect that can resemble distant water",
+      "5": "Person who leads travellers",
+      "9": "Arachnid with a curved tail",
+      "10": "Rock formed from compressed sand grains",
+      "11": "Flexible container carried by a traveller"
+    },
+    "down": {
+      "1": "Fertile spot with water in dry country",
+      "2": "Long-legged animal used to carry loads",
+      "3": "Person who buys and sells goods",
+      "6": "Strong cloth used for a shade shelter",
+      "7": "Tank for storing collected water",
+      "8": "Group travelling together across a region",
+      "9": "Seat placed on an animal's back"
+    }
+  },
+  "order": 204
+}

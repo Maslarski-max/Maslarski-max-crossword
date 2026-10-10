@@ -1,0 +1,19 @@
+id: level-113
+title: Little Cottage
+difficulty: EASY
+order: 113
+type: level
+size: 11
+seed: 113
+---
+DOOR | You open it to go inside
+WINDOW | Glass pane in a wall
+ROOF | Top covering of a house
+CHIMNEY | Smoke goes up it
+GARDEN | Patch of flowers by the house
+GATE | Opening in a fence
+STAIRS | Steps between floors
+KITCHEN | Room where meals are cooked
+BEDROOM | Room where you sleep
+ATTIC | Room right under the roof
+PORCH | Covered entrance to a house

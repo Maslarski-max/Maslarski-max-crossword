@@ -1,0 +1,37 @@
+{
+  "id": "level-252",
+  "title": "Home Movie Night",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "PAUSE######",
+    "###N#######",
+    "###A#R#####",
+    "###CREDITS#",
+    "###K#M###C#",
+    "####POPCORN",
+    "#M###T#O#E#",
+    "VOLUME#U#E#",
+    "#V####SCENE",
+    "PILLOW#H###",
+    "#E#########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Stop a film temporarily",
+      "4": "Names shown at the end of a film",
+      "6": "Puffed snack eaten during a film",
+      "9": "Loudness of the sound",
+      "10": "Part of a film set in one time or place",
+      "11": "Soft cushion for resting"
+    },
+    "down": {
+      "2": "Small bite between meals",
+      "3": "Handheld device for controlling a television",
+      "5": "Surface on which a film is shown",
+      "7": "Long seat for several people",
+      "8": "Story shown using moving images"
+    }
+  },
+  "order": 252
+}

@@ -1,0 +1,20 @@
+id: level-287
+title: Food Preservation
+difficulty: MEDIUM
+order: 287
+type: level
+size: 13
+seed: 287
+---
+PICKLE | Food kept in vinegar or brine
+FERMENT | Let microbes transform food
+JAM | Fruit cooked with sugar until thick
+DRYING | Removing water from food
+SMOKE | Treat food with fumes from burning wood
+BRINE | Salty water used to preserve food
+JAR | Glass container for storing food
+SEAL | Close a container to keep air out
+FREEZE | Cool food below its freezing point
+PANTRY | Place where stored food is kept
+VINEGAR | Sour liquid used in pickling
+PRESERVE | Prepare food so it lasts longer

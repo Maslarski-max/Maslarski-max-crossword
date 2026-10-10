@@ -1,0 +1,19 @@
+id: level-163
+title: Construction Site
+difficulty: EASY
+order: 163
+type: level
+size: 11
+seed: 163
+---
+CRANE | Tall machine that lifts heavy loads
+CEMENT | Powder mixed with water for building
+BRICKS | Blocks used to build a wall
+BEAM | Long strong piece that supports a roof
+LEVEL | Tool that checks if a surface is flat
+NAILS | Metal pins used to join wood
+TRUCK | Vehicle that carries building supplies
+HARDHAT | Protective cap worn at work
+VEST | Bright clothing that helps workers be seen
+PLANS | Drawings that guide a building project
+SITE | Place where a building is being made

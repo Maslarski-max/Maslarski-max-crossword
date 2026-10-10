@@ -1,0 +1,20 @@
+id: level-257
+title: Theatre Lighting
+difficulty: MEDIUM
+order: 257
+type: level
+size: 13
+seed: 257
+---
+SPOTLIGHT | Narrow beam that follows a performer
+DIMMER | Control that changes a lamp's brightness
+GEL | Coloured sheet placed before a stage light
+FRESNEL | Spotlight with a ridged lens
+GOBOS | Cutout patterns placed in front of a light
+RIGGER | Worker who hangs equipment above a stage
+BLACKOUT | Sudden removal of all stage lighting
+FOLLOWSPOT | Light directed manually at a moving performer
+AMBER | Warm yellow-orange lighting colour
+LANTERN | Stage-light unit in theatre terminology
+CUE | Signal for a technical change
+FOCUS | Adjust a beam to a chosen area

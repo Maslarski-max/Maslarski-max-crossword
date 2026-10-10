@@ -1,0 +1,21 @@
+id: level-183
+title: Orbital Mechanics
+difficulty: HARD
+order: 183
+type: level
+size: 15
+seed: 183
+---
+APOGEE | Point in an orbit farthest from Earth
+PERIGEE | Point in an orbit nearest to Earth
+ECCENTRICITY | Measure of how stretched an orbit is
+INCLINATION | Tilt of an orbit compared with a reference plane
+PRECESSION | Slow change in the direction of an orbit's axis
+GRAVITY | Attraction between objects with mass
+VELOCITY | Speed together with a direction
+ESCAPE | Motion that overcomes a body's gravitational pull
+ELLIPSE | Oval curve followed by many orbiting bodies
+SATELLITE | Object that travels around a larger body
+LAGRANGE | Name for a special point in a two-body system
+ORBITAL | Relating to a path around a body
+PERTURBATION | Small change to an object's expected motion

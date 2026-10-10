@@ -1,0 +1,43 @@
+{
+  "id": "level-297",
+  "title": "Archaeogenetics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "S########P#A#B#",
+    "E##M#HAPLOGROUP",
+    "Q##I#####P#C#R#",
+    "U##G#####U#H#I#",
+    "E##R#####L#A#A#",
+    "N##A###A#A#E#L#",
+    "CONTAMINATION##",
+    "I##I###C#I#L#G#",
+    "N##O###ISOTOPE#",
+    "G##N###E#N#G#N#",
+    "#######N###Y#O#",
+    "#EXCAVATION##M#",
+    "#######D#####E#",
+    "SKELETON#######",
+    "#######ANCESTRY"
+  ],
+  "clues": {
+    "across": {
+      "6": "Set of related genetic lineages",
+      "8": "Unwanted material that affects a sample",
+      "10": "Form of an element with a different neutron count",
+      "11": "Careful uncovering of buried remains",
+      "12": "Framework of bones in a body",
+      "13": "Line of descent from earlier generations"
+    },
+    "down": {
+      "1": "Finding the order of DNA building blocks",
+      "2": "Group of people living in a region",
+      "3": "Study of past people through material remains",
+      "4": "Placing a body or object in the ground",
+      "5": "Movement from one region to another",
+      "7": "Genetic material recovered from old remains",
+      "9": "Complete set of genetic material"
+    }
+  },
+  "order": 297
+}

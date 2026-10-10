@@ -1,0 +1,21 @@
+id: level-154
+title: Neuroscience
+difficulty: HARD
+order: 154
+type: level
+size: 15
+seed: 154
+---
+NEURON | Nerve cell
+SYNAPSE | Gap between nerve cells
+DENDRITE | Branch receiving signals
+AXON | Fibre carrying signals away
+CORTEX | Outer layer of the brain
+CEREBELLUM | Balance centre of the brain
+DOPAMINE | Reward chemical
+SEROTONIN | Mood-regulating chemical
+HIPPOCAMPUS | Memory structure
+MYELIN | Fatty insulating sheath
+REFLEX | Automatic response
+PLASTICITY | Brain's ability to rewire
+LOBE | Section of the brain

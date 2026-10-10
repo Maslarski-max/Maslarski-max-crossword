@@ -1,0 +1,40 @@
+{
+  "id": "level-257",
+  "title": "Theatre Lighting",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##A#G######",
+    "DIMMER#####",
+    "##B#L######",
+    "##E########",
+    "#FRESNEL###",
+    "####P###G##",
+    "FOLLOWSPOT#",
+    "O###T###B##",
+    "C##BLACKOUT",
+    "U###I#U#S##",
+    "S#RIGGER###",
+    "####H######",
+    "#LANTERN###"
+  ],
+  "clues": {
+    "across": {
+      "3": "Control that changes a lamp's brightness",
+      "4": "Spotlight with a ridged lens",
+      "7": "Light directed manually at a moving performer",
+      "8": "Sudden removal of all stage lighting",
+      "10": "Worker who hangs equipment above a stage",
+      "11": "Stage-light unit in theatre terminology"
+    },
+    "down": {
+      "1": "Warm yellow-orange lighting colour",
+      "2": "Coloured sheet placed before a stage light",
+      "5": "Narrow beam that follows a performer",
+      "6": "Cutout patterns placed in front of a light",
+      "7": "Adjust a beam to a chosen area",
+      "9": "Signal for a technical change"
+    }
+  },
+  "order": 257
+}

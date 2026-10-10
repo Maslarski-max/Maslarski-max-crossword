@@ -1,0 +1,20 @@
+id: level-256
+title: Space Station
+difficulty: MEDIUM
+order: 256
+type: level
+size: 13
+seed: 256
+---
+WEIGHTLESS | Condition of very weak apparent weight
+AIRLOCK | Chamber between spaces at different pressures
+MODULE | Separate section of a spacecraft
+DOCKING | Joining of two spacecraft
+ASTRONAUT | Person trained to travel in space
+ORBIT | Curved path around a celestial body
+SOLAR | Relating to the sun
+SUPPLY | Food or equipment delivered to a crew
+EXERCISE | Activity used to keep muscles strong
+EXPERIMENT | Test designed to answer a question
+STATION | Structure where a crew lives in orbit
+TELEMETRY | Automatic transmission of measurement data

@@ -1,0 +1,37 @@
+{
+  "id": "level-140",
+  "title": "Pond Life",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#M###F##L#",
+    "#U###R##I#",
+    "#DRAGONFLY",
+    "##E##G##Y#",
+    "#NEWT#####",
+    "##D#A#####",
+    "####DUCK##",
+    "F#S#P#####",
+    "I#W#O#####",
+    "SNAIL#####",
+    "H#N#E#####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Insect with shimmering wings",
+      "6": "Small spotted amphibian",
+      "8": "Bird that quacks",
+      "11": "Slow creature with a shell"
+    },
+    "down": {
+      "1": "Wet earth at the bottom",
+      "2": "Green hopper that croaks",
+      "3": "Floating pad flower",
+      "5": "Tall grass at the water's edge",
+      "7": "Baby frog with a tail",
+      "9": "Swimmer with fins",
+      "10": "Graceful white water bird"
+    }
+  },
+  "order": 140
+}

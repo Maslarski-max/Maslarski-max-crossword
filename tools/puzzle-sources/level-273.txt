@@ -1,0 +1,19 @@
+id: level-273
+title: Town Parade
+difficulty: EASY
+order: 273
+type: level
+size: 11
+seed: 273
+---
+PARADE | Line of people marching for a celebration
+DRUM | Instrument struck to keep a beat
+FLOAT | Decorated platform moving along a route
+FLAG | Cloth emblem on a pole
+MARCH | Walk together in a steady rhythm
+BOOTS | Sturdy footwear for marching
+BANNER | Long sign carried above a crowd
+MUSIC | Organized sounds played for a crowd
+ROUTE | Planned path from one place to another
+CLAP | Strike hands together to show approval
+CHEER | Shout to show support

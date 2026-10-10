@@ -1,0 +1,37 @@
+{
+  "id": "level-193",
+  "title": "Watercolor Class",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "####SKY##",
+    "#WASH####",
+    "####A####",
+    "B###DRIP#",
+    "RINSE##A#",
+    "U####W#L#",
+    "S#P#PAPER",
+    "H#A##T#T#",
+    "#PIGMENT#",
+    "##N##R#E#",
+    "##T##Y###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Blue expanse above the land",
+      "2": "Thin layer of watery paint",
+      "4": "Small drop falling from a brush",
+      "6": "Clean a brush in water",
+      "9": "Flat sheet used as a painting surface",
+      "10": "Material that gives paint its colour"
+    },
+    "down": {
+      "1": "Darker or lighter version of a colour",
+      "3": "Tool with bristles for applying paint",
+      "5": "Surface for mixing paint",
+      "7": "Paint consistency after adding plenty of water",
+      "8": "Coloured liquid used to make pictures"
+    }
+  },
+  "order": 193
+}

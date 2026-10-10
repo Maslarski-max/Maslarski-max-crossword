@@ -1,0 +1,41 @@
+{
+  "id": "level-268",
+  "title": "Nuclear Physics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "####D##PROTON##",
+    "####E###A######",
+    "#F##C###D######",
+    "#U#HALFLIFE####",
+    "#S##Y#I#A##R###",
+    "#I###ISOTOPE###",
+    "#O#N##S#I##A###",
+    "#NEUTRINO##C###",
+    "###C##O#NEUTRON",
+    "NUCLEON####O###",
+    "###E#######R###",
+    "#PLASMA########",
+    "###R###########"
+  ],
+  "clues": {
+    "across": {
+      "2": "Positively charged particle in a nucleus",
+      "5": "Time for half of a sample to decay",
+      "8": "Form of an element with a different neutron count",
+      "10": "Nearly massless particle that rarely interacts",
+      "11": "Uncharged particle in an atomic nucleus",
+      "12": "Proton or neutron in an atomic nucleus",
+      "13": "Ionized gas of charged particles"
+    },
+    "down": {
+      "1": "Spontaneous change of an unstable nucleus",
+      "3": "Energy emitted as waves or particles",
+      "4": "Joining of light atomic nuclei",
+      "6": "Splitting of a heavy atomic nucleus",
+      "7": "Device that sustains a controlled nuclear reaction",
+      "9": "Relating to an atomic nucleus"
+    }
+  },
+  "order": 268
+}

@@ -1,0 +1,42 @@
+{
+  "id": "level-264",
+  "title": "Ocean Paleoclimate",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##I#F##I####C##",
+    "MICROFOSSIL#A#T",
+    "##E#R##O####R#E",
+    "##C#A##T####B#M",
+    "##O#M##O##G#O#P",
+    "##R#I##POLLEN#E",
+    "##E#N##E##A#A#R",
+    "P###I#####C#T#A",
+    "R###F##SEDIMENT",
+    "OXYGEN##P#A###U",
+    "X###R###O#T###R",
+    "Y##PALEOCLIMATE",
+    "########H#O####",
+    "##########N####"
+  ],
+  "clues": {
+    "across": {
+      "5": "Fossil too small to study without magnification",
+      "8": "Plant grains preserved in lake deposits",
+      "10": "Material deposited in layers",
+      "12": "Gas preserved in clues to ancient environments",
+      "13": "Climate of an earlier period in Earth's history"
+    },
+    "down": {
+      "1": "Cylinder of ice drilled for climate records",
+      "2": "Tiny marine organisms with chambered shells",
+      "3": "Atoms of an element with different neutron counts",
+      "4": "Mineral compound containing carbon and oxygen",
+      "6": "Measure of how hot or cold something is",
+      "7": "Expansion of glaciers over a region",
+      "9": "Indirect evidence used to infer past conditions",
+      "11": "Division of geological time"
+    }
+  },
+  "order": 264
+}

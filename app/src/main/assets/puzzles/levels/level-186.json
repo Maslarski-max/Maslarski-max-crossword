@@ -1,0 +1,41 @@
+{
+  "id": "level-186",
+  "title": "Ancient Coinage",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "####SPECIE###A",
+    "##R##O#######L",
+    "##E#DRACHMA##L",
+    "##V##T#O#####O",
+    "#DENARIUS#TROY",
+    "M#R##A#N####B#",
+    "INSCRIPTION#V#",
+    "N#E##T#E####E#",
+    "T######R####R#",
+    "##NUMISMATICS#",
+    "#######A####E#",
+    "#TREASURY#####",
+    "#######K######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Coins made from precious metal",
+      "5": "Ancient Greek unit of money and weight",
+      "7": "Silver coin used in ancient Rome",
+      "8": "Weight system used for precious metals",
+      "11": "Words engraved on a hard surface",
+      "12": "Study or collection of coins and currency",
+      "13": "Place where public money is kept"
+    },
+    "down": {
+      "2": "Image of a person on a coin",
+      "3": "Mixture of two or more metals",
+      "4": "Back side of a coin",
+      "6": "Extra stamped mark added to a coin",
+      "9": "Front side of a coin",
+      "10": "Place where coins are made"
+    }
+  },
+  "order": 186
+}

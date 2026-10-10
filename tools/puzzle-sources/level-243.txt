@@ -1,0 +1,21 @@
+id: level-243
+title: Ocean Currents
+difficulty: HARD
+order: 243
+type: level
+size: 15
+seed: 243
+---
+THERMOHALINE | Driven by differences in heat and salt
+UPWELLING | Rise of deep water toward the surface
+GYRE | Large circulating system of ocean currents
+CORIOLIS | Effect that deflects moving air and water on Earth
+CURRENT | Directed flow of ocean water
+SALINITY | Amount of dissolved salt in water
+CONVECTION | Movement driven by differences in temperature
+EKMAN | Name for wind-driven transport in the ocean
+BOUNDARY | Edge separating two water masses
+EQUATORIAL | Relating to the region around Earth's equator
+SINKING | Downward movement of surface water
+DRIFT | Slow movement carried by water or wind
+UPWELL | Bring deeper water toward the surface

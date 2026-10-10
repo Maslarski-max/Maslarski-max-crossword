@@ -1,0 +1,40 @@
+{
+  "id": "level-232",
+  "title": "Tropical Medicine",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##O##V#M###F",
+    "##U#PARASITE",
+    "T#T##C#L###V",
+    "R#B##C#A###E",
+    "O#R##I#R#I#R",
+    "PREVENTION##",
+    "I#A##E#A#F#V",
+    "C#K######E#E",
+    "A###CLINIC#C",
+    "L########T#T",
+    "####MOSQUITO",
+    "#########O#R",
+    "#HYDRATION##"
+  ],
+  "clues": {
+    "across": {
+      "5": "Organism living on or in another organism",
+      "8": "Action taken to stop an illness",
+      "10": "Place where people receive medical care",
+      "11": "Insect that can transmit malaria",
+      "12": "Replacing water lost by the body"
+    },
+    "down": {
+      "1": "Sudden rise in cases of a disease",
+      "2": "Preparation that trains the immune system",
+      "3": "Disease caused by a parasite spread by mosquitoes",
+      "4": "Higher-than-normal body temperature",
+      "6": "Relating to the warm regions near the equator",
+      "7": "Growth of harmful microbes in the body",
+      "9": "Organism that carries a disease between hosts"
+    }
+  },
+  "order": 232
+}

@@ -1,0 +1,37 @@
+{
+  "id": "level-273",
+  "title": "Town Parade",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####B####",
+    "###FLAG###",
+    "###L#N##B#",
+    "#M#O#N##O#",
+    "PARADE##O#",
+    "#R#T#ROUTE",
+    "#C##D###S#",
+    "CHEER#####",
+    "L###U#####",
+    "A###MUSIC#",
+    "P#########"
+  ],
+  "clues": {
+    "across": {
+      "2": "Cloth emblem on a pole",
+      "5": "Line of people marching for a celebration",
+      "6": "Planned path from one place to another",
+      "8": "Shout to show support",
+      "9": "Organized sounds played for a crowd"
+    },
+    "down": {
+      "1": "Long sign carried above a crowd",
+      "2": "Decorated platform moving along a route",
+      "3": "Sturdy footwear for marching",
+      "4": "Walk together in a steady rhythm",
+      "7": "Instrument struck to keep a beat",
+      "8": "Strike hands together to show approval"
+    }
+  },
+  "order": 273
+}

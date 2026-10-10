@@ -1,0 +1,41 @@
+{
+  "id": "level-146",
+  "title": "Photography",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#Z##T########",
+    "PORTRAIT#####",
+    "#O##I########",
+    "#M##P#F######",
+    "##C#O#O#A##S#",
+    "#LANDSCAPE#E#",
+    "##M###U#E##L#",
+    "##EXPOSURE#F#",
+    "##R#####T##I#",
+    "FLASH#SHUTTER",
+    "#E######R####",
+    "#NEGATIVE####",
+    "#S###########"
+  ],
+  "clues": {
+    "across": {
+      "3": "Photo of a person",
+      "8": "Wide scenic shot",
+      "9": "Amount of light captured",
+      "10": "Sudden burst of light",
+      "12": "Opens to expose the sensor",
+      "13": "Reversed film image"
+    },
+    "down": {
+      "1": "Lens that brings things closer",
+      "2": "Three-legged stand",
+      "4": "Make it sharp",
+      "5": "Device that takes pictures",
+      "6": "Size of the lens opening",
+      "7": "Picture of yourself",
+      "11": "Glass that focuses light"
+    }
+  },
+  "order": 146
+}

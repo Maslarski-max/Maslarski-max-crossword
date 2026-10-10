@@ -1,0 +1,40 @@
+{
+  "id": "level-178",
+  "title": "Chocolate Chemistry",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#T#########",
+    "#EMULSION##",
+    "#M###U#####",
+    "#P###G#V###",
+    "MELT#A#I##F",
+    "#R##CRYSTAL",
+    "##G####C##A",
+    "C#A#COCOA#V",
+    "O#N#A##S##O",
+    "N#A#C##I##U",
+    "COCOABUTTER",
+    "H#H#O##Y###",
+    "E#E########"
+  ],
+  "clues": {
+    "across": {
+      "2": "Mixture of liquids that do not usually combine",
+      "5": "Change from a solid into a liquid",
+      "7": "Solid with an ordered internal structure",
+      "10": "Powder made from roasted cacao beans",
+      "11": "Fat extracted from cacao beans"
+    },
+    "down": {
+      "1": "Carefully heat and cool melted chocolate",
+      "3": "Sweet crystals used in chocolate",
+      "4": "Resistance of a fluid to flowing",
+      "6": "Taste and smell quality of a food",
+      "8": "Mixture of chocolate and cream",
+      "9": "Machine used to mix and smooth chocolate",
+      "10": "Seed used to make chocolate"
+    }
+  },
+  "order": 178
+}

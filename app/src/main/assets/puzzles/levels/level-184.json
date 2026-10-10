@@ -1,0 +1,40 @@
+{
+  "id": "level-184",
+  "title": "Early Photography",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "####CONTACT####",
+    "#N#######A#####",
+    "SEPIA###PLATE##",
+    "#G##P##D#O####F",
+    "DAGUERREOTYPE#I",
+    "#T##R##V#Y##M#X",
+    "#I##T##EXPOSURE",
+    "#V##U##L#E##L#R",
+    "#E#TRIPOD###S##",
+    "####E##P####I##",
+    "######LENS##O##",
+    "#######R####N##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Printing method placing a negative against paper",
+      "4": "Brown tone often seen in old photographs",
+      "6": "Flat surface used to record an early photograph",
+      "9": "Early photograph made on a silver-coated plate",
+      "11": "Amount of light recorded by a camera",
+      "12": "Three-legged support for a camera",
+      "13": "Curved glass that focuses light"
+    },
+    "down": {
+      "2": "Paper-based photographic process invented by Talbot",
+      "3": "Image with light and dark tones reversed",
+      "5": "Opening that controls light entering a camera",
+      "7": "Chemical bath that reveals a latent image",
+      "8": "Solution that makes a developed image permanent",
+      "10": "Light-sensitive coating on photographic film"
+    }
+  },
+  "order": 184
+}

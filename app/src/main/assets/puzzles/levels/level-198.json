@@ -1,0 +1,40 @@
+{
+  "id": "level-198",
+  "title": "Wildlife Rescue",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "RESCUE#######",
+    "##P###Q####H#",
+    "#VET##U####A#",
+    "##C##HABITAT#",
+    "S#I#V#R####C#",
+    "A#E#O#A####H#",
+    "NESTLING###L#",
+    "C###U#T####I#",
+    "T##ENRICHMENT",
+    "U###T#N####G#",
+    "A##RELEASE###",
+    "R###E########",
+    "Y###RECOVER##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Safe removal from danger",
+      "5": "Doctor who treats animals",
+      "6": "Natural surroundings where an animal lives",
+      "9": "Young bird still living in its nest",
+      "10": "Activity that encourages natural behaviour",
+      "11": "Return a recovered animal to the wild",
+      "12": "Regain health after an injury"
+    },
+    "down": {
+      "2": "Group of similar living organisms",
+      "3": "Separation used to limit the spread of disease",
+      "4": "Newly emerged young animal",
+      "7": "Protected place for wildlife",
+      "8": "Person who gives time without pay"
+    }
+  },
+  "order": 198
+}

@@ -1,0 +1,40 @@
+{
+  "id": "level-282",
+  "title": "Wildlife Tracking",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#######D####",
+    "##SPECIES###",
+    "#####O#N####",
+    "SCAT#L######",
+    "#A#A#L##F###",
+    "#MIGRATION##",
+    "#E#G#R##O#T#",
+    "TRAIL###T#R#",
+    "#A#N####P#A#",
+    "###G###TRACK",
+    "########I#K#",
+    "######RANGE#",
+    "########T#R#"
+  ],
+  "clues": {
+    "across": {
+      "2": "Group of similar organisms",
+      "4": "Animal droppings examined for clues",
+      "8": "Seasonal movement between habitats",
+      "10": "Path followed by an animal",
+      "11": "Mark left by an animal passing by",
+      "12": "Area where an animal normally lives"
+    },
+    "down": {
+      "1": "Small animal shelter",
+      "3": "Band fitted around an animal's neck",
+      "5": "Device that records images of wildlife",
+      "6": "Attaching a marker to an animal for study",
+      "7": "Mark made by a foot on the ground",
+      "9": "Person who follows signs left by animals"
+    }
+  },
+  "order": 282
+}

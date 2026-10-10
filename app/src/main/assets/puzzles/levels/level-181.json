@@ -1,0 +1,43 @@
+{
+  "id": "level-181",
+  "title": "Deep Sea Research",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####PLANKTON#L",
+    "##########R###U",
+    "###S###H#VENT#M",
+    "###O###Y##N###I",
+    "###N###D##C###N",
+    "OCEANOGRAPHY##E",
+    "#R#R###O#R####S",
+    "#U##A##T#E####C",
+    "#S##BATHYSCAPHE",
+    "#T##Y##E#S####N",
+    "#A##S##R#U####C",
+    "#C##SUBMERSIBLE",
+    "#E##A##A#E#####",
+    "HADAL##L#######",
+    "#N#############"
+  ],
+  "clues": {
+    "across": {
+      "1": "Tiny organisms drifting in water",
+      "6": "Opening in the seafloor where hot fluid escapes",
+      "7": "Scientific study of the sea",
+      "11": "Deep-diving vessel for ocean exploration",
+      "12": "Small craft that travels underwater",
+      "13": "Relating to the deepest ocean trenches"
+    },
+    "down": {
+      "2": "Long, narrow depression in the seafloor",
+      "3": "Light emitted without high temperature",
+      "4": "Method that uses sound to detect objects underwater",
+      "5": "Relating to hot water from Earth's interior",
+      "8": "Animal group that includes crabs and shrimp",
+      "9": "Force exerted by the surrounding water",
+      "10": "Relating to the ocean's deepest regions"
+    }
+  },
+  "order": 181
+}

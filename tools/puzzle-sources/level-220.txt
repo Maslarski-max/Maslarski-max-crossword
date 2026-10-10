@@ -1,0 +1,19 @@
+id: level-220
+title: Sleepover Party
+difficulty: EASY
+order: 220
+type: level
+size: 11
+seed: 220
+---
+PILLOW | Soft cushion for resting your head
+PAJAMAS | Clothes worn for bed
+POPCORN | Puffed snack often eaten during a film
+MOVIE | Story shown on a screen
+BLANKET | Warm bed covering
+GIGGLE | Light, happy laugh
+TORCH | Handheld light for a dark room
+GAME | Activity played for fun
+SNACK | Small bite between meals
+YAWN | Wide opening of the mouth when tired
+SLEEPOVER | Night spent at a friend's home

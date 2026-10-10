@@ -1,0 +1,40 @@
+{
+  "id": "level-254",
+  "title": "Weather Satellites",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####F#######",
+    "####O#O#####",
+    "#INFRARED###",
+    "C###E#B#O#I#",
+    "L###C#I#W#M#",
+    "O#V#ANTENNA#",
+    "U#I#S###L#G#",
+    "D#SATELLITE#",
+    "T#I###A#N#R#",
+    "O#B###U#K###",
+    "POLAR#N#####",
+    "##E###C#####",
+    "#####CHANNEL"
+  ],
+  "clues": {
+    "across": {
+      "3": "Invisible radiation beyond red light",
+      "8": "Device that transmits or receives signals",
+      "9": "Object orbiting Earth to observe cloud systems",
+      "11": "Relating to the regions near either pole",
+      "12": "Range of wavelengths measured by a sensor"
+    },
+    "down": {
+      "1": "Estimate of future weather conditions",
+      "2": "Path followed around a planet",
+      "4": "Transfer of data from a spacecraft to Earth",
+      "5": "Highest surface of a cloud",
+      "6": "Instrument that records pictures",
+      "7": "Able to be seen by the eye",
+      "10": "Send a spacecraft into flight"
+    }
+  },
+  "order": 254
+}

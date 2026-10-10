@@ -1,0 +1,21 @@
+id: level-129
+title: Typography
+difficulty: HARD
+order: 129
+type: level
+size: 15
+seed: 129
+---
+SERIF | Small stroke on the end of a letter
+KERNING | Spacing between letter pairs
+LEADING | Space between lines of text
+ITALIC | Slanted style
+LIGATURE | Two letters joined as one glyph
+ASCENDER | Part of a letter above the x-height
+BASELINE | Line letters sit on
+GLYPH | Single character shape
+TYPEFACE | Family of fonts
+EMDASH | Long punctuation mark
+GARAMOND | Classic old-style font
+HELVETICA | Famous Swiss sans-serif
+PICA | Unit of twelve points

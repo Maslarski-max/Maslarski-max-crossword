@@ -1,0 +1,21 @@
+id: level-293
+title: Neural Circuits
+difficulty: HARD
+order: 293
+type: level
+size: 15
+seed: 293
+---
+NEURON | Nerve cell that sends electrical signals
+SYNAPSE | Junction where nerve cells communicate
+AXON | Long projection carrying signals away from a cell body
+DENDRITE | Branch that receives signals from other cells
+TRANSMITTER | Chemical messenger released at a synapse
+REFLEX | Fast automatic response to a stimulus
+NETWORK | Interconnected group of nerve cells
+IMPULSE | Brief electrical signal in a nerve
+PLASTICITY | Ability of a nervous system to change
+SENSORY | Relating to information from the senses
+MOTOR | Relating to movement
+INHIBIT | Reduce or stop an activity
+NEURAL | Relating to nerves or the nervous system

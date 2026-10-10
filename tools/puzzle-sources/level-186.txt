@@ -1,0 +1,21 @@
+id: level-186
+title: Ancient Coinage
+difficulty: HARD
+order: 186
+type: level
+size: 15
+seed: 186
+---
+NUMISMATICS | Study or collection of coins and currency
+DENARIUS | Silver coin used in ancient Rome
+DRACHMA | Ancient Greek unit of money and weight
+OBVERSE | Front side of a coin
+REVERSE | Back side of a coin
+MINT | Place where coins are made
+ALLOY | Mixture of two or more metals
+INSCRIPTION | Words engraved on a hard surface
+PORTRAIT | Image of a person on a coin
+TROY | Weight system used for precious metals
+SPECIE | Coins made from precious metal
+COUNTERMARK | Extra stamped mark added to a coin
+TREASURY | Place where public money is kept

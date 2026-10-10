@@ -1,0 +1,21 @@
+id: level-210
+title: Plate Tectonics
+difficulty: HARD
+order: 210
+type: level
+size: 15
+seed: 210
+---
+LITHOSPHERE | Rigid outer layer of Earth
+ASTHENOSPHERE | Weak upper-mantle layer beneath the lithosphere
+SUBDUCTION | Sinking of one tectonic plate under another
+RIFT | Long crack where crust pulls apart
+FAULT | Fracture along which rocks move
+SEISMIC | Relating to earthquakes or vibrations
+OROGENY | Process that forms mountains
+MAGMATISM | Formation and movement of molten rock
+CONTINENTAL | Relating to Earth's large landmasses
+TRANSFORM | Boundary where plates slide past one another
+MANTLE | Thick rocky layer below Earth's crust
+TECTONIC | Relating to large moving sections of Earth's crust
+EARTHQUAKE | Shaking caused by movement within Earth's crust

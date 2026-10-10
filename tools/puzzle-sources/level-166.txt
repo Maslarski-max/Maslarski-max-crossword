@@ -1,0 +1,19 @@
+id: level-166
+title: Cookie Decorating
+difficulty: EASY
+order: 166
+type: level
+size: 11
+seed: 166
+---
+ICING | Sweet coating spread over a biscuit
+DOUGH | Mixture shaped before baking
+OVEN | Hot box used for baking
+SPRINKLE | Tiny sweet topping
+SUGAR | Sweet crystals used in baking
+FLOUR | Powder made by grinding grain
+TRAY | Flat pan for holding treats
+COOKIE | Small baked sweet
+ROLLER | Tool used to flatten dough
+CUTTER | Shape used to trim dough
+APRON | Cloth worn to keep clothes clean

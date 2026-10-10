@@ -1,0 +1,19 @@
+id: level-224
+title: Bird Feeder
+difficulty: EASY
+order: 224
+type: level
+size: 11
+seed: 224
+---
+SEED | Food planted by a bird feeder
+PERCH | Narrow support where a bird can land
+HOP | Move with short jumps
+BEAK | Hard mouth of a bird
+WING | Part used to fly
+SUET | Fat-based food put out for wild birds
+FEEDER | Container that holds food for birds
+FINCH | Small songbird with a short bill
+SPARROW | Familiar small bird found near homes
+HUNGRY | Needing food
+GARDEN | Outdoor area where a feeder may hang

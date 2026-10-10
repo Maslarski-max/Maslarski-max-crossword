@@ -1,0 +1,42 @@
+{
+  "id": "level-270",
+  "title": "Atmospheric Chemistry",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#CHEMISTRY#####",
+    "######T#A######",
+    "######R#D######",
+    "##OXIDATION####",
+    "######T#C######",
+    "######O#A#P####",
+    "C#AEROSOL#OZONE",
+    "A#####P###L####",
+    "R####PHOTOLYSIS",
+    "B#####E###U#M##",
+    "O#####REACTION#",
+    "NITRATE###A#G##",
+    "##########N####",
+    "########METHANE"
+  ],
+  "clues": {
+    "across": {
+      "1": "Study of substances and their reactions",
+      "4": "Chemical reaction involving loss of electrons",
+      "7": "Tiny particles or droplets suspended in air",
+      "8": "Gas made of oxygen atoms in groups of three",
+      "9": "Chemical breakdown caused by light",
+      "11": "Process in which substances change into others",
+      "12": "Compound containing nitrogen and oxygen",
+      "13": "Simple carbon-containing gas in the atmosphere"
+    },
+    "down": {
+      "2": "Atmospheric layer above the troposphere",
+      "3": "Highly reactive atom or molecule",
+      "5": "Substance that contaminates air",
+      "6": "Element found in many atmospheric gases",
+      "10": "Hazy air pollution"
+    }
+  },
+  "order": 270
+}

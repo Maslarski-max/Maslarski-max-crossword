@@ -1,0 +1,20 @@
+id: level-233
+title: Concert Hall
+difficulty: MEDIUM
+order: 233
+type: level
+size: 13
+seed: 233
+---
+BALCONY | Raised seating area above the main floor
+ACOUSTIC | Relating to how sound behaves in a space
+ORCHESTRA | Large group of instrumental musicians
+CONDUCTOR | Leader who directs musicians
+OVERTURE | Instrumental music that opens an opera
+REHEARSAL | Practice before a performance
+APPLAUSE | Clapping from an audience
+PROGRAM | Printed list of a concert's works
+SOLOIST | Musician performing alone
+RESOUND | Echo or ring through a space
+FOYER | Entrance hall of a theatre
+ENSEMBLE | Group performing together

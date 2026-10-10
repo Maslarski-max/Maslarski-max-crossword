@@ -1,0 +1,40 @@
+{
+  "id": "level-174",
+  "title": "Dinosaur Dig",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######F#G####",
+    "#AMMONITE####",
+    "######E#O####",
+    "#FOSSIL#L####",
+    "######D#O####",
+    "####D#W#G#S#S",
+    "##TRILOBITE#P",
+    "####N#R#S#D#E",
+    "BEDROCK#T#I#C",
+    "R###S#####M#I",
+    "U###A##MUSEUM",
+    "S###U#####N#E",
+    "H##TROWEL#T#N"
+  ],
+  "clues": {
+    "across": {
+      "3": "Coiled fossil from an extinct sea creature",
+      "4": "Preserved remains or trace of ancient life",
+      "8": "Ancient marine animal with a segmented shell",
+      "9": "Solid rock beneath loose soil",
+      "10": "Place where important objects are displayed",
+      "11": "Small hand tool for careful digging"
+    },
+    "down": {
+      "1": "Research carried out outdoors",
+      "2": "Scientist who studies Earth's rocks and ancient history",
+      "5": "Reptile that lived long ago",
+      "6": "Material that settles in layers",
+      "7": "Single example collected for study",
+      "9": "Soft tool used to clear loose dirt"
+    }
+  },
+  "order": 174
+}

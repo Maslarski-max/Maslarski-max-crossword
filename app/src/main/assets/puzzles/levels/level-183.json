@@ -1,0 +1,43 @@
+{
+  "id": "level-183",
+  "title": "Orbital Mechanics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####P##P#####",
+    "#S###R##E#I###",
+    "#APOGEE#R#N###",
+    "#T###C##T#C#G#",
+    "PERIGEE#U#L#R#",
+    "#L###S#ORBITAL",
+    "ELLIPSE#B#N#V#",
+    "#I###I##A#A#I#",
+    "#T###O##T#T#T#",
+    "#ECCENTRICITY#",
+    "####S###O#O###",
+    "####C###N#N###",
+    "LAGRANGE######",
+    "####P#########",
+    "###VELOCITY###"
+  ],
+  "clues": {
+    "across": {
+      "5": "Point in an orbit farthest from Earth",
+      "7": "Point in an orbit nearest to Earth",
+      "8": "Relating to a path around a body",
+      "9": "Oval curve followed by many orbiting bodies",
+      "10": "Measure of how stretched an orbit is",
+      "12": "Name for a special point in a two-body system",
+      "13": "Speed together with a direction"
+    },
+    "down": {
+      "1": "Slow change in the direction of an orbit's axis",
+      "2": "Small change to an object's expected motion",
+      "3": "Object that travels around a larger body",
+      "4": "Tilt of an orbit compared with a reference plane",
+      "6": "Attraction between objects with mass",
+      "11": "Motion that overcomes a body's gravitational pull"
+    }
+  },
+  "order": 183
+}

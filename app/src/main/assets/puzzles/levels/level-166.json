@@ -1,0 +1,37 @@
+{
+  "id": "level-166",
+  "title": "Cookie Decorating",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##F######O",
+    "##L#I#R##V",
+    "##O#COOKIE",
+    "##U#I#L##N",
+    "SPRINKLE##",
+    "U###G#E###",
+    "G##D#TRAY#",
+    "A##O###P##",
+    "R#CUTTER##",
+    "###G###O##",
+    "###H###N##"
+  ],
+  "clues": {
+    "across": {
+      "5": "Small baked sweet",
+      "6": "Tiny sweet topping",
+      "8": "Flat pan for holding treats",
+      "10": "Shape used to trim dough"
+    },
+    "down": {
+      "1": "Powder made by grinding grain",
+      "2": "Hot box used for baking",
+      "3": "Sweet coating spread over a biscuit",
+      "4": "Tool used to flatten dough",
+      "6": "Sweet crystals used in baking",
+      "7": "Mixture shaped before baking",
+      "9": "Cloth worn to keep clothes clean"
+    }
+  },
+  "order": 166
+}

@@ -1,0 +1,19 @@
+id: level-161
+title: School Science Fair
+difficulty: EASY
+order: 161
+type: level
+size: 11
+seed: 161
+---
+BEAKER | Glass cup used in a lab
+MAGNET | Object that attracts iron
+PRISM | Glass shape that splits white light
+ATOM | Tiny building block of matter
+CELL | Smallest living unit
+FLASK | Narrow-necked lab vessel
+GOGGLES | Eye protection for experiments
+TEST | Check to learn how something works
+MODEL | Small copy used to explain an idea
+SCALE | Tool for measuring weight
+CHART | Picture that displays information

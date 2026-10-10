@@ -1,0 +1,43 @@
+{
+  "id": "level-214",
+  "title": "Human Genetics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##########S####",
+    "#######HEREDITY",
+    "VARIANT###Q####",
+    "#####U####U###D",
+    "#P#C#C####E###O",
+    "METHYLATION###M",
+    "#D#R#E####C#K#I",
+    "#I#O#O####I#A#N",
+    "#G#MITOCHONDRIA",
+    "#R#O#I####G#Y#N",
+    "#E#S#D######O#T",
+    "GENOME######T##",
+    "###M###GENOTYPE",
+    "###E########P##",
+    "####RECESSIVE##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Passing of traits from parents to offspring",
+      "3": "Difference in a DNA sequence",
+      "8": "Addition of a methyl group to a molecule",
+      "10": "Cell structures that release usable energy",
+      "11": "Complete set of genetic material",
+      "12": "Set of gene variants carried by an organism",
+      "13": "Trait masked by a dominant version in a pair"
+    },
+    "down": {
+      "1": "Finding the order of DNA building blocks",
+      "4": "Building block of DNA and RNA",
+      "5": "Version of a gene expressed in a heterozygous pair",
+      "6": "Chart showing family relationships and inherited traits",
+      "7": "Structure carrying genes in a cell",
+      "9": "Ordered display of an individual's chromosomes"
+    }
+  },
+  "order": 214
+}

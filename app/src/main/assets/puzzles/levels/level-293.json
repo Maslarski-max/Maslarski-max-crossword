@@ -1,0 +1,43 @@
+{
+  "id": "level-293",
+  "title": "Neural Circuits",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####I######",
+    "A##N#M######",
+    "X##E#P######",
+    "O##U#U######",
+    "NEURAL#I####",
+    "###O#SYNAPSE",
+    "###N#E#H#L##",
+    "#N##D##I#A##",
+    "#E##E##B#S##",
+    "#TRANSMITTER",
+    "#W##D##T#I#E",
+    "MOTOR####C#F",
+    "#R##I####I#L",
+    "#K##T####T#E",
+    "###SENSORY#X"
+  ],
+  "clues": {
+    "across": {
+      "4": "Relating to nerves or the nervous system",
+      "6": "Junction where nerve cells communicate",
+      "10": "Chemical messenger released at a synapse",
+      "12": "Relating to movement",
+      "13": "Relating to information from the senses"
+    },
+    "down": {
+      "1": "Brief electrical signal in a nerve",
+      "2": "Long projection carrying signals away from a cell body",
+      "3": "Nerve cell that sends electrical signals",
+      "5": "Reduce or stop an activity",
+      "7": "Ability of a nervous system to change",
+      "8": "Interconnected group of nerve cells",
+      "9": "Branch that receives signals from other cells",
+      "11": "Fast automatic response to a stimulus"
+    }
+  },
+  "order": 293
+}

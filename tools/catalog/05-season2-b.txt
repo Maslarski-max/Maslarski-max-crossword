@@ -1,0 +1,339 @@
+=== Ice Cream Parlour | EASY
+CONE | Crunchy holder for a scoop
+SCOOP | Round ball of ice cream
+VANILLA | Plain classic flavour
+SPRINKLES | Tiny coloured toppings
+SUNDAE | Dessert with sauce and a cherry
+WAFER | Thin crisp biscuit
+FUDGE | Chewy chocolate sauce
+MINT | Fresh green flavour
+SORBET | Fruity ice without cream
+MELT | What it does in the sun
+SPOON | Little utensil to eat it
+
+=== Train Set | EASY
+ENGINE | Front car that pulls
+TRACK | Rails the train runs on
+STATION | Where passengers wait
+TUNNEL | Dark passage through a hill
+WHISTLE | Toot-toot sound
+CARRIAGE | Car for passengers
+DRIVER | Person in the cab
+STEAM | Old engines puffed it
+SIGNAL | Light telling trains to stop or go
+BRIDGE | It carries the line over water
+WHEEL | Round part on the rail
+
+=== Music Class | EASY
+DRUM | Instrument you hit with sticks
+PIANO | Black and white keys
+GUITAR | Six-stringed strummer
+FLUTE | Silver pipe blown sideways
+SONG | Words set to music
+NOTE | Single musical sound
+CHOIR | Group of singers
+BELL | It rings with a ding
+TRUMPET | Brass horn with three valves
+BAND | Group of musicians
+HUM | Sing with your mouth shut
+
+=== Bedtime | EASY
+PILLOW | Soft rest for your head
+PYJAMAS | Clothes for sleeping
+DREAM | Story in your sleep
+TEDDY | Cuddly bear
+STORY | Tale read aloud before sleep
+LULLABY | Soothing song for a baby
+YAWN | Big sleepy mouth
+LAMP | Light by the bed
+SNORE | Noisy sleep sound
+BLANKET | Warm bed cover
+MOON | Shines at night
+
+=== Wild West | EASY
+COWBOY | Ranch rider in a hat
+HORSE | Animal ridden on the range
+SALOON | Bar with swinging doors
+SHERIFF | Law officer with a star
+LASSO | Rope loop for catching cattle
+RANCH | Large cattle farm
+CACTUS | Prickly desert plant
+BOOTS | Footwear with spurs
+WAGON | Covered cart for pioneers
+DESERT | Dry sandy land
+HAT | Stetson
+
+=== Dinosaurs | EASY
+FOSSIL | Remains in rock
+TREX | Tyrant lizard king
+EGG | Baby dinosaurs hatched from one
+BONES | Skeleton parts dug up
+CLAW | Sharp toe nail
+TAIL | Long end of a stegosaurus
+SWAMP | Wet muddy land
+ROAR | Loud scary noise
+HERD | Group of plant eaters
+EXTINCT | No longer alive anywhere
+MUSEUM | Place to see skeletons
+
+=== Pond Life | EASY
+FROG | Green hopper that croaks
+TADPOLE | Baby frog with a tail
+DUCK | Bird that quacks
+LILY | Floating pad flower
+REED | Tall grass at the water's edge
+NEWT | Small spotted amphibian
+FISH | Swimmer with fins
+SNAIL | Slow creature with a shell
+SWAN | Graceful white water bird
+DRAGONFLY | Insect with shimmering wings
+MUD | Wet earth at the bottom
+
+=== Shopping Mall | EASY
+SHOP | Place that sells things
+MONEY | What you pay with
+BAG | Carry your buys in it
+SALE | Time of cheap prices
+LIFT | It goes up and down floors
+CAFE | Place for a coffee break
+SHOES | Footwear store item
+TOYS | Things children play with
+PRICE | Cost on the label
+CINEMA | Place to watch films
+ESCALATOR | Moving staircase
+
+=== Rocket Science | MEDIUM
+THRUST | Force that pushes a rocket
+FUEL | What the rocket burns
+ORBIT | Path around a planet
+GRAVITY | Pull toward the earth
+LAUNCHPAD | Platform for lift-off
+COUNTDOWN | Ten, nine, eight...
+CAPSULE | Crew compartment
+BOOSTER | Extra rocket strapped on
+NOZZLE | Exhaust opening
+ASTRONAUT | Space traveller
+SATELLITE | Object circling the earth
+VELOCITY | Speed in a direction
+REENTRY | Return through the atmosphere
+
+=== Card Games | MEDIUM
+POKER | Bluffing game with chips
+BRIDGE | Partnership bidding game
+SNAP | Shout it when cards match
+SOLITAIRE | Game for one player
+RUMMY | Game of sets and runs
+ACE | Highest card in many games
+JOKER | Wild card
+TRUMP | Suit that beats the others
+DEALER | Person handing out cards
+SHUFFLE | Mix the deck
+HEARTS | Red suit
+SPADES | Black suit
+BLACKJACK | Aim for twenty-one
+
+=== Fire Station | MEDIUM
+FIREFIGHTER | Brave hose holder
+HYDRANT | Street water outlet
+LADDER | Extended to upper windows
+HELMET | Protective headgear
+SIREN | Loud warning wail
+HOSE | Long water pipe
+EXTINGUISHER | Red canister for small fires
+ALARM | Smoke ___
+RESCUE | Saving someone in danger
+FLAME | Tongue of fire
+POLE | Slide down it to the engine
+SMOKE | Grey cloud from a fire
+
+=== Board Games | MEDIUM
+CHESS | Game of kings and pawns
+DICE | Cubes you roll
+MONOPOLY | Game of property and hotels
+SCRABBLE | Tile word game
+DRAUGHTS | Game of jumping counters
+BACKGAMMON | Ancient race with dice
+COUNTER | Small playing piece
+SPINNER | Arrow you flick
+CLUEDO | Murder mystery game
+TOKEN | Marker on the board
+GO | Japanese stone game
+LUDO | Race home with four pieces
+
+=== Photography | MEDIUM
+CAMERA | Device that takes pictures
+LENS | Glass that focuses light
+SHUTTER | Opens to expose the sensor
+FLASH | Sudden burst of light
+TRIPOD | Three-legged stand
+APERTURE | Size of the lens opening
+EXPOSURE | Amount of light captured
+PORTRAIT | Photo of a person
+LANDSCAPE | Wide scenic shot
+NEGATIVE | Reversed film image
+ZOOM | Lens that brings things closer
+SELFIE | Picture of yourself
+FOCUS | Make it sharp
+
+=== Bakery Oven | MEDIUM
+BAGUETTE | Long French loaf
+CROISSANT | Flaky crescent pastry
+SOURDOUGH | Tangy fermented bread
+RYE | Dark grain for bread
+YEAST | It makes dough rise
+KNEAD | Work the dough by hand
+FLOUR | Ground wheat
+ECLAIR | Cream-filled choux finger
+MUFFIN | Small domed cake
+PRETZEL | Twisted salty knot
+DOUGHNUT | Ring with a hole
+CRUMB | Tiny bit of bread
+
+=== Spy Mission | MEDIUM
+AGENT | Secret operative
+CODE | Hidden message system
+DISGUISE | False appearance
+GADGET | Clever device
+DOUBLE | ___ agent, working both sides
+MOLE | Spy inside an organisation
+SAFEHOUSE | Secret hideout
+DEFECTOR | One who switches sides
+CIPHER | Secret writing
+BUG | Hidden microphone
+TARGET | Mission objective
+ALIAS | Assumed name
+DEBRIEF | Report after a mission
+
+=== Jungle River | MEDIUM
+AMAZON | Great South American river
+PIRANHA | Sharp-toothed fish
+ANACONDA | Huge water snake
+CANOE | Narrow paddled boat
+TOUCAN | Bird with a big bright beak
+JAGUAR | Spotted big cat
+CAIMAN | Small crocodilian
+CANOPY | Treetop layer
+LIANA | Woody climbing vine
+SLOTH | Slow hanging mammal
+MACAW | Colourful parrot
+OTTER | Playful swimmer
+
+=== Sculpture | HARD
+CHISEL | Carving tool
+MARBLE | Classic white stone
+BRONZE | Cast metal alloy
+PLINTH | Base for a statue
+RELIEF | Carving raised from a flat surface
+BUST | Head-and-shoulders sculpture
+RODIN | Sculptor of The Thinker
+CASTING | Pouring metal into a mould
+ARMATURE | Inner frame for clay
+MAQUETTE | Small preliminary model
+TERRACOTTA | Fired clay
+PATINA | Surface sheen from age
+STATUE | Full figure carving
+
+=== Legal Latin | HARD
+HABEASCORPUS | Writ to produce a prisoner
+AFFIDAVIT | Sworn written statement
+SUBPOENA | Order to appear in court
+ALIBI | Proof you were elsewhere
+BONAFIDE | In good faith
+ADHOC | For this purpose only
+PROBONO | Done for free
+VERBATIM | Word for word
+QUORUM | Minimum number for a vote
+STATUSQUO | Existing state of affairs
+DEFACTO | In fact, if not by law
+MENSREA | Guilty mind
+CAVEAT | Warning or proviso
+
+=== Particle Physics | HARD
+QUARK | Building block of protons
+ELECTRON | Negatively charged particle
+PROTON | Positive particle in a nucleus
+NEUTRON | Neutral nuclear particle
+PHOTON | Particle of light
+NEUTRINO | Ghostly near-massless particle
+HIGGS | Boson behind mass
+GLUON | Carrier of the strong force
+COLLIDER | Machine that smashes particles
+ANTIMATTER | Opposite of ordinary matter
+FERMION | Particle obeying exclusion
+MUON | Heavy cousin of the electron
+ISOTOPE | Variant with different neutrons
+
+=== Silk Road | HARD
+CARAVAN | Travelling group of traders
+SAMARKAND | Uzbek trading city
+CAMEL | Beast of burden in the desert
+SPICE | Valuable seasoning traded west
+SILK | Fabric that named the route
+MARCOPOLO | Venetian who reached China
+CARAVANSERAI | Roadside inn for traders
+JADE | Prized green stone
+PORCELAIN | Fine white ceramic
+KASHGAR | Oasis city in western China
+MERCHANT | Trader
+BAZAAR | Market in the Middle East
+NOMAD | Wandering herder
+
+=== Neuroscience | HARD
+NEURON | Nerve cell
+SYNAPSE | Gap between nerve cells
+DENDRITE | Branch receiving signals
+AXON | Fibre carrying signals away
+CORTEX | Outer layer of the brain
+CEREBELLUM | Balance centre of the brain
+DOPAMINE | Reward chemical
+SEROTONIN | Mood-regulating chemical
+HIPPOCAMPUS | Memory structure
+MYELIN | Fatty insulating sheath
+REFLEX | Automatic response
+PLASTICITY | Brain's ability to rewire
+LOBE | Section of the brain
+
+=== Navigation | HARD
+LATITUDE | Distance north or south
+LONGITUDE | Distance east or west
+SEXTANT | Instrument for measuring star angles
+MERIDIAN | Line of longitude
+COMPASS | Magnetic direction finder
+BEARING | Direction to a point
+KNOT | Nautical mile per hour
+CHART | Sea map
+EQUATOR | Zero degrees latitude
+WAYPOINT | Stop on a planned route
+ASTROLABE | Ancient star instrument
+LIGHTHOUSE | Coastal warning tower
+TROPIC | Line of Cancer or Capricorn
+
+=== Opera Heroines | HARD
+CARMEN | Bizet's gypsy
+TOSCA | Puccini's singer who leaps
+AIDA | Ethiopian princess of Verdi
+MIMI | Seamstress of La Boheme
+VIOLETTA | Heroine of La Traviata
+NORMA | Bellini's druid priestess
+SALOME | Strauss heroine of the seven veils
+LUCIA | Mad bride of Lammermoor
+ISOLDE | Wagner's Irish princess
+BUTTERFLY | Madama of Nagasaki
+ARIA | Solo song
+SOPRANO | Highest female voice
+DIVA | Celebrated female singer
+
+=== Cartography | HARD
+ATLAS | Book of maps
+SCALE | Ratio of map to ground
+CONTOUR | Line joining equal heights
+LEGEND | Key to map symbols
+PROJECTION | Way of flattening the globe
+MERCATOR | Famous projection with big poles
+GLOBE | Spherical map
+TOPOGRAPHY | Shape of the land
+GRID | Squares for references
+SURVEYOR | Measurer of land
+COMPASSROSE | Direction star on a map
+INSET | Small extra map in a corner
+RELIEF | Shading of hills

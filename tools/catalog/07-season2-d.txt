@@ -1,0 +1,403 @@
+=== Pet Grooming | EASY
+SHAMPOO | Liquid used to wash fur
+COMB | Tool with teeth for untangling hair
+BRUSH | Tool that smooths a pet's coat
+TOWEL | Cloth used to dry a wet animal
+PAWS | Soft feet of a cat or dog
+NAILS | Hard tips trimmed during a pet's care
+CLIPPER | Tool that trims fur
+BATH | Wash in a tub of water
+SOAP | Cleaning material that makes suds
+DRYER | Machine that blows warm air
+RIBBON | Bright strip tied in a pet's fur
+
+=== Windy Kite Day | EASY
+KITE | Lightweight toy flown on a string
+STRING | Thin cord attached to a flying toy
+WIND | Moving air outdoors
+TAIL | Strip that steadies a kite
+SPOOL | Round holder for a long thread
+FLY | Move through the air
+CLOUD | Visible mass of droplets in the sky
+GUST | Sudden burst of wind
+FIELD | Open grassy place for play
+DIAMOND | Common four-sided kite shape
+REEL | Turn it to wind up a line
+
+=== Home Sewing Box | EASY
+NEEDLE | Slender tool used for stitching
+THREAD | Fine strand drawn through cloth
+BUTTON | Small fastener sewn onto a garment
+FABRIC | Cloth used to make clothing
+THIMBLE | Cap that protects a finger while sewing
+SCISSORS | Tool with two blades for cutting
+ZIPPER | Fastener with interlocking teeth
+PATCH | Small piece of cloth covering a tear
+SEAM | Line where two pieces of cloth are joined
+PIN | Sharp fastener with a small head
+HEM | Folded edge at the bottom of a garment
+
+=== At the Dentist | EASY
+TOOTH | Hard part used for biting food
+MOLAR | Broad back tooth for chewing
+GUMS | Soft tissue around the teeth
+FLOSS | Thin thread for cleaning between teeth
+BRACES | Wires that help straighten teeth
+MIRROR | Small tool used to see inside the mouth
+DRILL | Dentist's tool for removing decay
+RINSE | Swish liquid around the mouth
+SMILE | Happy expression showing the teeth
+XRAY | Image that can show a hidden cavity
+CHAIR | Seat that tilts for a checkup
+
+=== Farm Harvest | EASY
+WHEAT | Grain ground to make flour
+CORN | Tall crop with kernels on a cob
+PLOW | Tool that turns soil before planting
+SILO | Tall farm building for storing grain
+FIELD | Land used to grow crops
+SHEAF | Bundle of cut grain stalks
+TRACTOR | Farm vehicle used to pull equipment
+PUMPKIN | Large orange squash picked in autumn
+APPLE | Crisp fruit that grows on a tree
+ORCHARD | Group of fruit trees grown together
+CROP | Plants grown for food or materials
+
+=== School Lunch | EASY
+LUNCH | Meal eaten around midday
+SANDWICH | Filling held between slices of bread
+CARROT | Crunchy orange root vegetable
+YOGURT | Creamy food made from fermented milk
+NAPKIN | Paper or cloth used to wipe the mouth
+JUICE | Drink pressed from fruit
+THERMOS | Insulated container that keeps a drink warm
+APPLE | Crisp fruit often packed for a meal
+CRACKER | Thin crisp baked snack
+BOX | Container that holds a meal
+WATER | Clear drink needed by the body
+
+=== Watercolor Class | EASY
+WATERY | Paint consistency after adding plenty of water
+BRUSH | Tool with bristles for applying paint
+PAPER | Flat sheet used as a painting surface
+WASH | Thin layer of watery paint
+PALETTE | Surface for mixing paint
+PIGMENT | Material that gives paint its colour
+RINSE | Clean a brush in water
+SHADE | Darker or lighter version of a colour
+SKY | Blue expanse above the land
+DRIP | Small drop falling from a brush
+PAINT | Coloured liquid used to make pictures
+
+=== Campfire Tales | EASY
+CAMP | Temporary place to sleep outdoors
+FLAME | Bright hot part of a fire
+LOG | Thick piece of cut wood
+CANDY | Soft sweet treat often toasted over a fire
+STORY | Tale told for fun
+TENT | Portable shelter made from fabric
+SPARK | Tiny glowing piece from a fire
+NIGHT | Dark time after sunset
+GUITAR | Stringed instrument used for songs
+BEDROLL | Padded cover for sleeping outside
+STARS | Bright points seen in the night sky
+
+=== Car Wash | EASY
+SOAP | Cleaner that makes foamy suds
+SPONGE | Soft block that soaks up water
+WATER | Liquid sprayed over the vehicle
+HOSE | Flexible tube that carries water
+WAX | Shiny coating applied after washing
+TIRE | Rubber ring around a wheel
+RIM | Outer edge that holds a tire
+BUCKET | Open container for carrying liquid
+SUDS | Bubbles made by soap
+SHINE | Bright reflection from a clean surface
+RAG | Cloth used for wiping
+
+=== Pottery for Kids | EASY
+CLAY | Soft earth shaped before firing
+WHEEL | Spinning platform for forming a pot
+VASE | Container for holding flowers
+MUG | Cup with a handle
+KILN | Hot oven for hardening pottery
+HANDLE | Part gripped to lift a cup
+GLAZE | Glassy coating on fired pottery
+PINCH | Shape a small pot using finger pressure
+SPIN | Turn around quickly
+APRON | Cloth worn to protect clothes
+POT | Vessel made for holding or cooking
+
+=== Soccer Practice | EASY
+SOCCER | Team sport played by kicking a ball
+GOAL | Target made by two posts and a bar
+KICK | Strike a ball with the foot
+PASS | Send the ball to a teammate
+TEAM | Players working together
+COACH | Person who teaches players
+CLEATS | Shoes with studs for grip
+DRIBBLE | Move the ball with repeated small kicks
+WHISTLE | Sharp signal blown by a referee
+FIELD | Grass area where a match is played
+SCORE | Number of points made by a team
+
+=== Wildlife Rescue | MEDIUM
+RESCUE | Safe removal from danger
+RECOVER | Regain health after an injury
+SANCTUARY | Protected place for wildlife
+VET | Doctor who treats animals
+RELEASE | Return a recovered animal to the wild
+HATCHLING | Newly emerged young animal
+ENRICHMENT | Activity that encourages natural behaviour
+SPECIES | Group of similar living organisms
+VOLUNTEER | Person who gives time without pay
+NESTLING | Young bird still living in its nest
+QUARANTINE | Separation used to limit the spread of disease
+HABITAT | Natural surroundings where an animal lives
+
+=== Glassblowing Studio | MEDIUM
+FURNACE | Chamber kept hot enough to melt glass
+GATHER | Collect molten glass on the end of a pipe
+PUNTE | Solid rod used to hold a vessel while finishing
+MARVER | Flat surface used to shape hot glass
+BLOWPIPE | Hollow tube used to inflate molten glass
+ANNEAL | Cool glass slowly to reduce internal stress
+GOBLET | Drinking cup with a stem and foot
+MOLTEN | Made liquid by great heat
+VESSEL | Container made to hold something
+TONGS | Tool with arms for gripping hot material
+GAFFER | Skilled leader in a glassblowing team
+COLORANT | Substance added to give glass a hue
+
+=== Underground Railway | MEDIUM
+TUNNEL | Passage dug beneath the ground
+PLATFORM | Raised area where riders board a train
+SUBWAY | City railway running mostly below ground
+ESCALATOR | Moving stairway inside a station
+TURNSTILE | Rotating gate that admits one rider at a time
+SIGNAL | Device that tells a train when to proceed
+CONDUCTOR | Railway worker who checks fares or helps riders
+CAROUSEL | Circular display for signs or luggage
+VENTILATE | Circulate fresh air through an enclosed space
+TRACK | Rails that guide a train
+COMMUTER | Person who travels regularly to work
+STATION | Place where a train stops for riders
+
+=== Cheese Making | MEDIUM
+CURD | Soft solid formed from milk
+WHEY | Liquid left after curds form
+RENNET | Enzyme used to help milk coagulate
+CULTURE | Microorganisms added to start fermentation
+CHEESE | Food made by curdling milk
+AGING | Keeping food to develop its flavour
+CHEDDAR | Firm cheese first made in an English village
+BRINE | Salty water used to soak some cheeses
+PRESS | Device that squeezes liquid from curds
+RIND | Outer layer of a cheese
+MOLD | Fuzzy growth used in some cheese varieties
+CREAMERY | Place where dairy products are made
+
+=== Space Telescope | MEDIUM
+MIRROR | Reflective surface that gathers light
+ORBIT | Curved path around a celestial body
+NEBULA | Cloud of gas and dust in space
+GALAXY | Vast system of stars and gas
+SPECTRUM | Spread of light separated by wavelength
+DETECTOR | Device that senses incoming light
+FOCUS | Bring an image into sharp view
+HUBBLE | Space telescope named for an astronomer
+INFRARED | Light with wavelengths longer than visible red
+ULTRAVIOLET | Light with wavelengths shorter than visible violet
+COSMOS | The universe considered as a whole
+OBSERVE | Watch carefully to gather information
+
+=== Castle Builders | MEDIUM
+MASON | Craft worker who builds with stone
+MOAT | Deep ditch surrounding a fortification
+KEEP | Strong central tower of a castle
+BATTLEMENT | Defensive wall with gaps for protection
+MORTAR | Mixture that binds bricks or stones
+DRAWBRIDGE | Bridge that can be raised over a moat
+GATEHOUSE | Guarded entrance building
+TURRET | Small tower projecting from a wall
+COURTYARD | Open space enclosed by buildings
+RAMPART | Defensive bank or wall
+ARCHWAY | Curved opening through a wall
+FORTRESS | Strong building designed for defence
+
+=== Desert Caravan | MEDIUM
+CARAVAN | Group travelling together across a region
+OASIS | Fertile spot with water in dry country
+CAMEL | Long-legged animal used to carry loads
+SADDLE | Seat placed on an animal's back
+CANVAS | Strong cloth used for a shade shelter
+CISTERN | Tank for storing collected water
+MIRAGE | Optical effect that can resemble distant water
+SCORPION | Arachnid with a curved tail
+SANDSTONE | Rock formed from compressed sand grains
+GUIDE | Person who leads travellers
+WATERSKIN | Flexible container carried by a traveller
+TRADER | Person who buys and sells goods
+
+=== Mountain Rescue | MEDIUM
+SUMMIT | Highest point of a mountain
+ROPE | Strong cord used for climbing
+HARNESS | Straps that secure a climber
+CARABINER | Metal clip with a spring gate
+CRAMPON | Spiked frame attached to a boot on ice
+AVALANCHE | Rapid flow of snow down a slope
+BEACON | Device that helps rescuers locate someone
+STRETCHER | Frame used to carry an injured person
+ALTITUDE | Height above sea level
+SHELTER | Protected place to wait out bad weather
+HELICOPTER | Aircraft used to reach remote slopes
+RESCUER | Person who brings someone out of danger
+
+=== River Expedition | MEDIUM
+RAFT | Flat floating platform for a river trip
+PADDLE | Blade used to move a small boat
+PORTAGE | Carry a boat and gear around an obstacle
+CURRENT | Flow of water in a river
+RAPID | Fast section of rough water
+TRIBUTARY | Stream that joins a larger river
+DRYBAG | Waterproof sack for keeping gear dry
+COMPASS | Tool that indicates direction
+CANOE | Narrow boat propelled with a paddle
+SHOAL | Shallow area in a river
+WATERFALL | River drop over a steep edge
+CAMPSITE | Place to pitch a tent overnight
+
+=== Volcanic Hazards | HARD
+PYROCLASTIC | Relating to hot fragments erupted by a volcano
+LAHAR | Mudflow of volcanic debris and water
+TEPHRA | Rock fragments thrown out during an eruption
+FUMAROLE | Opening that releases volcanic gas
+CALDERA | Large depression formed when a volcano collapses
+VISCOSITY | Resistance of a fluid to flowing
+MAGMA | Molten rock beneath Earth's surface
+ASHFALL | Volcanic particles settling from the air
+SUBDUCTION | Descent of one tectonic plate beneath another
+ERUPTION | Release of material from a volcano
+CRATER | Bowl-shaped opening at a volcano's summit
+PUMICE | Light volcanic rock full of gas holes
+GEOTHERMAL | Relating to heat from within the Earth
+
+=== Evolutionary Biology | HARD
+ADAPTATION | Inherited feature that can improve survival
+SELECTION | Process that favours some inherited traits
+MUTATION | Change in the sequence of genetic material
+ALLELE | One version of a gene
+GENOTYPE | Genetic makeup of an organism
+PHENOTYPE | Observable traits of an organism
+SPECIATION | Formation of distinct species
+ANCESTRY | Line of descent from earlier organisms
+HOMOLOGY | Similarity due to shared evolutionary origin
+DRIFT | Random change in a population's gene frequencies
+FITNESS | Relative contribution to future generations
+FOSSIL | Preserved trace of ancient life
+POPULATION | Members of one species in an area
+
+=== Glacier Science | HARD
+MORAINE | Ridge of rock debris left by a glacier
+CREVASSE | Deep crack in glacial ice
+CALVING | Breaking of ice from a glacier's edge
+ABLATION | Loss of ice through melting or evaporation
+ACCUMULATION | Addition of snow to a glacier
+ICEFIELD | Broad area feeding several glaciers
+SNOUT | Lowest end of a glacier
+SERAC | Towering block of ice on a glacier
+TILL | Unsorted sediment deposited by ice
+FIRN | Old granular snow that may become glacial ice
+GLACIOLOGY | Scientific study of ice and glaciers
+MELTWATER | Water formed as snow or ice melts
+ISOSTASY | Balance of Earth's crust floating on the mantle
+
+=== Plate Tectonics | HARD
+LITHOSPHERE | Rigid outer layer of Earth
+ASTHENOSPHERE | Weak upper-mantle layer beneath the lithosphere
+SUBDUCTION | Sinking of one tectonic plate under another
+RIFT | Long crack where crust pulls apart
+FAULT | Fracture along which rocks move
+SEISMIC | Relating to earthquakes or vibrations
+OROGENY | Process that forms mountains
+MAGMATISM | Formation and movement of molten rock
+CONTINENTAL | Relating to Earth's large landmasses
+TRANSFORM | Boundary where plates slide past one another
+MANTLE | Thick rocky layer below Earth's crust
+TECTONIC | Relating to large moving sections of Earth's crust
+EARTHQUAKE | Shaking caused by movement within Earth's crust
+
+=== Medieval Manuscripts | HARD
+ILLUMINATE | Decorate a page with bright colours or gold
+PARCHMENT | Prepared animal skin used for writing
+VELLUM | Fine parchment made from calfskin
+SCRIPTORIUM | Room where handwritten books were copied
+SCRIBE | Person who copies written works by hand
+QUIRE | Group of folded sheets in a book
+RUBRIC | Heading or instruction written in coloured ink
+INITIAL | Enlarged first letter of a section
+PIGMENT | Coloured material used in paint or ink
+BINDING | Cover and fastening of a book
+MARGINALIA | Notes or drawings placed beside the main text
+CODEX | Ancient manuscript made of bound pages
+CALLIGRAPHY | Decorative style of handwriting
+
+=== Semiconductor Design | HARD
+TRANSISTOR | Electronic switch made from semiconductor material
+PHOTOMASK | Pattern used to expose selected chip regions
+WAFER | Thin slice of semiconductor crystal
+SILICON | Element commonly used in computer chips
+MASK | Pattern used to expose selected chip regions
+ETCHING | Removal of material to form a circuit pattern
+SUBSTRATE | Base material on which a device is built
+NANOMETER | Billionth of a metre
+INTEGRATED | Joined into a single electronic circuit
+VOLTAGE | Electrical potential difference
+INSULATOR | Material that resists electric current
+FET | Transistor controlled by an electric field
+LITHOGRAPHY | Technique for making fine patterns on a surface
+
+=== Ancient Trade Routes | HARD
+CARAVANSERAI | Roadside inn for travelling merchants
+SILKROAD | Network of routes linking East Asia with the west
+SPICE | Aromatic plant material traded for cooking
+INCENSE | Fragrant material burned for its scent
+WAREHOUSE | Building used to store goods
+PORTAGE | Carrying goods between waterways
+MONSOON | Seasonal wind that shaped Indian Ocean sailing
+MERCHANT | Person who trades goods
+CARAVAN | Group travelling together with goods
+TARIFF | Charge on goods crossing a border
+MARKET | Place where goods are bought and sold
+EXPORT | Goods sent to another country for sale
+IMPORT | Goods brought in from another country
+
+=== Human Genetics | HARD
+CHROMOSOME | Structure carrying genes in a cell
+GENOME | Complete set of genetic material
+NUCLEOTIDE | Building block of DNA and RNA
+HEREDITY | Passing of traits from parents to offspring
+RECESSIVE | Trait masked by a dominant version in a pair
+DOMINANT | Version of a gene expressed in a heterozygous pair
+PEDIGREE | Chart showing family relationships and inherited traits
+KARYOTYPE | Ordered display of an individual's chromosomes
+GENOTYPE | Set of gene variants carried by an organism
+METHYLATION | Addition of a methyl group to a molecule
+SEQUENCING | Finding the order of DNA building blocks
+VARIANT | Difference in a DNA sequence
+MITOCHONDRIA | Cell structures that release usable energy
+
+=== Classical Myth Cycles | HARD
+ODYSSEUS | Greek hero who journeyed home from Troy
+ACHILLES | Greek warrior with a vulnerable heel
+HECTOR | Trojan prince who defended his city
+PENELOPE | Wife who waited for Odysseus
+CASSANDRA | Trojan prophet whose warnings went unheeded
+ARIADNE | Princess who helped Theseus escape a maze
+ORACLE | Person or place giving a sacred prediction
+LABYRINTH | Maze built for the Minotaur
+NEMESIS | Greek goddess associated with retribution
+AMBROSIA | Food of the Greek gods
+OLYMPUS | Mountain regarded as home of Greek gods
+AEGEAN | Sea between Greece and Anatolia
+MYTHOLOGY | Collection of traditional sacred stories

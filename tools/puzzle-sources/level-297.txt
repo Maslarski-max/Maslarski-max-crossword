@@ -1,0 +1,21 @@
+id: level-297
+title: Archaeogenetics
+difficulty: HARD
+order: 297
+type: level
+size: 15
+seed: 297
+---
+ANCIENTDNA | Genetic material recovered from old remains
+EXCAVATION | Careful uncovering of buried remains
+SKELETON | Framework of bones in a body
+CONTAMINATION | Unwanted material that affects a sample
+SEQUENCING | Finding the order of DNA building blocks
+ANCESTRY | Line of descent from earlier generations
+HAPLOGROUP | Set of related genetic lineages
+POPULATION | Group of people living in a region
+MIGRATION | Movement from one region to another
+ISOTOPE | Form of an element with a different neutron count
+BURIAL | Placing a body or object in the ground
+GENOME | Complete set of genetic material
+ARCHAEOLOGY | Study of past people through material remains

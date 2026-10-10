@@ -1,0 +1,40 @@
+{
+  "id": "level-205",
+  "title": "Mountain Rescue",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####BEACON##",
+    "#######V#####",
+    "#######A##S##",
+    "#######L##H##",
+    "######HARNESS",
+    "#####A#N##L#T",
+    "#C#HELICOPTER",
+    "#R###T#H##E#E",
+    "CARABINER#R#T",
+    "#M###T######C",
+    "#P##SUMMIT##H",
+    "ROPE#D######E",
+    "#N##RESCUER#R"
+  ],
+  "clues": {
+    "across": {
+      "1": "Device that helps rescuers locate someone",
+      "4": "Straps that secure a climber",
+      "8": "Aircraft used to reach remote slopes",
+      "9": "Metal clip with a spring gate",
+      "10": "Highest point of a mountain",
+      "11": "Strong cord used for climbing",
+      "12": "Person who brings someone out of danger"
+    },
+    "down": {
+      "2": "Rapid flow of snow down a slope",
+      "3": "Protected place to wait out bad weather",
+      "5": "Frame used to carry an injured person",
+      "6": "Height above sea level",
+      "7": "Spiked frame attached to a boot on ice"
+    }
+  },
+  "order": 205
+}

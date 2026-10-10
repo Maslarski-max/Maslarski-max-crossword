@@ -1,0 +1,40 @@
+{
+  "id": "level-290",
+  "title": "Public Health",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#######H#S###",
+    "IMMUNITY#A#M#",
+    "#A#####G#N#O#",
+    "#S#NUTRITION#",
+    "#K#####E#T#I#",
+    "C##E###N#A#T#",
+    "L##PREVENTION",
+    "I##I##A##I#R#",
+    "N##D##C##O#I#",
+    "I##E##C##N#N#",
+    "COMMUNITY##G#",
+    "###I##N######",
+    "##SCREENING##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Ability to resist a particular infection",
+      "6": "Study or process of nourishing the body",
+      "9": "Action taken to reduce risk",
+      "11": "People living or working in one area",
+      "12": "Testing people before symptoms appear"
+    },
+    "down": {
+      "1": "Practices that support cleanliness and health",
+      "2": "Systems that safely manage waste",
+      "4": "Face covering worn to limit germs",
+      "5": "Ongoing collection of health information",
+      "7": "Place where people receive medical care",
+      "8": "Widespread occurrence of a disease",
+      "10": "Preparation that helps prevent a disease"
+    }
+  },
+  "order": 290
+}

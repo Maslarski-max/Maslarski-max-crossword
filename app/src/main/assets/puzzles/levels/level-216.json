@@ -1,0 +1,36 @@
+{
+  "id": "level-216",
+  "title": "Post Office",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "P#####C####",
+    "A##MAIL#Q##",
+    "R###D#E#U##",
+    "C###D#R#E##",
+    "E###R#K#U##",
+    "LETTER#SEND",
+    "####S##T###",
+    "##POSTCARD#",
+    "##E####M###",
+    "#ENVELOPE##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Letters and parcels delivered to homes",
+      "6": "Written message sent in an envelope",
+      "7": "Arrange for a letter to travel",
+      "8": "Card with a picture and short message",
+      "9": "Paper cover for a letter"
+    },
+    "down": {
+      "1": "Wrapped package sent to someone",
+      "2": "Worker who serves customers at a counter",
+      "4": "Details showing where a person lives",
+      "5": "Line of people waiting",
+      "7": "Small label that pays for postage",
+      "8": "Tool used for writing"
+    }
+  },
+  "order": 216
+}

@@ -1,0 +1,43 @@
+{
+  "id": "level-212",
+  "title": "Semiconductor Design",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "PHOTOMASK######",
+    "#######U#######",
+    "##S####B#V#####",
+    "##I####S#O#####",
+    "##L####T#L#####",
+    "##INTEGRATED###",
+    "##C#R##A#A##W##",
+    "##O#A##T#G##A#E",
+    "##NANOMETER#FET",
+    "####S#A#####E#C",
+    "####INSULATOR#H",
+    "####S#K#######I",
+    "####T#########N",
+    "LITHOGRAPHY###G",
+    "####R##########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Pattern used to expose selected chip regions",
+      "5": "Joined into a single electronic circuit",
+      "9": "Billionth of a metre",
+      "11": "Transistor controlled by an electric field",
+      "12": "Material that resists electric current",
+      "13": "Technique for making fine patterns on a surface"
+    },
+    "down": {
+      "2": "Base material on which a device is built",
+      "3": "Element commonly used in computer chips",
+      "4": "Electrical potential difference",
+      "6": "Electronic switch made from semiconductor material",
+      "7": "Thin slice of semiconductor crystal",
+      "8": "Removal of material to form a circuit pattern",
+      "10": "Pattern used to expose selected chip regions"
+    }
+  },
+  "order": 212
+}

@@ -1,0 +1,43 @@
+{
+  "id": "level-208",
+  "title": "Evolutionary Biology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#H###A#M######",
+    "FOSSIL#U#A####",
+    "#M###L#T#DRIFT",
+    "#O###E#A#A####",
+    "#L###L#T#P##A#",
+    "#O#SPECIATION#",
+    "#G##O##O#A##C#",
+    "#Y##PHENOTYPE#",
+    "####U####I##S#",
+    "##SELECTION#T#",
+    "####A####N##R#",
+    "##FITNESS###Y#",
+    "####I#########",
+    "####O#########",
+    "##GENOTYPE####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Preserved trace of ancient life",
+      "6": "Random change in a population's gene frequencies",
+      "8": "Formation of distinct species",
+      "10": "Observable traits of an organism",
+      "11": "Process that favours some inherited traits",
+      "12": "Relative contribution to future generations",
+      "13": "Genetic makeup of an organism"
+    },
+    "down": {
+      "1": "Similarity due to shared evolutionary origin",
+      "2": "One version of a gene",
+      "3": "Change in the sequence of genetic material",
+      "5": "Inherited feature that can improve survival",
+      "7": "Line of descent from earlier organisms",
+      "9": "Members of one species in an area"
+    }
+  },
+  "order": 208
+}

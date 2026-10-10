@@ -1,0 +1,19 @@
+id: level-276
+title: Seedling Nursery
+difficulty: EASY
+order: 276
+type: level
+size: 11
+seed: 276
+---
+SEEDLING | Young plant grown from a seed
+POT | Small container for growing a plant
+SOIL | Loose earth used by plant roots
+WATER | Liquid poured on a growing plant
+ROOT | Part that anchors and feeds a plant
+STEM | Upright plant part holding leaves
+SPROUT | New growth emerging from a seed
+TRAY | Flat container holding several small pots
+SUNLIGHT | Light that reaches Earth from the sun
+LABEL | Tag showing a plant's name
+HOTHOUSE | Glass building that keeps plants warm

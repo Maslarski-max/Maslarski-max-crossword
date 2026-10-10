@@ -1,0 +1,21 @@
+id: level-212
+title: Semiconductor Design
+difficulty: HARD
+order: 212
+type: level
+size: 15
+seed: 212
+---
+TRANSISTOR | Electronic switch made from semiconductor material
+PHOTOMASK | Pattern used to expose selected chip regions
+WAFER | Thin slice of semiconductor crystal
+SILICON | Element commonly used in computer chips
+MASK | Pattern used to expose selected chip regions
+ETCHING | Removal of material to form a circuit pattern
+SUBSTRATE | Base material on which a device is built
+NANOMETER | Billionth of a metre
+INTEGRATED | Joined into a single electronic circuit
+VOLTAGE | Electrical potential difference
+INSULATOR | Material that resists electric current
+FET | Transistor controlled by an electric field
+LITHOGRAPHY | Technique for making fine patterns on a surface

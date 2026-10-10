@@ -1,0 +1,43 @@
+{
+  "id": "level-179",
+  "title": "Rainforest River",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "######C########",
+    "TRIBUTARY######",
+    "######N########",
+    "######O####B###",
+    "M#####P#E##I###",
+    "ESTUARY#VAPOUR#",
+    "A###L###A##D###",
+    "N##FLOODPLAIN#R",
+    "D###U#X#O##V##A",
+    "E###V#B#R##E##P",
+    "R###I#O#A##R##I",
+    "####U#WATERSHED",
+    "####M###I##I##S",
+    "########O##T###",
+    "##SEDIMENT#Y###"
+  ],
+  "clues": {
+    "across": {
+      "2": "Smaller stream that flows into a larger river",
+      "6": "Coastal waterway where river water meets the sea",
+      "8": "Gas form of water",
+      "9": "Flat land beside a river that may flood",
+      "12": "Land area drained by a river system",
+      "13": "Particles carried and deposited by water"
+    },
+    "down": {
+      "1": "Upper leafy layer of a forest",
+      "3": "Variety of living things in an area",
+      "4": "Bend in the course of a river",
+      "5": "Change from liquid water into gas",
+      "7": "Soil deposited by flowing water",
+      "10": "Curved lake cut off from a river bend",
+      "11": "Fast turbulent stretches of a river"
+    }
+  },
+  "order": 179
+}

@@ -1,0 +1,38 @@
+{
+  "id": "level-144",
+  "title": "Fire Station",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###FLAME####",
+    "L##I####HOSE",
+    "ALARM#####M#",
+    "D##E######O#",
+    "D##F###S##K#",
+    "EXTINGUISHER",
+    "R##G###R###E",
+    "###HELMET##S",
+    "###T###N###C",
+    "###E#######U",
+    "HYDRANT#POLE"
+  ],
+  "clues": {
+    "across": {
+      "1": "Tongue of fire",
+      "3": "Long water pipe",
+      "5": "Smoke ___",
+      "7": "Red canister for small fires",
+      "9": "Protective headgear",
+      "10": "Street water outlet",
+      "11": "Slide down it to the engine"
+    },
+    "down": {
+      "1": "Brave hose holder",
+      "2": "Extended to upper windows",
+      "4": "Grey cloud from a fire",
+      "6": "Loud warning wail",
+      "8": "Saving someone in danger"
+    }
+  },
+  "order": 144
+}

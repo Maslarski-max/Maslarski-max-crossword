@@ -1,0 +1,19 @@
+id: level-223
+title: Stage Crew
+difficulty: EASY
+order: 223
+type: level
+size: 11
+seed: 223
+---
+LIGHT | Bright beam used to illuminate a stage
+PROP | Object handled by an actor
+SCENE | Part of a play set in one place
+ACTOR | Person who performs a role
+COSTUME | Special clothing worn for a performance
+SET | Painted scenery for a play
+SOUND | What the audience hears
+ROPE | Strong cord used to lift scenery
+MASK | Face covering worn by a performer
+CURTAIN | Cloth that hides the stage
+USHER | Worker who guides people to their seats

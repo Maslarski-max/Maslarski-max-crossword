@@ -1,0 +1,19 @@
+id: level-244
+title: Tennis Club
+difficulty: EASY
+order: 244
+type: level
+size: 11
+seed: 244
+---
+RACKET | Frame strung with cord for striking a ball
+COURT | Marked area where a match is played
+SERVE | Opening hit that starts a point
+NET | Mesh barrier across the middle
+BALL | Round object struck during play
+LOVE | Score of zero in tennis
+ACE | Serve the opponent cannot return
+MATCH | Contest between two players or pairs
+VOLLEY | Hit the ball before it bounces
+GRIP | Hold of the hand on a racket
+DOUBLES | Match played by two pairs

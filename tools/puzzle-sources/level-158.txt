@@ -1,0 +1,19 @@
+id: level-158
+title: Library Day
+difficulty: EASY
+order: 158
+type: level
+size: 11
+seed: 158
+---
+SHELF | Board that holds books
+CARD | Small slip used to borrow a book
+NOVEL | Long made-up story
+AUTHOR | Person who writes a book
+PAGE | One side of a leaf in a book
+READ | Look at words and understand them
+QUIET | How a library should sound
+STAMP | Mark showing when a book is due
+RETURN | Take a borrowed book back
+TALE | Short story
+LEND | Let someone borrow something

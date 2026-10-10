@@ -1,0 +1,34 @@
+{
+  "id": "level-249",
+  "title": "Science Garden",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "C###L##G###",
+    "O#STEM#ROOT",
+    "M#H#A##O###",
+    "P#A#FLOWER#",
+    "O#D######A#",
+    "SEED###SOIL",
+    "T######U#N#",
+    "#######N###"
+  ],
+  "clues": {
+    "across": {
+      "4": "Structure that holds a plant upright",
+      "5": "Part of a plant that takes up water",
+      "6": "Colourful part that may make seeds",
+      "8": "Beginning of a new plant",
+      "9": "Earth where roots grow"
+    },
+    "down": {
+      "1": "Decayed plant matter used to enrich soil",
+      "2": "Plant part that gathers sunlight",
+      "3": "Become larger over time",
+      "4": "Cool area out of direct sunlight",
+      "7": "Water that falls from clouds",
+      "9": "Star that warms our planet"
+    }
+  },
+  "order": 249
+}

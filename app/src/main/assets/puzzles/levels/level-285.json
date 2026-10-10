@@ -1,0 +1,39 @@
+{
+  "id": "level-285",
+  "title": "Medieval Guilds",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "JOURNEYMAN##T",
+    "########P###R",
+    "#WORKSHOP###A",
+    "G#######R###I",
+    "U####M##E###N",
+    "I####E##N###I",
+    "L#W#CRAFTSMAN",
+    "DYER#C##I#A#G",
+    "##A##H##C#S##",
+    "##V#CARPENTER",
+    "##E##N####E##",
+    "MARKET####R##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Craft worker who has completed training but not mastered a trade",
+      "4": "Place where goods are made",
+      "8": "Person skilled at making things by hand",
+      "10": "Worker who colours fabric",
+      "11": "Craft worker who builds with wood",
+      "12": "Place where goods are sold"
+    },
+    "down": {
+      "2": "Beginner learning a skilled trade",
+      "3": "Period of learning a trade",
+      "5": "Association of workers in a craft",
+      "6": "Person who buys and sells goods",
+      "7": "Person who makes cloth on a loom",
+      "9": "Highly skilled craftsperson who leads a workshop"
+    }
+  },
+  "order": 285
+}

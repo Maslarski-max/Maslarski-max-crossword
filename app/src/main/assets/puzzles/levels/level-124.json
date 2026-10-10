@@ -1,0 +1,40 @@
+{
+  "id": "level-124",
+  "title": "Newspaper",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##########C##",
+    "##########A##",
+    "####OBITUARY#",
+    "#P########T##",
+    "#R####C###O#R",
+    "#E##HOROSCOPE",
+    "ISSUE#O###N#P",
+    "#S##A#S##C##O",
+    "####D#SCOOP#R",
+    "####L#W##L##T",
+    "##EDITOR#U##E",
+    "####N#R##M##R",
+    "###DEADLINE##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Notice of a death",
+      "6": "Star-sign forecast",
+      "7": "Single edition",
+      "9": "Exclusive story",
+      "10": "Person in charge of content",
+      "11": "Time a story must be finished"
+    },
+    "down": {
+      "1": "Funny drawing",
+      "3": "Printing machine, or the media",
+      "4": "Grid puzzle on the back pages",
+      "5": "Journalist who gathers news",
+      "6": "Big bold title on page one",
+      "8": "Regular opinion piece"
+    }
+  },
+  "order": 124
+}

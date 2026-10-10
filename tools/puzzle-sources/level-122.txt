@@ -1,0 +1,20 @@
+id: level-122
+title: Supermarket
+difficulty: MEDIUM
+order: 122
+type: level
+size: 13
+seed: 122
+---
+TROLLEY | Wheeled basket for shopping
+CHECKOUT | Where you pay
+RECEIPT | Proof of purchase
+BARCODE | Striped label scanned at the till
+AISLE | Passage between shelves
+FREEZER | Cold cabinet for ice cream
+BAKERY | Counter with fresh bread
+CASHIER | Person at the till
+DISCOUNT | Price reduction
+DAIRY | Section with milk and yoghurt
+PRODUCE | Fresh fruit and vegetables
+BASKET | Hand-held carrier

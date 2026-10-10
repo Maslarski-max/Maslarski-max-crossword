@@ -1,0 +1,20 @@
+id: level-178
+title: Chocolate Chemistry
+difficulty: MEDIUM
+order: 178
+type: level
+size: 13
+seed: 178
+---
+CACAO | Seed used to make chocolate
+COCOA | Powder made from roasted cacao beans
+TEMPER | Carefully heat and cool melted chocolate
+MELT | Change from a solid into a liquid
+COCOABUTTER | Fat extracted from cacao beans
+EMULSION | Mixture of liquids that do not usually combine
+CRYSTAL | Solid with an ordered internal structure
+SUGAR | Sweet crystals used in chocolate
+GANACHE | Mixture of chocolate and cream
+CONCHE | Machine used to mix and smooth chocolate
+VISCOSITY | Resistance of a fluid to flowing
+FLAVOUR | Taste and smell quality of a food

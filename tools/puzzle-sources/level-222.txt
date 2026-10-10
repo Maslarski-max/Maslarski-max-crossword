@@ -1,0 +1,19 @@
+id: level-222
+title: Lemonade Stand
+difficulty: EASY
+order: 222
+type: level
+size: 11
+seed: 222
+---
+LEMON | Sour yellow fruit
+SQUEEZE | Press fruit to release its juice
+PITCHER | Tall vessel used for serving a drink
+SUGAR | Sweet crystals stirred into a drink
+ICE | Frozen water used to chill a glass
+CUP | Small vessel for drinking
+STRAW | Thin tube used for sipping
+TABLE | Furniture holding the stand's goods
+SIGN | Board showing what is for sale
+COINS | Small pieces of metal money
+THIRST | Need for a drink

@@ -1,0 +1,36 @@
+{
+  "id": "level-160",
+  "title": "Backyard Birds",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "NEST#####F",
+    "##P######L",
+    "FEATHER##O",
+    "I#R###O##C",
+    "N#R###BEAK",
+    "CROW##I###",
+    "H#W#WING##",
+    "####R#####",
+    "###PERCH##",
+    "####N#####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Home where birds lay eggs",
+      "4": "Covering that helps a bird fly",
+      "6": "Bird's hard mouth",
+      "7": "Black bird known for clever behaviour",
+      "8": "Body part used for flight",
+      "9": "Place where a bird rests"
+    },
+    "down": {
+      "2": "Small brown bird often near homes",
+      "3": "Group of birds together",
+      "4": "Seed-eating bird with a short beak",
+      "5": "Red-breasted songbird common in gardens",
+      "8": "Tiny bird with a loud song"
+    }
+  },
+  "order": 160
+}

@@ -1,0 +1,40 @@
+{
+  "id": "level-125",
+  "title": "Tea Time",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "MILK###O###",
+    "###E###O###",
+    "###T###L###",
+    "###T#SCONE#",
+    "###L#T#N###",
+    "#I#EARLGREY",
+    "#N###A#####",
+    "#F##BISCUIT",
+    "#U#S#N####E",
+    "#SAUCER###A",
+    "#E#G#R####P",
+    "CREAM#####O",
+    "###R######T"
+  ],
+  "clues": {
+    "across": {
+      "1": "Added to make it white",
+      "4": "Baked treat with jam and cream",
+      "6": "Tea flavoured with bergamot",
+      "7": "Something to dunk",
+      "10": "Small plate under a cup",
+      "11": "Clotted topping"
+    },
+    "down": {
+      "2": "Boils the water",
+      "3": "Partly oxidised Chinese tea",
+      "4": "Catches stray leaves",
+      "5": "Holder for loose leaves",
+      "8": "Vessel for brewing",
+      "9": "Sweetener in lumps"
+    }
+  },
+  "order": 125
+}

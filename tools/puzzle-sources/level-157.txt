@@ -1,0 +1,21 @@
+id: level-157
+title: Cartography
+difficulty: HARD
+order: 157
+type: level
+size: 15
+seed: 157
+---
+ATLAS | Book of maps
+SCALE | Ratio of map to ground
+CONTOUR | Line joining equal heights
+LEGEND | Key to map symbols
+PROJECTION | Way of flattening the globe
+MERCATOR | Famous projection with big poles
+GLOBE | Spherical map
+TOPOGRAPHY | Shape of the land
+GRID | Squares for references
+SURVEYOR | Measurer of land
+COMPASSROSE | Direction star on a map
+INSET | Small extra map in a corner
+RELIEF | Shading of hills

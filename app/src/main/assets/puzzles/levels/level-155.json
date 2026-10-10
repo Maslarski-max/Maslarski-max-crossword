@@ -1,0 +1,42 @@
+{
+  "id": "level-155",
+  "title": "Navigation",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###COMPASS####",
+    "#######S######",
+    "#SEXTANT#L####",
+    "#######R#O####",
+    "###WAYPOINT###",
+    "#M#####L#G###B",
+    "#E####LATITUDE",
+    "#R#####B#T###A",
+    "#I#####EQUATOR",
+    "#D###C###D#R#I",
+    "LIGHTHOUSE#O#N",
+    "#A###A#####P#G",
+    "#N###R#####I##",
+    "##KNOT#####C##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Magnetic direction finder",
+      "3": "Instrument for measuring star angles",
+      "5": "Stop on a planned route",
+      "8": "Distance north or south",
+      "9": "Zero degrees latitude",
+      "12": "Coastal warning tower",
+      "13": "Nautical mile per hour"
+    },
+    "down": {
+      "2": "Ancient star instrument",
+      "4": "Distance east or west",
+      "6": "Line of longitude",
+      "7": "Direction to a point",
+      "10": "Line of Cancer or Capricorn",
+      "11": "Sea map"
+    }
+  },
+  "order": 155
+}

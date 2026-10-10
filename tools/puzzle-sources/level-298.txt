@@ -1,0 +1,21 @@
+id: level-298
+title: Statistical Mechanics
+difficulty: HARD
+order: 298
+type: level
+size: 15
+seed: 298
+---
+ENTROPY | Measure of the number of microscopic arrangements
+ENSEMBLE | Collection of possible states used in a model
+PARTITION | Function that summarizes statistical states
+TEMPERATURE | Measure related to average thermal energy
+MICROSTATE | Specific microscopic arrangement of a system
+MACROSTATE | Large-scale description of a system
+PROBABILITY | Measure of how likely an event is
+THERMAL | Relating to heat
+EQUILIBRIUM | State with no net large-scale change
+ENERGY | Capacity to do work or transfer heat
+MOLECULE | Group of atoms bonded together
+PRESSURE | Force exerted per unit area
+STATISTICAL | Relating to probability and data

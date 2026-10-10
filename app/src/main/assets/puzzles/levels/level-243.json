@@ -1,0 +1,43 @@
+{
+  "id": "level-243",
+  "title": "Ocean Currents",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "CURRENT##T#S###",
+    "O######U#H#A###",
+    "R#####UPWELLING",
+    "I######W#R#I##Y",
+    "O####B#EKMAN##R",
+    "L#C##O#L#O#I##E",
+    "I#O##U#L#H#T###",
+    "SINKING##A#Y###",
+    "##V##D###L#####",
+    "##EQUATORIAL###",
+    "##C##R###N#####",
+    "##T##Y###E#####",
+    "DRIFT##########",
+    "##O############",
+    "##N############"
+  ],
+  "clues": {
+    "across": {
+      "1": "Directed flow of ocean water",
+      "5": "Rise of deep water toward the surface",
+      "8": "Name for wind-driven transport in the ocean",
+      "10": "Downward movement of surface water",
+      "11": "Relating to the region around Earth's equator",
+      "12": "Slow movement carried by water or wind"
+    },
+    "down": {
+      "1": "Effect that deflects moving air and water on Earth",
+      "2": "Driven by differences in heat and salt",
+      "3": "Amount of dissolved salt in water",
+      "4": "Bring deeper water toward the surface",
+      "6": "Large circulating system of ocean currents",
+      "7": "Edge separating two water masses",
+      "9": "Movement driven by differences in temperature"
+    }
+  },
+  "order": 243
+}

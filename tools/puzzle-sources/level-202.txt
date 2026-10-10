@@ -1,0 +1,20 @@
+id: level-202
+title: Space Telescope
+difficulty: MEDIUM
+order: 202
+type: level
+size: 13
+seed: 202
+---
+MIRROR | Reflective surface that gathers light
+ORBIT | Curved path around a celestial body
+NEBULA | Cloud of gas and dust in space
+GALAXY | Vast system of stars and gas
+SPECTRUM | Spread of light separated by wavelength
+DETECTOR | Device that senses incoming light
+FOCUS | Bring an image into sharp view
+HUBBLE | Space telescope named for an astronomer
+INFRARED | Light with wavelengths longer than visible red
+ULTRAVIOLET | Light with wavelengths shorter than visible violet
+COSMOS | The universe considered as a whole
+OBSERVE | Watch carefully to gather information

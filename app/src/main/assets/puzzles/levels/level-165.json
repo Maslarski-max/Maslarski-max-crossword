@@ -1,0 +1,36 @@
+{
+  "id": "level-165",
+  "title": "Ballet Class",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#######C###",
+    "###M###LEAP",
+    "TUTU###A##O",
+    "###SHOES##I",
+    "###I###SPIN",
+    "DANCER##O#T",
+    "########S#E",
+    "####BARRE##",
+    "####O######",
+    "####W######"
+  ],
+  "clues": {
+    "across": {
+      "3": "Jump high into the air",
+      "5": "Short skirt worn by a ballet dancer",
+      "6": "Footwear worn for a lesson",
+      "7": "Turn around quickly",
+      "9": "Person who moves to music",
+      "10": "Rail used for warm-up exercises"
+    },
+    "down": {
+      "1": "Group learning together",
+      "2": "Organised sounds with rhythm",
+      "4": "Tip of a ballet shoe",
+      "8": "Still position held by a performer",
+      "10": "Bend forward to greet an audience"
+    }
+  },
+  "order": 165
+}

@@ -1,0 +1,37 @@
+{
+  "id": "level-274",
+  "title": "Home Repair",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#S####P##L#",
+    "#C###HAMMER",
+    "BRUSH#T##A#",
+    "#E##I#C##K#",
+    "#WRENCH####",
+    "####G######",
+    "LADDER#####",
+    "###R#######",
+    "#PAINT#####",
+    "###L#######",
+    "TOOLBOX####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Tool used to drive nails",
+      "5": "Tool used to spread paint",
+      "7": "Tool for turning nuts and bolts",
+      "8": "Climbable frame used to reach high places",
+      "10": "Coloured coating for a wall",
+      "11": "Box for keeping repair equipment"
+    },
+    "down": {
+      "1": "Fastener turned with a tool",
+      "2": "Small piece that covers a damaged spot",
+      "3": "Unwanted escape of water",
+      "6": "Joint that lets a door swing",
+      "9": "Tool that makes holes"
+    }
+  },
+  "order": 274
+}

@@ -1,0 +1,40 @@
+{
+  "id": "level-283",
+  "title": "Desert Botany",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "SUCCULENT###",
+    "##A#########",
+    "##C#########",
+    "##THORN#####",
+    "F#U######W##",
+    "L#SHADE##A#S",
+    "O####O###X#E",
+    "W##XEROPHYTE",
+    "E####M#O###D",
+    "RAINFALL###B",
+    "#####N#L###A",
+    "##ROOTLET##N",
+    "#######N###K"
+  ],
+  "clues": {
+    "across": {
+      "1": "Plant that stores water in thick tissues",
+      "3": "Sharp point growing on a plant",
+      "6": "Shelter from direct sunlight",
+      "9": "Plant adapted to very dry conditions",
+      "11": "Water that descends from clouds",
+      "12": "Small branch of a plant's root"
+    },
+    "down": {
+      "2": "Spiny plant adapted to dry conditions",
+      "4": "Plant structure that can form seeds",
+      "5": "Having a surface that helps limit water loss",
+      "7": "Temporarily inactive during harsh conditions",
+      "8": "Seeds stored naturally in soil",
+      "10": "Fine grains involved in plant reproduction"
+    }
+  },
+  "order": 283
+}

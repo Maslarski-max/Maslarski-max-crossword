@@ -1,0 +1,43 @@
+{
+  "id": "level-266",
+  "title": "Viral Evolution",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "############T##",
+    "############R##",
+    "########VARIANT",
+    "##########N#N##",
+    "###E###M#CAPSID",
+    "###V###U####M##",
+    "#G#O###T#S##I##",
+    "#E#LINEAGE##S##",
+    "#N#U###T#L##S##",
+    "HOST#SPIKE##I##",
+    "#M#I###O#C##O##",
+    "RECOMBINATION##",
+    "###N#####I#####",
+    "####ENVELOPE###",
+    "#########N#####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Form with a changed genetic sequence",
+      "6": "Protein shell surrounding a virus",
+      "9": "Sequence of related descendants",
+      "10": "Organism in which a virus replicates",
+      "11": "Surface protein used by some viruses to attach",
+      "12": "Exchange of genetic material between molecules",
+      "13": "Outer lipid layer on some viruses"
+    },
+    "down": {
+      "1": "Spread from one host to another",
+      "3": "Genetic material used by many viruses",
+      "4": "Change in populations over generations",
+      "5": "Change in genetic material",
+      "7": "Complete genetic material of an organism or virus",
+      "8": "Process favouring some inherited traits"
+    }
+  },
+  "order": 266
+}

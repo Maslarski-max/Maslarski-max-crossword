@@ -1,0 +1,21 @@
+id: level-235
+title: Atmospheric Optics
+difficulty: HARD
+order: 235
+type: level
+size: 15
+seed: 235
+---
+REFRACTION | Bending of light as it passes between materials
+DISPERSION | Separation of light into different wavelengths
+HALO | Ring of light around the sun or moon
+CORONA | Glow close around a bright celestial object
+SUNSET | Time when the sun goes below the horizon
+MIRAGE | Optical effect caused by layers of air
+SCATTERING | Redirection of light by particles
+RAYLEIGH | Name of scattering that favours shorter wavelengths
+RAINBOW | Arc of colours formed by water droplets
+TWILIGHT | Period of dim light after sunset
+ATMOSPHERE | Layer of gases surrounding a planet
+IRIDESCENCE | Shifting display of colours on a surface
+CREPUSCULAR | Relating to twilight

@@ -1,0 +1,19 @@
+id: level-245
+title: At the Tailor
+difficulty: EASY
+order: 245
+type: level
+size: 11
+seed: 245
+---
+TAILOR | Person who makes or alters clothes
+MEASURE | Find the size of something
+TAPE | Flexible strip used for measuring
+FABRIC | Cloth used to make a garment
+SLEEVE | Part of a shirt covering an arm
+POCKET | Small pouch sewn into clothing
+BUTTON | Small fastener sewn onto a garment
+THREAD | Fine strand used for stitching
+HEM | Folded edge at the bottom of a garment
+SEW | Join cloth with stitches
+FITTING | Try-on to check how a garment sits

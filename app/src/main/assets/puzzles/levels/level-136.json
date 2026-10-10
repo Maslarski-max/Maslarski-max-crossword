@@ -1,0 +1,34 @@
+{
+  "id": "level-136",
+  "title": "Music Class",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "BAND######",
+    "###R#NOTE#",
+    "#C#U###R#B",
+    "#HUM#FLUTE",
+    "#O##S##M#L",
+    "PIANO##P#L",
+    "#R##N##E##",
+    "####GUITAR"
+  ],
+  "clues": {
+    "across": {
+      "1": "Group of musicians",
+      "3": "Single musical sound",
+      "7": "Sing with your mouth shut",
+      "8": "Silver pipe blown sideways",
+      "10": "Black and white keys",
+      "11": "Six-stringed strummer"
+    },
+    "down": {
+      "2": "Instrument you hit with sticks",
+      "4": "Brass horn with three valves",
+      "5": "Group of singers",
+      "6": "It rings with a ding",
+      "9": "Words set to music"
+    }
+  },
+  "order": 136
+}

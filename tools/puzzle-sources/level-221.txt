@@ -1,0 +1,19 @@
+id: level-221
+title: Bicycle Repair
+difficulty: EASY
+order: 221
+type: level
+size: 11
+seed: 221
+---
+PEDAL | Footrest turned to move a bicycle
+CHAIN | Linked metal loop that drives the rear wheel
+BRAKE | Device that slows a bicycle
+TIRE | Rubber ring around a wheel
+PUMP | Tool that pushes air into a tube
+SPOKE | Thin rod connecting a hub to a rim
+SEAT | Place where a rider sits
+HANDLEBAR | Bar used to steer a bicycle
+HELMET | Protective head covering
+WHEEL | Round part that rolls along the ground
+GEAR | Setting that changes pedalling effort

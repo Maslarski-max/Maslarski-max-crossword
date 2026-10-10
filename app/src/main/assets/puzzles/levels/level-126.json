@@ -1,0 +1,42 @@
+{
+  "id": "level-126",
+  "title": "Volcanic Islands",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#########A####",
+    "#####G###T###H",
+    "###KRAKATOA##A",
+    "#####L#R#L###W",
+    "#MAGMA#CALDERA",
+    "#####P#H#####I",
+    "#TSUNAMI#####I",
+    "#####G#PUMICE#",
+    "FUMAROLE##C###",
+    "#####S#L##E###",
+    "######BASALT##",
+    "#######G##A###",
+    "###SANTORINI##",
+    "##########D###"
+  ],
+  "clues": {
+    "across": {
+      "4": "Volcano that erupted catastrophically in 1883",
+      "6": "Molten rock below ground",
+      "7": "Collapsed volcanic crater",
+      "8": "Giant wave from an undersea quake",
+      "9": "Light rock that floats",
+      "11": "Vent emitting steam and gas",
+      "12": "Dark volcanic rock",
+      "13": "Greek island in a caldera"
+    },
+    "down": {
+      "1": "Ring-shaped coral reef",
+      "2": "Islands that inspired Darwin",
+      "3": "Pacific state with Mauna Loa",
+      "5": "Chain of islands",
+      "10": "Land of fire and ice"
+    }
+  },
+  "order": 126
+}

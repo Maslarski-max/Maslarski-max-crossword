@@ -1,0 +1,19 @@
+id: level-251
+title: Ski Lodge
+difficulty: EASY
+order: 251
+type: level
+size: 11
+seed: 251
+---
+SKI | Long narrow runner worn on snow
+SLOPE | Slanted surface for sliding downhill
+LIFT | Cable ride that carries skiers uphill
+SNOW | Frozen flakes falling from clouds
+MITTEN | Warm hand covering with one space for fingers
+GOGGLE | Protective eyewear for snowy conditions
+LODGE | Building where visitors stay
+POLE | Long stick used for balance
+HELMET | Hard covering that protects the head
+BOOTS | Sturdy footwear worn with skis
+APRES | Social time after a day of skiing

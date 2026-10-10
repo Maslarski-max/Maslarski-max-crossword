@@ -1,0 +1,21 @@
+id: level-262
+title: Roman Waterworks
+difficulty: HARD
+order: 262
+type: level
+size: 15
+seed: 262
+---
+AQUEDUCT | Structure carrying water over a distance
+CISTERN | Tank used to store water
+SIPHON | Tube that carries liquid over a higher point
+ARCH | Curved structure supporting weight
+CONDUIT | Channel or pipe that carries water
+GRADIENT | Slope of a water channel
+LEAD | Metal once used for some Roman pipes
+RESERVOIR | Place where water is stored
+MASONRY | Work made from stone or brick
+HYDRAULIC | Relating to liquid movement or pressure
+SETTLING | Process in which suspended matter sinks
+VALVE | Device that controls liquid flow
+ROMAN | Relating to ancient Rome

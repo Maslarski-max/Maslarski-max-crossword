@@ -1,0 +1,39 @@
+{
+  "id": "level-122",
+  "title": "Supermarket",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######B##D#F",
+    "#####CASHIER",
+    "##P###K##S#E",
+    "BARCODE##C#E",
+    "A#O###R##O#Z",
+    "S#DAIRY##U#E",
+    "K#U##E###N#R",
+    "E#CHECKOUT##",
+    "T#E##E######",
+    "####AISLE###",
+    "#####P######",
+    "#####TROLLEY"
+  ],
+  "clues": {
+    "across": {
+      "4": "Person at the till",
+      "6": "Striped label scanned at the till",
+      "7": "Section with milk and yoghurt",
+      "9": "Where you pay",
+      "10": "Passage between shelves",
+      "11": "Wheeled basket for shopping"
+    },
+    "down": {
+      "1": "Counter with fresh bread",
+      "2": "Price reduction",
+      "3": "Cold cabinet for ice cream",
+      "5": "Fresh fruit and vegetables",
+      "6": "Hand-held carrier",
+      "8": "Proof of purchase"
+    }
+  },
+  "order": 122
+}

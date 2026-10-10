@@ -55,4 +55,14 @@ class ArenaStatsTest {
         assertEquals(0, ArenaRules.rewardCoins(ArenaOutcome.LOST))
         assertEquals(0, ArenaRules.rewardCoins(ArenaOutcome.FORFEIT))
     }
+
+    @Test
+    fun `a loss or forfeit costs 10 coins, capped at the balance`() {
+        assertEquals(10, ArenaRules.penaltyCoins(ArenaOutcome.LOST, 100))
+        assertEquals(10, ArenaRules.penaltyCoins(ArenaOutcome.FORFEIT, 10))
+        assertEquals(4, ArenaRules.penaltyCoins(ArenaOutcome.LOST, 4))
+        assertEquals(0, ArenaRules.penaltyCoins(ArenaOutcome.LOST, 0))
+        assertEquals(0, ArenaRules.penaltyCoins(ArenaOutcome.WON, 100))
+        assertEquals(0, ArenaRules.penaltyCoins(ArenaOutcome.DRAW, 100))
+    }
 }

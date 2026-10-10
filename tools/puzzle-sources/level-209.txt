@@ -1,0 +1,21 @@
+id: level-209
+title: Glacier Science
+difficulty: HARD
+order: 209
+type: level
+size: 15
+seed: 209
+---
+MORAINE | Ridge of rock debris left by a glacier
+CREVASSE | Deep crack in glacial ice
+CALVING | Breaking of ice from a glacier's edge
+ABLATION | Loss of ice through melting or evaporation
+ACCUMULATION | Addition of snow to a glacier
+ICEFIELD | Broad area feeding several glaciers
+SNOUT | Lowest end of a glacier
+SERAC | Towering block of ice on a glacier
+TILL | Unsorted sediment deposited by ice
+FIRN | Old granular snow that may become glacial ice
+GLACIOLOGY | Scientific study of ice and glaciers
+MELTWATER | Water formed as snow or ice melts
+ISOSTASY | Balance of Earth's crust floating on the mantle

@@ -1,0 +1,19 @@
+id: level-112
+title: Pizza Night
+difficulty: EASY
+order: 112
+type: level
+size: 11
+seed: 112
+---
+DOUGH | Stretchy base before baking
+TOMATO | Red sauce ingredient
+CHEESE | Melted topping, often mozzarella
+OVEN | Hot box where it bakes
+SLICE | One triangle of the pie
+PEPPERONI | Spicy sausage topping
+OLIVE | Small black or green topping
+MUSHROOM | Fungus topping
+CRUST | Crunchy edge of the pizza
+BASIL | Green herb on a margherita
+BOX | Cardboard delivery carrier

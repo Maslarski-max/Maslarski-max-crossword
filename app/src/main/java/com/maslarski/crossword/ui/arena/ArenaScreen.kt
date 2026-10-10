@@ -604,6 +604,16 @@ private fun ArenaResultOverlay(result: ArenaResult, onRematch: () -> Unit, onLob
                         )
                     }
                 }
+                if (result.coinsLost > 0) {
+                    Surface(shape = CircleShape, color = MaterialTheme.colorScheme.errorContainer) {
+                        Text(
+                            pluralStringResource(R.plurals.arena_coins_lost, result.coinsLost, result.coinsLost),
+                            style = MaterialTheme.typography.labelLarge,
+                            color = MaterialTheme.colorScheme.onErrorContainer,
+                            modifier = Modifier.padding(horizontal = 12.dp, vertical = 4.dp),
+                        )
+                    }
+                }
                 Button(onClick = onRematch, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.arena_rematch)) }
                 OutlinedButton(onClick = onLobby, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.arena_back_to_lobby)) }
                 TextButton(onClick = onViewBoard) { Text(stringResource(R.string.completion_view_board)) }

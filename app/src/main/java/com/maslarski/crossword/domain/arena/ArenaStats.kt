@@ -2,7 +2,8 @@ package com.maslarski.crossword.domain.arena
 
 import com.maslarski.crossword.domain.model.Difficulty
 
-data class ArenaMatch(val id: Long, val state: ArenaState)
+/** [coinsEarned]/[coinsLost] are the coins the recorded outcome changed; both are 0 while the match is in progress. */
+data class ArenaMatch(val id: Long, val state: ArenaState, val coinsEarned: Int = 0, val coinsLost: Int = 0)
 
 data class ArenaResultRecord(val difficulty: Difficulty, val outcome: ArenaOutcome, val playerScore: Int)
 
@@ -11,6 +12,7 @@ data class ArenaResult(
     val playerScore: Int,
     val opponentScore: Int,
     val coinsEarned: Int,
+    val coinsLost: Int = 0,
 )
 
 /** Arena career stats, kept apart from classic progress. A forfeited match counts as a loss. */

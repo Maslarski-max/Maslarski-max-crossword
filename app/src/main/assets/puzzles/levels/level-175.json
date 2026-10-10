@@ -1,0 +1,40 @@
+{
+  "id": "level-175",
+  "title": "Space Mission",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####E##O###",
+    "TRAJECTORY##",
+    "E####L##B#A#",
+    "L#D#MISSION#",
+    "E#O##P##T#T#",
+    "M#CAPSULE#E#",
+    "E#K##E##R#N#",
+    "T#I###L###N#",
+    "R#N##PAYLOAD",
+    "Y#G###N#####",
+    "####MODULE##",
+    "######E#####",
+    "####THRUSTER"
+  ],
+  "clues": {
+    "across": {
+      "3": "Curved path followed by a moving object",
+      "6": "Planned journey with a specific goal",
+      "7": "Compact craft carrying astronauts",
+      "9": "Equipment carried for a mission",
+      "10": "Separate section of a larger spacecraft",
+      "11": "Small engine that changes a craft's motion"
+    },
+    "down": {
+      "1": "One celestial body blocks another from view",
+      "2": "Spacecraft that circles a celestial body",
+      "3": "Automatic sending of measurement data",
+      "4": "Device that sends or receives signals",
+      "5": "Joining two spacecraft in orbit",
+      "8": "Craft designed to touch down on a world"
+    }
+  },
+  "order": 175
+}

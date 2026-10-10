@@ -1,0 +1,37 @@
+{
+  "id": "level-135",
+  "title": "Train Set",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "S######B###",
+    "TRACK##R###",
+    "E##A#DRIVER",
+    "A##R###D#N#",
+    "M##R#S#G#G#",
+    "#WHISTLE#I#",
+    "#H#A#A###N#",
+    "#E#G#TUNNEL",
+    "#E#E#I#####",
+    "#L###O#####",
+    "##SIGNAL###"
+  ],
+  "clues": {
+    "across": {
+      "3": "Rails the train runs on",
+      "5": "Person in the cab",
+      "8": "Toot-toot sound",
+      "9": "Dark passage through a hill",
+      "10": "Light telling trains to stop or go"
+    },
+    "down": {
+      "1": "Old engines puffed it",
+      "2": "It carries the line over water",
+      "4": "Car for passengers",
+      "6": "Front car that pulls",
+      "7": "Where passengers wait",
+      "8": "Round part on the rail"
+    }
+  },
+  "order": 135
+}

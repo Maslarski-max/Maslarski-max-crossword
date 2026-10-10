@@ -1,0 +1,43 @@
+{
+  "id": "level-210",
+  "title": "Plate Tectonics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#########S#####",
+    "#####OROGENY###",
+    "####L#I##I#####",
+    "####I#F##S#####",
+    "##S#T#T##M##C##",
+    "##U#H####I##O##",
+    "##B#O##TECTONIC",
+    "##D#S##R####T##",
+    "##U#P#MAGMATISM",
+    "F#C#H##N####N#A",
+    "ASTHENOSPHERE#N",
+    "U#I#R##F####N#T",
+    "L#O#E##O####T#L",
+    "T#N##EARTHQUAKE",
+    "#######M####L##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Process that forms mountains",
+      "7": "Relating to large moving sections of Earth's crust",
+      "8": "Formation and movement of molten rock",
+      "11": "Weak upper-mantle layer beneath the lithosphere",
+      "12": "Shaking caused by movement within Earth's crust"
+    },
+    "down": {
+      "1": "Relating to earthquakes or vibrations",
+      "3": "Long crack where crust pulls apart",
+      "4": "Rigid outer layer of Earth",
+      "5": "Sinking of one tectonic plate under another",
+      "6": "Relating to Earth's large landmasses",
+      "7": "Boundary where plates slide past one another",
+      "9": "Thick rocky layer below Earth's crust",
+      "10": "Fracture along which rocks move"
+    }
+  },
+  "order": 210
+}

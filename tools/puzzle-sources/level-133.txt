@@ -1,0 +1,21 @@
+id: level-133
+title: Orchestra Pit
+difficulty: HARD
+order: 133
+type: level
+size: 15
+seed: 133
+---
+CONDUCTOR | Leader with a baton
+VIOLIN | Highest bowed string
+CELLO | Seated bowed string instrument
+OBOE | Double-reed woodwind
+BASSOON | Low double-reed woodwind
+TIMPANI | Kettle drums
+PICCOLO | Small high flute
+TROMBONE | Brass with a slide
+CLARINET | Single-reed woodwind
+HARP | Plucked strings in a frame
+SCORE | Written music for all parts
+OVERTURE | Opening instrumental piece
+CONCERTO | Work for soloist and orchestra

@@ -1,0 +1,21 @@
+id: level-184
+title: Early Photography
+difficulty: HARD
+order: 184
+type: level
+size: 15
+seed: 184
+---
+DAGUERREOTYPE | Early photograph made on a silver-coated plate
+CALOTYPE | Paper-based photographic process invented by Talbot
+NEGATIVE | Image with light and dark tones reversed
+EMULSION | Light-sensitive coating on photographic film
+APERTURE | Opening that controls light entering a camera
+EXPOSURE | Amount of light recorded by a camera
+DEVELOPER | Chemical bath that reveals a latent image
+FIXER | Solution that makes a developed image permanent
+CONTACT | Printing method placing a negative against paper
+PLATE | Flat surface used to record an early photograph
+LENS | Curved glass that focuses light
+SEPIA | Brown tone often seen in old photographs
+TRIPOD | Three-legged support for a camera

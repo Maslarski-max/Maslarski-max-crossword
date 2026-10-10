@@ -1,0 +1,40 @@
+{
+  "id": "level-260",
+  "title": "Freshwater Ecology",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#FOODWEB#####",
+    "######U####W#",
+    "#M##WATERSHED",
+    "#O####R####T#",
+    "PLANKTON###L#",
+    "#L####P##R#A#",
+    "#U#AMPHIBIAN#",
+    "#S####I##P#D#",
+    "#K##A#C##A###",
+    "####L##STREAM",
+    "#OXYGEN##I###",
+    "####A####A###",
+    "###SEDIMENT##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Network of feeding relationships",
+      "5": "Area drained by a river system",
+      "6": "Small drifting organisms in water",
+      "8": "Animal that often lives on land and in water",
+      "10": "Small flowing body of water",
+      "11": "Gas dissolved in water and used by many animals",
+      "12": "Material that settles on a streambed"
+    },
+    "down": {
+      "2": "Rich in nutrients, often with abundant plant growth",
+      "3": "Land saturated with water for much of the year",
+      "4": "Backbone-free animal group that includes snails and clams",
+      "7": "Relating to land beside a river",
+      "9": "Simple organisms often growing in water"
+    }
+  },
+  "order": 260
+}

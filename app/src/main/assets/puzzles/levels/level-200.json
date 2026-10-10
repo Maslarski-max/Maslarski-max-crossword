@@ -1,0 +1,40 @@
+{
+  "id": "level-200",
+  "title": "Underground Railway",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##TUNNEL#####",
+    "#S####S###C##",
+    "#T#TRACK##A#C",
+    "#A####A###R#O",
+    "#T###PLATFORM",
+    "#I##S#A#U#U#M",
+    "CONDUCTOR#S#U",
+    "#N##B#O#N#E#T",
+    "####W#R#S#L#E",
+    "SIGNAL##T###R",
+    "####Y###I####",
+    "########L####",
+    "VENTILATE####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Passage dug beneath the ground",
+      "5": "Rails that guide a train",
+      "7": "Raised area where riders board a train",
+      "10": "Railway worker who checks fares or helps riders",
+      "11": "Device that tells a train when to proceed",
+      "12": "Circulate fresh air through an enclosed space"
+    },
+    "down": {
+      "2": "Moving stairway inside a station",
+      "3": "Place where a train stops for riders",
+      "4": "Circular display for signs or luggage",
+      "6": "Person who travels regularly to work",
+      "8": "Rotating gate that admits one rider at a time",
+      "9": "City railway running mostly below ground"
+    }
+  },
+  "order": 200
+}

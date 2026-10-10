@@ -1,0 +1,19 @@
+id: level-116
+title: Tool Shed
+difficulty: EASY
+order: 116
+type: level
+size: 11
+seed: 116
+---
+HAMMER | Tool for banging in nails
+SAW | Toothed blade for cutting wood
+DRILL | Tool that makes holes
+NAIL | Thin metal spike
+SCREW | Twisting fastener
+WRENCH | Tool for turning nuts
+RAKE | Garden tool for gathering leaves
+SPADE | Tool for digging
+LADDER | Climb it to reach high places
+GLUE | Sticky stuff that joins things
+TAPE | Sticky roll for measuring or sealing

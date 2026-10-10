@@ -1,0 +1,19 @@
+id: level-217
+title: Magic Show
+difficulty: EASY
+order: 217
+type: level
+size: 11
+seed: 217
+---
+MAGIC | Tricks that seem impossible
+WAND | Slender stick used by a magician
+TRICK | Clever act that surprises an audience
+RABBIT | Animal sometimes pulled from a hat
+HAT | Headwear used in a famous magic trick
+CARD | Playing piece used for a guessing trick
+SCARF | Long strip of cloth used in a trick
+STAGE | Place where a show is performed
+CLAP | Make a sound by striking the hands
+AUDIENCE | People watching a performance
+ESCAPE | Get free from a locked place

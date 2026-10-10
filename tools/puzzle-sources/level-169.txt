@@ -1,0 +1,20 @@
+id: level-169
+title: Robotics Workshop
+difficulty: MEDIUM
+order: 169
+type: level
+size: 13
+seed: 169
+---
+ROBOT | Machine that can carry out tasks
+SENSOR | Device that detects a change nearby
+MOTOR | Machine that creates movement
+CIRCUIT | Connected path for electric current
+CODING | Writing instructions for a computer
+WHEEL | Round part that rolls along a surface
+GEAR | Toothed part that transfers motion
+BATTERY | Stored source of electrical power
+JOINT | Moving connection between machine parts
+REMOTE | Handheld controller for a device
+PROTOTYPE | Early model built for testing
+AUTOMATE | Make a process work by itself

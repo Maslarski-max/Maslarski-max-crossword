@@ -1,0 +1,37 @@
+{
+  "id": "level-244",
+  "title": "Tennis Club",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "########S#",
+    "###DOUBLES",
+    "######A#R#",
+    "######L#V#",
+    "####VOLLEY",
+    "#######O##",
+    "#####M#V##",
+    "G####ACE#N",
+    "RACKET###E",
+    "I####COURT",
+    "P####H####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Match played by two pairs",
+      "4": "Hit the ball before it bounces",
+      "8": "Serve the opponent cannot return",
+      "10": "Frame strung with cord for striking a ball",
+      "11": "Marked area where a match is played"
+    },
+    "down": {
+      "1": "Opening hit that starts a point",
+      "3": "Round object struck during play",
+      "5": "Score of zero in tennis",
+      "6": "Contest between two players or pairs",
+      "7": "Hold of the hand on a racket",
+      "9": "Mesh barrier across the middle"
+    }
+  },
+  "order": 244
+}

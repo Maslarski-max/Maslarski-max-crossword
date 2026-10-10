@@ -1,0 +1,20 @@
+id: level-260
+title: Freshwater Ecology
+difficulty: MEDIUM
+order: 260
+type: level
+size: 13
+seed: 260
+---
+WETLAND | Land saturated with water for much of the year
+WATERSHED | Area drained by a river system
+ALGAE | Simple organisms often growing in water
+PLANKTON | Small drifting organisms in water
+MOLLUSK | Backbone-free animal group that includes snails and clams
+AMPHIBIAN | Animal that often lives on land and in water
+SEDIMENT | Material that settles on a streambed
+OXYGEN | Gas dissolved in water and used by many animals
+EUTROPHIC | Rich in nutrients, often with abundant plant growth
+RIPARIAN | Relating to land beside a river
+FOODWEB | Network of feeding relationships
+STREAM | Small flowing body of water

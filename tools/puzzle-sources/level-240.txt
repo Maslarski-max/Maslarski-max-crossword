@@ -1,0 +1,21 @@
+id: level-240
+title: Cretaceous Period
+difficulty: HARD
+order: 240
+type: level
+size: 15
+seed: 240
+---
+CRETACEOUS | Geological period ending about 66 million years ago
+TYRANNOSAUR | Large predatory dinosaur of late Cretaceous North America
+TRICERATOPS | Three-horned plant-eating dinosaur
+MOSASAUR | Marine reptile that lived in Cretaceous seas
+ANGIOSPERM | Flowering plant
+AMMONITE | Coiled-shelled marine animal found as a fossil
+CHALK | Soft limestone formed from microscopic marine remains
+EXTINCTION | Disappearance of a species from Earth
+METEORITE | Space rock that reaches the ground
+FOSSIL | Preserved remains of ancient life
+PALEOGENE | Geological period that followed the Cretaceous
+DINOSAUR | Reptile group that included many ancient species
+IMPACT | Collision of one object with another

@@ -1,0 +1,20 @@
+id: level-230
+title: Cave Exploration
+difficulty: MEDIUM
+order: 230
+type: level
+size: 13
+seed: 230
+---
+SPELUNKER | Person who explores caves for recreation
+STALACTITE | Mineral formation hanging from a cave roof
+STALAGMITE | Mineral formation rising from a cave floor
+BAT | Flying mammal that may roost in caves
+CHAMBER | Large room inside a cave
+PASSAGE | Narrow route through a cave
+LIMESTONE | Rock often dissolved to form caves
+HEADLAMP | Light fastened to a helmet
+CRAWLWAY | Very low tunnel through a cave
+ROPE | Strong cord used on a descent
+DRIPSTONE | Mineral deposit formed by dripping water
+ENTRANCE | Opening that leads into a cave

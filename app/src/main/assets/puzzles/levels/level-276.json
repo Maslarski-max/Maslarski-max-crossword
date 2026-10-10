@@ -1,0 +1,36 @@
+{
+  "id": "level-276",
+  "title": "Seedling Nursery",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####S##P##",
+    "##WATER#O##",
+    "#H###E#STEM",
+    "SOIL#D#P###",
+    "#T#A#L#ROOT",
+    "#H#B#I#O##R",
+    "#O#E#N#U##A",
+    "SUNLIGHT##Y",
+    "#S#########",
+    "#E#########"
+  ],
+  "clues": {
+    "across": {
+      "3": "Liquid poured on a growing plant",
+      "5": "Upright plant part holding leaves",
+      "6": "Loose earth used by plant roots",
+      "8": "Part that anchors and feeds a plant",
+      "10": "Light that reaches Earth from the sun"
+    },
+    "down": {
+      "1": "Young plant grown from a seed",
+      "2": "Small container for growing a plant",
+      "4": "Glass building that keeps plants warm",
+      "5": "New growth emerging from a seed",
+      "7": "Tag showing a plant's name",
+      "9": "Flat container holding several small pots"
+    }
+  },
+  "order": 276
+}

@@ -1,0 +1,20 @@
+id: level-206
+title: River Expedition
+difficulty: MEDIUM
+order: 206
+type: level
+size: 13
+seed: 206
+---
+RAFT | Flat floating platform for a river trip
+PADDLE | Blade used to move a small boat
+PORTAGE | Carry a boat and gear around an obstacle
+CURRENT | Flow of water in a river
+RAPID | Fast section of rough water
+TRIBUTARY | Stream that joins a larger river
+DRYBAG | Waterproof sack for keeping gear dry
+COMPASS | Tool that indicates direction
+CANOE | Narrow boat propelled with a paddle
+SHOAL | Shallow area in a river
+WATERFALL | River drop over a steep edge
+CAMPSITE | Place to pitch a tent overnight

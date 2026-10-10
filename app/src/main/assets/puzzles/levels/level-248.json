@@ -1,0 +1,34 @@
+{
+  "id": "level-248",
+  "title": "Farmhouse Kitchen",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####S#K##",
+    "S###MIXER#",
+    "P##P#N#T##",
+    "O##A#K#TAP",
+    "OVEN###L#L",
+    "N##TABLE#A",
+    "#JAR#####T",
+    "###Y#STOVE"
+  ],
+  "clues": {
+    "across": {
+      "4": "Appliance that beats ingredients",
+      "6": "Fitting that releases water",
+      "8": "Enclosed chamber for baking",
+      "9": "Furniture where people eat",
+      "10": "Glass container for storing food",
+      "11": "Appliance used to cook food"
+    },
+    "down": {
+      "1": "Basin with a water tap",
+      "2": "Vessel that heats water",
+      "3": "Utensil with a small curved bowl",
+      "5": "Small room for keeping food",
+      "7": "Flat dish for serving food"
+    }
+  },
+  "order": 248
+}

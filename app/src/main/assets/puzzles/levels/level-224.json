@@ -1,0 +1,36 @@
+{
+  "id": "level-224",
+  "title": "Bird Feeder",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####FINCH#",
+    "#####E###O#",
+    "####BEAK#P#",
+    "#####D#####",
+    "###G#E#####",
+    "#SPARROW#P#",
+    "#U#R###I#E#",
+    "SEED#HUNGRY",
+    "#T#E###G#C#",
+    "###N#####H#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Small songbird with a short bill",
+      "3": "Hard mouth of a bird",
+      "5": "Familiar small bird found near homes",
+      "8": "Food planted by a bird feeder",
+      "9": "Needing food"
+    },
+    "down": {
+      "1": "Container that holds food for birds",
+      "2": "Move with short jumps",
+      "4": "Outdoor area where a feeder may hang",
+      "5": "Fat-based food put out for wild birds",
+      "6": "Part used to fly",
+      "7": "Narrow support where a bird can land"
+    }
+  },
+  "order": 224
+}

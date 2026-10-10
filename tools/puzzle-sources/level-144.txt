@@ -1,0 +1,20 @@
+id: level-144
+title: Fire Station
+difficulty: MEDIUM
+order: 144
+type: level
+size: 13
+seed: 144
+---
+FIREFIGHTER | Brave hose holder
+HYDRANT | Street water outlet
+LADDER | Extended to upper windows
+HELMET | Protective headgear
+SIREN | Loud warning wail
+HOSE | Long water pipe
+EXTINGUISHER | Red canister for small fires
+ALARM | Smoke ___
+RESCUE | Saving someone in danger
+FLAME | Tongue of fire
+POLE | Slide down it to the engine
+SMOKE | Grey cloud from a fire

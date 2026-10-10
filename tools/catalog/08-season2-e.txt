@@ -1,0 +1,391 @@
+=== Post Office | EASY
+LETTER | Written message sent in an envelope
+STAMP | Small label that pays for postage
+MAIL | Letters and parcels delivered to homes
+ENVELOPE | Paper cover for a letter
+PARCEL | Wrapped package sent to someone
+POSTCARD | Card with a picture and short message
+ADDRESS | Details showing where a person lives
+CLERK | Worker who serves customers at a counter
+QUEUE | Line of people waiting
+PEN | Tool used for writing
+SEND | Arrange for a letter to travel
+
+=== Magic Show | EASY
+MAGIC | Tricks that seem impossible
+WAND | Slender stick used by a magician
+TRICK | Clever act that surprises an audience
+RABBIT | Animal sometimes pulled from a hat
+HAT | Headwear used in a famous magic trick
+CARD | Playing piece used for a guessing trick
+SCARF | Long strip of cloth used in a trick
+STAGE | Place where a show is performed
+CLAP | Make a sound by striking the hands
+AUDIENCE | People watching a performance
+ESCAPE | Get free from a locked place
+
+=== At the Laundromat | EASY
+WASH | Clean clothes with water
+SOAP | Cleaner that makes bubbles
+DRYER | Machine that removes water from clothes
+COIN | Small metal money used to start a machine
+SOCK | Garment worn on a foot
+SHIRT | Garment covering the upper body
+TOWEL | Cloth used to dry the body
+BASKET | Container for carrying laundry
+SPIN | Turn quickly around an axis
+FOLD | Bend cloth over itself
+DETERGENT | Cleaning powder or liquid for clothes
+
+=== Houseplant Care | EASY
+POTTING | Placing a plant into a container
+SOIL | Loose earth where roots grow
+ROOT | Part that takes up water underground
+STEM | Plant part that supports leaves
+LEAF | Flat part that gathers sunlight
+WATER | Clear liquid needed by a plant
+FERN | Leafy plant that grows from spores
+CACTUS | Spiny plant adapted to dry places
+WINDOW | Opening that lets daylight indoors
+PRUNER | Tool for trimming stems
+SAUCER | Shallow dish beneath a flowerpot
+
+=== Sleepover Party | EASY
+PILLOW | Soft cushion for resting your head
+PAJAMAS | Clothes worn for bed
+POPCORN | Puffed snack often eaten during a film
+MOVIE | Story shown on a screen
+BLANKET | Warm bed covering
+GIGGLE | Light, happy laugh
+TORCH | Handheld light for a dark room
+GAME | Activity played for fun
+SNACK | Small bite between meals
+YAWN | Wide opening of the mouth when tired
+SLEEPOVER | Night spent at a friend's home
+
+=== Bicycle Repair | EASY
+PEDAL | Footrest turned to move a bicycle
+CHAIN | Linked metal loop that drives the rear wheel
+BRAKE | Device that slows a bicycle
+TIRE | Rubber ring around a wheel
+PUMP | Tool that pushes air into a tube
+SPOKE | Thin rod connecting a hub to a rim
+SEAT | Place where a rider sits
+HANDLEBAR | Bar used to steer a bicycle
+HELMET | Protective head covering
+WHEEL | Round part that rolls along the ground
+GEAR | Setting that changes pedalling effort
+
+=== Lemonade Stand | EASY
+LEMON | Sour yellow fruit
+SQUEEZE | Press fruit to release its juice
+PITCHER | Tall vessel used for serving a drink
+SUGAR | Sweet crystals stirred into a drink
+ICE | Frozen water used to chill a glass
+CUP | Small vessel for drinking
+STRAW | Thin tube used for sipping
+TABLE | Furniture holding the stand's goods
+SIGN | Board showing what is for sale
+COINS | Small pieces of metal money
+THIRST | Need for a drink
+
+=== Stage Crew | EASY
+LIGHT | Bright beam used to illuminate a stage
+PROP | Object handled by an actor
+SCENE | Part of a play set in one place
+ACTOR | Person who performs a role
+COSTUME | Special clothing worn for a performance
+SET | Painted scenery for a play
+SOUND | What the audience hears
+ROPE | Strong cord used to lift scenery
+MASK | Face covering worn by a performer
+CURTAIN | Cloth that hides the stage
+USHER | Worker who guides people to their seats
+
+=== Bird Feeder | EASY
+SEED | Food planted by a bird feeder
+PERCH | Narrow support where a bird can land
+HOP | Move with short jumps
+BEAK | Hard mouth of a bird
+WING | Part used to fly
+SUET | Fat-based food put out for wild birds
+FEEDER | Container that holds food for birds
+FINCH | Small songbird with a short bill
+SPARROW | Familiar small bird found near homes
+HUNGRY | Needing food
+GARDEN | Outdoor area where a feeder may hang
+
+=== Lighthouse Keepers | MEDIUM
+LANTERN | Enclosed lamp used to guide vessels
+BEACON | Signal that helps sailors find a route
+LENS | Curved glass that focuses a beam
+FOGSIGNAL | Warning sound heard in mist
+KEEPER | Person who maintains a lighthouse
+COAST | Land beside the sea
+TIDE | Regular rise and fall of the sea
+CLIFF | Steep rock face above the shore
+HARBOR | Sheltered place where boats can anchor
+WICK | Fibrous part that draws fuel to a flame
+ROTATION | Turning motion of a light mechanism
+SHIPWRECK | Destruction of a vessel at sea
+
+=== Animated Films | MEDIUM
+ANIMATION | Making drawings or models appear to move
+STORYBOARD | Sequence of sketches planning a film
+VOICEOVER | Recorded speech heard over images
+CEL | Clear sheet used in traditional animation
+KEYFRAME | Main drawing that marks a motion pose
+FRAME | Single image in a moving picture
+RENDER | Produce a finished image from a model
+CHARACTER | Person or creature in a story
+SOUNDTRACK | Music and audio for a film
+ANIMATOR | Artist who creates movement in a film
+MODEL | Three-dimensional figure used in stop motion
+SEQUENCE | Connected series of shots
+
+=== Beekeeping Basics | MEDIUM
+APIARY | Place where beehives are kept
+HONEYCOMB | Wax cells built by bees
+SMOKER | Tool that calms bees with cool smoke
+HIVE | Home made by a bee colony
+QUEEN | Egg-laying female in a colony
+WORKER | Female bee that gathers nectar
+DRONE | Male bee in a colony
+FRAME | Removable support for comb inside a hive
+NECTAR | Sweet liquid collected from flowers
+POLLEN | Fine powder carried between flowers
+EXTRACTOR | Machine that spins honey from comb
+VEIL | Net covering a beekeeper's face
+
+=== Polar Research Camp | MEDIUM
+ICECORE | Cylinder drilled from a sheet of ice
+TENT | Fabric shelter used in the field
+SNOWMOBILE | Vehicle that travels over snow
+THERMAL | Designed to retain body heat
+GLACIER | Slow-moving mass of ice on land
+COMPASS | Tool that shows direction
+PARKA | Warm outer coat for cold conditions
+SLEDGE | Runner vehicle pulled over snow
+SAMPLE | Small amount collected for study
+DRILL | Tool for making a hole in ice
+BLIZZARD | Severe snowstorm with strong winds
+RESEARCHER | Person who carries out a scientific study
+
+=== Museum Curators | MEDIUM
+CURATOR | Person responsible for a collection
+GALLERY | Room where artworks are displayed
+EXHIBIT | Object or display shown to visitors
+ARCHIVE | Collection of historical records
+CATALOG | List describing items in a collection
+RESTORE | Repair an old object carefully
+ARTIFACT | Object made or used by people in the past
+LABEL | Short text identifying a display
+STORAGE | Safe place where items are kept
+DONOR | Person who gives an item to a collection
+CONSERVE | Protect an object from damage
+MUSEUM | Institution that preserves and displays objects
+
+=== Cave Exploration | MEDIUM
+SPELUNKER | Person who explores caves for recreation
+STALACTITE | Mineral formation hanging from a cave roof
+STALAGMITE | Mineral formation rising from a cave floor
+BAT | Flying mammal that may roost in caves
+CHAMBER | Large room inside a cave
+PASSAGE | Narrow route through a cave
+LIMESTONE | Rock often dissolved to form caves
+HEADLAMP | Light fastened to a helmet
+CRAWLWAY | Very low tunnel through a cave
+ROPE | Strong cord used on a descent
+DRIPSTONE | Mineral deposit formed by dripping water
+ENTRANCE | Opening that leads into a cave
+
+=== Ceramics Studio | MEDIUM
+POTTERY | Objects made from shaped and fired clay
+WEDGE | Press clay to remove air bubbles
+GROG | Crushed fired clay added to a clay body
+SLIP | Liquid clay used to join pieces
+KILN | Oven that fires clay at high temperature
+GLAZE | Glassy coating fused to pottery
+FOOTRING | Raised ring supporting the base of a bowl
+BISQUE | First firing of a clay object
+THROW | Shape clay on a spinning wheel
+PORCELAIN | Hard ceramic made from refined materials
+STONEWARE | Durable pottery fired at high temperature
+SCULPT | Shape a solid material into an artwork
+
+=== Tropical Medicine | MEDIUM
+VECTOR | Organism that carries a disease between hosts
+PARASITE | Organism living on or in another organism
+MOSQUITO | Insect that can transmit malaria
+MALARIA | Disease caused by a parasite spread by mosquitoes
+VACCINE | Preparation that trains the immune system
+HYDRATION | Replacing water lost by the body
+FEVER | Higher-than-normal body temperature
+TROPICAL | Relating to the warm regions near the equator
+CLINIC | Place where people receive medical care
+INFECTION | Growth of harmful microbes in the body
+PREVENTION | Action taken to stop an illness
+OUTBREAK | Sudden rise in cases of a disease
+
+=== Concert Hall | MEDIUM
+BALCONY | Raised seating area above the main floor
+ACOUSTIC | Relating to how sound behaves in a space
+ORCHESTRA | Large group of instrumental musicians
+CONDUCTOR | Leader who directs musicians
+OVERTURE | Instrumental music that opens an opera
+REHEARSAL | Practice before a performance
+APPLAUSE | Clapping from an audience
+PROGRAM | Printed list of a concert's works
+SOLOIST | Musician performing alone
+RESOUND | Echo or ring through a space
+FOYER | Entrance hall of a theatre
+ENSEMBLE | Group performing together
+
+=== Antique Clockmakers | MEDIUM
+ESCAPEMENT | Mechanism controlling release of stored energy in a clock
+PENDULUM | Swinging weight used to keep time
+GEAR | Toothed wheel that transfers motion
+SPRING | Coiled metal source of stored energy
+DIAL | Face showing the time
+HAND | Pointer on a clock face
+WIND | Tighten a clock's spring with a key
+CHIME | Ringing sound made to mark time
+CASE | Outer container for a clock
+CLOCKMAKER | Person who builds or repairs clocks
+BALANCE | Oscillating wheel in some timepieces
+REGULATE | Adjust a clock to keep accurate time
+
+=== Atmospheric Optics | HARD
+REFRACTION | Bending of light as it passes between materials
+DISPERSION | Separation of light into different wavelengths
+HALO | Ring of light around the sun or moon
+CORONA | Glow close around a bright celestial object
+SUNSET | Time when the sun goes below the horizon
+MIRAGE | Optical effect caused by layers of air
+SCATTERING | Redirection of light by particles
+RAYLEIGH | Name of scattering that favours shorter wavelengths
+RAINBOW | Arc of colours formed by water droplets
+TWILIGHT | Period of dim light after sunset
+ATMOSPHERE | Layer of gases surrounding a planet
+IRIDESCENCE | Shifting display of colours on a surface
+CREPUSCULAR | Relating to twilight
+
+=== Quantum Computing | HARD
+QUBIT | Basic unit of quantum information
+SUPERPOSITION | State combining multiple possible outcomes
+ENTANGLEMENT | Quantum link between separated particles
+GATE | Operation applied to quantum information
+MEASUREMENT | Process that yields an observed result
+COHERENCE | Preservation of a quantum phase relationship
+DECOHERENCE | Loss of a system's quantum phase relationships
+ALGORITHM | Stepwise procedure for solving a problem
+QUTRIT | Quantum unit with three basis states
+AMPLITUDE | Quantity whose square gives a probability
+SIMULATOR | Program that models a quantum system
+PHOTON | Particle of electromagnetic radiation
+QUANTUM | Relating to discrete physical states
+
+=== Marine Mammal Biology | HARD
+CETACEAN | Member of the whale, dolphin, or porpoise group
+PINNIPED | Seal, sea lion, or walrus
+MYSTICETE | Baleen whale
+ODONTOCETE | Toothed whale
+ECHOLOCATION | Use of sound echoes to locate objects
+BLUBBER | Thick insulating fat beneath the skin
+POD | Social group of dolphins or whales
+MIGRATION | Seasonal journey between feeding areas
+FLIPPER | Broad limb used for swimming
+VOCALIZE | Make sounds for communication
+CALF | Young whale or dolphin
+KRILL | Tiny crustacean eaten by many whales
+MAMMAL | Warm-blooded animal that feeds young with milk
+
+=== Renaissance Architecture | HARD
+PALLADIAN | Relating to a style inspired by Andrea Palladio
+COLONNADE | Row of columns supporting a roof
+PEDIMENT | Triangular upper part above a classical portico
+PILASTER | Shallow rectangular column attached to a wall
+BALUSTRADE | Row of small supports beneath a handrail
+ENTABLATURE | Horizontal structure above a row of columns
+SYMMETRY | Balanced arrangement of corresponding parts
+DOME | Rounded roof over a building
+PORTICO | Covered entrance supported by columns
+PROPORTION | Relationship between the sizes of parts
+CLASSICAL | Based on ancient Greek or Roman design
+FACADE | Front face of a building
+ARCHITECT | Person who designs buildings
+
+=== Phonetics Laboratory | HARD
+PHONEME | Smallest sound unit that distinguishes words
+ALLOPHONE | One of several pronunciations of a phoneme
+VOWEL | Speech sound made with an open vocal tract
+CONSONANT | Speech sound made with a narrowed vocal tract
+SYLLABLE | Unit of speech built around a vowel sound
+ARTICULATE | Produce a speech sound with the vocal organs
+FORMANT | Resonant frequency peak in a speech sound
+TONGUE | Muscle that helps shape speech sounds
+LARYNX | Voice box containing the vocal folds
+IPA | Alphabet used to represent speech sounds
+NASAL | Sound produced with air through the nose
+PHONATION | Production of voice by the vocal folds
+INTONATION | Rise and fall of pitch in speech
+
+=== Cretaceous Period | HARD
+CRETACEOUS | Geological period ending about 66 million years ago
+TYRANNOSAUR | Large predatory dinosaur of late Cretaceous North America
+TRICERATOPS | Three-horned plant-eating dinosaur
+MOSASAUR | Marine reptile that lived in Cretaceous seas
+ANGIOSPERM | Flowering plant
+AMMONITE | Coiled-shelled marine animal found as a fossil
+CHALK | Soft limestone formed from microscopic marine remains
+EXTINCTION | Disappearance of a species from Earth
+METEORITE | Space rock that reaches the ground
+FOSSIL | Preserved remains of ancient life
+PALEOGENE | Geological period that followed the Cretaceous
+DINOSAUR | Reptile group that included many ancient species
+IMPACT | Collision of one object with another
+
+=== Meteorite Chemistry | HARD
+CHONDRITE | Stony meteorite containing small rounded grains
+IRON | Metal abundant in some meteorites
+NICKEL | Metal often found with iron in meteorites
+ISOTOPE | Atoms of an element with different neutron counts
+OLIVINE | Green mineral found in many meteorites
+PYROXENE | Group of silicate minerals in igneous rocks
+ACHONDRITE | Stony meteorite without chondrules
+SPECTROMETER | Instrument that measures a spectrum
+CRYSTAL | Solid with an ordered atomic structure
+ELEMENT | Substance made of one kind of atom
+CHONDRULE | Small rounded grain in a stony meteorite
+FUSION | Joining of material under heat
+METEORITE | Space fragment recovered after reaching the ground
+
+=== Renewable Energy Systems | HARD
+PHOTOVOLTAIC | Relating to electricity generated by light
+GEOTHERMAL | Relating to heat from inside Earth
+TURBINE | Machine whose blades turn in a moving fluid
+GENERATOR | Device that converts motion into electricity
+ELECTROLYSIS | Use of electricity to drive a chemical change
+HYDROPOWER | Electricity made using moving water
+BIOMASS | Organic material used as an energy source
+INVERTER | Device that changes direct current to alternating current
+STORAGE | Keeping energy for later use
+WINDMILL | Machine with sails driven by the wind
+EFFICIENCY | Useful output compared with energy supplied
+GRID | Network that distributes electric power
+SUSTAINABLE | Able to continue without exhausting resources
+
+=== Ocean Currents | HARD
+THERMOHALINE | Driven by differences in heat and salt
+UPWELLING | Rise of deep water toward the surface
+GYRE | Large circulating system of ocean currents
+CORIOLIS | Effect that deflects moving air and water on Earth
+CURRENT | Directed flow of ocean water
+SALINITY | Amount of dissolved salt in water
+CONVECTION | Movement driven by differences in temperature
+EKMAN | Name for wind-driven transport in the ocean
+BOUNDARY | Edge separating two water masses
+EQUATORIAL | Relating to the region around Earth's equator
+SINKING | Downward movement of surface water
+DRIFT | Slow movement carried by water or wind
+UPWELL | Bring deeper water toward the surface

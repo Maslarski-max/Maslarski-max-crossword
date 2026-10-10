@@ -1,0 +1,21 @@
+id: level-300
+title: Ocean Acidification
+difficulty: HARD
+order: 300
+type: level
+size: 15
+seed: 300
+---
+ACIDIFICATION | Increase in the acidity of seawater
+CARBONATE | Dissolved ion used by many shell-building organisms
+BICARBONATE | Ion formed when carbon dioxide dissolves in water
+CALCIFICATION | Process of making calcium carbonate structures
+PHVALUE | Measure of acidity or alkalinity
+SHELL | Hard outer covering of some sea animals
+CORAL | Reef-building animal colony
+CARBON | Element present in dissolved ocean gases
+BUFFER | Substance that resists a change in acidity
+ABSORPTION | Taking in a substance or energy
+EMISSION | Release of gas or energy
+PLANKTON | Tiny drifting organisms in water
+CHEMISTRY | Study of substances and their reactions

@@ -1,0 +1,21 @@
+id: level-118
+title: Pirates
+difficulty: MEDIUM
+order: 118
+type: level
+size: 13
+seed: 118
+---
+TREASURE | Buried chest of gold
+PARROT | Talking bird on a shoulder
+CAPTAIN | Ship's commander
+PLANK | Board prisoners must walk
+CUTLASS | Short curved sword
+GALLEON | Large old sailing ship
+ANCHOR | Heavy hook dropped to the seabed
+COMPASS | Instrument pointing north
+DOUBLOON | Old Spanish gold coin
+MUTINY | Crew uprising against officers
+ISLAND | Land surrounded by water
+SKULL | Bony emblem on a black flag
+LOOT | Stolen goods

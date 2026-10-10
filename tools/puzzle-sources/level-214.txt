@@ -1,0 +1,21 @@
+id: level-214
+title: Human Genetics
+difficulty: HARD
+order: 214
+type: level
+size: 15
+seed: 214
+---
+CHROMOSOME | Structure carrying genes in a cell
+GENOME | Complete set of genetic material
+NUCLEOTIDE | Building block of DNA and RNA
+HEREDITY | Passing of traits from parents to offspring
+RECESSIVE | Trait masked by a dominant version in a pair
+DOMINANT | Version of a gene expressed in a heterozygous pair
+PEDIGREE | Chart showing family relationships and inherited traits
+KARYOTYPE | Ordered display of an individual's chromosomes
+GENOTYPE | Set of gene variants carried by an organism
+METHYLATION | Addition of a methyl group to a molecule
+SEQUENCING | Finding the order of DNA building blocks
+VARIANT | Difference in a DNA sequence
+MITOCHONDRIA | Cell structures that release usable energy

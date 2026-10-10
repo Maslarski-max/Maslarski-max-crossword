@@ -1,0 +1,37 @@
+{
+  "id": "level-191",
+  "title": "Farm Harvest",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##PUMPKIN##",
+    "W####L#####",
+    "H#SILO#####",
+    "E#H##W#####",
+    "A#E###O####",
+    "TRACTOR#C##",
+    "##F###CORN#",
+    "######H#O##",
+    "######APPLE",
+    "######R####",
+    "##FIELD####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Large orange squash picked in autumn",
+      "4": "Tall farm building for storing grain",
+      "6": "Farm vehicle used to pull equipment",
+      "8": "Tall crop with kernels on a cob",
+      "9": "Crisp fruit that grows on a tree",
+      "10": "Land used to grow crops"
+    },
+    "down": {
+      "2": "Tool that turns soil before planting",
+      "3": "Grain ground to make flour",
+      "4": "Bundle of cut grain stalks",
+      "5": "Group of fruit trees grown together",
+      "7": "Plants grown for food or materials"
+    }
+  },
+  "order": 191
+}

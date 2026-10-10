@@ -1,0 +1,21 @@
+id: level-130
+title: Ancient Greece
+difficulty: HARD
+order: 130
+type: level
+size: 15
+seed: 130
+---
+ATHENS | City named after a goddess
+SPARTA | City of fierce warriors
+ACROPOLIS | Citadel above Athens
+PARTHENON | Temple of Athena
+HOPLITE | Armoured foot soldier
+AGORA | Public marketplace
+ORACLE | Prophet at Delphi
+TRIREME | Warship with three banks of oars
+DEMOCRACY | Rule by the people
+AMPHORA | Two-handled jar
+HOMER | Poet of the Iliad
+OLYMPIA | Site of the original Games
+PERICLES | Statesman of the golden age

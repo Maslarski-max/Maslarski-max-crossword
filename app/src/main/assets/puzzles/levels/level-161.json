@@ -1,0 +1,37 @@
+{
+  "id": "level-161",
+  "title": "School Science Fair",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "######S#F#",
+    "PRISM#CELL",
+    "####A#A#A#",
+    "##GOGGLES#",
+    "####N#E#K#",
+    "BEAKER####",
+    "##T#T#####",
+    "##O##T####",
+    "##MODEL###",
+    "#####S####",
+    "#CHART####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Glass shape that splits white light",
+      "5": "Smallest living unit",
+      "6": "Eye protection for experiments",
+      "7": "Glass cup used in a lab",
+      "10": "Small copy used to explain an idea",
+      "11": "Picture that displays information"
+    },
+    "down": {
+      "1": "Tool for measuring weight",
+      "2": "Narrow-necked lab vessel",
+      "4": "Object that attracts iron",
+      "8": "Tiny building block of matter",
+      "9": "Check to learn how something works"
+    }
+  },
+  "order": 161
+}

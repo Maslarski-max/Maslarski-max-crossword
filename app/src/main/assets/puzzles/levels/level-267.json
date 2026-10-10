@@ -1,0 +1,42 @@
+{
+  "id": "level-267",
+  "title": "Graph Theory",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####P######",
+    "##CYCLE#####",
+    "#####A######",
+    "B####NETWORK",
+    "R####A##E###",
+    "ISOMORPHISM#",
+    "D#####A#G#A#",
+    "G##D##T#H#T#",
+    "EDGE##H#T#R#",
+    "###G####E#I#",
+    "#DIRECTED#X#",
+    "###E##R#####",
+    "##VERTEX####",
+    "######E#####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Path that returns to its starting point",
+      "4": "Set of connected points",
+      "6": "Structure-preserving correspondence between graphs",
+      "10": "Connection between two points",
+      "11": "Having edges with a set direction",
+      "13": "Point in a mathematical network"
+    },
+    "down": {
+      "1": "Drawable without crossing edges",
+      "3": "Edge whose removal disconnects a graph",
+      "5": "Having a value assigned to each connection",
+      "7": "Sequence of connected edges",
+      "8": "Rectangular array used to represent connections",
+      "9": "Number of edges touching a point",
+      "12": "Connected graph with no cycles"
+    }
+  },
+  "order": 267
+}

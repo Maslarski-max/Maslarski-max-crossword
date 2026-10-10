@@ -1,0 +1,43 @@
+{
+  "id": "level-185",
+  "title": "Coral Reef Ecology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "######P#B#####",
+    "#SYMBIOSIS####",
+    "####L#L#O#S###",
+    "NURSERY#M#P#Z#",
+    "####A#PREDATOR",
+    "####C#####W#X#",
+    "####H###L#N#A#",
+    "ACIDIFICATION#",
+    "#U##N###G#N#T#",
+    "#R##G###O#G#H#",
+    "#R######O###E#",
+    "#E######N###L#",
+    "#N#######ATOLL",
+    "#T##########A#",
+    "####HERBIVORE#"
+  ],
+  "clues": {
+    "across": {
+      "3": "Close relationship between different species",
+      "6": "Protected place where young animals grow",
+      "8": "Animal that hunts other animals",
+      "10": "Increase in ocean water acidity",
+      "12": "Ring-shaped reef surrounding a lagoon",
+      "13": "Animal that feeds mainly on plants"
+    },
+    "down": {
+      "1": "Small animal that builds a coral colony",
+      "2": "Large region defined by its climate and life",
+      "4": "Loss of colour after coral stress",
+      "5": "Release of eggs and sperm into the water",
+      "7": "Algae that live within many reef-building corals",
+      "9": "Shallow body of water inside a reef",
+      "11": "Flow of water in a particular direction"
+    }
+  },
+  "order": 185
+}

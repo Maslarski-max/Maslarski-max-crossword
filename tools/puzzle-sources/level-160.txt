@@ -1,0 +1,19 @@
+id: level-160
+title: Backyard Birds
+difficulty: EASY
+order: 160
+type: level
+size: 11
+seed: 160
+---
+ROBIN | Red-breasted songbird common in gardens
+SPARROW | Small brown bird often near homes
+FINCH | Seed-eating bird with a short beak
+WREN | Tiny bird with a loud song
+CROW | Black bird known for clever behaviour
+FEATHER | Covering that helps a bird fly
+BEAK | Bird's hard mouth
+NEST | Home where birds lay eggs
+PERCH | Place where a bird rests
+WING | Body part used for flight
+FLOCK | Group of birds together

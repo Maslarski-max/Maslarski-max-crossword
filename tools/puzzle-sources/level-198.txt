@@ -1,0 +1,20 @@
+id: level-198
+title: Wildlife Rescue
+difficulty: MEDIUM
+order: 198
+type: level
+size: 13
+seed: 198
+---
+RESCUE | Safe removal from danger
+RECOVER | Regain health after an injury
+SANCTUARY | Protected place for wildlife
+VET | Doctor who treats animals
+RELEASE | Return a recovered animal to the wild
+HATCHLING | Newly emerged young animal
+ENRICHMENT | Activity that encourages natural behaviour
+SPECIES | Group of similar living organisms
+VOLUNTEER | Person who gives time without pay
+NESTLING | Young bird still living in its nest
+QUARANTINE | Separation used to limit the spread of disease
+HABITAT | Natural surroundings where an animal lives

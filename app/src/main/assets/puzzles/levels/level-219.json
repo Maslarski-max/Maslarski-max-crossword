@@ -1,0 +1,37 @@
+{
+  "id": "level-219",
+  "title": "Houseplant Care",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "####WINDOW",
+    "####A#####",
+    "###STEM###",
+    "####E#####",
+    "###PRUNER#",
+    "#S#O####O#",
+    "CACTUS##O#",
+    "#U#T#O##T#",
+    "#C#I#I####",
+    "FERN#LEAF#",
+    "#R#G######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Opening that lets daylight indoors",
+      "2": "Plant part that supports leaves",
+      "3": "Tool for trimming stems",
+      "6": "Spiny plant adapted to dry places",
+      "8": "Leafy plant that grows from spores",
+      "9": "Flat part that gathers sunlight"
+    },
+    "down": {
+      "1": "Clear liquid needed by a plant",
+      "3": "Placing a plant into a container",
+      "4": "Part that takes up water underground",
+      "5": "Shallow dish beneath a flowerpot",
+      "7": "Loose earth where roots grow"
+    }
+  },
+  "order": 219
+}

@@ -1,0 +1,19 @@
+id: level-137
+title: Bedtime
+difficulty: EASY
+order: 137
+type: level
+size: 11
+seed: 137
+---
+PILLOW | Soft rest for your head
+PYJAMAS | Clothes for sleeping
+DREAM | Story in your sleep
+TEDDY | Cuddly bear
+STORY | Tale read aloud before sleep
+LULLABY | Soothing song for a baby
+YAWN | Big sleepy mouth
+LAMP | Light by the bed
+SNORE | Noisy sleep sound
+BLANKET | Warm bed cover
+MOON | Shines at night

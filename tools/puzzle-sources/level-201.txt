@@ -1,0 +1,20 @@
+id: level-201
+title: Cheese Making
+difficulty: MEDIUM
+order: 201
+type: level
+size: 13
+seed: 201
+---
+CURD | Soft solid formed from milk
+WHEY | Liquid left after curds form
+RENNET | Enzyme used to help milk coagulate
+CULTURE | Microorganisms added to start fermentation
+CHEESE | Food made by curdling milk
+AGING | Keeping food to develop its flavour
+CHEDDAR | Firm cheese first made in an English village
+BRINE | Salty water used to soak some cheeses
+PRESS | Device that squeezes liquid from curds
+RIND | Outer layer of a cheese
+MOLD | Fuzzy growth used in some cheese varieties
+CREAMERY | Place where dairy products are made

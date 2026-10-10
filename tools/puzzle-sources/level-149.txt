@@ -1,0 +1,20 @@
+id: level-149
+title: Jungle River
+difficulty: MEDIUM
+order: 149
+type: level
+size: 13
+seed: 149
+---
+AMAZON | Great South American river
+PIRANHA | Sharp-toothed fish
+ANACONDA | Huge water snake
+CANOE | Narrow paddled boat
+TOUCAN | Bird with a big bright beak
+JAGUAR | Spotted big cat
+CAIMAN | Small crocodilian
+CANOPY | Treetop layer
+LIANA | Woody climbing vine
+SLOTH | Slow hanging mammal
+MACAW | Colourful parrot
+OTTER | Playful swimmer

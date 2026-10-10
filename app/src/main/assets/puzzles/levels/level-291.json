@@ -1,0 +1,40 @@
+{
+  "id": "level-291",
+  "title": "Stage Makeup",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#########F##",
+    "#########O##",
+    "####P##BLUSH",
+    "#REMOVER#N##",
+    "##Y#W##U#D##",
+    "##E#D##SCAR#",
+    "##L#E##H#T##",
+    "#MIRROR#WIG#",
+    "##N####L#O##",
+    "GREASEPAINT#",
+    "##R####T####",
+    "####PALETTE#",
+    "#######X####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Colour added to the cheeks",
+      "4": "Product used to take cosmetics off",
+      "6": "Mark painted to look like a healed wound",
+      "7": "Reflective surface used while applying makeup",
+      "8": "Artificial hair worn on the head",
+      "10": "Thick makeup worn by performers",
+      "11": "Set of colours for a makeup artist"
+    },
+    "down": {
+      "1": "Base cosmetic that evens skin tone",
+      "2": "Fine cosmetic used to reduce shine",
+      "3": "Tool used to apply makeup",
+      "5": "Cosmetic applied around the eyes",
+      "9": "Material used to create some stage effects"
+    }
+  },
+  "order": 291
+}

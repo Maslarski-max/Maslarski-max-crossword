@@ -1,0 +1,36 @@
+{
+  "id": "level-278",
+  "title": "Farm Dog",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#PUPPY#####",
+    "#A#########",
+    "#WHISTLE###",
+    "####H######",
+    "###FENCE###",
+    "#F##P#O##B#",
+    "LEASH#LOYAL",
+    "#T##E#L##R#",
+    "#C##R#I##N#",
+    "#HERD#E####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Young dog",
+      "2": "Sharp sound used to guide a working dog",
+      "4": "Barrier around a field",
+      "8": "Strap used to guide a dog",
+      "9": "Faithful to a person or group",
+      "10": "Group of animals kept together"
+    },
+    "down": {
+      "1": "Soft foot of a dog",
+      "3": "Person who cares for a flock",
+      "5": "Herding dog with a long coat",
+      "6": "Bring back an object thrown by a person",
+      "7": "Farm building for animals or hay"
+    }
+  },
+  "order": 278
+}

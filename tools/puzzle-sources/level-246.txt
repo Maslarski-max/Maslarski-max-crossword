@@ -1,0 +1,19 @@
+id: level-246
+title: Swimming Pool
+difficulty: EASY
+order: 246
+type: level
+size: 11
+seed: 246
+---
+POOL | Place filled with water for swimming
+GOGGLES | Eye covering used underwater
+FLOAT | Stay on the surface of water
+SPLASH | Scatter drops of water
+LANE | Marked strip for one swimmer
+KICK | Move the legs to push through water
+DIVE | Enter the water head first
+TOWEL | Cloth used to dry off
+LIFEGUARD | Person who watches swimmers for safety
+SHALLOW | Not very deep
+WHISTLE | Sharp sound used to get attention

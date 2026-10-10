@@ -1,0 +1,40 @@
+{
+  "id": "level-173",
+  "title": "Weather Station",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "H######ISOBAR",
+    "UPDRAFT###A##",
+    "M##A######R##",
+    "I##I##CYCLONE",
+    "D##N######M##",
+    "I##G###F##E#F",
+    "T##ANEMOMETER",
+    "Y##U###R##E#O",
+    "#HYGROMETER#N",
+    "###E###C####T",
+    "######RADAR##",
+    "#######S#####",
+    "SATELLITE####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Line joining places with equal pressure",
+      "4": "Rising current of air",
+      "6": "Large rotating storm system",
+      "9": "Device that measures wind speed",
+      "10": "Instrument that measures moisture in air",
+      "11": "System that detects distant precipitation",
+      "12": "Object in orbit used to observe weather"
+    },
+    "down": {
+      "1": "Amount of water vapour in the air",
+      "3": "Instrument for measuring air pressure",
+      "5": "Container used to measure rainfall",
+      "7": "Statement about expected weather",
+      "8": "Boundary between two air masses"
+    }
+  },
+  "order": 173
+}

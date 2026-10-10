@@ -1,0 +1,43 @@
+{
+  "id": "level-152",
+  "title": "Particle Physics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#########C###",
+    "#######PHOTON",
+    "#########L###",
+    "#########L###",
+    "##N#F#N#HIGGS",
+    "Q#E#E#E##D#L#",
+    "U#U#R#U##E#U#",
+    "ANTIMATTER#O#",
+    "R#R#I#R#L##N#",
+    "K#ISOTOPE####",
+    "##N#N#N#C##M#",
+    "##O#####T##U#",
+    "########R##O#",
+    "######PROTON#",
+    "########N####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Particle of light",
+      "6": "Boson behind mass",
+      "9": "Opposite of ordinary matter",
+      "11": "Variant with different neutrons",
+      "13": "Positive particle in a nucleus"
+    },
+    "down": {
+      "1": "Machine that smashes particles",
+      "3": "Ghostly near-massless particle",
+      "4": "Particle obeying exclusion",
+      "5": "Neutral nuclear particle",
+      "7": "Carrier of the strong force",
+      "8": "Building block of protons",
+      "10": "Negatively charged particle",
+      "12": "Heavy cousin of the electron"
+    }
+  },
+  "order": 152
+}

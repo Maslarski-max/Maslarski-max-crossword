@@ -1,0 +1,19 @@
+id: level-188
+title: Windy Kite Day
+difficulty: EASY
+order: 188
+type: level
+size: 11
+seed: 188
+---
+KITE | Lightweight toy flown on a string
+STRING | Thin cord attached to a flying toy
+WIND | Moving air outdoors
+TAIL | Strip that steadies a kite
+SPOOL | Round holder for a long thread
+FLY | Move through the air
+CLOUD | Visible mass of droplets in the sky
+GUST | Sudden burst of wind
+FIELD | Open grassy place for play
+DIAMOND | Common four-sided kite shape
+REEL | Turn it to wind up a line

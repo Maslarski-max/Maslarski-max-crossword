@@ -1,0 +1,19 @@
+id: level-196
+title: Pottery for Kids
+difficulty: EASY
+order: 196
+type: level
+size: 11
+seed: 196
+---
+CLAY | Soft earth shaped before firing
+WHEEL | Spinning platform for forming a pot
+VASE | Container for holding flowers
+MUG | Cup with a handle
+KILN | Hot oven for hardening pottery
+HANDLE | Part gripped to lift a cup
+GLAZE | Glassy coating on fired pottery
+PINCH | Shape a small pot using finger pressure
+SPIN | Turn around quickly
+APRON | Cloth worn to protect clothes
+POT | Vessel made for holding or cooking

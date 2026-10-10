@@ -1,0 +1,40 @@
+{
+  "id": "level-258",
+  "title": "Orchard Science",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###POLLINATOR",
+    "###O########O",
+    "POLLEN######O",
+    "#R#L##HARVEST",
+    "#C#I#####A##S",
+    "#H#N#B##GRAFT",
+    "#A#A#L#P#I##O",
+    "#R#T#O#R#E##C",
+    "#D#I#O#U#T##K",
+    "##DORMANCY###",
+    "###N###I#####",
+    "#####CANOPY##",
+    "#######G#####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Animal that carries pollen between flowers",
+      "3": "Fine grains involved in plant reproduction",
+      "5": "Picking mature fruit",
+      "8": "Join parts of two plants so they grow together",
+      "10": "Period when growth slows or stops",
+      "11": "Upper spread of branches and leaves"
+    },
+    "down": {
+      "1": "Transfer of pollen to a flower's receptive part",
+      "2": "Plant base onto which a fruit variety is grafted",
+      "4": "Area planted with fruit trees",
+      "6": "Distinct cultivated kind of a plant",
+      "7": "Flowering period of a fruit tree",
+      "9": "Cutting away selected branches"
+    }
+  },
+  "order": 258
+}

@@ -1,0 +1,40 @@
+{
+  "id": "level-119",
+  "title": "Circus Tent",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#J###P#######",
+    "#U#CLOWN####T",
+    "#G###P####S#I",
+    "#G##ACROBAT#G",
+    "#L###O####I#H",
+    "TENT#R##M#L#T",
+    "#R#RINGMASTER",
+    "###A####G#S#O",
+    "###P####I###P",
+    "###E#UNICYCLE",
+    "###Z####I####",
+    "###ELEPHANT##",
+    "########N####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Red-nosed funny performer",
+      "6": "Performer of flips and tumbles",
+      "7": "Big top",
+      "10": "Host in a top hat",
+      "11": "One-wheeled ride",
+      "12": "Huge performer with a trunk"
+    },
+    "down": {
+      "1": "Keeps several balls in the air",
+      "2": "Snack sold in striped bags",
+      "4": "Thin line walked high above",
+      "5": "Tall poles to walk on",
+      "8": "High swinging bar",
+      "9": "Pulls a rabbit from a hat"
+    }
+  },
+  "order": 119
+}

@@ -1,0 +1,35 @@
+{
+  "id": "level-116",
+  "title": "Tool Shed",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####WRENCH",
+    "######A###A",
+    "####N#K###M",
+    "##SPADE#L#M",
+    "##C#I##TAPE",
+    "#DRILL##D#R",
+    "##E#####D##",
+    "SAW##GLUE##",
+    "########R##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Tool for turning nuts",
+      "5": "Tool for digging",
+      "7": "Sticky roll for measuring or sealing",
+      "8": "Tool that makes holes",
+      "9": "Toothed blade for cutting wood",
+      "10": "Sticky stuff that joins things"
+    },
+    "down": {
+      "2": "Garden tool for gathering leaves",
+      "3": "Tool for banging in nails",
+      "4": "Thin metal spike",
+      "5": "Twisting fastener",
+      "6": "Climb it to reach high places"
+    }
+  },
+  "order": 116
+}

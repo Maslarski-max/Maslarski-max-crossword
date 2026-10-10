@@ -1,0 +1,20 @@
+id: level-145
+title: Board Games
+difficulty: MEDIUM
+order: 145
+type: level
+size: 13
+seed: 145
+---
+CHESS | Game of kings and pawns
+DICE | Cubes you roll
+MONOPOLY | Game of property and hotels
+SCRABBLE | Tile word game
+DRAUGHTS | Game of jumping counters
+BACKGAMMON | Ancient race with dice
+COUNTER | Small playing piece
+SPINNER | Arrow you flick
+CLUEDO | Murder mystery game
+TOKEN | Marker on the board
+GO | Japanese stone game
+LUDO | Race home with four pieces

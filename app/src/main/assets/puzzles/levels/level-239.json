@@ -1,0 +1,43 @@
+{
+  "id": "level-239",
+  "title": "Phonetics Laboratory",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###I#####P##",
+    "###P#####H##",
+    "###ALLOPHONE",
+    "#######H#N##",
+    "#L####VOWEL#",
+    "#A#####N#M##",
+    "ARTICULATE##",
+    "#Y##O##T###S",
+    "INTONATION#Y",
+    "#X##S##O###L",
+    "####O##NASAL",
+    "####N######A",
+    "FORMANT####B",
+    "####N######L",
+    "####TONGUE#E"
+  ],
+  "clues": {
+    "across": {
+      "3": "One of several pronunciations of a phoneme",
+      "6": "Speech sound made with an open vocal tract",
+      "7": "Produce a speech sound with the vocal organs",
+      "10": "Rise and fall of pitch in speech",
+      "11": "Sound produced with air through the nose",
+      "12": "Resonant frequency peak in a speech sound",
+      "13": "Muscle that helps shape speech sounds"
+    },
+    "down": {
+      "1": "Alphabet used to represent speech sounds",
+      "2": "Smallest sound unit that distinguishes words",
+      "4": "Production of voice by the vocal folds",
+      "5": "Voice box containing the vocal folds",
+      "8": "Speech sound made with a narrowed vocal tract",
+      "9": "Unit of speech built around a vowel sound"
+    }
+  },
+  "order": 239
+}

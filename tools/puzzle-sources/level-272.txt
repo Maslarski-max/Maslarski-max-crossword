@@ -1,0 +1,21 @@
+id: level-272
+title: Sustainable Agriculture
+difficulty: HARD
+order: 272
+type: level
+size: 15
+seed: 272
+---
+ROTATION | Changing which crop grows in a field each season
+LEGUME | Plant whose roots can host nitrogen-fixing bacteria
+MULCH | Cover spread over soil to conserve moisture
+COMPOST | Decayed organic matter used to enrich soil
+IRRIGATION | Artificial supply of water to crops
+BIODIVERSITY | Variety of living things in an area
+AGROFORESTRY | Growing trees alongside crops or livestock
+COVERCROP | Plant grown to protect and enrich soil
+EROSION | Wearing away of soil by water or wind
+ORGANIC | Produced without most synthetic farm chemicals
+NITROGEN | Nutrient needed by plants for growth
+FALLOW | Left unplanted for a period
+SUSTAINABLE | Able to continue without exhausting resources
