@@ -139,6 +139,12 @@ interface ArenaMatchDao {
     @Query("UPDATE arena_matches SET outcome = :outcome, updatedAt = :now, finishedAt = :now WHERE outcome IS NULL")
     suspend fun closeActive(outcome: String, now: Long): Int
 
+    @Query("SELECT id FROM arena_matches WHERE outcome IS NULL")
+    suspend fun activeIds(): List<Long>
+
+    @Query("UPDATE arena_matches SET coinsEarned = :earned, coinsLost = :lost WHERE id = :id")
+    suspend fun recordCoins(id: Long, earned: Int, lost: Int): Int
+
     @Query("DELETE FROM arena_matches WHERE id = :id AND outcome IS NULL")
     suspend fun deleteActive(id: Long): Int
 

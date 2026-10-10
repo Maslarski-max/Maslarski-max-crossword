@@ -147,6 +147,7 @@ class CoinEconomyDatabaseTest {
         assertEquals(GameRules.STARTING_COINS + 20, coins())
 
         assertNull(arena.finishMatch(id, won))
+        assertEquals(ArenaRules.WIN_REWARD, arena.loadMatch(id)?.coinsEarned)
         assertEquals(GameRules.STARTING_COINS + 20, coins())
     }
 
@@ -162,6 +163,8 @@ class CoinEconomyDatabaseTest {
 
         assertNull(arena.finishMatch(id, lost))
         assertEquals(GameRules.STARTING_COINS - ArenaRules.LOSS_PENALTY, coins())
+        assertEquals(ArenaRules.LOSS_PENALTY, arena.loadMatch(id)?.coinsLost)
+        assertEquals(0, arena.loadMatch(id)?.coinsEarned)
     }
 
     @Test
@@ -174,10 +177,11 @@ class CoinEconomyDatabaseTest {
 
     @Test
     fun forfeitingByStartingANewMatchCostsTenCoins() = runBlocking {
-        arena.startMatch(arenaState(finished = false))
+        val first = arena.startMatch(arenaState(finished = false))
         assertEquals(GameRules.STARTING_COINS, coins())
         arena.startMatch(arenaState(finished = false))
         assertEquals(GameRules.STARTING_COINS - ArenaRules.LOSS_PENALTY, coins())
+        assertEquals(ArenaRules.LOSS_PENALTY, arena.loadMatch(first)?.coinsLost)
     }
 
     @Test

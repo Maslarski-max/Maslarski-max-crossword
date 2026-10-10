@@ -49,7 +49,10 @@ class RoomArenaRepository(
         ledger.commit({
             db.withTransaction {
                 val now = clock.millis()
-                val lost = if (matches.closeActive(ArenaOutcome.FORFEIT.name, now) > 0) chargePenalty(ArenaOutcome.FORFEIT) else 0
+                val forfeited = matches.activeIds()
+                matches.closeActive(ArenaOutcome.FORFEIT.name, now)
+                val lost = if (forfeited.isNotEmpty()) chargePenalty(ArenaOutcome.FORFEIT) else 0
+                forfeited.forEach { matches.recordCoins(it, earned = 0, lost = lost) }
                 matches.insert(
                     ArenaMatchEntity(
                         puzzleId = state.puzzleId,
@@ -94,7 +97,9 @@ class RoomArenaRepository(
                 if (updated == 0) return@withTransaction null
                 val coins = ArenaRules.rewardCoins(outcome)
                 if (coins > 0) wallet.earn(coins)
-                ArenaResult(outcome, state.playerScore, state.opponentScore, coins, chargePenalty(outcome))
+                val lost = chargePenalty(outcome)
+                matches.recordCoins(id, earned = coins, lost = lost)
+                ArenaResult(outcome, state.playerScore, state.opponentScore, coins, lost)
             }
         }) { it?.let { r -> r.coinsEarned - r.coinsLost } ?: 0 }
     }
@@ -106,7 +111,7 @@ class RoomArenaRepository(
     }
 
     private fun ArenaMatchEntity.toMatch(): ArenaMatch? = try {
-        ArenaMatch(id, ArenaRules.topUpRacks(json.decodeFromString(ArenaState.serializer(), state)))
+        ArenaMatch(id, ArenaRules.topUpRacks(json.decodeFromString(ArenaState.serializer(), state)), coinsEarned, coinsLost)
     } catch (_: SerializationException) {
         null
     } catch (_: IllegalArgumentException) {

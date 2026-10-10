@@ -134,7 +134,7 @@ class ArenaViewModel @Inject constructor(
                 layout = layout,
                 match = s,
                 activeWord = layout.words.firstOrNull { w -> w.cells.any(s::isEmpty) },
-                result = s.outcome?.let { outcome -> ArenaResult(outcome, s.playerScore, s.opponentScore, 0) },
+                result = s.outcome?.let { outcome -> ArenaResult(outcome, s.playerScore, s.opponentScore, match.coinsEarned, match.coinsLost) },
             )
         }
         when {
