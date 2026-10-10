@@ -1,0 +1,21 @@
+id: level-268
+title: Nuclear Physics
+difficulty: HARD
+order: 268
+type: level
+size: 15
+seed: 268
+---
+FISSION | Splitting of a heavy atomic nucleus
+FUSION | Joining of light atomic nuclei
+ISOTOPE | Form of an element with a different neutron count
+NUCLEON | Proton or neutron in an atomic nucleus
+NEUTRINO | Nearly massless particle that rarely interacts
+DECAY | Spontaneous change of an unstable nucleus
+HALFLIFE | Time for half of a sample to decay
+NEUTRON | Uncharged particle in an atomic nucleus
+PROTON | Positively charged particle in a nucleus
+RADIATION | Energy emitted as waves or particles
+REACTOR | Device that sustains a controlled nuclear reaction
+PLASMA | Ionized gas of charged particles
+NUCLEAR | Relating to an atomic nucleus

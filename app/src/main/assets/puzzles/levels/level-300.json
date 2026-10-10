@@ -1,0 +1,43 @@
+{
+  "id": "level-300",
+  "title": "Ocean Acidification",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####C#C######",
+    "#####A#H#CORAL",
+    "#PHVALUE####B#",
+    "#####C#M#C##S#",
+    "#ACIDIFICATION",
+    "#####F#S#R##R#",
+    "B####I#T#B##P#",
+    "U##BICARBONATE",
+    "F####A#Y#N##I#",
+    "F####T##CARBON",
+    "EMISSION#T##N#",
+    "R##H#O###E####",
+    "###E#N########",
+    "###L##########",
+    "##PLANKTON####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Reef-building animal colony",
+      "5": "Measure of acidity or alkalinity",
+      "7": "Increase in the acidity of seawater",
+      "9": "Ion formed when carbon dioxide dissolves in water",
+      "10": "Element present in dissolved ocean gases",
+      "11": "Release of gas or energy",
+      "13": "Tiny drifting organisms in water"
+    },
+    "down": {
+      "1": "Process of making calcium carbonate structures",
+      "2": "Study of substances and their reactions",
+      "4": "Taking in a substance or energy",
+      "6": "Dissolved ion used by many shell-building organisms",
+      "8": "Substance that resists a change in acidity",
+      "12": "Hard outer covering of some sea animals"
+    }
+  },
+  "order": 300
+}

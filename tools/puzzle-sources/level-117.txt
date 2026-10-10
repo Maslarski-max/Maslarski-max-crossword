@@ -1,0 +1,21 @@
+id: level-117
+title: Airport
+difficulty: MEDIUM
+order: 117
+type: level
+size: 13
+seed: 117
+---
+RUNWAY | Strip where planes take off
+TERMINAL | Main airport building
+PASSPORT | Document needed to cross borders
+LUGGAGE | Suitcases and bags
+BOARDING | Getting onto the plane
+PILOT | Person who flies the aircraft
+CUSTOMS | Where imported goods are checked
+GATE | Numbered door to your flight
+DEPARTURE | Leaving, on the big board
+ARRIVAL | Landing, on the big board
+HANGAR | Building where planes are stored
+JETLAG | Tiredness after crossing time zones
+TICKET | Pass for your seat

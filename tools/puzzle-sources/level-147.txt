@@ -1,0 +1,20 @@
+id: level-147
+title: Bakery Oven
+difficulty: MEDIUM
+order: 147
+type: level
+size: 13
+seed: 147
+---
+BAGUETTE | Long French loaf
+CROISSANT | Flaky crescent pastry
+SOURDOUGH | Tangy fermented bread
+RYE | Dark grain for bread
+YEAST | It makes dough rise
+KNEAD | Work the dough by hand
+FLOUR | Ground wheat
+ECLAIR | Cream-filled choux finger
+MUFFIN | Small domed cake
+PRETZEL | Twisted salty knot
+DOUGHNUT | Ring with a hole
+CRUMB | Tiny bit of bread

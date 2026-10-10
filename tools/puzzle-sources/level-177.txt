@@ -1,0 +1,20 @@
+id: level-177
+title: Sound Recording Studio
+difficulty: MEDIUM
+order: 177
+type: level
+size: 13
+seed: 177
+---
+MICROPHONE | Device that turns sound waves into an electrical signal
+MIXER | Console for balancing several audio sources
+TRACK | Separate recorded part in a song
+STUDIO | Room designed for recording
+HEADPHONE | Device worn over the ears to hear audio
+ECHO | Repeated sound caused by reflection
+LEVEL | Strength of a recorded signal
+EDIT | Change a recording by cutting or moving parts
+WAVEFORM | Visual representation of a sound signal
+PLAYBACK | Listening to an existing recording
+BOOTH | Small enclosed room for recording
+CABLE | Insulated wire linking audio equipment

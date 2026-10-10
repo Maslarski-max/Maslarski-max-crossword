@@ -1,0 +1,20 @@
+id: level-232
+title: Tropical Medicine
+difficulty: MEDIUM
+order: 232
+type: level
+size: 13
+seed: 232
+---
+VECTOR | Organism that carries a disease between hosts
+PARASITE | Organism living on or in another organism
+MOSQUITO | Insect that can transmit malaria
+MALARIA | Disease caused by a parasite spread by mosquitoes
+VACCINE | Preparation that trains the immune system
+HYDRATION | Replacing water lost by the body
+FEVER | Higher-than-normal body temperature
+TROPICAL | Relating to the warm regions near the equator
+CLINIC | Place where people receive medical care
+INFECTION | Growth of harmful microbes in the body
+PREVENTION | Action taken to stop an illness
+OUTBREAK | Sudden rise in cases of a disease

@@ -1,0 +1,21 @@
+id: level-128
+title: Meteorology
+difficulty: HARD
+order: 128
+type: level
+size: 15
+seed: 128
+---
+ISOBAR | Line of equal pressure on a map
+BAROMETER | Instrument for air pressure
+CUMULUS | Fluffy fair-weather cloud
+CIRRUS | Wispy high cloud
+STRATUS | Flat grey layer cloud
+HUMIDITY | Moisture in the air
+ANEMOMETER | Measures wind speed
+CYCLONE | Rotating storm system
+MONSOON | Seasonal rain-bearing wind
+FRONT | Boundary between air masses
+DROUGHT | Long spell without rain
+HAILSTONE | Ball of ice falling from a cloud
+JETSTREAM | Fast high-altitude air current

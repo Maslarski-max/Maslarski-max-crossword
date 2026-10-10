@@ -1,0 +1,19 @@
+id: level-165
+title: Ballet Class
+difficulty: EASY
+order: 165
+type: level
+size: 11
+seed: 165
+---
+TUTU | Short skirt worn by a ballet dancer
+BARRE | Rail used for warm-up exercises
+POINTE | Tip of a ballet shoe
+DANCER | Person who moves to music
+MUSIC | Organised sounds with rhythm
+SPIN | Turn around quickly
+LEAP | Jump high into the air
+POSE | Still position held by a performer
+SHOES | Footwear worn for a lesson
+CLASS | Group learning together
+BOW | Bend forward to greet an audience

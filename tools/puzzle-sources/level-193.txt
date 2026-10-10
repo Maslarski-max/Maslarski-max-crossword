@@ -1,0 +1,19 @@
+id: level-193
+title: Watercolor Class
+difficulty: EASY
+order: 193
+type: level
+size: 11
+seed: 193
+---
+WATERY | Paint consistency after adding plenty of water
+BRUSH | Tool with bristles for applying paint
+PAPER | Flat sheet used as a painting surface
+WASH | Thin layer of watery paint
+PALETTE | Surface for mixing paint
+PIGMENT | Material that gives paint its colour
+RINSE | Clean a brush in water
+SHADE | Darker or lighter version of a colour
+SKY | Blue expanse above the land
+DRIP | Small drop falling from a brush
+PAINT | Coloured liquid used to make pictures

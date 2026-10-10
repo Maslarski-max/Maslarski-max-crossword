@@ -1,0 +1,20 @@
+id: level-286
+title: Fossil Forests
+difficulty: MEDIUM
+order: 286
+type: level
+size: 13
+seed: 286
+---
+PETRIFIED | Turned to stone through mineral replacement
+STUMP | Base left after a tree is cut or broken
+WOOD | Hard material forming a tree trunk
+FERN | Plant with divided fronds
+ASH | Fine powder left after burning
+MINERAL | Naturally occurring solid substance
+TRUNK | Main woody stem of a tree
+FOREST | Large area dominated by trees
+FOSSIL | Preserved remains or trace of ancient life
+PRESERVE | Keep safe from decay or damage
+LAYER | One sheet of material in a sequence
+EROSION | Wearing away of rock or soil

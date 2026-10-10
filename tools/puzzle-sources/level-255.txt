@@ -1,0 +1,20 @@
+id: level-255
+title: Antique Maps
+difficulty: MEDIUM
+order: 255
+type: level
+size: 13
+seed: 255
+---
+MAPMAKER | Person who makes maps
+PARALLEL | East-west line on a map
+MERIDIAN | North-south line joining the poles
+LEGEND | Key explaining symbols on a map
+SCALE | Relationship between map distance and ground distance
+ATLAS | Bound collection of maps
+COMPASS | Tool for finding direction
+CHART | Map used for navigation
+PROJECTION | Method for showing a globe on a flat surface
+ENGRAVER | Artist who cuts a design into a plate
+PORTOLAN | Early sea chart showing coastlines and bearings
+ISLAND | Land surrounded by water

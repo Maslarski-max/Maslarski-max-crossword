@@ -1,0 +1,21 @@
+id: level-121
+title: Medieval Village
+difficulty: MEDIUM
+order: 121
+type: level
+size: 13
+seed: 121
+---
+BLACKSMITH | Worker at the anvil
+MILLER | Grinds grain into flour
+PEASANT | Poor farm worker
+MANOR | Lord's estate house
+TAVERN | Inn serving ale
+MARKET | Weekly trading square
+CHAPEL | Small place of worship
+THATCH | Straw roof covering
+WELL | Village water source
+SQUIRE | Knight's attendant
+JESTER | Court entertainer with bells
+TITHE | Tenth given to the church
+PLOUGH | Farm tool pulled by oxen

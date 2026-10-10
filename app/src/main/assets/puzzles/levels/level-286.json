@@ -1,0 +1,38 @@
+{
+  "id": "level-286",
+  "title": "Fossil Forests",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "FOSSIL######",
+    "##T##ASH####",
+    "##U##Y###P##",
+    "##M##E###R##",
+    "##PETRIFIED#",
+    "###R###E#S##",
+    "#WOOD##R#E##",
+    "###S#MINERAL",
+    "###I#####V##",
+    "###O##FOREST",
+    "TRUNK#######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Preserved remains or trace of ancient life",
+      "4": "Fine powder left after burning",
+      "6": "Turned to stone through mineral replacement",
+      "9": "Hard material forming a tree trunk",
+      "10": "Naturally occurring solid substance",
+      "11": "Large area dominated by trees",
+      "12": "Main woody stem of a tree"
+    },
+    "down": {
+      "2": "Base left after a tree is cut or broken",
+      "3": "One sheet of material in a sequence",
+      "5": "Keep safe from decay or damage",
+      "7": "Wearing away of rock or soil",
+      "8": "Plant with divided fronds"
+    }
+  },
+  "order": 286
+}

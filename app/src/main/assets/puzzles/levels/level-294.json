@@ -1,0 +1,39 @@
+{
+  "id": "level-294",
+  "title": "Coastal Geomorphology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#CLIFF#SEDIMENT",
+    "##O####P####S##",
+    "##N#T#TIDAL#T##",
+    "LAGOON#T####U##",
+    "##S#M###E#BEACH",
+    "##H#B###R###R##",
+    "GEOMORPHOLOGY##",
+    "##R#L###S######",
+    "#DEPOSITION####",
+    "########O######",
+    "##HEADLAND#####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Steep rock face by the sea",
+      "3": "Particles that settle out of water",
+      "6": "Relating to the rise and fall of the sea",
+      "7": "Shallow water separated from the sea",
+      "9": "Shoreline covered with sand or pebbles",
+      "10": "Study of landforms and the processes that shape them",
+      "11": "Laying down of sediment",
+      "12": "High land projecting into the sea"
+    },
+    "down": {
+      "2": "Moving parallel to a coast",
+      "3": "Narrow ridge of sand projecting from a coast",
+      "4": "Coastal area where river water meets the sea",
+      "5": "Sand or gravel bar joining an island to land",
+      "8": "Wearing away of rock by natural forces"
+    }
+  },
+  "order": 294
+}

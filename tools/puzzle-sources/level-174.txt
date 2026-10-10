@@ -1,0 +1,20 @@
+id: level-174
+title: Dinosaur Dig
+difficulty: MEDIUM
+order: 174
+type: level
+size: 13
+seed: 174
+---
+FOSSIL | Preserved remains or trace of ancient life
+GEOLOGIST | Scientist who studies Earth's rocks and ancient history
+TROWEL | Small hand tool for careful digging
+BRUSH | Soft tool used to clear loose dirt
+SEDIMENT | Material that settles in layers
+TRILOBITE | Ancient marine animal with a segmented shell
+AMMONITE | Coiled fossil from an extinct sea creature
+DINOSAUR | Reptile that lived long ago
+MUSEUM | Place where important objects are displayed
+SPECIMEN | Single example collected for study
+FIELDWORK | Research carried out outdoors
+BEDROCK | Solid rock beneath loose soil

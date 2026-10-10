@@ -1,0 +1,19 @@
+id: level-281
+title: Firework Display
+difficulty: EASY
+order: 281
+type: level
+size: 11
+seed: 281
+---
+FIREWORK | Device that bursts into coloured light
+SPARK | Tiny glowing particle
+FUSE | Cord that carries flame to a charge
+BURST | Sudden outward explosion
+ROCKET | Firework that shoots upward
+COLOUR | Visual quality such as red or blue
+SKY | Space above the ground
+NOISE | Loud sound made during a display
+SAFETY | Protection from danger
+DISPLAY | Public show for an audience
+SMOKE | Cloud released by a firework

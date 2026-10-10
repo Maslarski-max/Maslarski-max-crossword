@@ -1,0 +1,41 @@
+{
+  "id": "level-142",
+  "title": "Rocket Science",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####GRAVITY#",
+    "A#######E####",
+    "S###SATELLITE",
+    "T#B#####O####",
+    "R#O#LAUNCHPAD",
+    "O#O#####I####",
+    "N#S#COUNTDOWN",
+    "A#T#A###Y###O",
+    "U#E#P##O####Z",
+    "THRUST#R####Z",
+    "####U##B#FUEL",
+    "####L##I####E",
+    "###REENTRY###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Pull toward the earth",
+      "4": "Object circling the earth",
+      "6": "Platform for lift-off",
+      "7": "Ten, nine, eight...",
+      "10": "Force that pushes a rocket",
+      "11": "What the rocket burns",
+      "12": "Return through the atmosphere"
+    },
+    "down": {
+      "2": "Speed in a direction",
+      "3": "Space traveller",
+      "5": "Extra rocket strapped on",
+      "7": "Crew compartment",
+      "8": "Exhaust opening",
+      "9": "Path around a planet"
+    }
+  },
+  "order": 142
+}

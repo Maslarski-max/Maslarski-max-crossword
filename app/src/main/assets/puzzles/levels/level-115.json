@@ -1,0 +1,37 @@
+{
+  "id": "level-115",
+  "title": "Snow Day",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##ICICLE#",
+    "##G##O###",
+    "##L#SCARF",
+    "##O##O##L",
+    "SNOWMAN#A",
+    "####I###K",
+    "##B#T###E",
+    "##O#T##C#",
+    "SHOVEL#O#",
+    "##T#N##L#",
+    "##S#SLED#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Frozen spike hanging from a roof",
+      "3": "Warm strip worn round the neck",
+      "5": "Frosty figure with a carrot nose",
+      "9": "Tool to clear the path",
+      "10": "Ride it down a snowy hill"
+    },
+    "down": {
+      "1": "Dome house made of ice blocks",
+      "2": "Hot chocolate drink",
+      "4": "Single crystal of snow",
+      "6": "Gloves without separate fingers",
+      "7": "Warm waterproof footwear",
+      "8": "Opposite of hot"
+    }
+  },
+  "order": 115
+}

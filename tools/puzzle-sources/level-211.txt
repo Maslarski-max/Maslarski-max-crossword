@@ -1,0 +1,21 @@
+id: level-211
+title: Medieval Manuscripts
+difficulty: HARD
+order: 211
+type: level
+size: 15
+seed: 211
+---
+ILLUMINATE | Decorate a page with bright colours or gold
+PARCHMENT | Prepared animal skin used for writing
+VELLUM | Fine parchment made from calfskin
+SCRIPTORIUM | Room where handwritten books were copied
+SCRIBE | Person who copies written works by hand
+QUIRE | Group of folded sheets in a book
+RUBRIC | Heading or instruction written in coloured ink
+INITIAL | Enlarged first letter of a section
+PIGMENT | Coloured material used in paint or ink
+BINDING | Cover and fastening of a book
+MARGINALIA | Notes or drawings placed beside the main text
+CODEX | Ancient manuscript made of bound pages
+CALLIGRAPHY | Decorative style of handwriting

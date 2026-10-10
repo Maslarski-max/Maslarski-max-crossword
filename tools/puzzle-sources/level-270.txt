@@ -1,0 +1,21 @@
+id: level-270
+title: Atmospheric Chemistry
+difficulty: HARD
+order: 270
+type: level
+size: 15
+seed: 270
+---
+OZONE | Gas made of oxygen atoms in groups of three
+AEROSOL | Tiny particles or droplets suspended in air
+OXIDATION | Chemical reaction involving loss of electrons
+METHANE | Simple carbon-containing gas in the atmosphere
+NITRATE | Compound containing nitrogen and oxygen
+PHOTOLYSIS | Chemical breakdown caused by light
+POLLUTANT | Substance that contaminates air
+STRATOSPHERE | Atmospheric layer above the troposphere
+RADICAL | Highly reactive atom or molecule
+CARBON | Element found in many atmospheric gases
+SMOG | Hazy air pollution
+CHEMISTRY | Study of substances and their reactions
+REACTION | Process in which substances change into others

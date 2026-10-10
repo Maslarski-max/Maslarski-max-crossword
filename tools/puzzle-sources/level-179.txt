@@ -1,0 +1,21 @@
+id: level-179
+title: Rainforest River
+difficulty: HARD
+order: 179
+type: level
+size: 15
+seed: 179
+---
+TRIBUTARY | Smaller stream that flows into a larger river
+MEANDER | Bend in the course of a river
+FLOODPLAIN | Flat land beside a river that may flood
+ESTUARY | Coastal waterway where river water meets the sea
+SEDIMENT | Particles carried and deposited by water
+OXBOW | Curved lake cut off from a river bend
+WATERSHED | Land area drained by a river system
+ALLUVIUM | Soil deposited by flowing water
+RAPIDS | Fast turbulent stretches of a river
+VAPOUR | Gas form of water
+CANOPY | Upper leafy layer of a forest
+BIODIVERSITY | Variety of living things in an area
+EVAPORATION | Change from liquid water into gas

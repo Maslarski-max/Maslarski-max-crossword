@@ -1,0 +1,40 @@
+{
+  "id": "level-229",
+  "title": "Museum Curators",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####C#R#####",
+    "####MUSEUM##C",
+    "#####R#S##G#A",
+    "#####ARTIFACT",
+    "##D##T#O##L#A",
+    "##O##O#R##L#L",
+    "CONSERVE##E#O",
+    "##O#X#####R#G",
+    "#ARCHIVE##Y##",
+    "####I########",
+    "##LABEL######",
+    "####I########",
+    "###STORAGE###"
+  ],
+  "clues": {
+    "across": {
+      "3": "Institution that preserves and displays objects",
+      "6": "Object made or used by people in the past",
+      "8": "Protect an object from damage",
+      "10": "Collection of historical records",
+      "11": "Short text identifying a display",
+      "12": "Safe place where items are kept"
+    },
+    "down": {
+      "1": "Person responsible for a collection",
+      "2": "Repair an old object carefully",
+      "4": "List describing items in a collection",
+      "5": "Room where artworks are displayed",
+      "7": "Person who gives an item to a collection",
+      "9": "Object or display shown to visitors"
+    }
+  },
+  "order": 229
+}

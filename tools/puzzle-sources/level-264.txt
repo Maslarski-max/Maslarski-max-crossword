@@ -1,0 +1,21 @@
+id: level-264
+title: Ocean Paleoclimate
+difficulty: HARD
+order: 264
+type: level
+size: 15
+seed: 264
+---
+PALEOCLIMATE | Climate of an earlier period in Earth's history
+FORAMINIFERA | Tiny marine organisms with chambered shells
+ISOTOPE | Atoms of an element with different neutron counts
+SEDIMENT | Material deposited in layers
+PROXY | Indirect evidence used to infer past conditions
+ICECORE | Cylinder of ice drilled for climate records
+MICROFOSSIL | Fossil too small to study without magnification
+CARBONATE | Mineral compound containing carbon and oxygen
+GLACIATION | Expansion of glaciers over a region
+TEMPERATURE | Measure of how hot or cold something is
+EPOCH | Division of geological time
+OXYGEN | Gas preserved in clues to ancient environments
+POLLEN | Plant grains preserved in lake deposits

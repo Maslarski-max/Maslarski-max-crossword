@@ -1,0 +1,20 @@
+id: level-170
+title: Volunteer Crew
+difficulty: MEDIUM
+order: 170
+type: level
+size: 13
+seed: 170
+---
+DONATE | Give money or goods to help
+SHELTER | Safe place for people in need
+PANTRY | Store of food for a community
+HELPER | Person who gives assistance
+SERVICE | Work done to benefit others
+SUPPORT | Help given to a person or cause
+CHARITY | Group that helps people or animals
+OUTREACH | Effort to connect with a community
+GARDEN | Shared plot where neighbours grow plants
+SUPPLIES | Useful items gathered for a project
+NEIGHBOR | Person living nearby
+KINDNESS | Caring action toward another person

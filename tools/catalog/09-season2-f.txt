@@ -1,0 +1,408 @@
+=== Tennis Club | EASY
+RACKET | Frame strung with cord for striking a ball
+COURT | Marked area where a match is played
+SERVE | Opening hit that starts a point
+NET | Mesh barrier across the middle
+BALL | Round object struck during play
+LOVE | Score of zero in tennis
+ACE | Serve the opponent cannot return
+MATCH | Contest between two players or pairs
+VOLLEY | Hit the ball before it bounces
+GRIP | Hold of the hand on a racket
+DOUBLES | Match played by two pairs
+
+=== At the Tailor | EASY
+TAILOR | Person who makes or alters clothes
+MEASURE | Find the size of something
+TAPE | Flexible strip used for measuring
+FABRIC | Cloth used to make a garment
+SLEEVE | Part of a shirt covering an arm
+POCKET | Small pouch sewn into clothing
+BUTTON | Small fastener sewn onto a garment
+THREAD | Fine strand used for stitching
+HEM | Folded edge at the bottom of a garment
+SEW | Join cloth with stitches
+FITTING | Try-on to check how a garment sits
+
+=== Swimming Pool | EASY
+POOL | Place filled with water for swimming
+GOGGLES | Eye covering used underwater
+FLOAT | Stay on the surface of water
+SPLASH | Scatter drops of water
+LANE | Marked strip for one swimmer
+KICK | Move the legs to push through water
+DIVE | Enter the water head first
+TOWEL | Cloth used to dry off
+LIFEGUARD | Person who watches swimmers for safety
+SHALLOW | Not very deep
+WHISTLE | Sharp sound used to get attention
+
+=== Autumn Festival | EASY
+HARVEST | Gathering of ripe crops
+LEAVES | Flat parts that fall from trees
+BONFIRE | Large outdoor fire for a celebration
+PUMPKIN | Orange squash often carved in autumn
+CIDER | Drink made from pressed apples
+SCARF | Warm strip worn around the neck
+ACORN | Nut that grows on an oak
+PARK | Outdoor place for a community gathering
+FAIR | Event with rides, stalls, and games
+PIE | Baked dish with a pastry covering
+DRUM | Percussion instrument struck by hand or stick
+
+=== Farmhouse Kitchen | EASY
+STOVE | Appliance used to cook food
+OVEN | Enclosed chamber for baking
+KETTLE | Vessel that heats water
+JAR | Glass container for storing food
+SPOON | Utensil with a small curved bowl
+PLATE | Flat dish for serving food
+SINK | Basin with a water tap
+PANTRY | Small room for keeping food
+TAP | Fitting that releases water
+MIXER | Appliance that beats ingredients
+TABLE | Furniture where people eat
+
+=== Science Garden | EASY
+SEED | Beginning of a new plant
+SOIL | Earth where roots grow
+ROOT | Part of a plant that takes up water
+STEM | Structure that holds a plant upright
+LEAF | Plant part that gathers sunlight
+SUN | Star that warms our planet
+RAIN | Water that falls from clouds
+GROW | Become larger over time
+SHADE | Cool area out of direct sunlight
+COMPOST | Decayed plant matter used to enrich soil
+FLOWER | Colourful part that may make seeds
+
+=== Roadside Diner | EASY
+DINER | Casual restaurant often near a highway
+MENU | List of meals a restaurant serves
+BOOTH | Bench seating beside a small table
+PIE | Baked dessert with a crust
+SHAKE | Cold drink mixed until foamy
+COFFEE | Dark drink brewed from roasted beans
+WAITER | Worker who brings food to a table
+BILL | Paper showing how much a meal costs
+NAPKIN | Cloth or paper used to wipe the mouth
+FRIES | Potato strips cooked in hot oil
+COUNTER | Long worktop where customers may sit
+
+=== Ski Lodge | EASY
+SKI | Long narrow runner worn on snow
+SLOPE | Slanted surface for sliding downhill
+LIFT | Cable ride that carries skiers uphill
+SNOW | Frozen flakes falling from clouds
+MITTEN | Warm hand covering with one space for fingers
+GOGGLE | Protective eyewear for snowy conditions
+LODGE | Building where visitors stay
+POLE | Long stick used for balance
+HELMET | Hard covering that protects the head
+BOOTS | Sturdy footwear worn with skis
+APRES | Social time after a day of skiing
+
+=== Home Movie Night | EASY
+SCREEN | Surface on which a film is shown
+REMOTE | Handheld device for controlling a television
+POPCORN | Puffed snack eaten during a film
+MOVIE | Story shown using moving images
+PAUSE | Stop a film temporarily
+VOLUME | Loudness of the sound
+COUCH | Long seat for several people
+PILLOW | Soft cushion for resting
+SNACK | Small bite between meals
+CREDITS | Names shown at the end of a film
+SCENE | Part of a film set in one time or place
+
+=== National Parks | MEDIUM
+RANGER | Official who protects a park
+TRAIL | Marked route for walking
+CAMPGROUND | Place set aside for tents and campers
+WILDERNESS | Large natural area with little development
+WILDLIFE | Animals living freely in nature
+PRESERVE | Area protected from development
+VISITOR | Person who comes to see a place
+CANYON | Deep valley with steep sides
+MEADOW | Open grassy area
+SUMMIT | Top of a hill or mountain
+SCENERY | Natural features seen in a landscape
+BACKCOUNTRY | Remote area away from roads and towns
+
+=== Weather Satellites | MEDIUM
+SATELLITE | Object orbiting Earth to observe cloud systems
+POLAR | Relating to the regions near either pole
+IMAGER | Instrument that records pictures
+INFRARED | Invisible radiation beyond red light
+VISIBLE | Able to be seen by the eye
+CLOUDTOP | Highest surface of a cloud
+CHANNEL | Range of wavelengths measured by a sensor
+FORECAST | Estimate of future weather conditions
+ORBIT | Path followed around a planet
+LAUNCH | Send a spacecraft into flight
+ANTENNA | Device that transmits or receives signals
+DOWNLINK | Transfer of data from a spacecraft to Earth
+
+=== Antique Maps | MEDIUM
+MAPMAKER | Person who makes maps
+PARALLEL | East-west line on a map
+MERIDIAN | North-south line joining the poles
+LEGEND | Key explaining symbols on a map
+SCALE | Relationship between map distance and ground distance
+ATLAS | Bound collection of maps
+COMPASS | Tool for finding direction
+CHART | Map used for navigation
+PROJECTION | Method for showing a globe on a flat surface
+ENGRAVER | Artist who cuts a design into a plate
+PORTOLAN | Early sea chart showing coastlines and bearings
+ISLAND | Land surrounded by water
+
+=== Space Station | MEDIUM
+WEIGHTLESS | Condition of very weak apparent weight
+AIRLOCK | Chamber between spaces at different pressures
+MODULE | Separate section of a spacecraft
+DOCKING | Joining of two spacecraft
+ASTRONAUT | Person trained to travel in space
+ORBIT | Curved path around a celestial body
+SOLAR | Relating to the sun
+SUPPLY | Food or equipment delivered to a crew
+EXERCISE | Activity used to keep muscles strong
+EXPERIMENT | Test designed to answer a question
+STATION | Structure where a crew lives in orbit
+TELEMETRY | Automatic transmission of measurement data
+
+=== Theatre Lighting | MEDIUM
+SPOTLIGHT | Narrow beam that follows a performer
+DIMMER | Control that changes a lamp's brightness
+GEL | Coloured sheet placed before a stage light
+FRESNEL | Spotlight with a ridged lens
+GOBOS | Cutout patterns placed in front of a light
+RIGGER | Worker who hangs equipment above a stage
+BLACKOUT | Sudden removal of all stage lighting
+FOLLOWSPOT | Light directed manually at a moving performer
+AMBER | Warm yellow-orange lighting colour
+LANTERN | Stage-light unit in theatre terminology
+CUE | Signal for a technical change
+FOCUS | Adjust a beam to a chosen area
+
+=== Orchard Science | MEDIUM
+POLLINATION | Transfer of pollen to a flower's receptive part
+ROOTSTOCK | Plant base onto which a fruit variety is grafted
+GRAFT | Join parts of two plants so they grow together
+PRUNING | Cutting away selected branches
+BLOOM | Flowering period of a fruit tree
+POLLEN | Fine grains involved in plant reproduction
+ORCHARD | Area planted with fruit trees
+HARVEST | Picking mature fruit
+VARIETY | Distinct cultivated kind of a plant
+DORMANCY | Period when growth slows or stops
+POLLINATOR | Animal that carries pollen between flowers
+CANOPY | Upper spread of branches and leaves
+
+=== Printing Press | MEDIUM
+TYPE | Raised letter used to print a page
+INK | Coloured liquid transferred to paper
+PRESS | Machine that transfers ink to a surface
+COMPOSITOR | Worker who arranges type for printing
+GALLEY | Tray holding lines of type
+IMPRESSION | Mark made by pressing one surface onto another
+PROOF | Trial print checked for errors
+PAPER | Thin sheet used for printing
+PLATEN | Flat plate that presses paper against type
+FONT | Set of letters in a particular design
+EDITION | Copies of a work printed together
+BOOKBIND | Join pages together to form a book
+
+=== Freshwater Ecology | MEDIUM
+WETLAND | Land saturated with water for much of the year
+WATERSHED | Area drained by a river system
+ALGAE | Simple organisms often growing in water
+PLANKTON | Small drifting organisms in water
+MOLLUSK | Backbone-free animal group that includes snails and clams
+AMPHIBIAN | Animal that often lives on land and in water
+SEDIMENT | Material that settles on a streambed
+OXYGEN | Gas dissolved in water and used by many animals
+EUTROPHIC | Rich in nutrients, often with abundant plant growth
+RIPARIAN | Relating to land beside a river
+FOODWEB | Network of feeding relationships
+STREAM | Small flowing body of water
+
+=== Planetary Geology | HARD
+REGOLITH | Loose material covering solid rock on a world
+CRATER | Bowl-shaped hollow made by impact or eruption
+TECTONIC | Relating to large moving sections of crust
+VOLCANISM | Processes involving the eruption of molten rock
+RILLE | Long narrow valley on the moon
+BASALT | Dark volcanic rock
+METEORITE | Space fragment recovered after reaching the ground
+EROSION | Wearing away of rock by natural forces
+MANTLE | Layer beneath a planet's crust
+IMPACT | Collision of one object with another
+PLANETESIMAL | Small early body that helped form planets
+LAVA | Molten rock that reaches the surface
+GEOLOGY | Study of a world's rocks and structure
+
+=== Roman Waterworks | HARD
+AQUEDUCT | Structure carrying water over a distance
+CISTERN | Tank used to store water
+SIPHON | Tube that carries liquid over a higher point
+ARCH | Curved structure supporting weight
+CONDUIT | Channel or pipe that carries water
+GRADIENT | Slope of a water channel
+LEAD | Metal once used for some Roman pipes
+RESERVOIR | Place where water is stored
+MASONRY | Work made from stone or brick
+HYDRAULIC | Relating to liquid movement or pressure
+SETTLING | Process in which suspended matter sinks
+VALVE | Device that controls liquid flow
+ROMAN | Relating to ancient Rome
+
+=== Cell Signaling | HARD
+RECEPTOR | Cell protein that detects a signal
+LIGAND | Molecule that binds to a receptor
+CASCADE | Series of linked reactions
+KINASE | Enzyme that adds a phosphate group
+PHOSPHATE | Group transferred in many cell reactions
+MESSENGER | Molecule carrying information inside a cell
+CYTOPLASM | Material filling the inside of a cell
+MEMBRANE | Thin barrier surrounding a cell
+SIGNAL | Information that triggers a cellular response
+PATHWAY | Chain of reactions inside a cell
+HORMONE | Chemical messenger made by the body
+PROTEIN | Molecule built from amino acids
+AMPLIFY | Increase the strength of a signal
+
+=== Ocean Paleoclimate | HARD
+PALEOCLIMATE | Climate of an earlier period in Earth's history
+FORAMINIFERA | Tiny marine organisms with chambered shells
+ISOTOPE | Atoms of an element with different neutron counts
+SEDIMENT | Material deposited in layers
+PROXY | Indirect evidence used to infer past conditions
+ICECORE | Cylinder of ice drilled for climate records
+MICROFOSSIL | Fossil too small to study without magnification
+CARBONATE | Mineral compound containing carbon and oxygen
+GLACIATION | Expansion of glaciers over a region
+TEMPERATURE | Measure of how hot or cold something is
+EPOCH | Division of geological time
+OXYGEN | Gas preserved in clues to ancient environments
+POLLEN | Plant grains preserved in lake deposits
+
+=== Mayan Astronomy | HARD
+VENUS | Bright planet carefully tracked by Maya observers
+ZENITH | Point directly overhead
+ECLIPSE | Event in which one celestial body blocks another
+SOLSTICE | Date with the longest or shortest daylight
+EQUINOX | Date when day and night are nearly equal
+CALENDAR | System for organizing days and years
+OBSERVATORY | Place designed for studying the sky
+CODICES | Folded books made from bark paper
+CYCLE | Repeating sequence of celestial events
+CONSTELLATION | Recognized pattern of stars
+PREDICT | State what is likely to happen
+ORIENT | Align something to a direction
+MAYA | People whose civilization flourished in Mesoamerica
+
+=== Viral Evolution | HARD
+CAPSID | Protein shell surrounding a virus
+GENOME | Complete genetic material of an organism or virus
+VARIANT | Form with a changed genetic sequence
+MUTATION | Change in genetic material
+RECOMBINATION | Exchange of genetic material between molecules
+HOST | Organism in which a virus replicates
+SPIKE | Surface protein used by some viruses to attach
+SELECTION | Process favouring some inherited traits
+LINEAGE | Sequence of related descendants
+TRANSMISSION | Spread from one host to another
+RNA | Genetic material used by many viruses
+ENVELOPE | Outer lipid layer on some viruses
+EVOLUTION | Change in populations over generations
+
+=== Graph Theory | HARD
+VERTEX | Point in a mathematical network
+EDGE | Connection between two points
+PATH | Sequence of connected edges
+DEGREE | Number of edges touching a point
+CYCLE | Path that returns to its starting point
+PLANAR | Drawable without crossing edges
+WEIGHTED | Having a value assigned to each connection
+DIRECTED | Having edges with a set direction
+MATRIX | Rectangular array used to represent connections
+NETWORK | Set of connected points
+TREE | Connected graph with no cycles
+BRIDGE | Edge whose removal disconnects a graph
+ISOMORPHISM | Structure-preserving correspondence between graphs
+
+=== Nuclear Physics | HARD
+FISSION | Splitting of a heavy atomic nucleus
+FUSION | Joining of light atomic nuclei
+ISOTOPE | Form of an element with a different neutron count
+NUCLEON | Proton or neutron in an atomic nucleus
+NEUTRINO | Nearly massless particle that rarely interacts
+DECAY | Spontaneous change of an unstable nucleus
+HALFLIFE | Time for half of a sample to decay
+NEUTRON | Uncharged particle in an atomic nucleus
+PROTON | Positively charged particle in a nucleus
+RADIATION | Energy emitted as waves or particles
+REACTOR | Device that sustains a controlled nuclear reaction
+PLASMA | Ionized gas of charged particles
+NUCLEAR | Relating to an atomic nucleus
+
+=== Marine Archaeology | HARD
+SHIPWRECK | Sunken remains of a vessel
+AMPHORA | Ancient two-handled storage jar
+BALLAST | Heavy material used to steady a vessel
+SONAR | Sound-based method for locating underwater objects
+ANCHOR | Heavy device used to hold a vessel in place
+MARITIME | Relating to the sea or seafaring
+EXCAVATE | Carefully uncover buried remains
+ARTIFACT | Object made or used by people
+TIMBER | Wood used in a ship's structure
+CONSERVE | Protect an object from decay
+CARGO | Goods carried by a vessel
+SEDIMENT | Material that settles on the seafloor
+UNDERWATER | Beneath the surface of a body of water
+
+=== Atmospheric Chemistry | HARD
+OZONE | Gas made of oxygen atoms in groups of three
+AEROSOL | Tiny particles or droplets suspended in air
+OXIDATION | Chemical reaction involving loss of electrons
+METHANE | Simple carbon-containing gas in the atmosphere
+NITRATE | Compound containing nitrogen and oxygen
+PHOTOLYSIS | Chemical breakdown caused by light
+POLLUTANT | Substance that contaminates air
+STRATOSPHERE | Atmospheric layer above the troposphere
+RADICAL | Highly reactive atom or molecule
+CARBON | Element found in many atmospheric gases
+SMOG | Hazy air pollution
+CHEMISTRY | Study of substances and their reactions
+REACTION | Process in which substances change into others
+
+=== Bacterial Genetics | HARD
+PLASMID | Small DNA molecule separate from a chromosome
+OPERON | Cluster of genes controlled together
+PROMOTER | DNA region where transcription can begin
+REPRESSOR | Protein that can switch off gene expression
+CHROMOSOME | Long DNA molecule carrying many bacterial genes
+MUTATION | Change in genetic material
+TRANSFER | Movement of genetic material between cells
+RIBOSOME | Cell structure that makes proteins
+GENOME | Complete set of genetic instructions
+BACTERIUM | Single-celled microorganism without a nucleus
+RESISTANCE | Ability to withstand an antibiotic
+ENZYME | Protein that speeds up a chemical reaction
+TRANSCRIPTION | Copying genetic instructions into RNA
+
+=== Sustainable Agriculture | HARD
+ROTATION | Changing which crop grows in a field each season
+LEGUME | Plant whose roots can host nitrogen-fixing bacteria
+MULCH | Cover spread over soil to conserve moisture
+COMPOST | Decayed organic matter used to enrich soil
+IRRIGATION | Artificial supply of water to crops
+BIODIVERSITY | Variety of living things in an area
+AGROFORESTRY | Growing trees alongside crops or livestock
+COVERCROP | Plant grown to protect and enrich soil
+EROSION | Wearing away of soil by water or wind
+ORGANIC | Produced without most synthetic farm chemicals
+NITROGEN | Nutrient needed by plants for growth
+FALLOW | Left unplanted for a period
+SUSTAINABLE | Able to continue without exhausting resources

@@ -1,0 +1,20 @@
+id: level-234
+title: Antique Clockmakers
+difficulty: MEDIUM
+order: 234
+type: level
+size: 13
+seed: 234
+---
+ESCAPEMENT | Mechanism controlling release of stored energy in a clock
+PENDULUM | Swinging weight used to keep time
+GEAR | Toothed wheel that transfers motion
+SPRING | Coiled metal source of stored energy
+DIAL | Face showing the time
+HAND | Pointer on a clock face
+WIND | Tighten a clock's spring with a key
+CHIME | Ringing sound made to mark time
+CASE | Outer container for a clock
+CLOCKMAKER | Person who builds or repairs clocks
+BALANCE | Oscillating wheel in some timepieces
+REGULATE | Adjust a clock to keep accurate time

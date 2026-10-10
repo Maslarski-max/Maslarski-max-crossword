@@ -1,0 +1,36 @@
+{
+  "id": "level-280",
+  "title": "Model Airplanes",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "WING####G#H",
+    "###L##BALSA",
+    "###I####U#N",
+    "#MODEL##E#G",
+    "###E###F##A",
+    "##PROPELLER",
+    "#####I#I###",
+    "#FUSELAGE##",
+    "#####O#H###",
+    "#####T#TAIL"
+  ],
+  "clues": {
+    "across": {
+      "1": "Surface that helps a plane stay aloft",
+      "5": "Light wood often used in model aircraft",
+      "6": "Small copy of a real object",
+      "8": "Spinning blades that push a small plane",
+      "10": "Main body of an aircraft",
+      "11": "Rear part that helps a plane stay steady"
+    },
+    "down": {
+      "2": "Aircraft that flies without an engine",
+      "3": "Sticky substance used to join model parts",
+      "4": "Building where aircraft are kept",
+      "7": "Journey through the air",
+      "9": "Person who controls an aircraft"
+    }
+  },
+  "order": 280
+}

@@ -1,0 +1,21 @@
+id: level-207
+title: Volcanic Hazards
+difficulty: HARD
+order: 207
+type: level
+size: 15
+seed: 207
+---
+PYROCLASTIC | Relating to hot fragments erupted by a volcano
+LAHAR | Mudflow of volcanic debris and water
+TEPHRA | Rock fragments thrown out during an eruption
+FUMAROLE | Opening that releases volcanic gas
+CALDERA | Large depression formed when a volcano collapses
+VISCOSITY | Resistance of a fluid to flowing
+MAGMA | Molten rock beneath Earth's surface
+ASHFALL | Volcanic particles settling from the air
+SUBDUCTION | Descent of one tectonic plate beneath another
+ERUPTION | Release of material from a volcano
+CRATER | Bowl-shaped opening at a volcano's summit
+PUMICE | Light volcanic rock full of gas holes
+GEOTHERMAL | Relating to heat from within the Earth

@@ -1,0 +1,21 @@
+id: level-180
+title: Ancient China
+difficulty: HARD
+order: 180
+type: level
+size: 15
+seed: 180
+---
+DYNASTY | Family line that rules for generations
+MANDARIN | Official language based on northern Chinese speech
+CALLIGRAPHY | Decorative art of handwriting
+PAGODA | Tall tiered tower found in East Asia
+PORCELAIN | Hard white ceramic fired at high heat
+SILK | Fine thread made by a larva
+CONFUCIUS | Chinese teacher whose ideas shaped ethics
+TERRACOTTA | Fired clay used for the emperor's army figures
+JADE | Hard ornamental stone prized in China
+BUREAUCRAT | Official who works in government administration
+COMPASS | Direction-finding tool developed in ancient China
+ABACUS | Bead frame used for arithmetic
+WOODBLOCK | Carved block used to print a page

@@ -1,0 +1,19 @@
+id: level-192
+title: School Lunch
+difficulty: EASY
+order: 192
+type: level
+size: 11
+seed: 192
+---
+LUNCH | Meal eaten around midday
+SANDWICH | Filling held between slices of bread
+CARROT | Crunchy orange root vegetable
+YOGURT | Creamy food made from fermented milk
+NAPKIN | Paper or cloth used to wipe the mouth
+JUICE | Drink pressed from fruit
+THERMOS | Insulated container that keeps a drink warm
+APPLE | Crisp fruit often packed for a meal
+CRACKER | Thin crisp baked snack
+BOX | Container that holds a meal
+WATER | Clear drink needed by the body

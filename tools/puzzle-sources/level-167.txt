@@ -1,0 +1,19 @@
+id: level-167
+title: Family Road Trip
+difficulty: EASY
+order: 167
+type: level
+size: 11
+seed: 167
+---
+MAP | Drawing that shows roads and places
+MOTEL | Lodging beside a highway
+SEATBELT | Strap that keeps a passenger secure
+SNACKS | Small bites eaten between meals
+ROUTE | Planned way from one place to another
+TRUNK | Car space for carrying bags
+LUGGAGE | Bags packed for a journey
+DRIVER | Person controlling the car
+MILES | Units used to measure a long journey
+RADIO | Device that plays broadcasts in a car
+RESTSTOP | Roadside place to take a break

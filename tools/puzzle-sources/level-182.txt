@@ -1,0 +1,21 @@
+id: level-182
+title: Arctic Ecosystems
+difficulty: HARD
+order: 182
+type: level
+size: 15
+seed: 182
+---
+PERMAFROST | Ground that stays frozen for at least two years
+TUNDRA | Treeless region with a cold climate
+LICHEN | Partnership of fungus and algae growing on rock
+CARIBOU | Northern deer known as reindeer in Eurasia
+MIGRATION | Seasonal movement from one region to another
+MELTWATER | Water released as snow or ice melts
+BLUBBER | Thick fat layer that insulates some sea mammals
+ICEBERG | Large piece of floating freshwater ice
+POLYNYA | Open water surrounded by sea ice
+KRILL | Small drifting crustacean eaten by whales
+ALBEDO | Fraction of sunlight a surface reflects
+HABITAT | Natural home of a plant or animal
+FOODWEB | Network of feeding relationships in an ecosystem

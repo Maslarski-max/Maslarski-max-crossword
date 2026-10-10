@@ -1,0 +1,21 @@
+id: level-266
+title: Viral Evolution
+difficulty: HARD
+order: 266
+type: level
+size: 15
+seed: 266
+---
+CAPSID | Protein shell surrounding a virus
+GENOME | Complete genetic material of an organism or virus
+VARIANT | Form with a changed genetic sequence
+MUTATION | Change in genetic material
+RECOMBINATION | Exchange of genetic material between molecules
+HOST | Organism in which a virus replicates
+SPIKE | Surface protein used by some viruses to attach
+SELECTION | Process favouring some inherited traits
+LINEAGE | Sequence of related descendants
+TRANSMISSION | Spread from one host to another
+RNA | Genetic material used by many viruses
+ENVELOPE | Outer lipid layer on some viruses
+EVOLUTION | Change in populations over generations

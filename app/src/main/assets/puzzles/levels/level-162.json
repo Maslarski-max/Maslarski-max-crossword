@@ -1,0 +1,37 @@
+{
+  "id": "level-162",
+  "title": "Puppet Theatre",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "####C#V#",
+    "M###U#O#",
+    "ACTOR#I#",
+    "S###T#C#",
+    "K#STAGE#",
+    "##C#I##P",
+    "STRING#U",
+    "H#I##L#P",
+    "O#P##O#P",
+    "W#T##V#E",
+    "####FELT"
+  ],
+  "clues": {
+    "across": {
+      "4": "Person who performs a role",
+      "5": "Raised place for a show",
+      "7": "Thin cord used to move a figure",
+      "9": "Soft cloth used to make a figure"
+    },
+    "down": {
+      "1": "Cloth that opens before a play",
+      "2": "Sound made by a performer",
+      "3": "Face covering worn by a character",
+      "5": "Written words for a show",
+      "6": "Figure controlled by a performer",
+      "7": "Performance for an audience",
+      "8": "Hand covering used to operate a puppet"
+    }
+  },
+  "order": 162
+}

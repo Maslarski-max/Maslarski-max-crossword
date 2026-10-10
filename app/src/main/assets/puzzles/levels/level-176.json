@@ -1,0 +1,40 @@
+{
+  "id": "level-176",
+  "title": "Farmers Market",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#CHUTNEY####",
+    "##A#########",
+    "TURNIP#BUNCH",
+    "##V##A####R#",
+    "PRESERVE##A#",
+    "##S##S####T#",
+    "#STALLHOLDER",
+    "#####E#R####",
+    "#####Y#G###W",
+    "######HAGGLE",
+    "#######N###I",
+    "####RADISH#G",
+    "#######C###H"
+  ],
+  "clues": {
+    "across": {
+      "1": "Spiced fruit or vegetable relish",
+      "3": "Round root vegetable with a pale top",
+      "5": "Group of vegetables tied together",
+      "7": "Fruit cooked and stored for later",
+      "8": "Person who sells goods at a market",
+      "11": "Bargain over a price",
+      "12": "Crisp root with a peppery taste"
+    },
+    "down": {
+      "2": "Crops gathered when they are ripe",
+      "4": "Leafy herb used as a garnish",
+      "6": "Open box used to carry produce",
+      "9": "Grown without most synthetic farm chemicals",
+      "10": "Find how heavy something is"
+    }
+  },
+  "order": 176
+}

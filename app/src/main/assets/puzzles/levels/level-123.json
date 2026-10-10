@@ -1,0 +1,39 @@
+{
+  "id": "level-123",
+  "title": "Hospital Ward",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###PLASTER###",
+    "######U######",
+    "#X##NURSE#P##",
+    "#R####G##WARD",
+    "VACCINE#P#T#O",
+    "#Y####O#H#I#C",
+    "####BANDAGE#T",
+    "########R#N#O",
+    "##THERMOMETER",
+    "########A####",
+    "###STRETCHER#",
+    "########Y####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Cast for a broken arm",
+      "4": "Carer in scrubs",
+      "6": "Hospital room of beds",
+      "8": "Jab that prevents disease",
+      "10": "Strip wrapped round a wound",
+      "11": "Measures body temperature",
+      "12": "Bed for carrying patients"
+    },
+    "down": {
+      "2": "Doctor who operates",
+      "3": "Picture of the bones",
+      "5": "Person being treated",
+      "7": "Physician",
+      "9": "Where medicine is dispensed"
+    }
+  },
+  "order": 123
+}

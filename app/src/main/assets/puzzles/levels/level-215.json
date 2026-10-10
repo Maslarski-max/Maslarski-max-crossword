@@ -1,0 +1,43 @@
+{
+  "id": "level-215",
+  "title": "Classical Myth Cycles",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##########P#A",
+    "##OLYMPUS#E#C",
+    "#A###Y####N#H",
+    "#R###T####E#I",
+    "#I###H##C#L#L",
+    "#AMBROSIA#O#L",
+    "#D###L##S#P#E",
+    "#N###ODYSSEUS",
+    "#E###G##A####",
+    "##LABYRINTH##",
+    "###E####D#E##",
+    "###G###ORACLE",
+    "NEMESIS#A#T##",
+    "###A######O##",
+    "###N######R##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Mountain regarded as home of Greek gods",
+      "7": "Food of the Greek gods",
+      "8": "Greek hero who journeyed home from Troy",
+      "9": "Maze built for the Minotaur",
+      "12": "Person or place giving a sacred prediction",
+      "13": "Greek goddess associated with retribution"
+    },
+    "down": {
+      "1": "Wife who waited for Odysseus",
+      "2": "Greek warrior with a vulnerable heel",
+      "4": "Collection of traditional sacred stories",
+      "5": "Princess who helped Theseus escape a maze",
+      "6": "Trojan prophet whose warnings went unheeded",
+      "10": "Sea between Greece and Anatolia",
+      "11": "Trojan prince who defended his city"
+    }
+  },
+  "order": 215
+}

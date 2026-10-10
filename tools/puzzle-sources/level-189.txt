@@ -1,0 +1,19 @@
+id: level-189
+title: Home Sewing Box
+difficulty: EASY
+order: 189
+type: level
+size: 11
+seed: 189
+---
+NEEDLE | Slender tool used for stitching
+THREAD | Fine strand drawn through cloth
+BUTTON | Small fastener sewn onto a garment
+FABRIC | Cloth used to make clothing
+THIMBLE | Cap that protects a finger while sewing
+SCISSORS | Tool with two blades for cutting
+ZIPPER | Fastener with interlocking teeth
+PATCH | Small piece of cloth covering a tear
+SEAM | Line where two pieces of cloth are joined
+PIN | Sharp fastener with a small head
+HEM | Folded edge at the bottom of a garment

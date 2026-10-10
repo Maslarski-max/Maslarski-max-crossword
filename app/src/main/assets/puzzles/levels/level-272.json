@@ -1,0 +1,43 @@
+{
+  "id": "level-272",
+  "title": "Sustainable Agriculture",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "C######EROSION#",
+    "O#########U####",
+    "MULCH#####S####",
+    "P#E##B####T####",
+    "ORGANIC##FALLOW",
+    "S#U##O####I####",
+    "T#M##D##N#N##C#",
+    "##E##IRRIGATION",
+    "#####V##T#B##V#",
+    "#####E##R#L##E#",
+    "###AGROFORESTRY",
+    "#####S##G####C#",
+    "#####I##E####R#",
+    "#ROTATION####O#",
+    "#####Y#######P#"
+  ],
+  "clues": {
+    "across": {
+      "2": "Wearing away of soil by water or wind",
+      "4": "Cover spread over soil to conserve moisture",
+      "7": "Produced without most synthetic farm chemicals",
+      "8": "Left unplanted for a period",
+      "11": "Artificial supply of water to crops",
+      "12": "Growing trees alongside crops or livestock",
+      "13": "Changing which crop grows in a field each season"
+    },
+    "down": {
+      "1": "Decayed organic matter used to enrich soil",
+      "3": "Able to continue without exhausting resources",
+      "5": "Plant whose roots can host nitrogen-fixing bacteria",
+      "6": "Variety of living things in an area",
+      "9": "Nutrient needed by plants for growth",
+      "10": "Plant grown to protect and enrich soil"
+    }
+  },
+  "order": 272
+}

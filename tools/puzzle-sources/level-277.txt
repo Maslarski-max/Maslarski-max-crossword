@@ -1,0 +1,19 @@
+id: level-277
+title: Ice Rink
+difficulty: EASY
+order: 277
+type: level
+size: 11
+seed: 277
+---
+SKATE | Gliding shoe with a blade
+ICE | Frozen water beneath a skater
+PUCK | Flat disc used in hockey
+HOCKEY | Team game played with sticks on ice
+GOAL | Target between two posts
+HELMET | Hard head covering for safety
+GLOVE | Hand covering worn for warmth
+RINK | Enclosed area for skating
+LACE | Cord threaded through a skate
+SPIN | Turn around on one foot
+FROST | Thin icy coating on a cold surface

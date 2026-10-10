@@ -1,0 +1,20 @@
+id: level-108
+title: Picnic Basket
+difficulty: EASY
+order: 108
+type: level
+size: 11
+seed: 108
+---
+SANDWICH | Two slices of bread with a filling
+BLANKET | Spread it on the grass to sit on
+APPLE | Crunchy fruit packed for lunch
+JUICE | Drink squeezed from fruit
+CHEESE | Cheddar or brie
+CAKE | Sweet baked treat cut into slices
+NAPKIN | Paper square for wiping fingers
+ANTS | Tiny uninvited guests
+BASKET | Wicker carrier with a lid
+PARK | Grassy public place for a day out
+LEMONADE | Sweet citrus drink
+CUP | Small drinking vessel

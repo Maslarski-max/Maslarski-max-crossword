@@ -1,0 +1,39 @@
+{
+  "id": "level-231",
+  "title": "Ceramics Studio",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####BISQUE#",
+    "###F##C####",
+    "#GROG#U####",
+    "###O#SLIP##",
+    "###T##P#O##",
+    "#P#R##THROW",
+    "#O#I####C#E",
+    "STONEWARE#D",
+    "#T#G####L#G",
+    "#E####GLAZE",
+    "#R######I##",
+    "#Y###KILN##"
+  ],
+  "clues": {
+    "across": {
+      "1": "First firing of a clay object",
+      "4": "Crushed fired clay added to a clay body",
+      "5": "Liquid clay used to join pieces",
+      "8": "Shape clay on a spinning wheel",
+      "10": "Durable pottery fired at high temperature",
+      "11": "Glassy coating fused to pottery",
+      "12": "Oven that fires clay at high temperature"
+    },
+    "down": {
+      "2": "Shape a solid material into an artwork",
+      "3": "Raised ring supporting the base of a bowl",
+      "6": "Hard ceramic made from refined materials",
+      "7": "Objects made from shaped and fired clay",
+      "9": "Press clay to remove air bubbles"
+    }
+  },
+  "order": 231
+}

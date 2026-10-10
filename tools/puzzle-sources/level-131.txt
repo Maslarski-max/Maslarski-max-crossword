@@ -1,0 +1,21 @@
+id: level-131
+title: Microbiology
+difficulty: HARD
+order: 131
+type: level
+size: 15
+seed: 131
+---
+BACTERIA | Single-celled microbes
+VIRUS | Infectious agent that hijacks cells
+PETRIDISH | Shallow lab plate for cultures
+MICROSCOPE | Instrument for seeing tiny things
+ANTIBIOTIC | Drug that kills bacteria
+PATHOGEN | Disease-causing organism
+SPORE | Hardy reproductive cell
+YEAST | Fungus that leavens bread
+CULTURE | Colony grown in a lab
+PENICILLIN | Fleming's discovery
+FLAGELLUM | Whip-like tail for movement
+AGAR | Gel used as a growth medium
+MICROBE | Tiny living thing

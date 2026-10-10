@@ -1,0 +1,19 @@
+id: level-247
+title: Autumn Festival
+difficulty: EASY
+order: 247
+type: level
+size: 11
+seed: 247
+---
+HARVEST | Gathering of ripe crops
+LEAVES | Flat parts that fall from trees
+BONFIRE | Large outdoor fire for a celebration
+PUMPKIN | Orange squash often carved in autumn
+CIDER | Drink made from pressed apples
+SCARF | Warm strip worn around the neck
+ACORN | Nut that grows on an oak
+PARK | Outdoor place for a community gathering
+FAIR | Event with rides, stalls, and games
+PIE | Baked dish with a pastry covering
+DRUM | Percussion instrument struck by hand or stick

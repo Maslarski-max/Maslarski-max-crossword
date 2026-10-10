@@ -1,0 +1,37 @@
+{
+  "id": "level-194",
+  "title": "Campfire Tales",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#######C###",
+    "####T##A###",
+    "####E##N###",
+    "#F##N##D###",
+    "#L#STORY###",
+    "CAMP####N##",
+    "#M#A####I#S",
+    "BEDROLL#G#T",
+    "###K#O##H#A",
+    "#####GUITAR",
+    "##########S"
+  ],
+  "clues": {
+    "across": {
+      "4": "Tale told for fun",
+      "5": "Temporary place to sleep outdoors",
+      "8": "Padded cover for sleeping outside",
+      "10": "Stringed instrument used for songs"
+    },
+    "down": {
+      "1": "Soft sweet treat often toasted over a fire",
+      "2": "Portable shelter made from fabric",
+      "3": "Bright hot part of a fire",
+      "4": "Tiny glowing piece from a fire",
+      "6": "Dark time after sunset",
+      "7": "Bright points seen in the night sky",
+      "9": "Thick piece of cut wood"
+    }
+  },
+  "order": 194
+}

@@ -1,0 +1,19 @@
+id: level-134
+title: Ice Cream Parlour
+difficulty: EASY
+order: 134
+type: level
+size: 11
+seed: 134
+---
+CONE | Crunchy holder for a scoop
+SCOOP | Round ball of ice cream
+VANILLA | Plain classic flavour
+SPRINKLES | Tiny coloured toppings
+SUNDAE | Dessert with sauce and a cherry
+WAFER | Thin crisp biscuit
+FUDGE | Chewy chocolate sauce
+MINT | Fresh green flavour
+SORBET | Fruity ice without cream
+MELT | What it does in the sun
+SPOON | Little utensil to eat it

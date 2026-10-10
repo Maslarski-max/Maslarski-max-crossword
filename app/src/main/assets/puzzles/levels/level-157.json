@@ -1,0 +1,41 @@
+{
+  "id": "level-157",
+  "title": "Cartography",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "########M#A####",
+    "####PROJECTION#",
+    "########R#L####",
+    "########C#A#T#L",
+    "####COMPASSROSE",
+    "########T###P#G",
+    "##S#I###O#GLOBE",
+    "##CONTOUR###G#N",
+    "##A#S######GRID",
+    "RELIEF######A##",
+    "##E#T#######P##",
+    "############H##",
+    "#######SURVEYOR"
+  ],
+  "clues": {
+    "across": {
+      "3": "Way of flattening the globe",
+      "6": "Direction star on a map",
+      "9": "Spherical map",
+      "10": "Line joining equal heights",
+      "11": "Squares for references",
+      "12": "Shading of hills",
+      "13": "Measurer of land"
+    },
+    "down": {
+      "1": "Famous projection with big poles",
+      "2": "Book of maps",
+      "4": "Shape of the land",
+      "5": "Key to map symbols",
+      "7": "Ratio of map to ground",
+      "8": "Small extra map in a corner"
+    }
+  },
+  "order": 157
+}

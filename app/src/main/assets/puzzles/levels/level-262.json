@@ -1,0 +1,43 @@
+{
+  "id": "level-262",
+  "title": "Roman Waterworks",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "############C#",
+    "############I#",
+    "############S#",
+    "############T#",
+    "############E#",
+    "R######MASONRY",
+    "O#######Q###N#",
+    "M#####S#U####G",
+    "ARCH#RESERVOIR",
+    "N#O###T#D#A##A",
+    "##N###T#U#LEAD",
+    "HYDRAULIC#V##I",
+    "##U###I#T#E##E",
+    "#SIPHON######N",
+    "##T###G######T"
+  ],
+  "clues": {
+    "across": {
+      "3": "Work made from stone or brick",
+      "7": "Curved structure supporting weight",
+      "9": "Place where water is stored",
+      "11": "Metal once used for some Roman pipes",
+      "12": "Relating to liquid movement or pressure",
+      "13": "Tube that carries liquid over a higher point"
+    },
+    "down": {
+      "1": "Tank used to store water",
+      "2": "Relating to ancient Rome",
+      "4": "Structure carrying water over a distance",
+      "5": "Process in which suspended matter sinks",
+      "6": "Slope of a water channel",
+      "8": "Channel or pipe that carries water",
+      "10": "Device that controls liquid flow"
+    }
+  },
+  "order": 262
+}

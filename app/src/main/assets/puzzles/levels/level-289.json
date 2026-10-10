@@ -1,0 +1,38 @@
+{
+  "id": "level-289",
+  "title": "Steam Locomotives",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####S##G####C",
+    "#F##M#RAILWAY",
+    "PISTON#U####L",
+    "#R##K##G####I",
+    "TENDER#E##W#N",
+    "#B##B#B###H#D",
+    "#O#LOCOMOTIVE",
+    "#X##X#I###S#R",
+    "######L###T##",
+    "######E#VALVE",
+    "#DRIVER###E##"
+  ],
+  "clues": {
+    "across": {
+      "5": "Track system used by trains",
+      "6": "Sliding part driven by steam pressure",
+      "7": "Car carrying fuel and water behind an engine",
+      "10": "Powered rail vehicle that pulls a train",
+      "11": "Device that controls steam flow",
+      "12": "Wheel that receives power from the pistons"
+    },
+    "down": {
+      "1": "Chamber at the front of a steam engine",
+      "2": "Distance between the rails",
+      "3": "Chamber in which a piston moves",
+      "4": "Part of an engine where fuel burns",
+      "8": "Steam-powered signal on a locomotive",
+      "9": "Vessel that heats water to make steam"
+    }
+  },
+  "order": 289
+}

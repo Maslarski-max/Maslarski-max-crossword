@@ -1,0 +1,43 @@
+{
+  "id": "level-128",
+  "title": "Meteorology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####CUMULUS##",
+    "#####I#O######",
+    "####FRONT#####",
+    "#####R#S######",
+    "##B##U#O#J##S#",
+    "#HAILSTONE##T#",
+    "##R####N#T##R#",
+    "DROUGHT#ISOBAR",
+    "##M##U###T##T#",
+    "ANEMOMETER##U#",
+    "##T##I###E##S#",
+    "##E##D###A####",
+    "##R##I###M####",
+    "#####T########",
+    "####CYCLONE###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Fluffy fair-weather cloud",
+      "3": "Boundary between air masses",
+      "7": "Ball of ice falling from a cloud",
+      "8": "Long spell without rain",
+      "10": "Line of equal pressure on a map",
+      "11": "Measures wind speed",
+      "12": "Rotating storm system"
+    },
+    "down": {
+      "1": "Wispy high cloud",
+      "2": "Seasonal rain-bearing wind",
+      "4": "Instrument for air pressure",
+      "5": "Fast high-altitude air current",
+      "6": "Flat grey layer cloud",
+      "9": "Moisture in the air"
+    }
+  },
+  "order": 128
+}

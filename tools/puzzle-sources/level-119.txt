@@ -1,0 +1,20 @@
+id: level-119
+title: Circus Tent
+difficulty: MEDIUM
+order: 119
+type: level
+size: 13
+seed: 119
+---
+ACROBAT | Performer of flips and tumbles
+JUGGLER | Keeps several balls in the air
+CLOWN | Red-nosed funny performer
+TRAPEZE | High swinging bar
+RINGMASTER | Host in a top hat
+TIGHTROPE | Thin line walked high above
+ELEPHANT | Huge performer with a trunk
+POPCORN | Snack sold in striped bags
+STILTS | Tall poles to walk on
+UNICYCLE | One-wheeled ride
+MAGICIAN | Pulls a rabbit from a hat
+TENT | Big top

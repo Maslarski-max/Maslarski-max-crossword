@@ -1,0 +1,20 @@
+id: level-229
+title: Museum Curators
+difficulty: MEDIUM
+order: 229
+type: level
+size: 13
+seed: 229
+---
+CURATOR | Person responsible for a collection
+GALLERY | Room where artworks are displayed
+EXHIBIT | Object or display shown to visitors
+ARCHIVE | Collection of historical records
+CATALOG | List describing items in a collection
+RESTORE | Repair an old object carefully
+ARTIFACT | Object made or used by people in the past
+LABEL | Short text identifying a display
+STORAGE | Safe place where items are kept
+DONOR | Person who gives an item to a collection
+CONSERVE | Protect an object from damage
+MUSEUM | Institution that preserves and displays objects

@@ -1,0 +1,39 @@
+{
+  "id": "level-172",
+  "title": "Shipyard",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##K###CABIN##",
+    "##E#####L####",
+    "S#E#####U####",
+    "HULL###WELDER",
+    "I#S#D###P#O#I",
+    "PROPELLER#C#V",
+    "W#N#C#A#I#K#E",
+    "R###K#U#N###T",
+    "I###H#N#T####",
+    "G###A#C######",
+    "H##ANCHOR####",
+    "T###D########"
+  ],
+  "clues": {
+    "across": {
+      "2": "Small room aboard a vessel",
+      "5": "Watertight body of a vessel",
+      "6": "Worker who joins metal with heat",
+      "10": "Spinning blades that push a boat",
+      "12": "Heavy hook lowered to hold a boat"
+    },
+    "down": {
+      "1": "Strong beam fitted above a ship's keel",
+      "3": "Detailed plan for a vessel",
+      "4": "Builder of wooden vessels",
+      "7": "Structure where a vessel is tied up",
+      "8": "Metal pin joining two plates",
+      "9": "Crew member who works on deck",
+      "11": "Put a newly built vessel into the water"
+    }
+  },
+  "order": 172
+}

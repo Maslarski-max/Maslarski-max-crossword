@@ -1,0 +1,19 @@
+id: level-138
+title: Wild West
+difficulty: EASY
+order: 138
+type: level
+size: 11
+seed: 138
+---
+COWBOY | Ranch rider in a hat
+HORSE | Animal ridden on the range
+SALOON | Bar with swinging doors
+SHERIFF | Law officer with a star
+LASSO | Rope loop for catching cattle
+RANCH | Large cattle farm
+CACTUS | Prickly desert plant
+BOOTS | Footwear with spurs
+WAGON | Covered cart for pioneers
+DESERT | Dry sandy land
+HAT | Stetson

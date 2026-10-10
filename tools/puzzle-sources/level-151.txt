@@ -1,0 +1,21 @@
+id: level-151
+title: Legal Latin
+difficulty: HARD
+order: 151
+type: level
+size: 15
+seed: 151
+---
+HABEASCORPUS | Writ to produce a prisoner
+AFFIDAVIT | Sworn written statement
+SUBPOENA | Order to appear in court
+ALIBI | Proof you were elsewhere
+BONAFIDE | In good faith
+ADHOC | For this purpose only
+PROBONO | Done for free
+VERBATIM | Word for word
+QUORUM | Minimum number for a vote
+STATUSQUO | Existing state of affairs
+DEFACTO | In fact, if not by law
+MENSREA | Guilty mind
+CAVEAT | Warning or proviso

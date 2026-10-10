@@ -1,0 +1,41 @@
+{
+  "id": "level-269",
+  "title": "Marine Archaeology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "TIMBER#########",
+    "####X#######A##",
+    "####C#####SONAR",
+    "BALLAST###H#C##",
+    "####V#####I#H#M",
+    "##C#A###AMPHORA",
+    "##O#T###R#W#R#R",
+    "#UNDERWATER###I",
+    "##S#####I#E###T",
+    "##E#####F#C###I",
+    "CARGO###A#K###M",
+    "##V#####C#####E",
+    "#SEDIMENT######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Wood used in a ship's structure",
+      "4": "Sound-based method for locating underwater objects",
+      "5": "Heavy material used to steady a vessel",
+      "8": "Ancient two-handled storage jar",
+      "9": "Beneath the surface of a body of water",
+      "10": "Goods carried by a vessel",
+      "11": "Material that settles on the seafloor"
+    },
+    "down": {
+      "2": "Carefully uncover buried remains",
+      "3": "Heavy device used to hold a vessel in place",
+      "4": "Sunken remains of a vessel",
+      "6": "Relating to the sea or seafaring",
+      "7": "Protect an object from decay",
+      "8": "Object made or used by people"
+    }
+  },
+  "order": 269
+}

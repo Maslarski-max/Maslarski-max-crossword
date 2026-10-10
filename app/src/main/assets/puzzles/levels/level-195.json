@@ -1,0 +1,34 @@
+{
+  "id": "level-195",
+  "title": "Car Wash",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "####R######",
+    "##SOAP#####",
+    "B#U#G######",
+    "U#D#####WAX",
+    "C#SHINE#A##",
+    "K##O####T##",
+    "E##SPONGE##",
+    "TIRE####RIM"
+  ],
+  "clues": {
+    "across": {
+      "2": "Cleaner that makes foamy suds",
+      "4": "Shiny coating applied after washing",
+      "5": "Bright reflection from a clean surface",
+      "7": "Soft block that soaks up water",
+      "8": "Rubber ring around a wheel",
+      "9": "Outer edge that holds a tire"
+    },
+    "down": {
+      "1": "Cloth used for wiping",
+      "2": "Bubbles made by soap",
+      "3": "Open container for carrying liquid",
+      "4": "Liquid sprayed over the vehicle",
+      "6": "Flexible tube that carries water"
+    }
+  },
+  "order": 195
+}

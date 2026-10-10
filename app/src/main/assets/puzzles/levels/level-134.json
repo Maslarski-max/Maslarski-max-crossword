@@ -1,0 +1,36 @@
+{
+  "id": "level-134",
+  "title": "Ice Cream Parlour",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#S###WAFER",
+    "#C#####U##",
+    "SORBET#D##",
+    "#O#####G##",
+    "SPRINKLES#",
+    "P#######U#",
+    "O###C#MINT",
+    "O###O#E#D#",
+    "N#VANILLA#",
+    "####E#T#E#"
+  ],
+  "clues": {
+    "across": {
+      "2": "Thin crisp biscuit",
+      "4": "Fruity ice without cream",
+      "5": "Tiny coloured toppings",
+      "8": "Fresh green flavour",
+      "9": "Plain classic flavour"
+    },
+    "down": {
+      "1": "Round ball of ice cream",
+      "3": "Chewy chocolate sauce",
+      "5": "Little utensil to eat it",
+      "6": "Dessert with sauce and a cherry",
+      "7": "Crunchy holder for a scoop",
+      "8": "What it does in the sun"
+    }
+  },
+  "order": 134
+}

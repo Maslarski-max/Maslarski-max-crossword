@@ -1,0 +1,37 @@
+{
+  "id": "level-114",
+  "title": "Busy Bees",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####Q#####",
+    "####BUZZ###",
+    "###P#E#####",
+    "#FLOWER####",
+    "###L#N##S##",
+    "###L####WAX",
+    "HIVE##S#A##",
+    "O##NECTAR##",
+    "N#####I#M##",
+    "E##DRONE###",
+    "Y#####G####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Sound of a bee",
+      "4": "Bees visit it for nectar",
+      "6": "Material of a honeycomb",
+      "7": "Bee home",
+      "9": "Sweet liquid in flowers",
+      "10": "Male bee"
+    },
+    "down": {
+      "1": "Mother of the colony",
+      "3": "Yellow dust bees carry",
+      "5": "Large flying group of bees",
+      "7": "Sweet golden food bees make",
+      "8": "Bee's painful defence"
+    }
+  },
+  "order": 114
+}

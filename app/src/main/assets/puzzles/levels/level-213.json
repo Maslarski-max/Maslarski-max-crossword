@@ -1,0 +1,42 @@
+{
+  "id": "level-213",
+  "title": "Ancient Trade Routes",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "######C#######",
+    "#####TARIFF###",
+    "######R#######",
+    "#MERCHANT#####",
+    "####A#V#######",
+    "SILKROAD######",
+    "#M##A#N#######",
+    "#P##V#SPICE#M#",
+    "PORTAGE#N#X#O#",
+    "#R##N#R#C#P#N#",
+    "#T###WAREHOUSE",
+    "######I#N#R#O#",
+    "########S#T#O#",
+    "####MARKET##N#"
+  ],
+  "clues": {
+    "across": {
+      "2": "Charge on goods crossing a border",
+      "3": "Person who trades goods",
+      "5": "Network of routes linking East Asia with the west",
+      "7": "Aromatic plant material traded for cooking",
+      "11": "Carrying goods between waterways",
+      "12": "Building used to store goods",
+      "13": "Place where goods are bought and sold"
+    },
+    "down": {
+      "1": "Roadside inn for travelling merchants",
+      "4": "Group travelling together with goods",
+      "6": "Goods brought in from another country",
+      "8": "Fragrant material burned for its scent",
+      "9": "Goods sent to another country for sale",
+      "10": "Seasonal wind that shaped Indian Ocean sailing"
+    }
+  },
+  "order": 213
+}

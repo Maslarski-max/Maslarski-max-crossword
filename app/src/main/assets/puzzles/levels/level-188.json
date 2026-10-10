@@ -1,0 +1,35 @@
+{
+  "id": "level-188",
+  "title": "Windy Kite Day",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##C###R##",
+    "##L#FIELD",
+    "SPOOL#E#I",
+    "T#U#Y#L#A",
+    "R#D#####M",
+    "I##K##T#O",
+    "N##I##A#N",
+    "GUST#WIND",
+    "###E##L##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Open grassy place for play",
+      "5": "Round holder for a long thread",
+      "8": "Sudden burst of wind",
+      "9": "Moving air outdoors"
+    },
+    "down": {
+      "1": "Visible mass of droplets in the sky",
+      "2": "Turn it to wind up a line",
+      "3": "Move through the air",
+      "4": "Common four-sided kite shape",
+      "5": "Thin cord attached to a flying toy",
+      "6": "Lightweight toy flown on a string",
+      "7": "Strip that steadies a kite"
+    }
+  },
+  "order": 188
+}

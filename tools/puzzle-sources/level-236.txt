@@ -1,0 +1,21 @@
+id: level-236
+title: Quantum Computing
+difficulty: HARD
+order: 236
+type: level
+size: 15
+seed: 236
+---
+QUBIT | Basic unit of quantum information
+SUPERPOSITION | State combining multiple possible outcomes
+ENTANGLEMENT | Quantum link between separated particles
+GATE | Operation applied to quantum information
+MEASUREMENT | Process that yields an observed result
+COHERENCE | Preservation of a quantum phase relationship
+DECOHERENCE | Loss of a system's quantum phase relationships
+ALGORITHM | Stepwise procedure for solving a problem
+QUTRIT | Quantum unit with three basis states
+AMPLITUDE | Quantity whose square gives a probability
+SIMULATOR | Program that models a quantum system
+PHOTON | Particle of electromagnetic radiation
+QUANTUM | Relating to discrete physical states

@@ -1,0 +1,40 @@
+{
+  "id": "level-259",
+  "title": "Printing Press",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#EDITION##",
+    "###N#M####",
+    "###K#PAPER",
+    "#B###R#L##",
+    "#O###E#A#P",
+    "COMPOSITOR",
+    "#K#R#S#E#E",
+    "#B#O#I#N#S",
+    "#I#O#O###S",
+    "#N#FONT###",
+    "#D####Y###",
+    "######P###",
+    "##GALLEY##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Copies of a work printed together",
+      "4": "Thin sheet used for printing",
+      "8": "Worker who arranges type for printing",
+      "10": "Set of letters in a particular design",
+      "12": "Tray holding lines of type"
+    },
+    "down": {
+      "2": "Coloured liquid transferred to paper",
+      "3": "Mark made by pressing one surface onto another",
+      "5": "Flat plate that presses paper against type",
+      "6": "Join pages together to form a book",
+      "7": "Machine that transfers ink to a surface",
+      "9": "Trial print checked for errors",
+      "11": "Raised letter used to print a page"
+    }
+  },
+  "order": 259
+}

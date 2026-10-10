@@ -1,0 +1,38 @@
+{
+  "id": "level-287",
+  "title": "Food Preservation",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####F#P####",
+    "#J#DRYING##",
+    "#A##E#C####",
+    "SMOKE#K####",
+    "####Z#L##F#",
+    "##PRESERVE#",
+    "##A##E###R#",
+    "VINEGAR##M#",
+    "##T##L###E#",
+    "JAR###BRINE",
+    "##Y######T#"
+  ],
+  "clues": {
+    "across": {
+      "4": "Removing water from food",
+      "5": "Treat food with fumes from burning wood",
+      "7": "Prepare food so it lasts longer",
+      "9": "Sour liquid used in pickling",
+      "10": "Glass container for storing food",
+      "11": "Salty water used to preserve food"
+    },
+    "down": {
+      "1": "Cool food below its freezing point",
+      "2": "Food kept in vinegar or brine",
+      "3": "Fruit cooked with sugar until thick",
+      "6": "Let microbes transform food",
+      "7": "Place where stored food is kept",
+      "8": "Close a container to keep air out"
+    }
+  },
+  "order": 287
+}

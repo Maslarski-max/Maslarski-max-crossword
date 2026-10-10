@@ -1,0 +1,38 @@
+{
+  "id": "level-199",
+  "title": "Glassblowing Studio",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####GAFFER#C",
+    "#######U###O",
+    "##GATHER###L",
+    "#######N###O",
+    "G#####MARVER",
+    "O#M####C#E#A",
+    "BLOWPIPE#S#N",
+    "L#L#U####S#T",
+    "E#TONGS##E##",
+    "T#E#T####L##",
+    "#ANNEAL#####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Skilled leader in a glassblowing team",
+      "4": "Collect molten glass on the end of a pipe",
+      "6": "Flat surface used to shape hot glass",
+      "9": "Hollow tube used to inflate molten glass",
+      "11": "Tool with arms for gripping hot material",
+      "12": "Cool glass slowly to reduce internal stress"
+    },
+    "down": {
+      "2": "Chamber kept hot enough to melt glass",
+      "3": "Substance added to give glass a hue",
+      "5": "Drinking cup with a stem and foot",
+      "7": "Container made to hold something",
+      "8": "Made liquid by great heat",
+      "10": "Solid rod used to hold a vessel while finishing"
+    }
+  },
+  "order": 199
+}

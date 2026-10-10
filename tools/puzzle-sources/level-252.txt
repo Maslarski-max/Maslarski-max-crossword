@@ -1,0 +1,19 @@
+id: level-252
+title: Home Movie Night
+difficulty: EASY
+order: 252
+type: level
+size: 11
+seed: 252
+---
+SCREEN | Surface on which a film is shown
+REMOTE | Handheld device for controlling a television
+POPCORN | Puffed snack eaten during a film
+MOVIE | Story shown using moving images
+PAUSE | Stop a film temporarily
+VOLUME | Loudness of the sound
+COUCH | Long seat for several people
+PILLOW | Soft cushion for resting
+SNACK | Small bite between meals
+CREDITS | Names shown at the end of a film
+SCENE | Part of a film set in one time or place

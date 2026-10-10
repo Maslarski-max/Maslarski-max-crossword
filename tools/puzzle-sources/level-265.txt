@@ -1,0 +1,21 @@
+id: level-265
+title: Mayan Astronomy
+difficulty: HARD
+order: 265
+type: level
+size: 15
+seed: 265
+---
+VENUS | Bright planet carefully tracked by Maya observers
+ZENITH | Point directly overhead
+ECLIPSE | Event in which one celestial body blocks another
+SOLSTICE | Date with the longest or shortest daylight
+EQUINOX | Date when day and night are nearly equal
+CALENDAR | System for organizing days and years
+OBSERVATORY | Place designed for studying the sky
+CODICES | Folded books made from bark paper
+CYCLE | Repeating sequence of celestial events
+CONSTELLATION | Recognized pattern of stars
+PREDICT | State what is likely to happen
+ORIENT | Align something to a direction
+MAYA | People whose civilization flourished in Mesoamerica

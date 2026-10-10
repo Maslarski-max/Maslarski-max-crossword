@@ -1,0 +1,38 @@
+{
+  "id": "level-255",
+  "title": "Antique Maps",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "############E",
+    "###PROJECTION",
+    "P##A####O###G",
+    "O##R#MAPMAKER",
+    "R##A#E##P###A",
+    "T##L#R##A###V",
+    "O##L#I##SCALE",
+    "LEGEND##S#T#R",
+    "A##L#I####L##",
+    "N####A##CHART",
+    "#ISLAND###S##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Method for showing a globe on a flat surface",
+      "5": "Person who makes maps",
+      "6": "Relationship between map distance and ground distance",
+      "8": "Key explaining symbols on a map",
+      "9": "Map used for navigation",
+      "10": "Land surrounded by water"
+    },
+    "down": {
+      "1": "Artist who cuts a design into a plate",
+      "2": "East-west line on a map",
+      "3": "Tool for finding direction",
+      "4": "Early sea chart showing coastlines and bearings",
+      "5": "North-south line joining the poles",
+      "7": "Bound collection of maps"
+    }
+  },
+  "order": 255
+}

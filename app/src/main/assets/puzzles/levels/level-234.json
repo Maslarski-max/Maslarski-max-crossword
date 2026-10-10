@@ -1,0 +1,37 @@
+{
+  "id": "level-234",
+  "title": "Antique Clockmakers",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "###H###GEAR#",
+    "###A####S###",
+    "#D#N####C##P",
+    "WIND#BALANCE",
+    "#A######P##N",
+    "CLOCKMAKER#D",
+    "A##H####M##U",
+    "SPRING##E##L",
+    "E##M####N##U",
+    "##REGULATE#M"
+  ],
+  "clues": {
+    "across": {
+      "2": "Toothed wheel that transfers motion",
+      "6": "Tighten a clock's spring with a key",
+      "7": "Oscillating wheel in some timepieces",
+      "8": "Person who builds or repairs clocks",
+      "10": "Coiled metal source of stored energy",
+      "11": "Adjust a clock to keep accurate time"
+    },
+    "down": {
+      "1": "Pointer on a clock face",
+      "3": "Mechanism controlling release of stored energy in a clock",
+      "4": "Face showing the time",
+      "5": "Swinging weight used to keep time",
+      "8": "Outer container for a clock",
+      "9": "Ringing sound made to mark time"
+    }
+  },
+  "order": 234
+}

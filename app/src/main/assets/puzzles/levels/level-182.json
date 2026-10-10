@@ -1,0 +1,43 @@
+{
+  "id": "level-182",
+  "title": "Arctic Ecosystems",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#K########T####",
+    "#R########U####",
+    "#I##H#POLYNYA##",
+    "#L##A#E#I#D#L##",
+    "BLUBBER#CARIBOU",
+    "####I#M#H#A#E##",
+    "#MELTWATER##D##",
+    "#I##A#F#N#I#O##",
+    "#G##T#R###C####",
+    "#R###FOODWEB###",
+    "#A####S###B####",
+    "#T####T###E####",
+    "#I########R####",
+    "#O########G####",
+    "#N#############"
+  ],
+  "clues": {
+    "across": {
+      "4": "Open water surrounded by sea ice",
+      "7": "Thick fat layer that insulates some sea mammals",
+      "8": "Northern deer known as reindeer in Eurasia",
+      "9": "Water released as snow or ice melts",
+      "11": "Network of feeding relationships in an ecosystem"
+    },
+    "down": {
+      "1": "Small drifting crustacean eaten by whales",
+      "2": "Treeless region with a cold climate",
+      "3": "Natural home of a plant or animal",
+      "4": "Ground that stays frozen for at least two years",
+      "5": "Partnership of fungus and algae growing on rock",
+      "6": "Fraction of sunlight a surface reflects",
+      "9": "Seasonal movement from one region to another",
+      "10": "Large piece of floating freshwater ice"
+    }
+  },
+  "order": 182
+}

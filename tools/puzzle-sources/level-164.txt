@@ -1,0 +1,19 @@
+id: level-164
+title: Nature Walk
+difficulty: EASY
+order: 164
+type: level
+size: 11
+seed: 164
+---
+TRAIL | Path through the countryside
+LEAF | Flat green part of many plants
+ACORN | Nut that grows on an oak
+PINECONE | Seed case from a pine tree
+PEBBLE | Small smooth stone
+FERN | Plant with divided leafy fronds
+MOSS | Soft green growth on damp ground
+BARK | Rough outer covering of a tree
+STREAM | Small flowing body of water
+TWIG | Small thin branch
+BOOTS | Sturdy footwear for a walk

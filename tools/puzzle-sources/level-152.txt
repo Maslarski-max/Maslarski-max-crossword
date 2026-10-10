@@ -1,0 +1,21 @@
+id: level-152
+title: Particle Physics
+difficulty: HARD
+order: 152
+type: level
+size: 15
+seed: 152
+---
+QUARK | Building block of protons
+ELECTRON | Negatively charged particle
+PROTON | Positive particle in a nucleus
+NEUTRON | Neutral nuclear particle
+PHOTON | Particle of light
+NEUTRINO | Ghostly near-massless particle
+HIGGS | Boson behind mass
+GLUON | Carrier of the strong force
+COLLIDER | Machine that smashes particles
+ANTIMATTER | Opposite of ordinary matter
+FERMION | Particle obeying exclusion
+MUON | Heavy cousin of the electron
+ISOTOPE | Variant with different neutrons

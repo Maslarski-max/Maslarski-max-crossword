@@ -1,0 +1,43 @@
+{
+  "id": "level-265",
+  "title": "Mayan Astronomy",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "######ECLIPSE#",
+    "#####O####R#Q#",
+    "#####R###VENUS",
+    "#####I##C#D#I#",
+    "CONSTELLATION#",
+    "#B###N##L#C#O#",
+    "#SOLSTICE#T#X#",
+    "#E######N#####",
+    "#R###C##D#####",
+    "#V#Z#Y#MAYA###",
+    "#A#E#C##R#####",
+    "#T#N#L########",
+    "CODICES#######",
+    "#R#T##########",
+    "#Y#H##########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Event in which one celestial body blocks another",
+      "5": "Bright planet carefully tracked by Maya observers",
+      "7": "Recognized pattern of stars",
+      "9": "Date with the longest or shortest daylight",
+      "12": "People whose civilization flourished in Mesoamerica",
+      "13": "Folded books made from bark paper"
+    },
+    "down": {
+      "2": "State what is likely to happen",
+      "3": "Date when day and night are nearly equal",
+      "4": "Align something to a direction",
+      "6": "System for organizing days and years",
+      "8": "Place designed for studying the sky",
+      "10": "Repeating sequence of celestial events",
+      "11": "Point directly overhead"
+    }
+  },
+  "order": 265
+}

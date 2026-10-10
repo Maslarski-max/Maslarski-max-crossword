@@ -1,0 +1,21 @@
+id: level-269
+title: Marine Archaeology
+difficulty: HARD
+order: 269
+type: level
+size: 15
+seed: 269
+---
+SHIPWRECK | Sunken remains of a vessel
+AMPHORA | Ancient two-handled storage jar
+BALLAST | Heavy material used to steady a vessel
+SONAR | Sound-based method for locating underwater objects
+ANCHOR | Heavy device used to hold a vessel in place
+MARITIME | Relating to the sea or seafaring
+EXCAVATE | Carefully uncover buried remains
+ARTIFACT | Object made or used by people
+TIMBER | Wood used in a ship's structure
+CONSERVE | Protect an object from decay
+CARGO | Goods carried by a vessel
+SEDIMENT | Material that settles on the seafloor
+UNDERWATER | Beneath the surface of a body of water

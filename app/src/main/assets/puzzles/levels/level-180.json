@@ -1,0 +1,42 @@
+{
+  "id": "level-180",
+  "title": "Ancient China",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###W##J########",
+    "##COMPASS#####A",
+    "###O##D#######B",
+    "###D#TERRACOTTA",
+    "###B######A###C",
+    "#SILK###C#L###U",
+    "###O##M#O#L###S",
+    "PORCELAIN#I####",
+    "A##K##N#F#G####",
+    "G#####D#U#R####",
+    "O#BUREAUCRAT###",
+    "D#####R#I#P####",
+    "A#####I#U#H####",
+    "####DYNASTY####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Direction-finding tool developed in ancient China",
+      "5": "Fired clay used for the emperor's army figures",
+      "7": "Fine thread made by a larva",
+      "10": "Hard white ceramic fired at high heat",
+      "11": "Official who works in government administration",
+      "12": "Family line that rules for generations"
+    },
+    "down": {
+      "1": "Carved block used to print a page",
+      "2": "Hard ornamental stone prized in China",
+      "4": "Bead frame used for arithmetic",
+      "6": "Decorative art of handwriting",
+      "8": "Chinese teacher whose ideas shaped ethics",
+      "9": "Official language based on northern Chinese speech",
+      "10": "Tall tiered tower found in East Asia"
+    }
+  },
+  "order": 180
+}

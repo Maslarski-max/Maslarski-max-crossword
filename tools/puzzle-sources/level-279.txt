@@ -1,0 +1,19 @@
+id: level-279
+title: Fishing Pier
+difficulty: EASY
+order: 279
+type: level
+size: 11
+seed: 279
+---
+ROD | Long flexible pole used for angling
+REEL | Device that winds in fishing line
+BAIT | Food attached to a hook to attract fish
+HOOK | Curved metal point used to catch a fish
+FLOAT | Bobbing marker on a fishing line
+PIER | Raised walkway extending over water
+TIDE | Regular rise and fall of the sea
+BUCKET | Open container for a catch
+FISH | Animal with gills and fins
+CRAB | Sea animal with claws and a hard shell
+NET | Mesh used to catch fish

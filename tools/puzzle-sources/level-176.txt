@@ -1,0 +1,20 @@
+id: level-176
+title: Farmers Market
+difficulty: MEDIUM
+order: 176
+type: level
+size: 13
+seed: 176
+---
+STALLHOLDER | Person who sells goods at a market
+HARVEST | Crops gathered when they are ripe
+TURNIP | Round root vegetable with a pale top
+RADISH | Crisp root with a peppery taste
+PARSLEY | Leafy herb used as a garnish
+CHUTNEY | Spiced fruit or vegetable relish
+HAGGLE | Bargain over a price
+CRATE | Open box used to carry produce
+ORGANIC | Grown without most synthetic farm chemicals
+BUNCH | Group of vegetables tied together
+PRESERVE | Fruit cooked and stored for later
+WEIGH | Find how heavy something is

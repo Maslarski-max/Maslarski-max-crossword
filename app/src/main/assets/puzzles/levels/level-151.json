@@ -1,0 +1,43 @@
+{
+  "id": "level-151",
+  "title": "Legal Latin",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "###M###########",
+    "###E###########",
+    "###N####D######",
+    "###SUBPOENA####",
+    "###R####F######",
+    "###E####A######",
+    "##HABEASCORPUS#",
+    "C###O#F#T##R#T#",
+    "A###N#F#O##O#A#",
+    "VERBATIM###B#T#",
+    "E###F#D##QUORUM",
+    "ALIBI#A####N#S#",
+    "T###D#V####O#Q#",
+    "####E#I######U#",
+    "######T###ADHOC"
+  ],
+  "clues": {
+    "across": {
+      "3": "Order to appear in court",
+      "4": "Writ to produce a prisoner",
+      "10": "Word for word",
+      "11": "Minimum number for a vote",
+      "12": "Proof you were elsewhere",
+      "13": "For this purpose only"
+    },
+    "down": {
+      "1": "Guilty mind",
+      "2": "In fact, if not by law",
+      "5": "In good faith",
+      "6": "Sworn written statement",
+      "7": "Done for free",
+      "8": "Existing state of affairs",
+      "9": "Warning or proviso"
+    }
+  },
+  "order": 151
+}

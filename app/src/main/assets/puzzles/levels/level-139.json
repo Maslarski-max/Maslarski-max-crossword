@@ -1,0 +1,36 @@
+{
+  "id": "level-139",
+  "title": "Dinosaurs",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###H######",
+    "#F#EXTINCT",
+    "ROAR#R###A",
+    "#S#D#EGG#I",
+    "#S###X###L",
+    "#I#S##B###",
+    "CLAW##O###",
+    "###A##N###",
+    "###MUSEUM#",
+    "###P##S###"
+  ],
+  "clues": {
+    "across": {
+      "3": "No longer alive anywhere",
+      "6": "Loud scary noise",
+      "7": "Baby dinosaurs hatched from one",
+      "10": "Sharp toe nail",
+      "11": "Place to see skeletons"
+    },
+    "down": {
+      "1": "Group of plant eaters",
+      "2": "Remains in rock",
+      "4": "Tyrant lizard king",
+      "5": "Long end of a stegosaurus",
+      "8": "Wet muddy land",
+      "9": "Skeleton parts dug up"
+    }
+  },
+  "order": 139
+}

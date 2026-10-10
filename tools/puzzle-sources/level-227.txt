@@ -1,0 +1,20 @@
+id: level-227
+title: Beekeeping Basics
+difficulty: MEDIUM
+order: 227
+type: level
+size: 13
+seed: 227
+---
+APIARY | Place where beehives are kept
+HONEYCOMB | Wax cells built by bees
+SMOKER | Tool that calms bees with cool smoke
+HIVE | Home made by a bee colony
+QUEEN | Egg-laying female in a colony
+WORKER | Female bee that gathers nectar
+DRONE | Male bee in a colony
+FRAME | Removable support for comb inside a hive
+NECTAR | Sweet liquid collected from flowers
+POLLEN | Fine powder carried between flowers
+EXTRACTOR | Machine that spins honey from comb
+VEIL | Net covering a beekeeper's face

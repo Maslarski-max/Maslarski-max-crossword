@@ -1,0 +1,43 @@
+{
+  "id": "level-207",
+  "title": "Volcanic Hazards",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "####P#####G####",
+    "###FUMAROLE####",
+    "####M#####O####",
+    "###VISCOSITY##S",
+    "####C#R###H###U",
+    "CALDERA###E###B",
+    "#S####TEPHRA##D",
+    "#H####E###M###U",
+    "#F##PYROCLASTIC",
+    "#A########L###T",
+    "#L##M#########I",
+    "#LAHAR########O",
+    "####G##ERUPTION",
+    "####M##########",
+    "####A##########"
+  ],
+  "clues": {
+    "across": {
+      "3": "Opening that releases volcanic gas",
+      "4": "Resistance of a fluid to flowing",
+      "7": "Large depression formed when a volcano collapses",
+      "9": "Rock fragments thrown out during an eruption",
+      "10": "Relating to hot fragments erupted by a volcano",
+      "12": "Mudflow of volcanic debris and water",
+      "13": "Release of material from a volcano"
+    },
+    "down": {
+      "1": "Light volcanic rock full of gas holes",
+      "2": "Relating to heat from within the Earth",
+      "5": "Bowl-shaped opening at a volcano's summit",
+      "6": "Descent of one tectonic plate beneath another",
+      "8": "Volcanic particles settling from the air",
+      "11": "Molten rock beneath Earth's surface"
+    }
+  },
+  "order": 207
+}

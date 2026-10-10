@@ -1,0 +1,37 @@
+{
+  "id": "level-220",
+  "title": "Sleepover Party",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###T##Y###G",
+    "###O##A###I",
+    "###R##W###G",
+    "POPCORN#S#G",
+    "A##H####N#L",
+    "J#M##P#GAME",
+    "A#O##I##C##",
+    "M#V#BLANKET",
+    "A#I##L#####",
+    "SLEEPOVER##",
+    "#####W#####"
+  ],
+  "clues": {
+    "across": {
+      "4": "Puffed snack often eaten during a film",
+      "8": "Activity played for fun",
+      "9": "Warm bed covering",
+      "10": "Night spent at a friend's home"
+    },
+    "down": {
+      "1": "Handheld light for a dark room",
+      "2": "Wide opening of the mouth when tired",
+      "3": "Light, happy laugh",
+      "4": "Clothes worn for bed",
+      "5": "Small bite between meals",
+      "6": "Story shown on a screen",
+      "7": "Soft cushion for resting your head"
+    }
+  },
+  "order": 220
+}

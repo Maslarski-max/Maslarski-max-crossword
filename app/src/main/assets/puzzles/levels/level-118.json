@@ -1,0 +1,41 @@
+{
+  "id": "level-118",
+  "title": "Pirates",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##ISLAND#####",
+    "#######O#####",
+    "######MUTINY#",
+    "#####C#B#####",
+    "#####U#LOOT##",
+    "PARROT#O##R##",
+    "#N###L#O##E##",
+    "#CAPTAIN##A##",
+    "#H###S####S#P",
+    "COMPASS#SKULL",
+    "#R########R#A",
+    "######GALLEON",
+    "############K"
+  ],
+  "clues": {
+    "across": {
+      "1": "Land surrounded by water",
+      "3": "Crew uprising against officers",
+      "5": "Stolen goods",
+      "7": "Talking bird on a shoulder",
+      "9": "Ship's commander",
+      "11": "Instrument pointing north",
+      "12": "Bony emblem on a black flag",
+      "13": "Large old sailing ship"
+    },
+    "down": {
+      "2": "Old Spanish gold coin",
+      "4": "Short curved sword",
+      "6": "Buried chest of gold",
+      "8": "Heavy hook dropped to the seabed",
+      "10": "Board prisoners must walk"
+    }
+  },
+  "order": 118
+}

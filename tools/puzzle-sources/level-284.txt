@@ -1,0 +1,20 @@
+id: level-284
+title: Antarctic Ocean
+difficulty: MEDIUM
+order: 284
+type: level
+size: 13
+seed: 284
+---
+ICEBERG | Large floating mass of freshwater ice
+PENGUIN | Flightless seabird of the southern hemisphere
+KRILL | Small crustacean eaten by whales
+SEAL | Marine mammal with flippers
+POLAR | Relating to the Earth's cold regions
+CURRENT | Flow of ocean water
+PACKICE | Sea ice gathered into a broad sheet
+RESEARCH | Careful study to learn new facts
+VESSEL | Ship used for travel or work
+WHALE | Very large marine mammal
+PLANKTON | Tiny drifting organisms in water
+ANTARCTIC | Relating to the region around the South Pole

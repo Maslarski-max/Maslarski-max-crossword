@@ -1,0 +1,21 @@
+id: level-241
+title: Meteorite Chemistry
+difficulty: HARD
+order: 241
+type: level
+size: 15
+seed: 241
+---
+CHONDRITE | Stony meteorite containing small rounded grains
+IRON | Metal abundant in some meteorites
+NICKEL | Metal often found with iron in meteorites
+ISOTOPE | Atoms of an element with different neutron counts
+OLIVINE | Green mineral found in many meteorites
+PYROXENE | Group of silicate minerals in igneous rocks
+ACHONDRITE | Stony meteorite without chondrules
+SPECTROMETER | Instrument that measures a spectrum
+CRYSTAL | Solid with an ordered atomic structure
+ELEMENT | Substance made of one kind of atom
+CHONDRULE | Small rounded grain in a stony meteorite
+FUSION | Joining of material under heat
+METEORITE | Space fragment recovered after reaching the ground

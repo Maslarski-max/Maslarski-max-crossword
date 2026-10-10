@@ -1,0 +1,36 @@
+{
+  "id": "level-245",
+  "title": "At the Tailor",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##FITTING##",
+    "#####A#####",
+    "###H#POCKET",
+    "SLEEVE####H",
+    "E##M##F#B#R",
+    "W###MEASURE",
+    "######B#T#A",
+    "######R#T#D",
+    "####TAILOR#",
+    "######C#N##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Try-on to check how a garment sits",
+      "4": "Small pouch sewn into clothing",
+      "6": "Part of a shirt covering an arm",
+      "9": "Find the size of something",
+      "10": "Person who makes or alters clothes"
+    },
+    "down": {
+      "2": "Flexible strip used for measuring",
+      "3": "Folded edge at the bottom of a garment",
+      "5": "Fine strand used for stitching",
+      "6": "Join cloth with stitches",
+      "7": "Cloth used to make a garment",
+      "8": "Small fastener sewn onto a garment"
+    }
+  },
+  "order": 245
+}

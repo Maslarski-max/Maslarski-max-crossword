@@ -1,0 +1,20 @@
+id: level-120
+title: Bridges
+difficulty: MEDIUM
+order: 120
+type: level
+size: 13
+seed: 120
+---
+ARCH | Curved bridge shape
+SUSPENSION | Bridge hung from cables
+VIADUCT | Long bridge carrying a railway
+TOLL | Fee paid to cross
+SPAN | Distance between supports
+GIRDER | Heavy steel beam
+PILLAR | Upright support
+CABLE | Thick steel rope
+DRAWBRIDGE | Castle bridge that lifts up
+RIVER | Water flowing under
+GOLDEN | ___ Gate in San Francisco
+TOWER | London bridge with two of them

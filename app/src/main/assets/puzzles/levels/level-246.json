@@ -1,0 +1,36 @@
+{
+  "id": "level-246",
+  "title": "Swimming Pool",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##S##T##F##",
+    "##H#GOGGLES",
+    "##A##W##O##",
+    "##LIFEGUARD",
+    "S#L##L##T#I",
+    "POOL##K###V",
+    "L#W#WHISTLE",
+    "A#####C##A#",
+    "S#####K##N#",
+    "H########E#"
+  ],
+  "clues": {
+    "across": {
+      "4": "Eye covering used underwater",
+      "5": "Person who watches swimmers for safety",
+      "8": "Place filled with water for swimming",
+      "10": "Sharp sound used to get attention"
+    },
+    "down": {
+      "1": "Not very deep",
+      "2": "Cloth used to dry off",
+      "3": "Stay on the surface of water",
+      "6": "Enter the water head first",
+      "7": "Scatter drops of water",
+      "9": "Move the legs to push through water",
+      "11": "Marked strip for one swimmer"
+    }
+  },
+  "order": 246
+}

@@ -1,0 +1,40 @@
+{
+  "id": "level-171",
+  "title": "Boardwalk Arcade",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#######SCORE",
+    "ARCADE##A#A#",
+    "###I####B#C#",
+    "###R##PRIZE#",
+    "###H##I#N#R#",
+    "J#TOKEN#E###",
+    "O##C##BUTTON",
+    "Y##K##A##I##",
+    "SKEEBALL#C##",
+    "T##Y##L##K##",
+    "I########E##",
+    "C########T##",
+    "K###########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Points earned by a player",
+      "4": "Hall of coin-operated games",
+      "6": "Reward won in a game",
+      "8": "Small disc used instead of a coin",
+      "9": "Part pressed to control a game",
+      "11": "Rolling game with numbered target holes"
+    },
+    "down": {
+      "2": "Upright case holding an electronic game",
+      "3": "Driving game played against a clock",
+      "5": "Table game played with a sliding puck",
+      "6": "Game with a silver ball and flippers",
+      "7": "Lever used to steer a game",
+      "10": "Paper slip exchanged for a reward"
+    }
+  },
+  "order": 171
+}

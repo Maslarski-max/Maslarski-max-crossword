@@ -1,0 +1,35 @@
+{
+  "id": "level-275",
+  "title": "Music Box",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####NOTE",
+    "COMB###U#",
+    "R#E##SONG",
+    "A#L##P#E#",
+    "N#O##R###",
+    "K#D##I#K#",
+    "#CYLINDER",
+    "###I#G#Y#",
+    "WIND#####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Single musical sound",
+      "3": "Metal teeth that vibrate to make notes",
+      "5": "Words and music made to be sung",
+      "7": "Rotating part with tiny raised pins",
+      "9": "Turn a key to store power"
+    },
+    "down": {
+      "2": "Short sequence of musical notes",
+      "3": "Handle turned to operate a mechanism",
+      "4": "Tune that can be hummed",
+      "5": "Coiled metal part that stores energy",
+      "6": "Small lever that plays a note",
+      "8": "Cover that opens on a box"
+    }
+  },
+  "order": 275
+}

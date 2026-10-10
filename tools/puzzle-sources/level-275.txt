@@ -1,0 +1,19 @@
+id: level-275
+title: Music Box
+difficulty: EASY
+order: 275
+type: level
+size: 11
+seed: 275
+---
+MELODY | Tune that can be hummed
+TUNE | Short sequence of musical notes
+KEY | Small lever that plays a note
+SPRING | Coiled metal part that stores energy
+CRANK | Handle turned to operate a mechanism
+CYLINDER | Rotating part with tiny raised pins
+COMB | Metal teeth that vibrate to make notes
+NOTE | Single musical sound
+WIND | Turn a key to store power
+LID | Cover that opens on a box
+SONG | Words and music made to be sung

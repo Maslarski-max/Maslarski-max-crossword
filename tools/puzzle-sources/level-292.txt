@@ -1,0 +1,21 @@
+id: level-292
+title: Astrobiology
+difficulty: HARD
+order: 292
+type: level
+size: 15
+seed: 292
+---
+EXTREMOPHILE | Organism adapted to harsh environmental conditions
+BIOSIGNATURE | Possible sign of past or present life
+HABITABILITY | Suitability of an environment for life
+EXOPLANET | Planet orbiting a star beyond our solar system
+METABOLISM | Chemical processes that sustain living things
+MICROBE | Microscopic living organism
+ORGANIC | Containing carbon, often used in life chemistry
+ATMOSPHERE | Layer of gases around a planet
+OCEAN | Large body of salt water
+METHANE | Simple carbon-based gas found on some worlds
+EXTINCTION | End of a species
+SOLVENT | Liquid able to dissolve another substance
+ASTROBIOLOGY | Study of life in the universe

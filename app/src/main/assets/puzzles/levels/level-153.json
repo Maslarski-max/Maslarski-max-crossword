@@ -1,0 +1,41 @@
+{
+  "id": "level-153",
+  "title": "Silk Road",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#K######P#####",
+    "#A######O#####",
+    "#S#S####R####N",
+    "#H#A#MARCOPOLO",
+    "#G#M#E##E####M",
+    "BAZAAR##L#J##A",
+    "#R#R#CARAVAN#D",
+    "###K#H##I#D###",
+    "##CARAVANSERAI",
+    "###N#N###P####",
+    "###D#T##SILK##",
+    "#########C####",
+    "######CAMEL###"
+  ],
+  "clues": {
+    "across": {
+      "5": "Venetian who reached China",
+      "6": "Market in the Middle East",
+      "8": "Travelling group of traders",
+      "9": "Roadside inn for traders",
+      "11": "Fabric that named the route",
+      "12": "Beast of burden in the desert"
+    },
+    "down": {
+      "1": "Oasis city in western China",
+      "2": "Fine white ceramic",
+      "3": "Uzbek trading city",
+      "4": "Wandering herder",
+      "5": "Trader",
+      "7": "Prized green stone",
+      "10": "Valuable seasoning traded west"
+    }
+  },
+  "order": 153
+}

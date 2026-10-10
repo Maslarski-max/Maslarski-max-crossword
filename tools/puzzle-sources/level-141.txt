@@ -1,0 +1,19 @@
+id: level-141
+title: Shopping Mall
+difficulty: EASY
+order: 141
+type: level
+size: 11
+seed: 141
+---
+SHOP | Place that sells things
+MONEY | What you pay with
+BAG | Carry your buys in it
+SALE | Time of cheap prices
+LIFT | It goes up and down floors
+CAFE | Place for a coffee break
+SHOES | Footwear store item
+TOYS | Things children play with
+PRICE | Cost on the label
+CINEMA | Place to watch films
+ESCALATOR | Moving staircase

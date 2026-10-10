@@ -1,0 +1,21 @@
+id: level-296
+title: Stellar Evolution
+difficulty: HARD
+order: 296
+type: level
+size: 15
+seed: 296
+---
+NEBULA | Cloud of gas and dust where stars may form
+PROTOSTAR | Young object forming before stable star life
+FUSION | Joining of light nuclei inside a star
+SUPERNOVA | Powerful explosion at the end of some stars
+WHITEDWARF | Dense remnant of a low-mass star
+REDSHIFT | Shift of light toward longer wavelengths
+LUMINOSITY | Total energy a star emits each second
+SPECTRUM | Spread of light by wavelength
+GIANT | Very large evolved star
+HYDROGEN | Lightest element and common stellar fuel
+HELIUM | Element made by fusion in many stars
+NEUTRON | Uncharged particle found in dense stellar remnants
+EVOLUTION | Change through stages over time

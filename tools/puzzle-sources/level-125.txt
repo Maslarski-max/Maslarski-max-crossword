@@ -1,0 +1,20 @@
+id: level-125
+title: Tea Time
+difficulty: MEDIUM
+order: 125
+type: level
+size: 13
+seed: 125
+---
+TEAPOT | Vessel for brewing
+SAUCER | Small plate under a cup
+SCONE | Baked treat with jam and cream
+KETTLE | Boils the water
+BISCUIT | Something to dunk
+EARLGREY | Tea flavoured with bergamot
+SUGAR | Sweetener in lumps
+INFUSER | Holder for loose leaves
+MILK | Added to make it white
+CREAM | Clotted topping
+STRAINER | Catches stray leaves
+OOLONG | Partly oxidised Chinese tea

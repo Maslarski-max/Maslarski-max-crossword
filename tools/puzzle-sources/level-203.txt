@@ -1,0 +1,20 @@
+id: level-203
+title: Castle Builders
+difficulty: MEDIUM
+order: 203
+type: level
+size: 13
+seed: 203
+---
+MASON | Craft worker who builds with stone
+MOAT | Deep ditch surrounding a fortification
+KEEP | Strong central tower of a castle
+BATTLEMENT | Defensive wall with gaps for protection
+MORTAR | Mixture that binds bricks or stones
+DRAWBRIDGE | Bridge that can be raised over a moat
+GATEHOUSE | Guarded entrance building
+TURRET | Small tower projecting from a wall
+COURTYARD | Open space enclosed by buildings
+RAMPART | Defensive bank or wall
+ARCHWAY | Curved opening through a wall
+FORTRESS | Strong building designed for defence

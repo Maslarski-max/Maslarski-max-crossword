@@ -1,0 +1,40 @@
+{
+  "id": "level-228",
+  "title": "Polar Research Camp",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##DRILL#####S",
+    "###E########L",
+    "###SNOWMOBILE",
+    "###E#####L##D",
+    "###A#####I##G",
+    "###R##T##Z##E",
+    "ICECORE##Z#G#",
+    "#O#H##N##A#L#",
+    "#M#E##THERMAL",
+    "#PARKA###D#C#",
+    "#A#########I#",
+    "#S#########E#",
+    "#SAMPLE####R#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Tool for making a hole in ice",
+      "4": "Vehicle that travels over snow",
+      "7": "Cylinder drilled from a sheet of ice",
+      "10": "Designed to retain body heat",
+      "11": "Warm outer coat for cold conditions",
+      "12": "Small amount collected for study"
+    },
+    "down": {
+      "2": "Person who carries out a scientific study",
+      "3": "Runner vehicle pulled over snow",
+      "5": "Severe snowstorm with strong winds",
+      "6": "Fabric shelter used in the field",
+      "8": "Tool that shows direction",
+      "9": "Slow-moving mass of ice on land"
+    }
+  },
+  "order": 228
+}

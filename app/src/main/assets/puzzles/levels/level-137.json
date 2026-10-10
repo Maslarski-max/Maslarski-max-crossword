@@ -1,0 +1,36 @@
+{
+  "id": "level-137",
+  "title": "Bedtime",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "######STORY",
+    "##LAMP#E##A",
+    "#P###Y#D##W",
+    "#I#B#J#D##N",
+    "#LULLABY###",
+    "#L#A#M###D#",
+    "MOON#A###R#",
+    "#W#K#SNORE#",
+    "###E#####A#",
+    "###T#####M#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Tale read aloud before sleep",
+      "4": "Light by the bed",
+      "8": "Soothing song for a baby",
+      "10": "Shines at night",
+      "11": "Noisy sleep sound"
+    },
+    "down": {
+      "2": "Cuddly bear",
+      "3": "Big sleepy mouth",
+      "5": "Clothes for sleeping",
+      "6": "Soft rest for your head",
+      "7": "Warm bed cover",
+      "9": "Story in your sleep"
+    }
+  },
+  "order": 137
+}

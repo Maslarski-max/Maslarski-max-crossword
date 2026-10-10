@@ -1,0 +1,36 @@
+{
+  "id": "level-190",
+  "title": "At the Dentist",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###F###B#",
+    "DRILL##R#",
+    "###O#XRAY",
+    "GUMS###C#",
+    "###SMILE#",
+    "#T##I##S#",
+    "MOLAR####",
+    "#O##RINSE",
+    "#T##O####",
+    "CHAIR####"
+  ],
+  "clues": {
+    "across": {
+      "3": "Dentist's tool for removing decay",
+      "4": "Image that can show a hidden cavity",
+      "5": "Soft tissue around the teeth",
+      "6": "Happy expression showing the teeth",
+      "9": "Broad back tooth for chewing",
+      "10": "Swish liquid around the mouth",
+      "11": "Seat that tilts for a checkup"
+    },
+    "down": {
+      "1": "Thin thread for cleaning between teeth",
+      "2": "Wires that help straighten teeth",
+      "7": "Small tool used to see inside the mouth",
+      "8": "Hard part used for biting food"
+    }
+  },
+  "order": 190
+}

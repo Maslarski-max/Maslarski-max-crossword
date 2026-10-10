@@ -1,0 +1,37 @@
+{
+  "id": "level-112",
+  "title": "Pizza Night",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "M#####D#P##",
+    "U#####OVEN#",
+    "SLICE#U#P##",
+    "H##R##G#P##",
+    "R##U#CHEESE",
+    "O##S####R##",
+    "O##TOMATO##",
+    "M###L###N##",
+    "#BASIL##I##",
+    "#O##V######",
+    "#X##E######"
+  ],
+  "clues": {
+    "across": {
+      "4": "Hot box where it bakes",
+      "5": "One triangle of the pie",
+      "7": "Melted topping, often mozzarella",
+      "8": "Red sauce ingredient",
+      "10": "Green herb on a margherita"
+    },
+    "down": {
+      "1": "Fungus topping",
+      "2": "Stretchy base before baking",
+      "3": "Spicy sausage topping",
+      "6": "Crunchy edge of the pizza",
+      "9": "Small black or green topping",
+      "10": "Cardboard delivery carrier"
+    }
+  },
+  "order": 112
+}

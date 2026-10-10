@@ -1,0 +1,19 @@
+id: level-216
+title: Post Office
+difficulty: EASY
+order: 216
+type: level
+size: 11
+seed: 216
+---
+LETTER | Written message sent in an envelope
+STAMP | Small label that pays for postage
+MAIL | Letters and parcels delivered to homes
+ENVELOPE | Paper cover for a letter
+PARCEL | Wrapped package sent to someone
+POSTCARD | Card with a picture and short message
+ADDRESS | Details showing where a person lives
+CLERK | Worker who serves customers at a counter
+QUEUE | Line of people waiting
+PEN | Tool used for writing
+SEND | Arrange for a letter to travel

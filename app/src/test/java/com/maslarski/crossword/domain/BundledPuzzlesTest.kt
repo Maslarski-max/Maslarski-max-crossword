@@ -21,7 +21,7 @@ class BundledPuzzlesTest {
     @Test
     fun `levels parse and span every difficulty`() {
         val levels = load("levels", PuzzleType.LEVEL)
-        assertTrue("expected at least 100 levels, found ${levels.size}", levels.size >= 100)
+        assertTrue("expected at least 300 levels, found ${levels.size}", levels.size >= 300)
         assertEquals(Difficulty.entries.toSet(), levels.map { it.difficulty }.toSet())
         assertEquals(levels.size, levels.map { it.order }.toSet().size)
     }

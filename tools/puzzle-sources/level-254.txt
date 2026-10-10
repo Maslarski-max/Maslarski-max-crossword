@@ -1,0 +1,20 @@
+id: level-254
+title: Weather Satellites
+difficulty: MEDIUM
+order: 254
+type: level
+size: 13
+seed: 254
+---
+SATELLITE | Object orbiting Earth to observe cloud systems
+POLAR | Relating to the regions near either pole
+IMAGER | Instrument that records pictures
+INFRARED | Invisible radiation beyond red light
+VISIBLE | Able to be seen by the eye
+CLOUDTOP | Highest surface of a cloud
+CHANNEL | Range of wavelengths measured by a sensor
+FORECAST | Estimate of future weather conditions
+ORBIT | Path followed around a planet
+LAUNCH | Send a spacecraft into flight
+ANTENNA | Device that transmits or receives signals
+DOWNLINK | Transfer of data from a spacecraft to Earth

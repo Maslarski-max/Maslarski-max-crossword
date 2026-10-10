@@ -1,0 +1,19 @@
+id: level-191
+title: Farm Harvest
+difficulty: EASY
+order: 191
+type: level
+size: 11
+seed: 191
+---
+WHEAT | Grain ground to make flour
+CORN | Tall crop with kernels on a cob
+PLOW | Tool that turns soil before planting
+SILO | Tall farm building for storing grain
+FIELD | Land used to grow crops
+SHEAF | Bundle of cut grain stalks
+TRACTOR | Farm vehicle used to pull equipment
+PUMPKIN | Large orange squash picked in autumn
+APPLE | Crisp fruit that grows on a tree
+ORCHARD | Group of fruit trees grown together
+CROP | Plants grown for food or materials

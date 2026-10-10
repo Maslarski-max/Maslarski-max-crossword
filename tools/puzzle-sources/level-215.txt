@@ -1,0 +1,21 @@
+id: level-215
+title: Classical Myth Cycles
+difficulty: HARD
+order: 215
+type: level
+size: 15
+seed: 215
+---
+ODYSSEUS | Greek hero who journeyed home from Troy
+ACHILLES | Greek warrior with a vulnerable heel
+HECTOR | Trojan prince who defended his city
+PENELOPE | Wife who waited for Odysseus
+CASSANDRA | Trojan prophet whose warnings went unheeded
+ARIADNE | Princess who helped Theseus escape a maze
+ORACLE | Person or place giving a sacred prediction
+LABYRINTH | Maze built for the Minotaur
+NEMESIS | Greek goddess associated with retribution
+AMBROSIA | Food of the Greek gods
+OLYMPUS | Mountain regarded as home of Greek gods
+AEGEAN | Sea between Greece and Anatolia
+MYTHOLOGY | Collection of traditional sacred stories

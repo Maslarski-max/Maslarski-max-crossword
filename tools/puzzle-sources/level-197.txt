@@ -1,0 +1,19 @@
+id: level-197
+title: Soccer Practice
+difficulty: EASY
+order: 197
+type: level
+size: 11
+seed: 197
+---
+SOCCER | Team sport played by kicking a ball
+GOAL | Target made by two posts and a bar
+KICK | Strike a ball with the foot
+PASS | Send the ball to a teammate
+TEAM | Players working together
+COACH | Person who teaches players
+CLEATS | Shoes with studs for grip
+DRIBBLE | Move the ball with repeated small kicks
+WHISTLE | Sharp signal blown by a referee
+FIELD | Grass area where a match is played
+SCORE | Number of points made by a team

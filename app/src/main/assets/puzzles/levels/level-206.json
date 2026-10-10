@@ -1,0 +1,40 @@
+{
+  "id": "level-206",
+  "title": "River Expedition",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####COMPASS##",
+    "####U#####H##",
+    "####R#####O##",
+    "#C##R##W##A##",
+    "CANOE#PADDLE#",
+    "#M##N##T#####",
+    "#PORTAGE#####",
+    "#S#A###R#D###",
+    "#I#P###F#RAFT",
+    "#TRIBUTARY###",
+    "#E#D###L#B###",
+    "#######L#A###",
+    "#########G###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Tool that indicates direction",
+      "5": "Narrow boat propelled with a paddle",
+      "6": "Blade used to move a small boat",
+      "7": "Carry a boat and gear around an obstacle",
+      "10": "Flat floating platform for a river trip",
+      "11": "Stream that joins a larger river"
+    },
+    "down": {
+      "1": "Flow of water in a river",
+      "2": "Shallow area in a river",
+      "3": "Place to pitch a tent overnight",
+      "4": "River drop over a steep edge",
+      "8": "Fast section of rough water",
+      "9": "Waterproof sack for keeping gear dry"
+    }
+  },
+  "order": 206
+}

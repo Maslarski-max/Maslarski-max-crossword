@@ -1,0 +1,39 @@
+{
+  "id": "level-227",
+  "title": "Beekeeping Basics",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#####H#######",
+    "F##A#O#######",
+    "R##P#NECTAR##",
+    "A#HIVE#######",
+    "M##A#Y#W#####",
+    "EXTRACTOR####",
+    "###Y#O#R#####",
+    "####SMOKER##Q",
+    "#####B#E##V#U",
+    "######DRONE#E",
+    "##########I#E",
+    "#######POLLEN"
+  ],
+  "clues": {
+    "across": {
+      "4": "Sweet liquid collected from flowers",
+      "5": "Home made by a bee colony",
+      "7": "Machine that spins honey from comb",
+      "8": "Tool that calms bees with cool smoke",
+      "11": "Male bee in a colony",
+      "12": "Fine powder carried between flowers"
+    },
+    "down": {
+      "1": "Wax cells built by bees",
+      "2": "Removable support for comb inside a hive",
+      "3": "Place where beehives are kept",
+      "6": "Female bee that gathers nectar",
+      "9": "Egg-laying female in a colony",
+      "10": "Net covering a beekeeper's face"
+    }
+  },
+  "order": 227
+}

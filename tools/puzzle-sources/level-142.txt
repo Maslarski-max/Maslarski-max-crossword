@@ -1,0 +1,21 @@
+id: level-142
+title: Rocket Science
+difficulty: MEDIUM
+order: 142
+type: level
+size: 13
+seed: 142
+---
+THRUST | Force that pushes a rocket
+FUEL | What the rocket burns
+ORBIT | Path around a planet
+GRAVITY | Pull toward the earth
+LAUNCHPAD | Platform for lift-off
+COUNTDOWN | Ten, nine, eight...
+CAPSULE | Crew compartment
+BOOSTER | Extra rocket strapped on
+NOZZLE | Exhaust opening
+ASTRONAUT | Space traveller
+SATELLITE | Object circling the earth
+VELOCITY | Speed in a direction
+REENTRY | Return through the atmosphere

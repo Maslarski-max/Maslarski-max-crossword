@@ -1,0 +1,21 @@
+id: level-238
+title: Renaissance Architecture
+difficulty: HARD
+order: 238
+type: level
+size: 15
+seed: 238
+---
+PALLADIAN | Relating to a style inspired by Andrea Palladio
+COLONNADE | Row of columns supporting a roof
+PEDIMENT | Triangular upper part above a classical portico
+PILASTER | Shallow rectangular column attached to a wall
+BALUSTRADE | Row of small supports beneath a handrail
+ENTABLATURE | Horizontal structure above a row of columns
+SYMMETRY | Balanced arrangement of corresponding parts
+DOME | Rounded roof over a building
+PORTICO | Covered entrance supported by columns
+PROPORTION | Relationship between the sizes of parts
+CLASSICAL | Based on ancient Greek or Roman design
+FACADE | Front face of a building
+ARCHITECT | Person who designs buildings

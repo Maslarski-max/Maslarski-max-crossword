@@ -1,0 +1,37 @@
+{
+  "id": "level-217",
+  "title": "Magic Show",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####M###",
+    "###STAGE#",
+    "#####G#S#",
+    "##W##I#C#",
+    "#HAT#CLAP",
+    "R#N####P#",
+    "AUDIENCE#",
+    "B#####A##",
+    "B##SCARF#",
+    "I#####D##",
+    "TRICK####"
+  ],
+  "clues": {
+    "across": {
+      "2": "Place where a show is performed",
+      "5": "Headwear used in a famous magic trick",
+      "6": "Make a sound by striking the hands",
+      "8": "People watching a performance",
+      "10": "Long strip of cloth used in a trick",
+      "11": "Clever act that surprises an audience"
+    },
+    "down": {
+      "1": "Tricks that seem impossible",
+      "3": "Get free from a locked place",
+      "4": "Slender stick used by a magician",
+      "7": "Animal sometimes pulled from a hat",
+      "9": "Playing piece used for a guessing trick"
+    }
+  },
+  "order": 217
+}

@@ -1,0 +1,19 @@
+id: level-111
+title: Rainbow Colours
+difficulty: EASY
+order: 111
+type: level
+size: 11
+seed: 111
+---
+RED | Colour of a ripe strawberry
+ORANGE | Colour of a pumpkin
+YELLOW | Colour of a canary
+GREEN | Colour of fresh grass
+BLUE | Colour of a clear sky
+INDIGO | Deep colour between blue and violet
+VIOLET | Purple flower and colour
+RAIN | Water falling from clouds
+SUN | It shines to make a rainbow
+ARC | Curved shape of a rainbow
+PRISM | Glass that splits light into colours

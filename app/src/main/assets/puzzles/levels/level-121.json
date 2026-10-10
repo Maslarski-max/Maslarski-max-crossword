@@ -1,0 +1,40 @@
+{
+  "id": "level-121",
+  "title": "Medieval Village",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "######W######",
+    "##MILLER####S",
+    "######L###T#Q",
+    "#####PLOUGH#U",
+    "##########A#I",
+    "CHAPEL#JESTER",
+    "###E######C#E",
+    "#BLACKSMITH##",
+    "###S###A#I###",
+    "##TAVERN#T###",
+    "###N###O#H###",
+    "###T#MARKET##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Grinds grain into flour",
+      "5": "Farm tool pulled by oxen",
+      "6": "Small place of worship",
+      "8": "Court entertainer with bells",
+      "9": "Worker at the anvil",
+      "12": "Inn serving ale",
+      "13": "Weekly trading square"
+    },
+    "down": {
+      "1": "Village water source",
+      "3": "Knight's attendant",
+      "4": "Straw roof covering",
+      "7": "Poor farm worker",
+      "10": "Lord's estate house",
+      "11": "Tenth given to the church"
+    }
+  },
+  "order": 121
+}

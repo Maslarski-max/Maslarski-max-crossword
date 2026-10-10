@@ -1,0 +1,43 @@
+{
+  "id": "level-154",
+  "title": "Neuroscience",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#SYNAPSE#####",
+    "#####L#######",
+    "#####A#CORTEX",
+    "#####S#E#E###",
+    "#S###T#R#F###",
+    "DENDRITE#LOBE",
+    "#R###C#B#E###",
+    "DOPAMINE#X###",
+    "#T###T#L#####",
+    "#O##MYELIN###",
+    "#N#####U#E###",
+    "HIPPOCAMPUS##",
+    "#N#######R###",
+    "#########O###",
+    "######AXON###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Gap between nerve cells",
+      "3": "Outer layer of the brain",
+      "6": "Branch receiving signals",
+      "7": "Section of the brain",
+      "8": "Reward chemical",
+      "9": "Fatty insulating sheath",
+      "11": "Memory structure",
+      "12": "Fibre carrying signals away"
+    },
+    "down": {
+      "2": "Brain's ability to rewire",
+      "3": "Balance centre of the brain",
+      "4": "Automatic response",
+      "5": "Mood-regulating chemical",
+      "10": "Nerve cell"
+    }
+  },
+  "order": 154
+}

@@ -1,0 +1,40 @@
+{
+  "id": "level-170",
+  "title": "Volunteer Crew",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##########C##",
+    "#S#OUTREACH##",
+    "#H########A##",
+    "#E########R##",
+    "#L###SUPPLIES",
+    "#T###E####T#U",
+    "HELPER####Y#P",
+    "#R#A#V###D##P",
+    "###NEIGHBOR#O",
+    "###T#C###N##R",
+    "#GARDEN##A##T",
+    "###Y#####T###",
+    "####KINDNESS#"
+  ],
+  "clues": {
+    "across": {
+      "3": "Effort to connect with a community",
+      "4": "Useful items gathered for a project",
+      "6": "Person who gives assistance",
+      "9": "Person living nearby",
+      "10": "Shared plot where neighbours grow plants",
+      "11": "Caring action toward another person"
+    },
+    "down": {
+      "1": "Group that helps people or animals",
+      "2": "Safe place for people in need",
+      "4": "Work done to benefit others",
+      "5": "Help given to a person or cause",
+      "7": "Store of food for a community",
+      "8": "Give money or goods to help"
+    }
+  },
+  "order": 170
+}

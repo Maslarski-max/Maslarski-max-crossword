@@ -1,0 +1,19 @@
+id: level-250
+title: Roadside Diner
+difficulty: EASY
+order: 250
+type: level
+size: 11
+seed: 250
+---
+DINER | Casual restaurant often near a highway
+MENU | List of meals a restaurant serves
+BOOTH | Bench seating beside a small table
+PIE | Baked dessert with a crust
+SHAKE | Cold drink mixed until foamy
+COFFEE | Dark drink brewed from roasted beans
+WAITER | Worker who brings food to a table
+BILL | Paper showing how much a meal costs
+NAPKIN | Cloth or paper used to wipe the mouth
+FRIES | Potato strips cooked in hot oil
+COUNTER | Long worktop where customers may sit

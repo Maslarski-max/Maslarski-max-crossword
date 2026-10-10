@@ -1,0 +1,43 @@
+{
+  "id": "level-133",
+  "title": "Orchestra Pit",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######C#T#####",
+    "#####VIOLIN##O#",
+    "#######N#M###V#",
+    "#######D#P###E#",
+    "###H###U#A#C#R#",
+    "###A###CONCERTO",
+    "CLARINET#I#L#U#",
+    "###P###O###L#R#",
+    "######TROMBONE#",
+    "##########A####",
+    "##########S####",
+    "##########SCORE",
+    "##########O#B##",
+    "######PICCOLO##",
+    "##########N#E##"
+  ],
+  "clues": {
+    "across": {
+      "3": "Highest bowed string",
+      "7": "Work for soloist and orchestra",
+      "8": "Single-reed woodwind",
+      "9": "Brass with a slide",
+      "11": "Written music for all parts",
+      "13": "Small high flute"
+    },
+    "down": {
+      "1": "Leader with a baton",
+      "2": "Kettle drums",
+      "4": "Opening instrumental piece",
+      "5": "Plucked strings in a frame",
+      "6": "Seated bowed string instrument",
+      "10": "Low double-reed woodwind",
+      "12": "Double-reed woodwind"
+    }
+  },
+  "order": 133
+}

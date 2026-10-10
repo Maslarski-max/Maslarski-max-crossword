@@ -1,0 +1,19 @@
+id: level-190
+title: At the Dentist
+difficulty: EASY
+order: 190
+type: level
+size: 11
+seed: 190
+---
+TOOTH | Hard part used for biting food
+MOLAR | Broad back tooth for chewing
+GUMS | Soft tissue around the teeth
+FLOSS | Thin thread for cleaning between teeth
+BRACES | Wires that help straighten teeth
+MIRROR | Small tool used to see inside the mouth
+DRILL | Dentist's tool for removing decay
+RINSE | Swish liquid around the mouth
+SMILE | Happy expression showing the teeth
+XRAY | Image that can show a hidden cavity
+CHAIR | Seat that tilts for a checkup

@@ -1,0 +1,19 @@
+id: level-135
+title: Train Set
+difficulty: EASY
+order: 135
+type: level
+size: 11
+seed: 135
+---
+ENGINE | Front car that pulls
+TRACK | Rails the train runs on
+STATION | Where passengers wait
+TUNNEL | Dark passage through a hill
+WHISTLE | Toot-toot sound
+CARRIAGE | Car for passengers
+DRIVER | Person in the cab
+STEAM | Old engines puffed it
+SIGNAL | Light telling trains to stop or go
+BRIDGE | It carries the line over water
+WHEEL | Round part on the rail

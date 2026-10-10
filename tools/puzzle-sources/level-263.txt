@@ -1,0 +1,21 @@
+id: level-263
+title: Cell Signaling
+difficulty: HARD
+order: 263
+type: level
+size: 15
+seed: 263
+---
+RECEPTOR | Cell protein that detects a signal
+LIGAND | Molecule that binds to a receptor
+CASCADE | Series of linked reactions
+KINASE | Enzyme that adds a phosphate group
+PHOSPHATE | Group transferred in many cell reactions
+MESSENGER | Molecule carrying information inside a cell
+CYTOPLASM | Material filling the inside of a cell
+MEMBRANE | Thin barrier surrounding a cell
+SIGNAL | Information that triggers a cellular response
+PATHWAY | Chain of reactions inside a cell
+HORMONE | Chemical messenger made by the body
+PROTEIN | Molecule built from amino acids
+AMPLIFY | Increase the strength of a signal

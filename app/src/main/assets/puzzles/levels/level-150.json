@@ -1,0 +1,41 @@
+{
+  "id": "level-150",
+  "title": "Sculpture",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######P###P###",
+    "###MARBLE##A##R",
+    "#######I###T##E",
+    "##A#M##N#CHISEL",
+    "TERRACOTTA#N##I",
+    "##M#Q##H#STATUE",
+    "##A#U####T####F",
+    "##T#E####I#####",
+    "#BUST#BRONZE###",
+    "##R#T##O#G#####",
+    "##E#E##D#######",
+    "#######I#######",
+    "#######N#######"
+  ],
+  "clues": {
+    "across": {
+      "3": "Classic white stone",
+      "7": "Carving tool",
+      "8": "Fired clay",
+      "9": "Full figure carving",
+      "10": "Head-and-shoulders sculpture",
+      "11": "Cast metal alloy"
+    },
+    "down": {
+      "1": "Base for a statue",
+      "2": "Surface sheen from age",
+      "4": "Carving raised from a flat surface",
+      "5": "Inner frame for clay",
+      "6": "Small preliminary model",
+      "7": "Pouring metal into a mould",
+      "12": "Sculptor of The Thinker"
+    }
+  },
+  "order": 150
+}

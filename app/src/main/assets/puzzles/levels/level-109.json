@@ -1,0 +1,37 @@
+{
+  "id": "level-109",
+  "title": "Zoo Visit",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "H#L########",
+    "I#I###M###T",
+    "P#O###OWL#I",
+    "PENGUIN###G",
+    "O##I##K###E",
+    "#Z#R#KEEPER",
+    "#E#A##Y#A##",
+    "#B#F####N##",
+    "#R#F####D##",
+    "CAMEL#SEAL#"
+  ],
+  "clues": {
+    "across": {
+      "5": "Night bird that hoots",
+      "6": "Bird in a tuxedo that cannot fly",
+      "9": "Person who feeds the zoo animals",
+      "11": "Desert animal with humps",
+      "12": "Flippered animal that claps"
+    },
+    "down": {
+      "1": "Huge river animal with a wide mouth",
+      "2": "King of the jungle",
+      "3": "Banana-loving climber",
+      "4": "Big cat with orange stripes",
+      "7": "Tallest animal on land",
+      "8": "Striped horse of Africa",
+      "10": "Black-and-white bamboo eater"
+    }
+  },
+  "order": 109
+}

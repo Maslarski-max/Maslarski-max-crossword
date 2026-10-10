@@ -1,0 +1,36 @@
+{
+  "id": "level-197",
+  "title": "Soccer Practice",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#######P#W#",
+    "#####COACH#",
+    "##GOAL#S#I#",
+    "#####E#S#S#",
+    "###TEAM##T#",
+    "#F###T#S#L#",
+    "KICK#SOCCER",
+    "#E#####O###",
+    "#L#####R###",
+    "#DRIBBLE###"
+  ],
+  "clues": {
+    "across": {
+      "3": "Person who teaches players",
+      "4": "Target made by two posts and a bar",
+      "5": "Players working together",
+      "8": "Strike a ball with the foot",
+      "9": "Team sport played by kicking a ball",
+      "10": "Move the ball with repeated small kicks"
+    },
+    "down": {
+      "1": "Send the ball to a teammate",
+      "2": "Sharp signal blown by a referee",
+      "3": "Shoes with studs for grip",
+      "6": "Grass area where a match is played",
+      "7": "Number of points made by a team"
+    }
+  },
+  "order": 197
+}

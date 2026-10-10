@@ -1,0 +1,36 @@
+{
+  "id": "level-158",
+  "title": "Library Day",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "######Q###",
+    "#P#RETURN#",
+    "TALE##I###",
+    "#G#A##E###",
+    "LEND#STAMP",
+    "##O####U##",
+    "##V####T##",
+    "SHELF##H##",
+    "##L####O##",
+    "#####CARD#"
+  ],
+  "clues": {
+    "across": {
+      "3": "Take a borrowed book back",
+      "4": "Short story",
+      "5": "Let someone borrow something",
+      "7": "Mark showing when a book is due",
+      "9": "Board that holds books",
+      "10": "Small slip used to borrow a book"
+    },
+    "down": {
+      "1": "How a library should sound",
+      "2": "One side of a leaf in a book",
+      "3": "Look at words and understand them",
+      "6": "Long made-up story",
+      "8": "Person who writes a book"
+    }
+  },
+  "order": 158
+}

@@ -1,0 +1,403 @@
+=== Library Day | EASY
+SHELF | Board that holds books
+CARD | Small slip used to borrow a book
+NOVEL | Long made-up story
+AUTHOR | Person who writes a book
+PAGE | One side of a leaf in a book
+READ | Look at words and understand them
+QUIET | How a library should sound
+STAMP | Mark showing when a book is due
+RETURN | Take a borrowed book back
+TALE | Short story
+LEND | Let someone borrow something
+
+=== Art Supplies | EASY
+PAINT | Colour in a tube or pot
+BRUSH | Tool with bristles for painting
+CRAYON | Wax stick for drawing
+CANVAS | Cloth stretched for painting
+PALETTE | Board for mixing colours
+EASEL | Stand that holds a picture
+SKETCH | Quick simple drawing
+PAPER | Thin material for writing or drawing
+PASTEL | Soft stick of coloured chalk
+SMOCK | Shirt worn to protect clothes
+INK | Dark liquid used for writing
+
+=== Backyard Birds | EASY
+ROBIN | Red-breasted songbird common in gardens
+SPARROW | Small brown bird often near homes
+FINCH | Seed-eating bird with a short beak
+WREN | Tiny bird with a loud song
+CROW | Black bird known for clever behaviour
+FEATHER | Covering that helps a bird fly
+BEAK | Bird's hard mouth
+NEST | Home where birds lay eggs
+PERCH | Place where a bird rests
+WING | Body part used for flight
+FLOCK | Group of birds together
+
+=== School Science Fair | EASY
+BEAKER | Glass cup used in a lab
+MAGNET | Object that attracts iron
+PRISM | Glass shape that splits white light
+ATOM | Tiny building block of matter
+CELL | Smallest living unit
+FLASK | Narrow-necked lab vessel
+GOGGLES | Eye protection for experiments
+TEST | Check to learn how something works
+MODEL | Small copy used to explain an idea
+SCALE | Tool for measuring weight
+CHART | Picture that displays information
+
+=== Puppet Theatre | EASY
+PUPPET | Figure controlled by a performer
+STAGE | Raised place for a show
+STRING | Thin cord used to move a figure
+MASK | Face covering worn by a character
+ACTOR | Person who performs a role
+SCRIPT | Written words for a show
+CURTAIN | Cloth that opens before a play
+FELT | Soft cloth used to make a figure
+GLOVE | Hand covering used to operate a puppet
+VOICE | Sound made by a performer
+SHOW | Performance for an audience
+
+=== Construction Site | EASY
+CRANE | Tall machine that lifts heavy loads
+CEMENT | Powder mixed with water for building
+BRICKS | Blocks used to build a wall
+BEAM | Long strong piece that supports a roof
+LEVEL | Tool that checks if a surface is flat
+NAILS | Metal pins used to join wood
+TRUCK | Vehicle that carries building supplies
+HARDHAT | Protective cap worn at work
+VEST | Bright clothing that helps workers be seen
+PLANS | Drawings that guide a building project
+SITE | Place where a building is being made
+
+=== Nature Walk | EASY
+TRAIL | Path through the countryside
+LEAF | Flat green part of many plants
+ACORN | Nut that grows on an oak
+PINECONE | Seed case from a pine tree
+PEBBLE | Small smooth stone
+FERN | Plant with divided leafy fronds
+MOSS | Soft green growth on damp ground
+BARK | Rough outer covering of a tree
+STREAM | Small flowing body of water
+TWIG | Small thin branch
+BOOTS | Sturdy footwear for a walk
+
+=== Ballet Class | EASY
+TUTU | Short skirt worn by a ballet dancer
+BARRE | Rail used for warm-up exercises
+POINTE | Tip of a ballet shoe
+DANCER | Person who moves to music
+MUSIC | Organised sounds with rhythm
+SPIN | Turn around quickly
+LEAP | Jump high into the air
+POSE | Still position held by a performer
+SHOES | Footwear worn for a lesson
+CLASS | Group learning together
+BOW | Bend forward to greet an audience
+
+=== Cookie Decorating | EASY
+ICING | Sweet coating spread over a biscuit
+DOUGH | Mixture shaped before baking
+OVEN | Hot box used for baking
+SPRINKLE | Tiny sweet topping
+SUGAR | Sweet crystals used in baking
+FLOUR | Powder made by grinding grain
+TRAY | Flat pan for holding treats
+COOKIE | Small baked sweet
+ROLLER | Tool used to flatten dough
+CUTTER | Shape used to trim dough
+APRON | Cloth worn to keep clothes clean
+
+=== Family Road Trip | EASY
+MAP | Drawing that shows roads and places
+MOTEL | Lodging beside a highway
+SEATBELT | Strap that keeps a passenger secure
+SNACKS | Small bites eaten between meals
+ROUTE | Planned way from one place to another
+TRUNK | Car space for carrying bags
+LUGGAGE | Bags packed for a journey
+DRIVER | Person controlling the car
+MILES | Units used to measure a long journey
+RADIO | Device that plays broadcasts in a car
+RESTSTOP | Roadside place to take a break
+
+=== Sailboat Regatta | MEDIUM
+SAILOR | Crew member aboard a small boat
+RUDDER | Hinged blade used to steer
+MAST | Tall pole holding the sails
+JIB | Small triangular sail at the front
+TACKLE | Change direction by turning through the wind
+REGATTA | Series of boat races
+KEEL | Long structure along the bottom of a hull
+BUOY | Floating marker used on a course
+TILLER | Handle that moves the rudder
+LEEWARD | Side sheltered from the wind
+STARBOARD | Right side when facing the bow
+SPINNAKER | Large sail used with the wind behind
+
+=== Robotics Workshop | MEDIUM
+ROBOT | Machine that can carry out tasks
+SENSOR | Device that detects a change nearby
+MOTOR | Machine that creates movement
+CIRCUIT | Connected path for electric current
+CODING | Writing instructions for a computer
+WHEEL | Round part that rolls along a surface
+GEAR | Toothed part that transfers motion
+BATTERY | Stored source of electrical power
+JOINT | Moving connection between machine parts
+REMOTE | Handheld controller for a device
+PROTOTYPE | Early model built for testing
+AUTOMATE | Make a process work by itself
+
+=== Volunteer Crew | MEDIUM
+DONATE | Give money or goods to help
+SHELTER | Safe place for people in need
+PANTRY | Store of food for a community
+HELPER | Person who gives assistance
+SERVICE | Work done to benefit others
+SUPPORT | Help given to a person or cause
+CHARITY | Group that helps people or animals
+OUTREACH | Effort to connect with a community
+GARDEN | Shared plot where neighbours grow plants
+SUPPLIES | Useful items gathered for a project
+NEIGHBOR | Person living nearby
+KINDNESS | Caring action toward another person
+
+=== Boardwalk Arcade | MEDIUM
+ARCADE | Hall of coin-operated games
+PINBALL | Game with a silver ball and flippers
+JOYSTICK | Lever used to steer a game
+TOKEN | Small disc used instead of a coin
+PRIZE | Reward won in a game
+SKEEBALL | Rolling game with numbered target holes
+CABINET | Upright case holding an electronic game
+BUTTON | Part pressed to control a game
+SCORE | Points earned by a player
+TICKET | Paper slip exchanged for a reward
+RACER | Driving game played against a clock
+AIRHOCKEY | Table game played with a sliding puck
+
+=== Shipyard | MEDIUM
+HULL | Watertight body of a vessel
+DOCK | Structure where a vessel is tied up
+ANCHOR | Heavy hook lowered to hold a boat
+RIVET | Metal pin joining two plates
+WELDER | Worker who joins metal with heat
+BLUEPRINT | Detailed plan for a vessel
+PROPELLER | Spinning blades that push a boat
+CABIN | Small room aboard a vessel
+DECKHAND | Crew member who works on deck
+SHIPWRIGHT | Builder of wooden vessels
+LAUNCH | Put a newly built vessel into the water
+KEELSON | Strong beam fitted above a ship's keel
+
+=== Weather Station | MEDIUM
+BAROMETER | Instrument for measuring air pressure
+HYGROMETER | Instrument that measures moisture in air
+ANEMOMETER | Device that measures wind speed
+RAINGAUGE | Container used to measure rainfall
+FORECAST | Statement about expected weather
+ISOBAR | Line joining places with equal pressure
+FRONT | Boundary between two air masses
+CYCLONE | Large rotating storm system
+UPDRAFT | Rising current of air
+HUMIDITY | Amount of water vapour in the air
+RADAR | System that detects distant precipitation
+SATELLITE | Object in orbit used to observe weather
+
+=== Dinosaur Dig | MEDIUM
+FOSSIL | Preserved remains or trace of ancient life
+GEOLOGIST | Scientist who studies Earth's rocks and ancient history
+TROWEL | Small hand tool for careful digging
+BRUSH | Soft tool used to clear loose dirt
+SEDIMENT | Material that settles in layers
+TRILOBITE | Ancient marine animal with a segmented shell
+AMMONITE | Coiled fossil from an extinct sea creature
+DINOSAUR | Reptile that lived long ago
+MUSEUM | Place where important objects are displayed
+SPECIMEN | Single example collected for study
+FIELDWORK | Research carried out outdoors
+BEDROCK | Solid rock beneath loose soil
+
+=== Space Mission | MEDIUM
+MISSION | Planned journey with a specific goal
+CAPSULE | Compact craft carrying astronauts
+ORBITER | Spacecraft that circles a celestial body
+LANDER | Craft designed to touch down on a world
+TELEMETRY | Automatic sending of measurement data
+THRUSTER | Small engine that changes a craft's motion
+DOCKING | Joining two spacecraft in orbit
+MODULE | Separate section of a larger spacecraft
+ANTENNA | Device that sends or receives signals
+ECLIPSE | One celestial body blocks another from view
+PAYLOAD | Equipment carried for a mission
+TRAJECTORY | Curved path followed by a moving object
+
+=== Farmers Market | MEDIUM
+STALLHOLDER | Person who sells goods at a market
+HARVEST | Crops gathered when they are ripe
+TURNIP | Round root vegetable with a pale top
+RADISH | Crisp root with a peppery taste
+PARSLEY | Leafy herb used as a garnish
+CHUTNEY | Spiced fruit or vegetable relish
+HAGGLE | Bargain over a price
+CRATE | Open box used to carry produce
+ORGANIC | Grown without most synthetic farm chemicals
+BUNCH | Group of vegetables tied together
+PRESERVE | Fruit cooked and stored for later
+WEIGH | Find how heavy something is
+
+=== Sound Recording Studio | MEDIUM
+MICROPHONE | Device that turns sound waves into an electrical signal
+MIXER | Console for balancing several audio sources
+TRACK | Separate recorded part in a song
+STUDIO | Room designed for recording
+HEADPHONE | Device worn over the ears to hear audio
+ECHO | Repeated sound caused by reflection
+LEVEL | Strength of a recorded signal
+EDIT | Change a recording by cutting or moving parts
+WAVEFORM | Visual representation of a sound signal
+PLAYBACK | Listening to an existing recording
+BOOTH | Small enclosed room for recording
+CABLE | Insulated wire linking audio equipment
+
+=== Chocolate Chemistry | MEDIUM
+CACAO | Seed used to make chocolate
+COCOA | Powder made from roasted cacao beans
+TEMPER | Carefully heat and cool melted chocolate
+MELT | Change from a solid into a liquid
+COCOABUTTER | Fat extracted from cacao beans
+EMULSION | Mixture of liquids that do not usually combine
+CRYSTAL | Solid with an ordered internal structure
+SUGAR | Sweet crystals used in chocolate
+GANACHE | Mixture of chocolate and cream
+CONCHE | Machine used to mix and smooth chocolate
+VISCOSITY | Resistance of a fluid to flowing
+FLAVOUR | Taste and smell quality of a food
+
+=== Rainforest River | HARD
+TRIBUTARY | Smaller stream that flows into a larger river
+MEANDER | Bend in the course of a river
+FLOODPLAIN | Flat land beside a river that may flood
+ESTUARY | Coastal waterway where river water meets the sea
+SEDIMENT | Particles carried and deposited by water
+OXBOW | Curved lake cut off from a river bend
+WATERSHED | Land area drained by a river system
+ALLUVIUM | Soil deposited by flowing water
+RAPIDS | Fast turbulent stretches of a river
+VAPOUR | Gas form of water
+CANOPY | Upper leafy layer of a forest
+BIODIVERSITY | Variety of living things in an area
+EVAPORATION | Change from liquid water into gas
+
+=== Ancient China | HARD
+DYNASTY | Family line that rules for generations
+MANDARIN | Official language based on northern Chinese speech
+CALLIGRAPHY | Decorative art of handwriting
+PAGODA | Tall tiered tower found in East Asia
+PORCELAIN | Hard white ceramic fired at high heat
+SILK | Fine thread made by a larva
+CONFUCIUS | Chinese teacher whose ideas shaped ethics
+TERRACOTTA | Fired clay used for the emperor's army figures
+JADE | Hard ornamental stone prized in China
+BUREAUCRAT | Official who works in government administration
+COMPASS | Direction-finding tool developed in ancient China
+ABACUS | Bead frame used for arithmetic
+WOODBLOCK | Carved block used to print a page
+
+=== Deep Sea Research | HARD
+ABYSSAL | Relating to the ocean's deepest regions
+HADAL | Relating to the deepest ocean trenches
+SUBMERSIBLE | Small craft that travels underwater
+SONAR | Method that uses sound to detect objects underwater
+LUMINESCENCE | Light emitted without high temperature
+HYDROTHERMAL | Relating to hot water from Earth's interior
+PRESSURE | Force exerted by the surrounding water
+VENT | Opening in the seafloor where hot fluid escapes
+BATHYSCAPHE | Deep-diving vessel for ocean exploration
+PLANKTON | Tiny organisms drifting in water
+TRENCH | Long, narrow depression in the seafloor
+CRUSTACEAN | Animal group that includes crabs and shrimp
+OCEANOGRAPHY | Scientific study of the sea
+
+=== Arctic Ecosystems | HARD
+PERMAFROST | Ground that stays frozen for at least two years
+TUNDRA | Treeless region with a cold climate
+LICHEN | Partnership of fungus and algae growing on rock
+CARIBOU | Northern deer known as reindeer in Eurasia
+MIGRATION | Seasonal movement from one region to another
+MELTWATER | Water released as snow or ice melts
+BLUBBER | Thick fat layer that insulates some sea mammals
+ICEBERG | Large piece of floating freshwater ice
+POLYNYA | Open water surrounded by sea ice
+KRILL | Small drifting crustacean eaten by whales
+ALBEDO | Fraction of sunlight a surface reflects
+HABITAT | Natural home of a plant or animal
+FOODWEB | Network of feeding relationships in an ecosystem
+
+=== Orbital Mechanics | HARD
+APOGEE | Point in an orbit farthest from Earth
+PERIGEE | Point in an orbit nearest to Earth
+ECCENTRICITY | Measure of how stretched an orbit is
+INCLINATION | Tilt of an orbit compared with a reference plane
+PRECESSION | Slow change in the direction of an orbit's axis
+GRAVITY | Attraction between objects with mass
+VELOCITY | Speed together with a direction
+ESCAPE | Motion that overcomes a body's gravitational pull
+ELLIPSE | Oval curve followed by many orbiting bodies
+SATELLITE | Object that travels around a larger body
+LAGRANGE | Name for a special point in a two-body system
+ORBITAL | Relating to a path around a body
+PERTURBATION | Small change to an object's expected motion
+
+=== Early Photography | HARD
+DAGUERREOTYPE | Early photograph made on a silver-coated plate
+CALOTYPE | Paper-based photographic process invented by Talbot
+NEGATIVE | Image with light and dark tones reversed
+EMULSION | Light-sensitive coating on photographic film
+APERTURE | Opening that controls light entering a camera
+EXPOSURE | Amount of light recorded by a camera
+DEVELOPER | Chemical bath that reveals a latent image
+FIXER | Solution that makes a developed image permanent
+CONTACT | Printing method placing a negative against paper
+PLATE | Flat surface used to record an early photograph
+LENS | Curved glass that focuses light
+SEPIA | Brown tone often seen in old photographs
+TRIPOD | Three-legged support for a camera
+
+=== Coral Reef Ecology | HARD
+SYMBIOSIS | Close relationship between different species
+POLYP | Small animal that builds a coral colony
+ZOXANTHELLAE | Algae that live within many reef-building corals
+BLEACHING | Loss of colour after coral stress
+ATOLL | Ring-shaped reef surrounding a lagoon
+LAGOON | Shallow body of water inside a reef
+HERBIVORE | Animal that feeds mainly on plants
+PREDATOR | Animal that hunts other animals
+SPAWNING | Release of eggs and sperm into the water
+NURSERY | Protected place where young animals grow
+CURRENT | Flow of water in a particular direction
+ACIDIFICATION | Increase in ocean water acidity
+BIOME | Large region defined by its climate and life
+
+=== Ancient Coinage | HARD
+NUMISMATICS | Study or collection of coins and currency
+DENARIUS | Silver coin used in ancient Rome
+DRACHMA | Ancient Greek unit of money and weight
+OBVERSE | Front side of a coin
+REVERSE | Back side of a coin
+MINT | Place where coins are made
+ALLOY | Mixture of two or more metals
+INSCRIPTION | Words engraved on a hard surface
+PORTRAIT | Image of a person on a coin
+TROY | Weight system used for precious metals
+SPECIE | Coins made from precious metal
+COUNTERMARK | Extra stamped mark added to a coin
+TREASURY | Place where public money is kept

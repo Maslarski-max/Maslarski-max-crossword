@@ -1,0 +1,37 @@
+{
+  "id": "level-167",
+  "title": "Family Road Trip",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#SEATBELT##",
+    "#N##R##U###",
+    "MAP#U##G###",
+    "#C##N##G##M",
+    "#K##K#RADIO",
+    "#S###M#G##T",
+    "###DRIVER#E",
+    "#####L##O#L",
+    "#####E##U##",
+    "###RESTSTOP",
+    "########E##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Strap that keeps a passenger secure",
+      "4": "Drawing that shows roads and places",
+      "6": "Device that plays broadcasts in a car",
+      "8": "Person controlling the car",
+      "10": "Roadside place to take a break"
+    },
+    "down": {
+      "1": "Small bites eaten between meals",
+      "2": "Car space for carrying bags",
+      "3": "Bags packed for a journey",
+      "5": "Lodging beside a highway",
+      "7": "Units used to measure a long journey",
+      "9": "Planned way from one place to another"
+    }
+  },
+  "order": 167
+}

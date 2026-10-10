@@ -1,0 +1,42 @@
+{
+  "id": "level-156",
+  "title": "Opera Heroines",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#####V####",
+    "##MIMI####",
+    "#####O####",
+    "##L##L####",
+    "#BUTTERFLY",
+    "##C##T####",
+    "##I##TOSCA",
+    "##AIDA#O##",
+    "#I##I##P#C",
+    "#S##V#ARIA",
+    "NORMA##A#R",
+    "#L#####N#M",
+    "#D##SALOME",
+    "#E#######N"
+  ],
+  "clues": {
+    "across": {
+      "2": "Seamstress of La Boheme",
+      "4": "Madama of Nagasaki",
+      "5": "Puccini's singer who leaps",
+      "7": "Ethiopian princess of Verdi",
+      "11": "Solo song",
+      "12": "Bellini's druid priestess",
+      "13": "Strauss heroine of the seven veils"
+    },
+    "down": {
+      "1": "Heroine of La Traviata",
+      "3": "Mad bride of Lammermoor",
+      "6": "Highest female voice",
+      "8": "Celebrated female singer",
+      "9": "Wagner's Irish princess",
+      "10": "Bizet's gypsy"
+    }
+  },
+  "order": 156
+}

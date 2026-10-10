@@ -1,0 +1,21 @@
+id: level-146
+title: Photography
+difficulty: MEDIUM
+order: 146
+type: level
+size: 13
+seed: 146
+---
+CAMERA | Device that takes pictures
+LENS | Glass that focuses light
+SHUTTER | Opens to expose the sensor
+FLASH | Sudden burst of light
+TRIPOD | Three-legged stand
+APERTURE | Size of the lens opening
+EXPOSURE | Amount of light captured
+PORTRAIT | Photo of a person
+LANDSCAPE | Wide scenic shot
+NEGATIVE | Reversed film image
+ZOOM | Lens that brings things closer
+SELFIE | Picture of yourself
+FOCUS | Make it sharp

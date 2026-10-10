@@ -1,0 +1,21 @@
+id: level-299
+title: Materials Science
+difficulty: HARD
+order: 299
+type: level
+size: 15
+seed: 299
+---
+ALLOY | Mixture containing a metal
+POLYMER | Large molecule made of repeating units
+CERAMIC | Hard material made by firing minerals
+COMPOSITE | Material made from distinct combined components
+DUCTILITY | Ability to stretch into a wire
+ELASTICITY | Ability to return to an earlier shape
+FRACTURE | Break caused by stress
+CRYSTAL | Solid with an ordered atomic structure
+GRAIN | Small crystal region in a solid
+CORROSION | Gradual damage from chemical reactions
+TENSILE | Relating to pulling forces
+HARDNESS | Resistance to scratching or indentation
+MICROSCOPY | Study of materials using magnification

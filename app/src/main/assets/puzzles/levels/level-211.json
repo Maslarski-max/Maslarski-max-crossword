@@ -1,0 +1,43 @@
+{
+  "id": "level-211",
+  "title": "Medieval Manuscripts",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#########P#####",
+    "#########A#####",
+    "###V##QUIRE####",
+    "S##E#####C#####",
+    "CALLIGRAPHY#M##",
+    "R##L#####M##A##",
+    "ILLUMINATE##R##",
+    "B##M#####N##G##",
+    "E#R#SCRIPTORIUM",
+    "##U##O##I###N##",
+    "##BINDING###A##",
+    "##R##E##M###L##",
+    "##I##X##E###I##",
+    "##C####INITIAL#",
+    "########T######"
+  ],
+  "clues": {
+    "across": {
+      "3": "Group of folded sheets in a book",
+      "5": "Decorative style of handwriting",
+      "7": "Decorate a page with bright colours or gold",
+      "9": "Room where handwritten books were copied",
+      "12": "Cover and fastening of a book",
+      "13": "Enlarged first letter of a section"
+    },
+    "down": {
+      "1": "Prepared animal skin used for writing",
+      "2": "Fine parchment made from calfskin",
+      "4": "Person who copies written works by hand",
+      "6": "Notes or drawings placed beside the main text",
+      "8": "Heading or instruction written in coloured ink",
+      "10": "Ancient manuscript made of bound pages",
+      "11": "Coloured material used in paint or ink"
+    }
+  },
+  "order": 211
+}

@@ -1,0 +1,40 @@
+{
+  "id": "level-203",
+  "title": "Castle Builders",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#########K###",
+    "#########E###",
+    "#######G#E#A#",
+    "######RAMPART",
+    "###C###T###C#",
+    "##FORTRESS#H#",
+    "###U#U#H###W#",
+    "###R#R#O#MOAT",
+    "MORTAR#U###Y#",
+    "A##Y#E#S#####",
+    "S#BATTLEMENT#",
+    "O##R#########",
+    "N##DRAWBRIDGE"
+  ],
+  "clues": {
+    "across": {
+      "4": "Defensive bank or wall",
+      "6": "Strong building designed for defence",
+      "8": "Deep ditch surrounding a fortification",
+      "9": "Mixture that binds bricks or stones",
+      "10": "Defensive wall with gaps for protection",
+      "11": "Bridge that can be raised over a moat"
+    },
+    "down": {
+      "1": "Strong central tower of a castle",
+      "2": "Guarded entrance building",
+      "3": "Curved opening through a wall",
+      "5": "Open space enclosed by buildings",
+      "7": "Small tower projecting from a wall",
+      "9": "Craft worker who builds with stone"
+    }
+  },
+  "order": 203
+}

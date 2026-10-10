@@ -1,0 +1,43 @@
+{
+  "id": "level-236",
+  "title": "Quantum Computing",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##Q####P#######",
+    "##U####H######D",
+    "##B###COHERENCE",
+    "##I#S##T#N####C",
+    "QUTRIT#O#T##M#O",
+    "####M##N#A##E#H",
+    "####U####N#GATE",
+    "####L####G##S#R",
+    "#Q##A#AMPLITUDE",
+    "#U##T####E##R#N",
+    "#ALGORITHM##E#C",
+    "#N##R####E##M#E",
+    "#T#######N##E##",
+    "SUPERPOSITION##",
+    "#M##########T##"
+  ],
+  "clues": {
+    "across": {
+      "4": "Preservation of a quantum phase relationship",
+      "7": "Quantum unit with three basis states",
+      "9": "Operation applied to quantum information",
+      "11": "Quantity whose square gives a probability",
+      "12": "Stepwise procedure for solving a problem",
+      "13": "State combining multiple possible outcomes"
+    },
+    "down": {
+      "1": "Basic unit of quantum information",
+      "2": "Particle of electromagnetic radiation",
+      "3": "Loss of a system's quantum phase relationships",
+      "5": "Quantum link between separated particles",
+      "6": "Program that models a quantum system",
+      "8": "Process that yields an observed result",
+      "10": "Relating to discrete physical states"
+    }
+  },
+  "order": 236
+}

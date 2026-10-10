@@ -1,0 +1,21 @@
+id: level-127
+title: Renaissance
+difficulty: HARD
+order: 127
+type: level
+size: 15
+seed: 127
+---
+LEONARDO | Painter of the Mona Lisa
+MICHELANGELO | Sculptor of David
+RAPHAEL | Painter of The School of Athens
+FLORENCE | Tuscan cradle of the movement
+MEDICI | Banking family of patrons
+FRESCO | Painting on wet plaster
+HUMANISM | Philosophy centred on human potential
+PERSPECTIVE | Technique for depth on a flat surface
+PATRON | Wealthy sponsor of art
+DONATELLO | Early sculptor of a bronze David
+MACHIAVELLI | Author of The Prince
+GUTENBERG | Inventor of the printing press
+SFUMATO | Soft blending of tones

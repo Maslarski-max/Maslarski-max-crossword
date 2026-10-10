@@ -1,0 +1,19 @@
+id: level-278
+title: Farm Dog
+difficulty: EASY
+order: 278
+type: level
+size: 11
+seed: 278
+---
+COLLIE | Herding dog with a long coat
+SHEPHERD | Person who cares for a flock
+WHISTLE | Sharp sound used to guide a working dog
+PUPPY | Young dog
+PAW | Soft foot of a dog
+LEASH | Strap used to guide a dog
+HERD | Group of animals kept together
+FENCE | Barrier around a field
+BARN | Farm building for animals or hay
+FETCH | Bring back an object thrown by a person
+LOYAL | Faithful to a person or group

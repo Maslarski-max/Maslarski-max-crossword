@@ -1,0 +1,21 @@
+id: level-261
+title: Planetary Geology
+difficulty: HARD
+order: 261
+type: level
+size: 15
+seed: 261
+---
+REGOLITH | Loose material covering solid rock on a world
+CRATER | Bowl-shaped hollow made by impact or eruption
+TECTONIC | Relating to large moving sections of crust
+VOLCANISM | Processes involving the eruption of molten rock
+RILLE | Long narrow valley on the moon
+BASALT | Dark volcanic rock
+METEORITE | Space fragment recovered after reaching the ground
+EROSION | Wearing away of rock by natural forces
+MANTLE | Layer beneath a planet's crust
+IMPACT | Collision of one object with another
+PLANETESIMAL | Small early body that helped form planets
+LAVA | Molten rock that reaches the surface
+GEOLOGY | Study of a world's rocks and structure

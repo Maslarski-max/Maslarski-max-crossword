@@ -1,0 +1,19 @@
+id: level-280
+title: Model Airplanes
+difficulty: EASY
+order: 280
+type: level
+size: 11
+seed: 280
+---
+WING | Surface that helps a plane stay aloft
+FUSELAGE | Main body of an aircraft
+PROPELLER | Spinning blades that push a small plane
+GLIDER | Aircraft that flies without an engine
+PILOT | Person who controls an aircraft
+HANGAR | Building where aircraft are kept
+TAIL | Rear part that helps a plane stay steady
+GLUE | Sticky substance used to join model parts
+BALSA | Light wood often used in model aircraft
+MODEL | Small copy of a real object
+FLIGHT | Journey through the air

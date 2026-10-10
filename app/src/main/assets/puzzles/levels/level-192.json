@@ -1,0 +1,37 @@
+{
+  "id": "level-192",
+  "title": "School Lunch",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "S#######A#",
+    "A####Y##P#",
+    "N###BOX#P#",
+    "D#T##G##L#",
+    "W#H#JUICE#",
+    "I#E##R#R##",
+    "CARROT#A#L",
+    "H#M####C#U",
+    "##O#NAPKIN",
+    "##S####E#C",
+    "###WATER#H"
+  ],
+  "clues": {
+    "across": {
+      "4": "Container that holds a meal",
+      "6": "Drink pressed from fruit",
+      "8": "Crunchy orange root vegetable",
+      "10": "Paper or cloth used to wipe the mouth",
+      "11": "Clear drink needed by the body"
+    },
+    "down": {
+      "1": "Filling held between slices of bread",
+      "2": "Crisp fruit often packed for a meal",
+      "3": "Creamy food made from fermented milk",
+      "5": "Insulated container that keeps a drink warm",
+      "7": "Thin crisp baked snack",
+      "9": "Meal eaten around midday"
+    }
+  },
+  "order": 192
+}

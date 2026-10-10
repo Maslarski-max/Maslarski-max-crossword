@@ -1,0 +1,20 @@
+id: level-171
+title: Boardwalk Arcade
+difficulty: MEDIUM
+order: 171
+type: level
+size: 13
+seed: 171
+---
+ARCADE | Hall of coin-operated games
+PINBALL | Game with a silver ball and flippers
+JOYSTICK | Lever used to steer a game
+TOKEN | Small disc used instead of a coin
+PRIZE | Reward won in a game
+SKEEBALL | Rolling game with numbered target holes
+CABINET | Upright case holding an electronic game
+BUTTON | Part pressed to control a game
+SCORE | Points earned by a player
+TICKET | Paper slip exchanged for a reward
+RACER | Driving game played against a clock
+AIRHOCKEY | Table game played with a sliding puck

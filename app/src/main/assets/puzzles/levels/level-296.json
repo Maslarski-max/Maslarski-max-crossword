@@ -1,0 +1,43 @@
+{
+  "id": "level-296",
+  "title": "Stellar Evolution",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##########G###",
+    "######R#S#I###",
+    "##P##NEBULA###",
+    "##R###D#P#N#F#",
+    "##O###SPECTRUM",
+    "H#T#L#H#R###S#",
+    "EVOLUTION###I#",
+    "L#S#M#F#O###O#",
+    "I#T#I#T#V#N#N#",
+    "U#A#N###A#E###",
+    "M#R#O#####U###",
+    "####S#####T###",
+    "##WHITEDWARF##",
+    "####T#####O###",
+    "###HYDROGEN###"
+  ],
+  "clues": {
+    "across": {
+      "5": "Cloud of gas and dust where stars may form",
+      "7": "Spread of light by wavelength",
+      "10": "Change through stages over time",
+      "12": "Dense remnant of a low-mass star",
+      "13": "Lightest element and common stellar fuel"
+    },
+    "down": {
+      "1": "Very large evolved star",
+      "2": "Shift of light toward longer wavelengths",
+      "3": "Powerful explosion at the end of some stars",
+      "4": "Young object forming before stable star life",
+      "6": "Joining of light nuclei inside a star",
+      "8": "Element made by fusion in many stars",
+      "9": "Total energy a star emits each second",
+      "11": "Uncharged particle found in dense stellar remnants"
+    }
+  },
+  "order": 296
+}

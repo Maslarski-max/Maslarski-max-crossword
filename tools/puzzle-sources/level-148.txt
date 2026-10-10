@@ -1,0 +1,21 @@
+id: level-148
+title: Spy Mission
+difficulty: MEDIUM
+order: 148
+type: level
+size: 13
+seed: 148
+---
+AGENT | Secret operative
+CODE | Hidden message system
+DISGUISE | False appearance
+GADGET | Clever device
+DOUBLE | ___ agent, working both sides
+MOLE | Spy inside an organisation
+SAFEHOUSE | Secret hideout
+DEFECTOR | One who switches sides
+CIPHER | Secret writing
+BUG | Hidden microphone
+TARGET | Mission objective
+ALIAS | Assumed name
+DEBRIEF | Report after a mission

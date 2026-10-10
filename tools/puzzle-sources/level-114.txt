@@ -1,0 +1,19 @@
+id: level-114
+title: Busy Bees
+difficulty: EASY
+order: 114
+type: level
+size: 11
+seed: 114
+---
+HONEY | Sweet golden food bees make
+HIVE | Bee home
+QUEEN | Mother of the colony
+STING | Bee's painful defence
+FLOWER | Bees visit it for nectar
+POLLEN | Yellow dust bees carry
+BUZZ | Sound of a bee
+WAX | Material of a honeycomb
+SWARM | Large flying group of bees
+DRONE | Male bee
+NECTAR | Sweet liquid in flowers

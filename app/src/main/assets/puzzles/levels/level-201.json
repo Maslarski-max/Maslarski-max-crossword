@@ -1,0 +1,40 @@
+{
+  "id": "level-201",
+  "title": "Cheese Making",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##CHEDDAR",
+    "##U####G#",
+    "MOLD#B#I#",
+    "##T##RIND",
+    "##U##I#G#",
+    "##R##N###",
+    "CREAMERY#",
+    "U#####E##",
+    "R#####N#P",
+    "D###W#N#R",
+    "###CHEESE",
+    "####E#T#S",
+    "####Y###S"
+  ],
+  "clues": {
+    "across": {
+      "1": "Firm cheese first made in an English village",
+      "3": "Fuzzy growth used in some cheese varieties",
+      "5": "Outer layer of a cheese",
+      "6": "Place where dairy products are made",
+      "10": "Food made by curdling milk"
+    },
+    "down": {
+      "1": "Microorganisms added to start fermentation",
+      "2": "Keeping food to develop its flavour",
+      "4": "Salty water used to soak some cheeses",
+      "6": "Soft solid formed from milk",
+      "7": "Enzyme used to help milk coagulate",
+      "8": "Device that squeezes liquid from curds",
+      "9": "Liquid left after curds form"
+    }
+  },
+  "order": 201
+}

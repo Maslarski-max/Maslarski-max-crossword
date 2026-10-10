@@ -1,0 +1,37 @@
+{
+  "id": "level-247",
+  "title": "Autumn Festival",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#S#P#B###",
+    "#C#ACORN#",
+    "FAIR#N###",
+    "#R#K#F###",
+    "#F##CIDER",
+    "###D#R###",
+    "#HARVEST#",
+    "###U#####",
+    "#PUMPKIN#",
+    "#I#######",
+    "LEAVES###"
+  ],
+  "clues": {
+    "across": {
+      "4": "Nut that grows on an oak",
+      "5": "Event with rides, stalls, and games",
+      "6": "Drink made from pressed apples",
+      "8": "Gathering of ripe crops",
+      "9": "Orange squash often carved in autumn",
+      "10": "Flat parts that fall from trees"
+    },
+    "down": {
+      "1": "Warm strip worn around the neck",
+      "2": "Outdoor place for a community gathering",
+      "3": "Large outdoor fire for a celebration",
+      "7": "Percussion instrument struck by hand or stick",
+      "9": "Baked dish with a pastry covering"
+    }
+  },
+  "order": 247
+}

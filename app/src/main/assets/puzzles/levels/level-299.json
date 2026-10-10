@@ -1,0 +1,42 @@
+{
+  "id": "level-299",
+  "title": "Materials Science",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "##CERAMIC#E####",
+    "########O#L###C",
+    "########R#A#P#R",
+    "##F##MICROSCOPY",
+    "##R#####O#T#L#S",
+    "#HARDNESS#I#Y#T",
+    "##C#U###I#C#M#A",
+    "##T#COMPOSITE#L",
+    "##U#T###N#T#R##",
+    "#GRAIN####Y####",
+    "##E#L##########",
+    "####I##########",
+    "####TENSILE####",
+    "ALLOY##########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Hard material made by firing minerals",
+      "7": "Study of materials using magnification",
+      "8": "Resistance to scratching or indentation",
+      "10": "Material made from distinct combined components",
+      "11": "Small crystal region in a solid",
+      "12": "Relating to pulling forces",
+      "13": "Mixture containing a metal"
+    },
+    "down": {
+      "2": "Gradual damage from chemical reactions",
+      "3": "Ability to return to an earlier shape",
+      "4": "Solid with an ordered atomic structure",
+      "5": "Large molecule made of repeating units",
+      "6": "Break caused by stress",
+      "9": "Ability to stretch into a wire"
+    }
+  },
+  "order": 299
+}

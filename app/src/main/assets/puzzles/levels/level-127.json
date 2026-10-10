@@ -1,0 +1,43 @@
+{
+  "id": "level-127",
+  "title": "Renaissance",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#######M######M",
+    "##HUMANISM####E",
+    "#######C######D",
+    "####MACHIAVELLI",
+    "#######E######C",
+    "#######L#D####I",
+    "###SFUMATO##G##",
+    "##R#L##N#N##U##",
+    "##A#O##G#A##T##",
+    "##PERSPECTIVE#P",
+    "##H#E##L#E##N#A",
+    "##A#N##O#L##B#T",
+    "FRESCO###L##E#R",
+    "##L#E##LEONARDO",
+    "############G#N"
+  ],
+  "clues": {
+    "across": {
+      "3": "Philosophy centred on human potential",
+      "4": "Author of The Prince",
+      "6": "Soft blending of tones",
+      "10": "Technique for depth on a flat surface",
+      "12": "Painting on wet plaster",
+      "13": "Painter of the Mona Lisa"
+    },
+    "down": {
+      "1": "Sculptor of David",
+      "2": "Banking family of patrons",
+      "5": "Early sculptor of a bronze David",
+      "7": "Tuscan cradle of the movement",
+      "8": "Inventor of the printing press",
+      "9": "Painter of The School of Athens",
+      "11": "Wealthy sponsor of art"
+    }
+  },
+  "order": 127
+}

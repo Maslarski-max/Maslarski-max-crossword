@@ -1,0 +1,19 @@
+id: level-140
+title: Pond Life
+difficulty: EASY
+order: 140
+type: level
+size: 11
+seed: 140
+---
+FROG | Green hopper that croaks
+TADPOLE | Baby frog with a tail
+DUCK | Bird that quacks
+LILY | Floating pad flower
+REED | Tall grass at the water's edge
+NEWT | Small spotted amphibian
+FISH | Swimmer with fins
+SNAIL | Slow creature with a shell
+SWAN | Graceful white water bird
+DRAGONFLY | Insect with shimmering wings
+MUD | Wet earth at the bottom

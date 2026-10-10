@@ -1,0 +1,35 @@
+{
+  "id": "level-218",
+  "title": "At the Laundromat",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "##T#SOCK###",
+    "#SOAP#O####",
+    "##W#I#I####",
+    "##E#N#N#B#S",
+    "FOLD###WASH",
+    "###R####S#I",
+    "###Y####K#R",
+    "##DETERGENT",
+    "###R####T##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Garment worn on a foot",
+      "4": "Cleaner that makes bubbles",
+      "7": "Bend cloth over itself",
+      "9": "Clean clothes with water",
+      "10": "Cleaning powder or liquid for clothes"
+    },
+    "down": {
+      "1": "Cloth used to dry the body",
+      "2": "Turn quickly around an axis",
+      "3": "Small metal money used to start a machine",
+      "5": "Container for carrying laundry",
+      "6": "Garment covering the upper body",
+      "8": "Machine that removes water from clothes"
+    }
+  },
+  "order": 218
+}

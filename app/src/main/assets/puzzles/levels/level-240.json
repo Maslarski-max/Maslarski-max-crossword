@@ -1,0 +1,42 @@
+{
+  "id": "level-240",
+  "title": "Cretaceous Period",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "D#P############",
+    "I#AMMONITE###I#",
+    "N#L#E########M#",
+    "O#E#TRICERATOPS",
+    "S#O#E##R###Y#A#",
+    "ANGIOSPERM#R#C#",
+    "U#E#R##T###A#T#",
+    "R#N#I##A###N##C",
+    "##EXTINCTION##H",
+    "####E##E###O##A",
+    "#######O#FOSSIL",
+    "#######U###A##K",
+    "#####MOSASAUR##",
+    "###########R###"
+  ],
+  "clues": {
+    "across": {
+      "3": "Coiled-shelled marine animal found as a fossil",
+      "6": "Three-horned plant-eating dinosaur",
+      "9": "Flowering plant",
+      "11": "Disappearance of a species from Earth",
+      "12": "Preserved remains of ancient life",
+      "13": "Marine reptile that lived in Cretaceous seas"
+    },
+    "down": {
+      "1": "Reptile group that included many ancient species",
+      "2": "Geological period that followed the Cretaceous",
+      "4": "Space rock that reaches the ground",
+      "5": "Collision of one object with another",
+      "7": "Geological period ending about 66 million years ago",
+      "8": "Large predatory dinosaur of late Cretaceous North America",
+      "10": "Soft limestone formed from microscopic marine remains"
+    }
+  },
+  "order": 240
+}

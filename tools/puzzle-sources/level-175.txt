@@ -1,0 +1,20 @@
+id: level-175
+title: Space Mission
+difficulty: MEDIUM
+order: 175
+type: level
+size: 13
+seed: 175
+---
+MISSION | Planned journey with a specific goal
+CAPSULE | Compact craft carrying astronauts
+ORBITER | Spacecraft that circles a celestial body
+LANDER | Craft designed to touch down on a world
+TELEMETRY | Automatic sending of measurement data
+THRUSTER | Small engine that changes a craft's motion
+DOCKING | Joining two spacecraft in orbit
+MODULE | Separate section of a larger spacecraft
+ANTENNA | Device that sends or receives signals
+ECLIPSE | One celestial body blocks another from view
+PAYLOAD | Equipment carried for a mission
+TRAJECTORY | Curved path followed by a moving object

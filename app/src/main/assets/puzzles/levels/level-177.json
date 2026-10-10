@@ -1,0 +1,39 @@
+{
+  "id": "level-177",
+  "title": "Sound Recording Studio",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "##LEVEL#####",
+    "###C#D#####T",
+    "###H#I#MIXER",
+    "##BOOTH####A",
+    "#S####E##C#C",
+    "#T##PLAYBACK",
+    "#U####D##B##",
+    "#D####P##L##",
+    "MICROPHONE##",
+    "#O####O#####",
+    "######N#####",
+    "###WAVEFORM#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Strength of a recorded signal",
+      "5": "Console for balancing several audio sources",
+      "6": "Small enclosed room for recording",
+      "10": "Listening to an existing recording",
+      "11": "Device that turns sound waves into an electrical signal",
+      "12": "Visual representation of a sound signal"
+    },
+    "down": {
+      "2": "Repeated sound caused by reflection",
+      "3": "Change a recording by cutting or moving parts",
+      "4": "Separate recorded part in a song",
+      "7": "Device worn over the ears to hear audio",
+      "8": "Room designed for recording",
+      "9": "Insulated wire linking audio equipment"
+    }
+  },
+  "order": 177
+}

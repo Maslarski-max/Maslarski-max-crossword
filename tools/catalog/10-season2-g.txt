@@ -1,0 +1,391 @@
+=== Town Parade | EASY
+PARADE | Line of people marching for a celebration
+DRUM | Instrument struck to keep a beat
+FLOAT | Decorated platform moving along a route
+FLAG | Cloth emblem on a pole
+MARCH | Walk together in a steady rhythm
+BOOTS | Sturdy footwear for marching
+BANNER | Long sign carried above a crowd
+MUSIC | Organized sounds played for a crowd
+ROUTE | Planned path from one place to another
+CLAP | Strike hands together to show approval
+CHEER | Shout to show support
+
+=== Home Repair | EASY
+HAMMER | Tool used to drive nails
+SCREW | Fastener turned with a tool
+DRILL | Tool that makes holes
+PAINT | Coloured coating for a wall
+BRUSH | Tool used to spread paint
+HINGE | Joint that lets a door swing
+LADDER | Climbable frame used to reach high places
+WRENCH | Tool for turning nuts and bolts
+LEAK | Unwanted escape of water
+PATCH | Small piece that covers a damaged spot
+TOOLBOX | Box for keeping repair equipment
+
+=== Music Box | EASY
+MELODY | Tune that can be hummed
+TUNE | Short sequence of musical notes
+KEY | Small lever that plays a note
+SPRING | Coiled metal part that stores energy
+CRANK | Handle turned to operate a mechanism
+CYLINDER | Rotating part with tiny raised pins
+COMB | Metal teeth that vibrate to make notes
+NOTE | Single musical sound
+WIND | Turn a key to store power
+LID | Cover that opens on a box
+SONG | Words and music made to be sung
+
+=== Seedling Nursery | EASY
+SEEDLING | Young plant grown from a seed
+POT | Small container for growing a plant
+SOIL | Loose earth used by plant roots
+WATER | Liquid poured on a growing plant
+ROOT | Part that anchors and feeds a plant
+STEM | Upright plant part holding leaves
+SPROUT | New growth emerging from a seed
+TRAY | Flat container holding several small pots
+SUNLIGHT | Light that reaches Earth from the sun
+LABEL | Tag showing a plant's name
+HOTHOUSE | Glass building that keeps plants warm
+
+=== Ice Rink | EASY
+SKATE | Gliding shoe with a blade
+ICE | Frozen water beneath a skater
+PUCK | Flat disc used in hockey
+HOCKEY | Team game played with sticks on ice
+GOAL | Target between two posts
+HELMET | Hard head covering for safety
+GLOVE | Hand covering worn for warmth
+RINK | Enclosed area for skating
+LACE | Cord threaded through a skate
+SPIN | Turn around on one foot
+FROST | Thin icy coating on a cold surface
+
+=== Farm Dog | EASY
+COLLIE | Herding dog with a long coat
+SHEPHERD | Person who cares for a flock
+WHISTLE | Sharp sound used to guide a working dog
+PUPPY | Young dog
+PAW | Soft foot of a dog
+LEASH | Strap used to guide a dog
+HERD | Group of animals kept together
+FENCE | Barrier around a field
+BARN | Farm building for animals or hay
+FETCH | Bring back an object thrown by a person
+LOYAL | Faithful to a person or group
+
+=== Fishing Pier | EASY
+ROD | Long flexible pole used for angling
+REEL | Device that winds in fishing line
+BAIT | Food attached to a hook to attract fish
+HOOK | Curved metal point used to catch a fish
+FLOAT | Bobbing marker on a fishing line
+PIER | Raised walkway extending over water
+TIDE | Regular rise and fall of the sea
+BUCKET | Open container for a catch
+FISH | Animal with gills and fins
+CRAB | Sea animal with claws and a hard shell
+NET | Mesh used to catch fish
+
+=== Model Airplanes | EASY
+WING | Surface that helps a plane stay aloft
+FUSELAGE | Main body of an aircraft
+PROPELLER | Spinning blades that push a small plane
+GLIDER | Aircraft that flies without an engine
+PILOT | Person who controls an aircraft
+HANGAR | Building where aircraft are kept
+TAIL | Rear part that helps a plane stay steady
+GLUE | Sticky substance used to join model parts
+BALSA | Light wood often used in model aircraft
+MODEL | Small copy of a real object
+FLIGHT | Journey through the air
+
+=== Firework Display | EASY
+FIREWORK | Device that bursts into coloured light
+SPARK | Tiny glowing particle
+FUSE | Cord that carries flame to a charge
+BURST | Sudden outward explosion
+ROCKET | Firework that shoots upward
+COLOUR | Visual quality such as red or blue
+SKY | Space above the ground
+NOISE | Loud sound made during a display
+SAFETY | Protection from danger
+DISPLAY | Public show for an audience
+SMOKE | Cloud released by a firework
+
+=== Wildlife Tracking | MEDIUM
+TRACKER | Person who follows signs left by animals
+FOOTPRINT | Mark made by a foot on the ground
+SCAT | Animal droppings examined for clues
+CAMERA | Device that records images of wildlife
+COLLAR | Band fitted around an animal's neck
+TAGGING | Attaching a marker to an animal for study
+MIGRATION | Seasonal movement between habitats
+RANGE | Area where an animal normally lives
+DEN | Small animal shelter
+TRAIL | Path followed by an animal
+SPECIES | Group of similar organisms
+TRACK | Mark left by an animal passing by
+
+=== Desert Botany | MEDIUM
+CACTUS | Spiny plant adapted to dry conditions
+SUCCULENT | Plant that stores water in thick tissues
+WAXY | Having a surface that helps limit water loss
+THORN | Sharp point growing on a plant
+ROOTLET | Small branch of a plant's root
+SEEDBANK | Seeds stored naturally in soil
+DORMANT | Temporarily inactive during harsh conditions
+POLLEN | Fine grains involved in plant reproduction
+FLOWER | Plant structure that can form seeds
+RAINFALL | Water that descends from clouds
+XEROPHYTE | Plant adapted to very dry conditions
+SHADE | Shelter from direct sunlight
+
+=== Antarctic Ocean | MEDIUM
+ICEBERG | Large floating mass of freshwater ice
+PENGUIN | Flightless seabird of the southern hemisphere
+KRILL | Small crustacean eaten by whales
+SEAL | Marine mammal with flippers
+POLAR | Relating to the Earth's cold regions
+CURRENT | Flow of ocean water
+PACKICE | Sea ice gathered into a broad sheet
+RESEARCH | Careful study to learn new facts
+VESSEL | Ship used for travel or work
+WHALE | Very large marine mammal
+PLANKTON | Tiny drifting organisms in water
+ANTARCTIC | Relating to the region around the South Pole
+
+=== Medieval Guilds | MEDIUM
+GUILD | Association of workers in a craft
+APPRENTICE | Beginner learning a skilled trade
+MASTER | Highly skilled craftsperson who leads a workshop
+WEAVER | Person who makes cloth on a loom
+DYER | Worker who colours fabric
+CARPENTER | Craft worker who builds with wood
+TRAINING | Period of learning a trade
+WORKSHOP | Place where goods are made
+MERCHANT | Person who buys and sells goods
+CRAFTSMAN | Person skilled at making things by hand
+JOURNEYMAN | Craft worker who has completed training but not mastered a trade
+MARKET | Place where goods are sold
+
+=== Fossil Forests | MEDIUM
+PETRIFIED | Turned to stone through mineral replacement
+STUMP | Base left after a tree is cut or broken
+WOOD | Hard material forming a tree trunk
+FERN | Plant with divided fronds
+ASH | Fine powder left after burning
+MINERAL | Naturally occurring solid substance
+TRUNK | Main woody stem of a tree
+FOREST | Large area dominated by trees
+FOSSIL | Preserved remains or trace of ancient life
+PRESERVE | Keep safe from decay or damage
+LAYER | One sheet of material in a sequence
+EROSION | Wearing away of rock or soil
+
+=== Food Preservation | MEDIUM
+PICKLE | Food kept in vinegar or brine
+FERMENT | Let microbes transform food
+JAM | Fruit cooked with sugar until thick
+DRYING | Removing water from food
+SMOKE | Treat food with fumes from burning wood
+BRINE | Salty water used to preserve food
+JAR | Glass container for storing food
+SEAL | Close a container to keep air out
+FREEZE | Cool food below its freezing point
+PANTRY | Place where stored food is kept
+VINEGAR | Sour liquid used in pickling
+PRESERVE | Prepare food so it lasts longer
+
+=== Radio Astronomy | MEDIUM
+RADIO | Part of the electromagnetic spectrum
+ANTENNA | Device that receives signals from space
+PULSAR | Spinning neutron star sending regular radio pulses
+QUASAR | Extremely bright distant galactic core
+DISH | Curved reflector that gathers radio waves
+SIGNAL | Measurable transmission from a source
+GALAXY | Vast system of stars and gas
+SPECTRUM | Range of wavelengths from a source
+TELESCOPE | Instrument for observing distant objects
+OBSERVE | Watch carefully to collect information
+COSMIC | Relating to the universe
+WAVELENGTH | Distance between repeating parts of a wave
+
+=== Steam Locomotives | MEDIUM
+BOILER | Vessel that heats water to make steam
+PISTON | Sliding part driven by steam pressure
+CYLINDER | Chamber in which a piston moves
+FIREBOX | Part of an engine where fuel burns
+WHISTLE | Steam-powered signal on a locomotive
+TENDER | Car carrying fuel and water behind an engine
+RAILWAY | Track system used by trains
+VALVE | Device that controls steam flow
+SMOKEBOX | Chamber at the front of a steam engine
+DRIVER | Wheel that receives power from the pistons
+LOCOMOTIVE | Powered rail vehicle that pulls a train
+GAUGE | Distance between the rails
+
+=== Public Health | MEDIUM
+HYGIENE | Practices that support cleanliness and health
+VACCINE | Preparation that helps prevent a disease
+MASK | Face covering worn to limit germs
+SANITATION | Systems that safely manage waste
+EPIDEMIC | Widespread occurrence of a disease
+PREVENTION | Action taken to reduce risk
+CLINIC | Place where people receive medical care
+SCREENING | Testing people before symptoms appear
+NUTRITION | Study or process of nourishing the body
+COMMUNITY | People living or working in one area
+IMMUNITY | Ability to resist a particular infection
+MONITORING | Ongoing collection of health information
+
+=== Stage Makeup | MEDIUM
+GREASEPAINT | Thick makeup worn by performers
+FOUNDATION | Base cosmetic that evens skin tone
+BLUSH | Colour added to the cheeks
+EYELINER | Cosmetic applied around the eyes
+WIG | Artificial hair worn on the head
+BRUSH | Tool used to apply makeup
+POWDER | Fine cosmetic used to reduce shine
+LATEX | Material used to create some stage effects
+SCAR | Mark painted to look like a healed wound
+MIRROR | Reflective surface used while applying makeup
+PALETTE | Set of colours for a makeup artist
+REMOVER | Product used to take cosmetics off
+
+=== Astrobiology | HARD
+EXTREMOPHILE | Organism adapted to harsh environmental conditions
+BIOSIGNATURE | Possible sign of past or present life
+HABITABILITY | Suitability of an environment for life
+EXOPLANET | Planet orbiting a star beyond our solar system
+METABOLISM | Chemical processes that sustain living things
+MICROBE | Microscopic living organism
+ORGANIC | Containing carbon, often used in life chemistry
+ATMOSPHERE | Layer of gases around a planet
+OCEAN | Large body of salt water
+METHANE | Simple carbon-based gas found on some worlds
+EXTINCTION | End of a species
+SOLVENT | Liquid able to dissolve another substance
+ASTROBIOLOGY | Study of life in the universe
+
+=== Neural Circuits | HARD
+NEURON | Nerve cell that sends electrical signals
+SYNAPSE | Junction where nerve cells communicate
+AXON | Long projection carrying signals away from a cell body
+DENDRITE | Branch that receives signals from other cells
+TRANSMITTER | Chemical messenger released at a synapse
+REFLEX | Fast automatic response to a stimulus
+NETWORK | Interconnected group of nerve cells
+IMPULSE | Brief electrical signal in a nerve
+PLASTICITY | Ability of a nervous system to change
+SENSORY | Relating to information from the senses
+MOTOR | Relating to movement
+INHIBIT | Reduce or stop an activity
+NEURAL | Relating to nerves or the nervous system
+
+=== Coastal Geomorphology | HARD
+SPIT | Narrow ridge of sand projecting from a coast
+TOMBOLO | Sand or gravel bar joining an island to land
+LAGOON | Shallow water separated from the sea
+ESTUARY | Coastal area where river water meets the sea
+EROSION | Wearing away of rock by natural forces
+DEPOSITION | Laying down of sediment
+LONGSHORE | Moving parallel to a coast
+CLIFF | Steep rock face by the sea
+BEACH | Shoreline covered with sand or pebbles
+HEADLAND | High land projecting into the sea
+TIDAL | Relating to the rise and fall of the sea
+SEDIMENT | Particles that settle out of water
+GEOMORPHOLOGY | Study of landforms and the processes that shape them
+
+=== Historical Linguistics | HARD
+ETYMOLOGY | Study of the history of words
+COGNATE | Word related to one in another language
+PHONOLOGY | Study of a language's sound system
+MORPHOLOGY | Study of word forms and structure
+PROTOLANGUAGE | Reconstructed ancestor of related languages
+SOUNDCHANGE | Regular alteration of speech sounds over time
+BORROWING | Adoption of a word from another language
+SEMANTIC | Relating to meaning in language
+LEXICON | Vocabulary of a language
+SANSKRIT | Ancient language of South Asia
+LATIN | Language of ancient Rome
+RECONSTRUCT | Infer an earlier form from later evidence
+LANGUAGE | System of communication used by a community
+
+=== Stellar Evolution | HARD
+NEBULA | Cloud of gas and dust where stars may form
+PROTOSTAR | Young object forming before stable star life
+FUSION | Joining of light nuclei inside a star
+SUPERNOVA | Powerful explosion at the end of some stars
+WHITEDWARF | Dense remnant of a low-mass star
+REDSHIFT | Shift of light toward longer wavelengths
+LUMINOSITY | Total energy a star emits each second
+SPECTRUM | Spread of light by wavelength
+GIANT | Very large evolved star
+HYDROGEN | Lightest element and common stellar fuel
+HELIUM | Element made by fusion in many stars
+NEUTRON | Uncharged particle found in dense stellar remnants
+EVOLUTION | Change through stages over time
+
+=== Archaeogenetics | HARD
+ANCIENTDNA | Genetic material recovered from old remains
+EXCAVATION | Careful uncovering of buried remains
+SKELETON | Framework of bones in a body
+CONTAMINATION | Unwanted material that affects a sample
+SEQUENCING | Finding the order of DNA building blocks
+ANCESTRY | Line of descent from earlier generations
+HAPLOGROUP | Set of related genetic lineages
+POPULATION | Group of people living in a region
+MIGRATION | Movement from one region to another
+ISOTOPE | Form of an element with a different neutron count
+BURIAL | Placing a body or object in the ground
+GENOME | Complete set of genetic material
+ARCHAEOLOGY | Study of past people through material remains
+
+=== Statistical Mechanics | HARD
+ENTROPY | Measure of the number of microscopic arrangements
+ENSEMBLE | Collection of possible states used in a model
+PARTITION | Function that summarizes statistical states
+TEMPERATURE | Measure related to average thermal energy
+MICROSTATE | Specific microscopic arrangement of a system
+MACROSTATE | Large-scale description of a system
+PROBABILITY | Measure of how likely an event is
+THERMAL | Relating to heat
+EQUILIBRIUM | State with no net large-scale change
+ENERGY | Capacity to do work or transfer heat
+MOLECULE | Group of atoms bonded together
+PRESSURE | Force exerted per unit area
+STATISTICAL | Relating to probability and data
+
+=== Materials Science | HARD
+ALLOY | Mixture containing a metal
+POLYMER | Large molecule made of repeating units
+CERAMIC | Hard material made by firing minerals
+COMPOSITE | Material made from distinct combined components
+DUCTILITY | Ability to stretch into a wire
+ELASTICITY | Ability to return to an earlier shape
+FRACTURE | Break caused by stress
+CRYSTAL | Solid with an ordered atomic structure
+GRAIN | Small crystal region in a solid
+CORROSION | Gradual damage from chemical reactions
+TENSILE | Relating to pulling forces
+HARDNESS | Resistance to scratching or indentation
+MICROSCOPY | Study of materials using magnification
+
+=== Ocean Acidification | HARD
+ACIDIFICATION | Increase in the acidity of seawater
+CARBONATE | Dissolved ion used by many shell-building organisms
+BICARBONATE | Ion formed when carbon dioxide dissolves in water
+CALCIFICATION | Process of making calcium carbonate structures
+PHVALUE | Measure of acidity or alkalinity
+SHELL | Hard outer covering of some sea animals
+CORAL | Reef-building animal colony
+CARBON | Element present in dissolved ocean gases
+BUFFER | Substance that resists a change in acidity
+ABSORPTION | Taking in a substance or energy
+EMISSION | Release of gas or energy
+PLANKTON | Tiny drifting organisms in water
+CHEMISTRY | Study of substances and their reactions

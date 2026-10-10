@@ -1,0 +1,35 @@
+{
+  "id": "level-187",
+  "title": "Pet Grooming",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "COMB#######",
+    "###R#######",
+    "R##U#N##S##",
+    "I##SHAMPOO#",
+    "BATH#I##A#D",
+    "B#O#CLIPPER",
+    "O#W##S#A##Y",
+    "N#E####W##E",
+    "##L####S##R"
+  ],
+  "clues": {
+    "across": {
+      "1": "Tool with teeth for untangling hair",
+      "6": "Liquid used to wash fur",
+      "7": "Wash in a tub of water",
+      "10": "Tool that trims fur"
+    },
+    "down": {
+      "2": "Tool that smooths a pet's coat",
+      "3": "Bright strip tied in a pet's fur",
+      "4": "Hard tips trimmed during a pet's care",
+      "5": "Cleaning material that makes suds",
+      "8": "Cloth used to dry a wet animal",
+      "9": "Machine that blows warm air",
+      "11": "Soft feet of a cat or dog"
+    }
+  },
+  "order": 187
+}

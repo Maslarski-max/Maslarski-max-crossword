@@ -1,0 +1,20 @@
+id: level-226
+title: Animated Films
+difficulty: MEDIUM
+order: 226
+type: level
+size: 13
+seed: 226
+---
+ANIMATION | Making drawings or models appear to move
+STORYBOARD | Sequence of sketches planning a film
+VOICEOVER | Recorded speech heard over images
+CEL | Clear sheet used in traditional animation
+KEYFRAME | Main drawing that marks a motion pose
+FRAME | Single image in a moving picture
+RENDER | Produce a finished image from a model
+CHARACTER | Person or creature in a story
+SOUNDTRACK | Music and audio for a film
+ANIMATOR | Artist who creates movement in a film
+MODEL | Three-dimensional figure used in stop motion
+SEQUENCE | Connected series of shots

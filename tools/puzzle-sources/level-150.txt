@@ -1,0 +1,21 @@
+id: level-150
+title: Sculpture
+difficulty: HARD
+order: 150
+type: level
+size: 15
+seed: 150
+---
+CHISEL | Carving tool
+MARBLE | Classic white stone
+BRONZE | Cast metal alloy
+PLINTH | Base for a statue
+RELIEF | Carving raised from a flat surface
+BUST | Head-and-shoulders sculpture
+RODIN | Sculptor of The Thinker
+CASTING | Pouring metal into a mould
+ARMATURE | Inner frame for clay
+MAQUETTE | Small preliminary model
+TERRACOTTA | Fired clay
+PATINA | Surface sheen from age
+STATUE | Full figure carving

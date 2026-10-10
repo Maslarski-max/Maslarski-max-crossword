@@ -1,0 +1,19 @@
+id: level-187
+title: Pet Grooming
+difficulty: EASY
+order: 187
+type: level
+size: 11
+seed: 187
+---
+SHAMPOO | Liquid used to wash fur
+COMB | Tool with teeth for untangling hair
+BRUSH | Tool that smooths a pet's coat
+TOWEL | Cloth used to dry a wet animal
+PAWS | Soft feet of a cat or dog
+NAILS | Hard tips trimmed during a pet's care
+CLIPPER | Tool that trims fur
+BATH | Wash in a tub of water
+SOAP | Cleaning material that makes suds
+DRYER | Machine that blows warm air
+RIBBON | Bright strip tied in a pet's fur

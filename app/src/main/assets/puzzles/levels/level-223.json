@@ -1,0 +1,36 @@
+{
+  "id": "level-223",
+  "title": "Stage Crew",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####A##S##",
+    "#####C##C##",
+    "##COSTUME##",
+    "M#U##O##N##",
+    "A#R##ROPE##",
+    "SET#U##R###",
+    "K#A#S#SOUND",
+    "#LIGHT#P###",
+    "##N#E######",
+    "####R######"
+  ],
+  "clues": {
+    "across": {
+      "3": "Special clothing worn for a performance",
+      "5": "Strong cord used to lift scenery",
+      "7": "Painted scenery for a play",
+      "9": "What the audience hears",
+      "10": "Bright beam used to illuminate a stage"
+    },
+    "down": {
+      "1": "Person who performs a role",
+      "2": "Part of a play set in one place",
+      "3": "Cloth that hides the stage",
+      "4": "Face covering worn by a performer",
+      "6": "Object handled by an actor",
+      "8": "Worker who guides people to their seats"
+    }
+  },
+  "order": 223
+}

@@ -1,0 +1,19 @@
+id: level-195
+title: Car Wash
+difficulty: EASY
+order: 195
+type: level
+size: 11
+seed: 195
+---
+SOAP | Cleaner that makes foamy suds
+SPONGE | Soft block that soaks up water
+WATER | Liquid sprayed over the vehicle
+HOSE | Flexible tube that carries water
+WAX | Shiny coating applied after washing
+TIRE | Rubber ring around a wheel
+RIM | Outer edge that holds a tire
+BUCKET | Open container for carrying liquid
+SUDS | Bubbles made by soap
+SHINE | Bright reflection from a clean surface
+RAG | Cloth used for wiping

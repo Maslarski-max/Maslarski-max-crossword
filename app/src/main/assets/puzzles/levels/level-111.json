@@ -1,0 +1,36 @@
+{
+  "id": "level-111",
+  "title": "Rainbow Colours",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "P#R#R######",
+    "R#A#E######",
+    "I#INDIGO###",
+    "SUN###R#B##",
+    "M##V#YELLOW",
+    "###I##E#U##",
+    "###ORANGE##",
+    "###L#R#####",
+    "###E#C#####",
+    "###T#######"
+  ],
+  "clues": {
+    "across": {
+      "4": "Deep colour between blue and violet",
+      "6": "It shines to make a rainbow",
+      "9": "Colour of a canary",
+      "10": "Colour of a pumpkin"
+    },
+    "down": {
+      "1": "Glass that splits light into colours",
+      "2": "Water falling from clouds",
+      "3": "Colour of a ripe strawberry",
+      "5": "Colour of fresh grass",
+      "7": "Colour of a clear sky",
+      "8": "Purple flower and colour",
+      "11": "Curved shape of a rainbow"
+    }
+  },
+  "order": 111
+}

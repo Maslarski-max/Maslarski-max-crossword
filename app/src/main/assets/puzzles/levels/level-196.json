@@ -1,0 +1,34 @@
+{
+  "id": "level-196",
+  "title": "Pottery for Kids",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#MUG###POT#",
+    "###L###I###",
+    "###APRON#H#",
+    "###Z###CLAY",
+    "VASE###H#N#",
+    "##P######D#",
+    "#KILN####L#",
+    "##N###WHEEL"
+  ],
+  "clues": {
+    "across": {
+      "1": "Cup with a handle",
+      "3": "Vessel made for holding or cooking",
+      "4": "Cloth worn to protect clothes",
+      "6": "Soft earth shaped before firing",
+      "7": "Container for holding flowers",
+      "9": "Hot oven for hardening pottery",
+      "10": "Spinning platform for forming a pot"
+    },
+    "down": {
+      "2": "Glassy coating on fired pottery",
+      "3": "Shape a small pot using finger pressure",
+      "5": "Part gripped to lift a cup",
+      "8": "Turn around quickly"
+    }
+  },
+  "order": 196
+}

@@ -1,0 +1,20 @@
+id: level-123
+title: Hospital Ward
+difficulty: MEDIUM
+order: 123
+type: level
+size: 13
+seed: 123
+---
+NURSE | Carer in scrubs
+DOCTOR | Physician
+SURGEON | Doctor who operates
+BANDAGE | Strip wrapped round a wound
+STRETCHER | Bed for carrying patients
+XRAY | Picture of the bones
+PATIENT | Person being treated
+PHARMACY | Where medicine is dispensed
+VACCINE | Jab that prevents disease
+THERMOMETER | Measures body temperature
+PLASTER | Cast for a broken arm
+WARD | Hospital room of beds

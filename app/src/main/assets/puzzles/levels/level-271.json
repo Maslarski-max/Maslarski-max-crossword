@@ -1,0 +1,42 @@
+{
+  "id": "level-271",
+  "title": "Bacterial Genetics",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "########ENZYME#",
+    "############U##",
+    "#######PROMOTER",
+    "#######L####A#E",
+    "#O#T###A##R#T#P",
+    "#P#RIBOSOME#I#R",
+    "#E#A#A#M##S#O#E",
+    "TRANSCRIPTION#S",
+    "#O#S#T#D##S###S",
+    "#N#F#E####T###O",
+    "###E#R####A###R",
+    "###R#I##GENOME#",
+    "#####U####C####",
+    "#CHROMOSOME####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Protein that speeds up a chemical reaction",
+      "3": "DNA region where transcription can begin",
+      "8": "Cell structure that makes proteins",
+      "10": "Copying genetic instructions into RNA",
+      "11": "Complete set of genetic instructions",
+      "12": "Long DNA molecule carrying many bacterial genes"
+    },
+    "down": {
+      "2": "Change in genetic material",
+      "3": "Small DNA molecule separate from a chromosome",
+      "4": "Protein that can switch off gene expression",
+      "5": "Cluster of genes controlled together",
+      "6": "Movement of genetic material between cells",
+      "7": "Ability to withstand an antibiotic",
+      "9": "Single-celled microorganism without a nucleus"
+    }
+  },
+  "order": 271
+}

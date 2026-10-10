@@ -1,0 +1,38 @@
+{
+  "id": "level-149",
+  "title": "Jungle River",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "#######P#####",
+    "#######I####C",
+    "#######R#L##A",
+    "S#J####A#I##I",
+    "L#ANACONDA##M",
+    "O#G##A#H#N##A",
+    "TOUCAN#AMAZON",
+    "H#A##O##A##T#",
+    "##R##P##C##T#",
+    "#####Y#CANOE#",
+    "########W##R#"
+  ],
+  "clues": {
+    "across": {
+      "6": "Huge water snake",
+      "8": "Bird with a big bright beak",
+      "9": "Great South American river",
+      "12": "Narrow paddled boat"
+    },
+    "down": {
+      "1": "Sharp-toothed fish",
+      "2": "Small crocodilian",
+      "3": "Woody climbing vine",
+      "4": "Slow hanging mammal",
+      "5": "Spotted big cat",
+      "7": "Treetop layer",
+      "10": "Colourful parrot",
+      "11": "Playful swimmer"
+    }
+  },
+  "order": 149
+}

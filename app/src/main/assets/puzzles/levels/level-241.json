@@ -1,0 +1,41 @@
+{
+  "id": "level-241",
+  "title": "Meteorite Chemistry",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "########NICKEL#",
+    "#CRYSTAL##H####",
+    "####P###ISOTOPE",
+    "####E#A#R#N#L##",
+    "##P#C#CHONDRITE",
+    "##Y#T#H#N#R#V##",
+    "##R#R#O##FUSION",
+    "##O#O#N###L#N##",
+    "##X#M#D###E#E##",
+    "#METEORITE#####",
+    "##N#T#I########",
+    "ELEMENT########",
+    "####R#E########"
+  ],
+  "clues": {
+    "across": {
+      "1": "Metal often found with iron in meteorites",
+      "3": "Solid with an ordered atomic structure",
+      "5": "Atoms of an element with different neutron counts",
+      "9": "Stony meteorite containing small rounded grains",
+      "10": "Joining of material under heat",
+      "11": "Space fragment recovered after reaching the ground",
+      "12": "Substance made of one kind of atom"
+    },
+    "down": {
+      "2": "Small rounded grain in a stony meteorite",
+      "4": "Instrument that measures a spectrum",
+      "5": "Metal abundant in some meteorites",
+      "6": "Green mineral found in many meteorites",
+      "7": "Stony meteorite without chondrules",
+      "8": "Group of silicate minerals in igneous rocks"
+    }
+  },
+  "order": 241
+}

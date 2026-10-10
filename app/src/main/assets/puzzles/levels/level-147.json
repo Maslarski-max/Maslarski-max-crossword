@@ -1,0 +1,38 @@
+{
+  "id": "level-147",
+  "title": "Bakery Oven",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "########D#C##",
+    "Y#B###FLOUR##",
+    "E#A##C##U#U##",
+    "A#G##R##G#M##",
+    "SOURDOUGH#B##",
+    "T#E##I##N###K",
+    "##T##S#MUFFIN",
+    "##T##S##T###E",
+    "##ECLAIR####A",
+    "#####N#Y####D",
+    "##PRETZEL####"
+  ],
+  "clues": {
+    "across": {
+      "5": "Ground wheat",
+      "7": "Tangy fermented bread",
+      "9": "Small domed cake",
+      "10": "Cream-filled choux finger",
+      "12": "Twisted salty knot"
+    },
+    "down": {
+      "1": "Ring with a hole",
+      "2": "Tiny bit of bread",
+      "3": "It makes dough rise",
+      "4": "Long French loaf",
+      "6": "Flaky crescent pastry",
+      "8": "Work the dough by hand",
+      "11": "Dark grain for bread"
+    }
+  },
+  "order": 147
+}

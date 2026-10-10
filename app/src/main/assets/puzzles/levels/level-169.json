@@ -1,0 +1,40 @@
+{
+  "id": "level-169",
+  "title": "Robotics Workshop",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####W#CODING#",
+    "####H#I######",
+    "###GEAR######",
+    "####E#C######",
+    "####L#U#ROBOT",
+    "######I#E#A##",
+    "####AUTOMATE#",
+    "########O#T##",
+    "##J#M###T#E##",
+    "PROTOTYPE#R##",
+    "##I#T#####Y##",
+    "SENSOR#######",
+    "##T#R########"
+  ],
+  "clues": {
+    "across": {
+      "2": "Writing instructions for a computer",
+      "3": "Toothed part that transfers motion",
+      "4": "Machine that can carry out tasks",
+      "6": "Make a process work by itself",
+      "9": "Early model built for testing",
+      "10": "Device that detects a change nearby"
+    },
+    "down": {
+      "1": "Round part that rolls along a surface",
+      "2": "Connected path for electric current",
+      "4": "Handheld controller for a device",
+      "5": "Stored source of electrical power",
+      "7": "Moving connection between machine parts",
+      "8": "Machine that creates movement"
+    }
+  },
+  "order": 169
+}

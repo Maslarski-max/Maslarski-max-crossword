@@ -1,0 +1,37 @@
+{
+  "id": "level-138",
+  "title": "Wild West",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "######H#C#",
+    "#B###WAGON",
+    "#O##D#T#W#",
+    "HORSE###B#",
+    "#T##SALOON",
+    "#S##E#A#Y#",
+    "##R#R#S###",
+    "#CACTUS###",
+    "##N###O###",
+    "##C#######",
+    "#SHERIFF##"
+  ],
+  "clues": {
+    "across": {
+      "4": "Covered cart for pioneers",
+      "6": "Animal ridden on the range",
+      "7": "Bar with swinging doors",
+      "10": "Prickly desert plant",
+      "11": "Law officer with a star"
+    },
+    "down": {
+      "1": "Stetson",
+      "2": "Ranch rider in a hat",
+      "3": "Footwear with spurs",
+      "5": "Dry sandy land",
+      "8": "Rope loop for catching cattle",
+      "9": "Large cattle farm"
+    }
+  },
+  "order": 138
+}

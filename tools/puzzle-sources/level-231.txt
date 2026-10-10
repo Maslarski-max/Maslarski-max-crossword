@@ -1,0 +1,20 @@
+id: level-231
+title: Ceramics Studio
+difficulty: MEDIUM
+order: 231
+type: level
+size: 13
+seed: 231
+---
+POTTERY | Objects made from shaped and fired clay
+WEDGE | Press clay to remove air bubbles
+GROG | Crushed fired clay added to a clay body
+SLIP | Liquid clay used to join pieces
+KILN | Oven that fires clay at high temperature
+GLAZE | Glassy coating fused to pottery
+FOOTRING | Raised ring supporting the base of a bowl
+BISQUE | First firing of a clay object
+THROW | Shape clay on a spinning wheel
+PORCELAIN | Hard ceramic made from refined materials
+STONEWARE | Durable pottery fired at high temperature
+SCULPT | Shape a solid material into an artwork

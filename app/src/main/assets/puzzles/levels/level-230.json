@@ -1,0 +1,40 @@
+{
+  "id": "level-230",
+  "title": "Cave Exploration",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "D###SPELUNKER",
+    "R###T########",
+    "I#CHAMBER####",
+    "P#R#L#A#####E",
+    "STALACTITE##N",
+    "T#W#G#####H#T",
+    "O#LIMESTONE#R",
+    "N#W#I#####A#A",
+    "E#A#T#R###D#N",
+    "##Y#E#O###L#C",
+    "######PASSAGE",
+    "######E###M##",
+    "##########P##"
+  ],
+  "clues": {
+    "across": {
+      "2": "Person who explores caves for recreation",
+      "3": "Large room inside a cave",
+      "6": "Mineral formation hanging from a cave roof",
+      "8": "Rock often dissolved to form caves",
+      "10": "Narrow route through a cave"
+    },
+    "down": {
+      "1": "Mineral deposit formed by dripping water",
+      "2": "Mineral formation rising from a cave floor",
+      "3": "Very low tunnel through a cave",
+      "4": "Flying mammal that may roost in caves",
+      "5": "Opening that leads into a cave",
+      "7": "Light fastened to a helmet",
+      "9": "Strong cord used on a descent"
+    }
+  },
+  "order": 230
+}

@@ -1,0 +1,43 @@
+{
+  "id": "level-292",
+  "title": "Astrobiology",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "H###METABOLISM#",
+    "A############I#",
+    "BIOSIGNATURE#C#",
+    "I######S###X#R#",
+    "T####EXTINCTION",
+    "A######R###R#B#",
+    "B#E#ATMOSPHERE#",
+    "I#X####B###M###",
+    "L#ORGANIC##O#S#",
+    "I#P####O###P#O#",
+    "T#L####L###H#L#",
+    "Y#A####O###I#V#",
+    "##N####G###L#E#",
+    "##E####Y#OCEAN#",
+    "METHANE######T#"
+  ],
+  "clues": {
+    "across": {
+      "2": "Chemical processes that sustain living things",
+      "4": "Possible sign of past or present life",
+      "7": "End of a species",
+      "9": "Layer of gases around a planet",
+      "10": "Containing carbon, often used in life chemistry",
+      "12": "Large body of salt water",
+      "13": "Simple carbon-based gas found on some worlds"
+    },
+    "down": {
+      "1": "Suitability of an environment for life",
+      "3": "Microscopic living organism",
+      "5": "Study of life in the universe",
+      "6": "Organism adapted to harsh environmental conditions",
+      "8": "Planet orbiting a star beyond our solar system",
+      "11": "Liquid able to dissolve another substance"
+    }
+  },
+  "order": 292
+}

@@ -1,0 +1,19 @@
+id: level-219
+title: Houseplant Care
+difficulty: EASY
+order: 219
+type: level
+size: 11
+seed: 219
+---
+POTTING | Placing a plant into a container
+SOIL | Loose earth where roots grow
+ROOT | Part that takes up water underground
+STEM | Plant part that supports leaves
+LEAF | Flat part that gathers sunlight
+WATER | Clear liquid needed by a plant
+FERN | Leafy plant that grows from spores
+CACTUS | Spiny plant adapted to dry places
+WINDOW | Opening that lets daylight indoors
+PRUNER | Tool for trimming stems
+SAUCER | Shallow dish beneath a flowerpot

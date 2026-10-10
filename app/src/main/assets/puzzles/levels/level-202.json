@@ -1,0 +1,39 @@
+{
+  "id": "level-202",
+  "title": "Space Telescope",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "####M##O##D##",
+    "####INFRARED#",
+    "#H##R##B##T##",
+    "#ULTRAVIOLET#",
+    "#B##O##T##C#C",
+    "OBSERVE###T#O",
+    "#L#####N##O#S",
+    "#E###SPECTRUM",
+    "#######B####O",
+    "####FOCUS###S",
+    "#######L#####",
+    "######GALAXY#"
+  ],
+  "clues": {
+    "across": {
+      "4": "Light with wavelengths longer than visible red",
+      "6": "Light with wavelengths shorter than visible violet",
+      "8": "Watch carefully to gather information",
+      "10": "Spread of light separated by wavelength",
+      "11": "Bring an image into sharp view",
+      "12": "Vast system of stars and gas"
+    },
+    "down": {
+      "1": "Reflective surface that gathers light",
+      "2": "Curved path around a celestial body",
+      "3": "Device that senses incoming light",
+      "5": "Space telescope named for an astronomer",
+      "7": "The universe considered as a whole",
+      "9": "Cloud of gas and dust in space"
+    }
+  },
+  "order": 202
+}

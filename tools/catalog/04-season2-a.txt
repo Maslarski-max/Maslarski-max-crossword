@@ -1,0 +1,367 @@
+=== Picnic Basket | EASY
+SANDWICH | Two slices of bread with a filling
+BLANKET | Spread it on the grass to sit on
+APPLE | Crunchy fruit packed for lunch
+JUICE | Drink squeezed from fruit
+CHEESE | Cheddar or brie
+CAKE | Sweet baked treat cut into slices
+NAPKIN | Paper square for wiping fingers
+ANTS | Tiny uninvited guests
+BASKET | Wicker carrier with a lid
+PARK | Grassy public place for a day out
+LEMONADE | Sweet citrus drink
+CUP | Small drinking vessel
+
+=== Zoo Visit | EASY
+LION | King of the jungle
+ZEBRA | Striped horse of Africa
+GIRAFFE | Tallest animal on land
+MONKEY | Banana-loving climber
+PANDA | Black-and-white bamboo eater
+TIGER | Big cat with orange stripes
+SEAL | Flippered animal that claps
+PENGUIN | Bird in a tuxedo that cannot fly
+HIPPO | Huge river animal with a wide mouth
+CAMEL | Desert animal with humps
+KEEPER | Person who feeds the zoo animals
+OWL | Night bird that hoots
+
+=== Playground | EASY
+SWING | Seat hung on chains that goes to and fro
+SLIDE | Smooth slope you whoosh down
+SEESAW | Plank that tips up and down
+SANDPIT | Box of sand for digging
+TAG | Chasing game: you are it
+LADDER | Steps for climbing up
+BENCH | Long seat for parents
+HOPSCOTCH | Jumping game drawn in chalk
+ROPE | Skip with it
+BALL | Round toy to kick or throw
+FRIEND | Someone you like to play with
+
+=== Rainbow Colours | EASY
+RED | Colour of a ripe strawberry
+ORANGE | Colour of a pumpkin
+YELLOW | Colour of a canary
+GREEN | Colour of fresh grass
+BLUE | Colour of a clear sky
+INDIGO | Deep colour between blue and violet
+VIOLET | Purple flower and colour
+RAIN | Water falling from clouds
+SUN | It shines to make a rainbow
+ARC | Curved shape of a rainbow
+PRISM | Glass that splits light into colours
+
+=== Pizza Night | EASY
+DOUGH | Stretchy base before baking
+TOMATO | Red sauce ingredient
+CHEESE | Melted topping, often mozzarella
+OVEN | Hot box where it bakes
+SLICE | One triangle of the pie
+PEPPERONI | Spicy sausage topping
+OLIVE | Small black or green topping
+MUSHROOM | Fungus topping
+CRUST | Crunchy edge of the pizza
+BASIL | Green herb on a margherita
+BOX | Cardboard delivery carrier
+
+=== Little Cottage | EASY
+DOOR | You open it to go inside
+WINDOW | Glass pane in a wall
+ROOF | Top covering of a house
+CHIMNEY | Smoke goes up it
+GARDEN | Patch of flowers by the house
+GATE | Opening in a fence
+STAIRS | Steps between floors
+KITCHEN | Room where meals are cooked
+BEDROOM | Room where you sleep
+ATTIC | Room right under the roof
+PORCH | Covered entrance to a house
+
+=== Busy Bees | EASY
+HONEY | Sweet golden food bees make
+HIVE | Bee home
+QUEEN | Mother of the colony
+STING | Bee's painful defence
+FLOWER | Bees visit it for nectar
+POLLEN | Yellow dust bees carry
+BUZZ | Sound of a bee
+WAX | Material of a honeycomb
+SWARM | Large flying group of bees
+DRONE | Male bee
+NECTAR | Sweet liquid in flowers
+
+=== Snow Day | EASY
+SNOWMAN | Frosty figure with a carrot nose
+SLED | Ride it down a snowy hill
+SCARF | Warm strip worn round the neck
+MITTENS | Gloves without separate fingers
+ICICLE | Frozen spike hanging from a roof
+FLAKE | Single crystal of snow
+COCOA | Hot chocolate drink
+BOOTS | Warm waterproof footwear
+SHOVEL | Tool to clear the path
+IGLOO | Dome house made of ice blocks
+COLD | Opposite of hot
+
+=== Tool Shed | EASY
+HAMMER | Tool for banging in nails
+SAW | Toothed blade for cutting wood
+DRILL | Tool that makes holes
+NAIL | Thin metal spike
+SCREW | Twisting fastener
+WRENCH | Tool for turning nuts
+RAKE | Garden tool for gathering leaves
+SPADE | Tool for digging
+LADDER | Climb it to reach high places
+GLUE | Sticky stuff that joins things
+TAPE | Sticky roll for measuring or sealing
+
+=== Airport | MEDIUM
+RUNWAY | Strip where planes take off
+TERMINAL | Main airport building
+PASSPORT | Document needed to cross borders
+LUGGAGE | Suitcases and bags
+BOARDING | Getting onto the plane
+PILOT | Person who flies the aircraft
+CUSTOMS | Where imported goods are checked
+GATE | Numbered door to your flight
+DEPARTURE | Leaving, on the big board
+ARRIVAL | Landing, on the big board
+HANGAR | Building where planes are stored
+JETLAG | Tiredness after crossing time zones
+TICKET | Pass for your seat
+
+=== Pirates | MEDIUM
+TREASURE | Buried chest of gold
+PARROT | Talking bird on a shoulder
+CAPTAIN | Ship's commander
+PLANK | Board prisoners must walk
+CUTLASS | Short curved sword
+GALLEON | Large old sailing ship
+ANCHOR | Heavy hook dropped to the seabed
+COMPASS | Instrument pointing north
+DOUBLOON | Old Spanish gold coin
+MUTINY | Crew uprising against officers
+ISLAND | Land surrounded by water
+SKULL | Bony emblem on a black flag
+LOOT | Stolen goods
+
+=== Circus Tent | MEDIUM
+ACROBAT | Performer of flips and tumbles
+JUGGLER | Keeps several balls in the air
+CLOWN | Red-nosed funny performer
+TRAPEZE | High swinging bar
+RINGMASTER | Host in a top hat
+TIGHTROPE | Thin line walked high above
+ELEPHANT | Huge performer with a trunk
+POPCORN | Snack sold in striped bags
+STILTS | Tall poles to walk on
+UNICYCLE | One-wheeled ride
+MAGICIAN | Pulls a rabbit from a hat
+TENT | Big top
+
+=== Bridges | MEDIUM
+ARCH | Curved bridge shape
+SUSPENSION | Bridge hung from cables
+VIADUCT | Long bridge carrying a railway
+TOLL | Fee paid to cross
+SPAN | Distance between supports
+GIRDER | Heavy steel beam
+PILLAR | Upright support
+CABLE | Thick steel rope
+DRAWBRIDGE | Castle bridge that lifts up
+RIVER | Water flowing under
+GOLDEN | ___ Gate in San Francisco
+TOWER | London bridge with two of them
+
+=== Medieval Village | MEDIUM
+BLACKSMITH | Worker at the anvil
+MILLER | Grinds grain into flour
+PEASANT | Poor farm worker
+MANOR | Lord's estate house
+TAVERN | Inn serving ale
+MARKET | Weekly trading square
+CHAPEL | Small place of worship
+THATCH | Straw roof covering
+WELL | Village water source
+SQUIRE | Knight's attendant
+JESTER | Court entertainer with bells
+TITHE | Tenth given to the church
+PLOUGH | Farm tool pulled by oxen
+
+=== Supermarket | MEDIUM
+TROLLEY | Wheeled basket for shopping
+CHECKOUT | Where you pay
+RECEIPT | Proof of purchase
+BARCODE | Striped label scanned at the till
+AISLE | Passage between shelves
+FREEZER | Cold cabinet for ice cream
+BAKERY | Counter with fresh bread
+CASHIER | Person at the till
+DISCOUNT | Price reduction
+DAIRY | Section with milk and yoghurt
+PRODUCE | Fresh fruit and vegetables
+BASKET | Hand-held carrier
+
+=== Hospital Ward | MEDIUM
+NURSE | Carer in scrubs
+DOCTOR | Physician
+SURGEON | Doctor who operates
+BANDAGE | Strip wrapped round a wound
+STRETCHER | Bed for carrying patients
+XRAY | Picture of the bones
+PATIENT | Person being treated
+PHARMACY | Where medicine is dispensed
+VACCINE | Jab that prevents disease
+THERMOMETER | Measures body temperature
+PLASTER | Cast for a broken arm
+WARD | Hospital room of beds
+
+=== Newspaper | MEDIUM
+HEADLINE | Big bold title on page one
+EDITOR | Person in charge of content
+COLUMN | Regular opinion piece
+REPORTER | Journalist who gathers news
+CROSSWORD | Grid puzzle on the back pages
+OBITUARY | Notice of a death
+HOROSCOPE | Star-sign forecast
+CARTOON | Funny drawing
+PRESS | Printing machine, or the media
+DEADLINE | Time a story must be finished
+SCOOP | Exclusive story
+ISSUE | Single edition
+
+=== Tea Time | MEDIUM
+TEAPOT | Vessel for brewing
+SAUCER | Small plate under a cup
+SCONE | Baked treat with jam and cream
+KETTLE | Boils the water
+BISCUIT | Something to dunk
+EARLGREY | Tea flavoured with bergamot
+SUGAR | Sweetener in lumps
+INFUSER | Holder for loose leaves
+MILK | Added to make it white
+CREAM | Clotted topping
+STRAINER | Catches stray leaves
+OOLONG | Partly oxidised Chinese tea
+
+=== Volcanic Islands | HARD
+HAWAII | Pacific state with Mauna Loa
+ICELAND | Land of fire and ice
+KRAKATOA | Volcano that erupted catastrophically in 1883
+SANTORINI | Greek island in a caldera
+GALAPAGOS | Islands that inspired Darwin
+CALDERA | Collapsed volcanic crater
+BASALT | Dark volcanic rock
+TSUNAMI | Giant wave from an undersea quake
+MAGMA | Molten rock below ground
+ARCHIPELAGO | Chain of islands
+ATOLL | Ring-shaped coral reef
+PUMICE | Light rock that floats
+FUMAROLE | Vent emitting steam and gas
+
+=== Renaissance | HARD
+LEONARDO | Painter of the Mona Lisa
+MICHELANGELO | Sculptor of David
+RAPHAEL | Painter of The School of Athens
+FLORENCE | Tuscan cradle of the movement
+MEDICI | Banking family of patrons
+FRESCO | Painting on wet plaster
+HUMANISM | Philosophy centred on human potential
+PERSPECTIVE | Technique for depth on a flat surface
+PATRON | Wealthy sponsor of art
+DONATELLO | Early sculptor of a bronze David
+MACHIAVELLI | Author of The Prince
+GUTENBERG | Inventor of the printing press
+SFUMATO | Soft blending of tones
+
+=== Meteorology | HARD
+ISOBAR | Line of equal pressure on a map
+BAROMETER | Instrument for air pressure
+CUMULUS | Fluffy fair-weather cloud
+CIRRUS | Wispy high cloud
+STRATUS | Flat grey layer cloud
+HUMIDITY | Moisture in the air
+ANEMOMETER | Measures wind speed
+CYCLONE | Rotating storm system
+MONSOON | Seasonal rain-bearing wind
+FRONT | Boundary between air masses
+DROUGHT | Long spell without rain
+HAILSTONE | Ball of ice falling from a cloud
+JETSTREAM | Fast high-altitude air current
+
+=== Typography | HARD
+SERIF | Small stroke on the end of a letter
+KERNING | Spacing between letter pairs
+LEADING | Space between lines of text
+ITALIC | Slanted style
+LIGATURE | Two letters joined as one glyph
+ASCENDER | Part of a letter above the x-height
+BASELINE | Line letters sit on
+GLYPH | Single character shape
+TYPEFACE | Family of fonts
+EMDASH | Long punctuation mark
+GARAMOND | Classic old-style font
+HELVETICA | Famous Swiss sans-serif
+PICA | Unit of twelve points
+
+=== Ancient Greece | HARD
+ATHENS | City named after a goddess
+SPARTA | City of fierce warriors
+ACROPOLIS | Citadel above Athens
+PARTHENON | Temple of Athena
+HOPLITE | Armoured foot soldier
+AGORA | Public marketplace
+ORACLE | Prophet at Delphi
+TRIREME | Warship with three banks of oars
+DEMOCRACY | Rule by the people
+AMPHORA | Two-handled jar
+HOMER | Poet of the Iliad
+OLYMPIA | Site of the original Games
+PERICLES | Statesman of the golden age
+
+=== Microbiology | HARD
+BACTERIA | Single-celled microbes
+VIRUS | Infectious agent that hijacks cells
+PETRIDISH | Shallow lab plate for cultures
+MICROSCOPE | Instrument for seeing tiny things
+ANTIBIOTIC | Drug that kills bacteria
+PATHOGEN | Disease-causing organism
+SPORE | Hardy reproductive cell
+YEAST | Fungus that leavens bread
+CULTURE | Colony grown in a lab
+PENICILLIN | Fleming's discovery
+FLAGELLUM | Whip-like tail for movement
+AGAR | Gel used as a growth medium
+MICROBE | Tiny living thing
+
+=== Heraldry | HARD
+SHIELD | Main surface of a coat of arms
+CREST | Emblem above the helmet
+MOTTO | Phrase on a scroll
+GULES | Heraldic red
+AZURE | Heraldic blue
+ARGENT | Heraldic silver
+SABLE | Heraldic black
+LION | Common royal beast
+RAMPANT | Rearing on hind legs
+CHEVRON | Inverted V band
+GRIFFIN | Eagle-lion creature
+BLAZON | Formal description of arms
+HERALD | Officer of arms
+
+=== Orchestra Pit | HARD
+CONDUCTOR | Leader with a baton
+VIOLIN | Highest bowed string
+CELLO | Seated bowed string instrument
+OBOE | Double-reed woodwind
+BASSOON | Low double-reed woodwind
+TIMPANI | Kettle drums
+PICCOLO | Small high flute
+TROMBONE | Brass with a slide
+CLARINET | Single-reed woodwind
+HARP | Plucked strings in a frame
+SCORE | Written music for all parts
+OVERTURE | Opening instrumental piece
+CONCERTO | Work for soloist and orchestra

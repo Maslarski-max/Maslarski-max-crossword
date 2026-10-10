@@ -1,0 +1,21 @@
+id: level-237
+title: Marine Mammal Biology
+difficulty: HARD
+order: 237
+type: level
+size: 15
+seed: 237
+---
+CETACEAN | Member of the whale, dolphin, or porpoise group
+PINNIPED | Seal, sea lion, or walrus
+MYSTICETE | Baleen whale
+ODONTOCETE | Toothed whale
+ECHOLOCATION | Use of sound echoes to locate objects
+BLUBBER | Thick insulating fat beneath the skin
+POD | Social group of dolphins or whales
+MIGRATION | Seasonal journey between feeding areas
+FLIPPER | Broad limb used for swimming
+VOCALIZE | Make sounds for communication
+CALF | Young whale or dolphin
+KRILL | Tiny crustacean eaten by many whales
+MAMMAL | Warm-blooded animal that feeds young with milk

@@ -1,0 +1,37 @@
+{
+  "id": "level-164",
+  "title": "Nature Walk",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "#####P#####",
+    "##TRAIL####",
+    "##W##N#S###",
+    "##I##E#T##B",
+    "##G#ACORN#O",
+    "#####O#E##O",
+    "#L###N#A##T",
+    "PEBBLE#MOSS",
+    "#A#A#######",
+    "#FERN######",
+    "###K#######"
+  ],
+  "clues": {
+    "across": {
+      "2": "Path through the countryside",
+      "5": "Nut that grows on an oak",
+      "7": "Small smooth stone",
+      "9": "Soft green growth on damp ground",
+      "10": "Plant with divided leafy fronds"
+    },
+    "down": {
+      "1": "Seed case from a pine tree",
+      "2": "Small thin branch",
+      "3": "Small flowing body of water",
+      "4": "Sturdy footwear for a walk",
+      "6": "Flat green part of many plants",
+      "8": "Rough outer covering of a tree"
+    }
+  },
+  "order": 164
+}

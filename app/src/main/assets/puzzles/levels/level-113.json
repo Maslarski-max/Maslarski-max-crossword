@@ -1,0 +1,37 @@
+{
+  "id": "level-113",
+  "title": "Little Cottage",
+  "author": "Crossword Team",
+  "difficulty": "EASY",
+  "grid": [
+    "###BEDROOM",
+    "#####O####",
+    "S#G##O#P##",
+    "T#A##ROOF#",
+    "ATTIC##R#W",
+    "I#E#H##C#I",
+    "R##KITCHEN",
+    "S###M####D",
+    "####N####O",
+    "GARDEN###W",
+    "####Y#####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Room where you sleep",
+      "6": "Top covering of a house",
+      "7": "Room right under the roof",
+      "10": "Room where meals are cooked",
+      "11": "Patch of flowers by the house"
+    },
+    "down": {
+      "2": "You open it to go inside",
+      "3": "Steps between floors",
+      "4": "Opening in a fence",
+      "5": "Covered entrance to a house",
+      "8": "Smoke goes up it",
+      "9": "Glass pane in a wall"
+    }
+  },
+  "order": 113
+}

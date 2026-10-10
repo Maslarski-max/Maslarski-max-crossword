@@ -1,0 +1,41 @@
+{
+  "id": "level-129",
+  "title": "Typography",
+  "author": "Crossword Team",
+  "difficulty": "HARD",
+  "grid": [
+    "#########T####",
+    "E########Y##A#",
+    "M########P##S#",
+    "D####HELVETICA",
+    "A##L###E#F##E#",
+    "SERIF#GARAMOND",
+    "H##G#K#D#C##D#",
+    "##BASELINE##E#",
+    "###T#R#N####R#",
+    "###U#N#GLYPH##",
+    "###R#I####I###",
+    "###E#N####C###",
+    "#####G##ITALIC"
+  ],
+  "clues": {
+    "across": {
+      "4": "Famous Swiss sans-serif",
+      "7": "Small stroke on the end of a letter",
+      "8": "Classic old-style font",
+      "10": "Line letters sit on",
+      "11": "Single character shape",
+      "13": "Slanted style"
+    },
+    "down": {
+      "1": "Family of fonts",
+      "2": "Long punctuation mark",
+      "3": "Part of a letter above the x-height",
+      "5": "Space between lines of text",
+      "6": "Two letters joined as one glyph",
+      "9": "Spacing between letter pairs",
+      "12": "Unit of twelve points"
+    }
+  },
+  "order": 129
+}
