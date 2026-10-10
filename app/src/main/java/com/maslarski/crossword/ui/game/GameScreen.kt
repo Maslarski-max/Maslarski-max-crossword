@@ -63,6 +63,7 @@ import androidx.compose.ui.input.key.utf16CodePoint
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.platform.LocalResources
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.LifecycleResumeEffect
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
@@ -150,7 +151,7 @@ fun GameScreen(
             TopAppBar(
                 title = {
                     Column {
-                        Text(state.puzzle?.title.orEmpty(), style = MaterialTheme.typography.titleMedium, maxLines = 1)
+                        Text(state.puzzle?.title.orEmpty(), style = MaterialTheme.typography.titleMedium, maxLines = 1, overflow = TextOverflow.Ellipsis)
                         state.puzzle?.let {
                             Text(
                                 difficultyLabel(it.difficulty),
