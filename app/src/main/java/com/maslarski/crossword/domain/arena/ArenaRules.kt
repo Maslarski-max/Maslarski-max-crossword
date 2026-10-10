@@ -19,6 +19,7 @@ object ArenaRules {
     const val RACK_SIZE = 7
     const val WIN_REWARD = 20
     const val DRAW_REWARD = 10
+    const val LOSS_PENALTY = 10
     const val SCORELESS_TURN_LIMIT = 4
 
     private const val GIVEN_RATIO = 0.3
@@ -208,5 +209,11 @@ object ArenaRules {
         ArenaOutcome.WON -> WIN_REWARD
         ArenaOutcome.DRAW -> DRAW_REWARD
         ArenaOutcome.LOST, ArenaOutcome.FORFEIT -> 0
+    }
+
+    /** Coins a lost or forfeited match costs; the wallet never goes below zero. */
+    fun penaltyCoins(outcome: ArenaOutcome, balance: Int): Int = when (outcome) {
+        ArenaOutcome.LOST, ArenaOutcome.FORFEIT -> LOSS_PENALTY.coerceAtMost(balance.coerceAtLeast(0))
+        ArenaOutcome.WON, ArenaOutcome.DRAW -> 0
     }
 }

@@ -11,6 +11,7 @@ data class ArenaResult(
     val playerScore: Int,
     val opponentScore: Int,
     val coinsEarned: Int,
+    val coinsLost: Int = 0,
 )
 
 /** Arena career stats, kept apart from classic progress. A forfeited match counts as a loss. */

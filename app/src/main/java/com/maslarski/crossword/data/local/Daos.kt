@@ -94,6 +94,9 @@ interface WalletDao {
     @Query("SELECT coins FROM wallet WHERE id = 0")
     fun observeCoins(): Flow<Int?>
 
+    @Query("SELECT coins FROM wallet WHERE id = 0")
+    suspend fun coins(): Int?
+
     @Query("SELECT lifetimeEarned FROM wallet WHERE id = 0")
     fun observeLifetimeEarned(): Flow<Int?>
 

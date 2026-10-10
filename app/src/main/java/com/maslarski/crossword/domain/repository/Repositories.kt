@@ -71,7 +71,7 @@ interface ArenaRepository {
     fun observeStats(): Flow<ArenaStats>
     /** The unfinished match, if any. At most one exists at a time. */
     fun observeActiveMatch(): Flow<ArenaMatch?>
-    /** Stores a new match and returns its id; an unfinished previous match is recorded as forfeited. */
+    /** Stores a new match and returns its id; an unfinished previous match is recorded as forfeited and charged the loss penalty. */
     suspend fun startMatch(state: ArenaState): Long
     suspend fun loadMatch(id: Long): ArenaMatch?
     suspend fun saveMatch(id: Long, state: ArenaState)

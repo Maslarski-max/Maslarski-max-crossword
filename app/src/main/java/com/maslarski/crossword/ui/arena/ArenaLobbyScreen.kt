@@ -165,7 +165,7 @@ fun ArenaLobbyScreen(
         AlertDialog(
             onDismissRequest = { confirm = null },
             title = { Text(stringResource(R.string.arena_new_match_title)) },
-            text = { Text(stringResource(R.string.arena_new_match_body)) },
+            text = { Text(stringResource(R.string.arena_new_match_body, ArenaRules.LOSS_PENALTY)) },
             confirmButton = {
                 TextButton(onClick = {
                     confirm = null
@@ -203,7 +203,7 @@ private fun OpponentCard(difficulty: Difficulty, unlocked: Boolean, enabled: Boo
                 Text(summary, style = MaterialTheme.typography.bodyMedium, color = MaterialTheme.colorScheme.onSurfaceVariant)
                 if (unlocked) {
                     Text(
-                        stringResource(R.string.arena_win_reward, ArenaRules.WIN_REWARD),
+                        stringResource(R.string.arena_win_reward, ArenaRules.WIN_REWARD, ArenaRules.LOSS_PENALTY),
                         style = MaterialTheme.typography.labelMedium,
                         color = MaterialTheme.colorScheme.tertiary,
                     )

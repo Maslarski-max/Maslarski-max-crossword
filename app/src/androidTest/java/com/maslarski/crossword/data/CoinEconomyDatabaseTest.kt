@@ -151,11 +151,33 @@ class CoinEconomyDatabaseTest {
     }
 
     @Test
-    fun arenaLossPaysNothing() = runBlocking {
+    fun arenaLossCostsTenCoinsExactlyOnce() = runBlocking {
         val id = arena.startMatch(arenaState(finished = false))
-        val result = arena.finishMatch(id, arenaState(finished = true, playerScore = 3, opponentScore = 9))
+        val lost = arenaState(finished = true, playerScore = 3, opponentScore = 9)
+        val result = arena.finishMatch(id, lost)
         assertEquals(0, result?.coinsEarned)
+        assertEquals(ArenaRules.LOSS_PENALTY, result?.coinsLost)
+        assertEquals(GameRules.STARTING_COINS - ArenaRules.LOSS_PENALTY, coins())
+        assertEquals(-ArenaRules.LOSS_PENALTY, ledger.pending.value.last().delta)
+
+        assertNull(arena.finishMatch(id, lost))
+        assertEquals(GameRules.STARTING_COINS - ArenaRules.LOSS_PENALTY, coins())
+    }
+
+    @Test
+    fun arenaLossNeverTakesTheWalletBelowZero() = runBlocking {
+        assertTrue(wallet.trySpend(GameRules.STARTING_COINS - 4))
+        val id = arena.startMatch(arenaState(finished = false))
+        assertEquals(4, arena.finishMatch(id, arenaState(finished = true, playerScore = 3, opponentScore = 9))?.coinsLost)
+        assertEquals(0, coins())
+    }
+
+    @Test
+    fun forfeitingByStartingANewMatchCostsTenCoins() = runBlocking {
+        arena.startMatch(arenaState(finished = false))
         assertEquals(GameRules.STARTING_COINS, coins())
+        arena.startMatch(arenaState(finished = false))
+        assertEquals(GameRules.STARTING_COINS - ArenaRules.LOSS_PENALTY, coins())
     }
 
     @Test

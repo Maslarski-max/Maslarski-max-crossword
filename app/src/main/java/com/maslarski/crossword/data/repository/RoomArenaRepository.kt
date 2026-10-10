@@ -46,23 +46,25 @@ class RoomArenaRepository(
     override fun observeActiveMatch(): Flow<ArenaMatch?> = matches.observeActive().map { it?.toMatch() }
 
     override suspend fun startMatch(state: ArenaState): Long = lock.withLock {
-        db.withTransaction {
-            val now = clock.millis()
-            matches.closeActive(ArenaOutcome.FORFEIT.name, now)
-            matches.insert(
-                ArenaMatchEntity(
-                    puzzleId = state.puzzleId,
-                    difficulty = state.difficulty.name,
-                    state = json.encodeToString(ArenaState.serializer(), state),
-                    playerScore = state.playerScore,
-                    opponentScore = state.opponentScore,
-                    outcome = null,
-                    startedAt = now,
-                    updatedAt = now,
-                    finishedAt = null,
-                ),
-            )
-        }
+        ledger.commit({
+            db.withTransaction {
+                val now = clock.millis()
+                val lost = if (matches.closeActive(ArenaOutcome.FORFEIT.name, now) > 0) chargePenalty(ArenaOutcome.FORFEIT) else 0
+                matches.insert(
+                    ArenaMatchEntity(
+                        puzzleId = state.puzzleId,
+                        difficulty = state.difficulty.name,
+                        state = json.encodeToString(ArenaState.serializer(), state),
+                        playerScore = state.playerScore,
+                        opponentScore = state.opponentScore,
+                        outcome = null,
+                        startedAt = now,
+                        updatedAt = now,
+                        finishedAt = null,
+                    ),
+                ) to lost
+            }
+        }) { -it.second }.first
     }
 
     override suspend fun loadMatch(id: Long): ArenaMatch? = lock.withLock { matches.get(id)?.toMatch() }
@@ -92,9 +94,15 @@ class RoomArenaRepository(
                 if (updated == 0) return@withTransaction null
                 val coins = ArenaRules.rewardCoins(outcome)
                 if (coins > 0) wallet.earn(coins)
-                ArenaResult(outcome, state.playerScore, state.opponentScore, coins)
+                ArenaResult(outcome, state.playerScore, state.opponentScore, coins, chargePenalty(outcome))
             }
-        }) { it?.coinsEarned ?: 0 }
+        }) { it?.let { r -> r.coinsEarned - r.coinsLost } ?: 0 }
+    }
+
+    /** Deducts the loss penalty inside the caller's transaction and returns the coins actually taken. */
+    private suspend fun chargePenalty(outcome: ArenaOutcome): Int {
+        val penalty = ArenaRules.penaltyCoins(outcome, wallet.coins() ?: 0)
+        return if (penalty > 0 && wallet.spend(penalty) == 1) penalty else 0
     }
 
     private fun ArenaMatchEntity.toMatch(): ArenaMatch? = try {
