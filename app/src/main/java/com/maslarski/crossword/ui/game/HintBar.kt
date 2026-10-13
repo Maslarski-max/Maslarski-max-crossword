@@ -8,7 +8,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.AutoFixHigh
-import androidx.compose.material.icons.rounded.FactCheck
+import androidx.compose.material.icons.automirrored.rounded.FactCheck
 import androidx.compose.material.icons.rounded.Lightbulb
 import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.Icon
@@ -28,7 +28,7 @@ import com.maslarski.crossword.domain.engine.Hint
 fun HintBar(onHint: (Hint) -> Unit, modifier: Modifier = Modifier, free: Boolean = false) {
     Row(modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
         HintButton(Icons.Rounded.Lightbulb, stringResource(R.string.hint_reveal_letter), Hint.REVEAL_LETTER, free, onHint, Modifier.weight(1f))
-        HintButton(Icons.Rounded.FactCheck, stringResource(R.string.hint_check), Hint.CHECK_ERRORS, free, onHint, Modifier.weight(1f))
+        HintButton(Icons.AutoMirrored.Rounded.FactCheck, stringResource(R.string.hint_check), Hint.CHECK_ERRORS, free, onHint, Modifier.weight(1f))
         HintButton(Icons.Rounded.AutoFixHigh, stringResource(R.string.hint_reveal_word), Hint.REVEAL_WORD, free, onHint, Modifier.weight(1f))
     }
 }

@@ -120,4 +120,27 @@ class ZoomableGridStateTest {
         assertFalse(s.isZoomed)
         assertEquals(Offset.Zero, s.offset)
     }
+
+    @Test
+    fun `degenerate gesture input is ignored and rapid pinches stay in bounds`() {
+        val s = state()
+        s.onTransform(Offset(200f, 300f), Offset.Zero, 3f)
+        val zoom = s.zoom
+        val offset = s.offset
+        s.onTransform(Offset.Unspecified, Offset.Zero, 2f)
+        s.onTransform(Offset(200f, 300f), Offset(Float.NaN, 0f), 2f)
+        s.onTransform(Offset(200f, 300f), Offset.Zero, Float.NaN)
+        s.onTransform(Offset(200f, 300f), Offset.Zero, Float.POSITIVE_INFINITY)
+        s.onTransform(Offset(200f, 300f), Offset.Zero, 0f)
+        assertEquals(zoom, s.zoom)
+        assertEquals(offset, s.offset)
+
+        repeat(500) { i ->
+            val factor = if (i % 2 == 0) 7f else 0.05f
+            s.onTransform(Offset((i * 37 % 400).toFloat(), (i * 53 % 600).toFloat()), Offset(i % 9 - 4f, i % 7 - 3f) * 50f, factor)
+            assertTrue(s.zoom in 1f..s.maxZoom)
+            assertEquals(s.offset, s.clamp(s.offset, s.zoom))
+        }
+        s.assertEveryVisibleCellHits()
+    }
 }

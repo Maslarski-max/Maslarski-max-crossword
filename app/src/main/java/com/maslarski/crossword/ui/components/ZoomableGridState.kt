@@ -10,6 +10,7 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
+import androidx.compose.ui.geometry.isFinite
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
@@ -79,6 +80,7 @@ class ZoomableGridState {
 
     /** Pinch around [centroid] by [gestureZoom] and drag by [pan], keeping the content under the fingers fixed. */
     fun onTransform(centroid: Offset, pan: Offset, gestureZoom: Float) {
+        if (!centroid.isFinite || !pan.isFinite || !gestureZoom.isFinite() || gestureZoom <= 0f) return
         cancelAnimation()
         val newZoom = (zoom * gestureZoom).coerceIn(1f, maxZoom)
         val anchor = centroid - center() - offset
