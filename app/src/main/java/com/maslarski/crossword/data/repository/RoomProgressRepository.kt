@@ -75,7 +75,6 @@ class RoomProgressRepository(
         )
         levels.forEach { this.levels.updateOrder(it.id, it.order) }
         levels.firstOrNull()?.let { this.levels.unlock(it.id) }
-        Unit
     }
 
     override suspend fun unlockLevel(levels: List<Puzzle>, puzzleId: String): UnlockResult =

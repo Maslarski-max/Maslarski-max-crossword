@@ -1,1 +1,8 @@
-First release: 6 levels from Easy to Hard, daily puzzles, hints and coins, light & dark themes.
+First release of Crossword, 100% ad-free:
+- 300 Classic levels from Easy to Hard, with pinch-to-zoom on big 20x20 boards
+- Daily Challenge with a monthly star calendar
+- Crossword Arena: turn-based duels against an AI opponent
+- My Stats, achievement badges and a 7-day login bonus
+- Hints: Reveal letter, Check errors, Reveal word
+- Shop: 1,000 coins pack and Unlimited Mode
+- Light and dark themes

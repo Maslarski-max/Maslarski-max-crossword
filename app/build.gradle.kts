@@ -151,13 +151,11 @@ dependencies {
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.lifecycle.runtime.compose)
     implementation(libs.androidx.lifecycle.viewmodel.compose)
-    implementation(libs.androidx.lifecycle.process)
 
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.compose.ui)
     implementation(libs.androidx.compose.ui.graphics)
     implementation(libs.androidx.compose.ui.text)
-    implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.foundation)
     implementation(libs.androidx.compose.animation)
     implementation(libs.androidx.compose.material3)
@@ -197,7 +195,7 @@ dependencies {
 }
 
 // Release builds must be able to verify Play purchases; without the key buyers would be charged and get nothing.
-val checkPlayLicenseKey by tasks.registering {
+val checkPlayLicenseKey = tasks.register("checkPlayLicenseKey") {
     val key = playLicenseKey
     doLast {
         val valid = runCatching {

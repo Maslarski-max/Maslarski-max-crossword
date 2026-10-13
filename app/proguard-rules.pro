@@ -17,3 +17,10 @@
     public static int d(...);
     public static int i(...);
 }
+
+# Room: the generated *_Impl database is created reflectively by Room.databaseBuilder.
+-keep class * extends androidx.room.RoomDatabase { <init>(); }
+-keep @androidx.room.Entity class com.maslarski.crossword.data.local.** { *; }
+
+# Play Billing: AIDL interface used to bind to the Play Store service.
+-keep class com.android.vending.billing.** { *; }
