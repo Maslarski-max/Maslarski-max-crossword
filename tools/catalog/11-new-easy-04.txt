@@ -1,0 +1,439 @@
+=== Soda Fountain | EASY
+FOUNTAIN | Counter machine that pours fizzy drinks
+SODA | Sweet bubbly drink served cold
+SYRUP | Thick sweet liquid mixed into a beverage
+FIZZ | Tiny bubbles rising through a drink
+STRAW | Narrow tube used for sipping
+SUNDAE | Ice cream topped with sauce and fruit
+CHERRY | Small red fruit often set on top
+FLOAT | Soda drink served with a scoop of ice cream
+ROOTBEER | Sweet brown fizzy drink with a herbal flavour
+VANILLA | Flavour often added to a milkshake
+MILKSHAKE | Cold drink made by blending milk and ice cream
+MIXER | Machine that blends a drink until smooth
+ICECREAM | Frozen sweet treat served in a cup or cone
+COUNTER | Long surface where customers place an order
+COASTER | Small pad placed under a soda glass
+DISHER | Small scoop for serving a sundae
+MALT | Powdered grain sometimes mixed into a shake
+GOBLET | Stemmed drinking vessel for a special soda
+MENU | List of foods and drinks for sale
+BANANASPLIT | Dessert with fruit, ice cream, and sweet toppings
+
+=== Piggy Bank | EASY
+PIGGYBANK | Small container that stores saved coins
+PENNY | One-cent coin used in the United States
+NICKEL | Five-cent coin used in the United States
+QUARTER | Twenty-five-cent coin used in the United States
+COIN | Small flat piece of money made from metal
+SAVING | Keeping money for something wanted later
+SLOT | Narrow opening where a coin can be dropped
+PENNIES | Copper-coloured coins worth one cent each
+PURSE | Small bag used for carrying money
+WALLET | Folded case that holds cash and cards
+VAULT | Strong secure room for keeping valuable things
+TILL | Drawer where a shop keeps cash
+SURPLUS | Coins left over after a purchase
+POCKETMONEY | Small amount given to a child to spend
+GOAL | Something a saver hopes to buy
+CASHBOX | Small container used to keep money safe
+COUNT | Find the number of coins in a pile
+TUCKAWAY | Put something somewhere safe for later
+TREASURE | Valuable things kept for the future
+TREAT | Small reward bought after saving
+
+=== Mini Golf | EASY
+PUTTER | Short club used to roll a golf ball
+GREEN | Smooth playing area around the hole
+HOLE | Cup in the ground that receives a ball
+BALL | Small round object rolled toward the target
+WINDMILL | Spinning obstacle on a miniature course
+RAMP | Sloping surface that guides a rolling ball
+TUNNEL | Covered passage a ball can roll through
+BRIDGE | Raised crossing over a water hazard
+PENCIL | Stick used to mark a player's score
+SCORECARD | Small sheet for recording each stroke
+STROKE | One swing counted in a player's score
+CLUB | Tool used to strike the ball
+OBSTACLE | Object that makes the course harder
+BOUNCE | Rebound after hitting a surface
+ANGLE | Corner direction that can change a shot
+COURSE | Set of holes played in a game
+FLAG | Marker showing where the cup is
+PAR | Expected number of strokes for a hole
+TEEBOX | Starting area for a golf hole
+TAP | Gentle stroke that rolls a ball toward the cup
+
+=== Pet Adoption | EASY
+ADOPTION | Giving an animal a permanent new home
+SHELTER | Safe place that cares for homeless animals
+RESCUE | Take an animal out of danger
+FOSTER | Care for a pet until a lasting home is found
+DOG | Animal often waiting at a shelter for a new home
+KITTEN | Young cat that needs gentle care
+VACCINE | Shot that helps prevent a disease
+VET | Doctor who treats animals
+HARNESS | Straps fitted around an animal for safe handling
+LEASH | Strap used to guide a dog on a walk
+MICROCHIP | Tiny implant that can help identify a lost pet
+CAGE | Enclosed space that can keep a small animal safe
+LITTER | Group of young animals born at one time
+OWNER | Person responsible for an animal
+VISIT | Meet an animal before taking it home
+PAPERWORK | Forms completed before an adoption
+CARING | Showing kindness to an animal
+GROOM | Brush or clean an animal's coat
+NEUTER | Operation that prevents an animal from having young
+COMPANION | Animal kept for friendship
+
+=== Market Stall | EASY
+STALL | Small outdoor stand selling goods
+VENDOR | Person who sells things at a market
+SHADE | Fabric cover that keeps a stall out of the sun
+CRATE | Strong box used to carry produce
+APPLES | Crisp fruit sold in a group
+PEACHES | Soft sweet fruit with fuzzy skin
+CARROTS | Orange roots often sold with leafy tops
+POTATOES | Starchy underground vegetables
+LETTUCE | Leafy green used in salads
+RADISH | Small crisp root with a peppery taste
+SCALE | Device used to weigh produce
+WEIGH | Find how heavy an item is
+PRICE | Amount of money asked for an item
+COINPURSE | Small pouch for carrying change
+COINS | Small metal pieces used to pay for goods
+BARGAIN | Item offered at a good price
+FRESH | Recently picked or made
+HARVEST | Gather crops when they are ready
+HAGGLE | Discuss a price before buying
+AWNING | Fabric cover stretched over a stall
+
+=== Baby Bath Time | EASY
+BATHTUB | Large basin used for washing a baby
+WASHCLOTH | Soft square of fabric for washing skin
+CLEANSER | Gentle cleaning product mixed with water
+SHAMPOO | Liquid cleanser for hair
+RINSE | Wash away soap with clean water
+ROBE | Loose garment worn after a bath
+HOOD | Soft covering for a baby's head
+DUCKLING | Small yellow toy that floats in a tub
+SQUIRTTOY | Rubber plaything that sprays water
+WATERPROOF | Able to keep liquid from soaking through
+THERMOMETER | Tool that checks how warm water is
+WARM | Comfortably hot but not too hot
+SPONGE | Soft porous tool that holds water
+BUBBLE | Round pocket of air in soapy water
+SPLASH | Send drops of water outward
+NAILBRUSH | Small brush for cleaning fingertips
+BABYLOTION | Gentle cream rubbed onto young skin
+POTTY | Small seat used during toilet training
+DIAPER | Absorbent garment worn by an infant
+BATHTIME | Part of the day set aside for washing
+
+=== Garden Gnomes | EASY
+GNOME | Small bearded figure often placed in a garden
+BEARD | Hair that grows on the chin
+HAT | Pointed cap worn by a garden figure
+BOOTS | Sturdy footwear shown on many garden statues
+STATUE | Carved figure that stands outdoors
+MUSHROOM | Fungus with a cap and a stem
+GARDEN | Plot where flowers and vegetables grow
+FLOWERBED | Patch of soil planted with blooms
+TROWEL | Small hand tool for moving garden soil
+WHEELBARROW | One-wheeled cart for carrying soil
+GRAVEL | Loose small stones spread across a garden
+STONEPATH | Narrow walkway made from flat garden stones
+MOSS | Soft green growth on damp stone
+LANTERN | Outdoor light with a protective frame
+TOADSTOOL | Mushroom with a cap and a stalk
+POND | Small still body of water
+HIDEAWAY | Secret sheltered place
+ORNAMENT | Decoration displayed in a garden
+PAINTED | Covered with a layer of colour
+NOSE | Part that sticks out from the face
+
+=== Cheer Squad | EASY
+CHEER | Shout of support for a team
+POMPOM | Fluffy ball shaken by a supporter
+CHANT | Short rhythmic words repeated by a group
+UNIFORM | Matching clothes worn by a team
+RALLY | Gathering that encourages a group
+SQUAD | Small organized team of performers
+ROUTINE | Set sequence of practiced movements
+LEAP | Push off the ground and rise into the air
+SPIRIT | Enthusiasm shown by a group
+TEAMMATE | Person who plays on the same side
+PENNANT | Small pointed flag showing team colours
+MEGAPHONE | Handheld device that makes a voice louder
+WHISTLE | Small tool that makes a sharp sound
+CLAP | Strike hands together to show approval
+PRACTICE | Repeated work that improves a skill
+TUMBLE | Roll over in a gymnastic move
+STUNT | Acrobatic feat performed by a group
+SIDELINE | Edge of a sports field
+CAPTAIN | Person chosen to lead a team
+VICTORY | Success in a game or contest
+
+=== Cloud Watching | EASY
+CLOUD | White or grey mass floating in the sky
+PUFF | Small rounded bit of cloud
+CIRRUS | Thin high cloud made of ice crystals
+CUMULUS | Puffy cloud with a flat bottom
+STRATUS | Low grey cloud forming a broad layer
+SHADOW | Dark shape made when light is blocked
+SUNBEAM | Narrow shaft of light from the sun
+SKYLINE | Line where land seems to meet the sky
+DRIFT | Move slowly with the wind
+FLUFFY | Soft and rounded like a small cloud
+THUNDERHEAD | Tall dark mass that can build before a storm
+RAINBOW | Coloured arc that can appear after rain
+SILHOUETTE | Dark outline seen against a bright sky
+SHAPE | Outer form of an object
+RABBIT | Long-eared animal imagined in a cloud
+DRAGON | Make-believe creature with wings and scales
+LOOKOUT | Place with a wide view of the sky
+SHEET | Broad layer of cloud spread across the horizon
+SUNSET | Evening moment when the sun goes below the horizon
+UPDRAFT | Rising current of warm air
+
+=== Skipping Rope | EASY
+JUMP | Push off the ground and lift into the air
+ROPE | Long braided line used for skipping
+HANDLE | Part held in the hand
+TWIRL | Spin around quickly
+SKIP | Hop lightly from foot to foot
+RHYTHM | Repeated beat that guides movement
+COUNT | Say numbers in order to track a score
+HOP | Jump on one foot
+DOUBLE | Twice the usual amount
+TANGLE | Twist that can make a rope hard to use
+LENGTH | Measurement from one end to the other
+SPEED | How fast something moves
+ANKLE | Joint above the foot
+SNEAKER | Soft athletic shoe
+CHALLENGE | Task that takes effort to complete
+BACKWARD | Moving toward the rear
+FORWARD | Moving toward the front
+PARTNER | Person who joins another in a game
+PLAYGROUND | Outdoor place for children's games
+BREATHLESS | Short of breath after active play
+
+=== Leaf Pile | EASY
+LEAF | Flat green part that grows on a plant
+RAKE | Garden tool with a row of teeth
+PILE | Heap made by gathering loose things
+AUTUMN | Season when many trees lose their leaves
+CRUNCH | Crisp sound made by dry leaves
+BRANCH | Woody part growing out from a tree trunk
+MAPLE | Tree with leaves shaped like a pointed hand
+OAK | Tree that grows acorns
+ACORN | Nut produced by an oak tree
+BLOWER | Machine that pushes leaves with air
+COMPOST | Decayed plant matter used to enrich soil
+LEAP | Spring off the ground into a heap
+SCATTER | Spread loose pieces across an area
+RUSTLE | Soft sound made by moving dry leaves
+GOLDEN | Yellow like autumn foliage
+CRIMSON | Deep red colour
+RUBBERBOOT | Waterproof footwear for a wet yard
+GARDENBAG | Sack used to gather yard waste
+GUST | Brief strong rush of wind
+TUMBLE | Fall or roll in a playful heap
+
+=== Swimming Lesson | EASY
+POOL | Place filled with water for swimming
+FLOAT | Stay on the surface of water
+KICK | Move the legs to push through water
+LAP | One length across the pool and back
+WATERWINGS | Inflatable bands worn on the arms for support
+CAP | Soft covering worn over a swimmer's hair
+LANE | Marked strip of water for one swimmer
+LIFEGUARD | Person trained to keep swimmers safe
+SPLASH | Drops of water sent outward
+BREATH | Air taken into or out of the lungs
+BACKSTROKE | Swimming style performed on the back
+FREESTYLE | Fast swimming style using alternating arm pulls
+SHALLOW | Not very deep
+DEEPEND | Part of a pool where the floor slopes lower
+LADDER | Steps used to climb out of a pool
+WHISTLE | Sharp sound used to start a lesson
+WATERLINE | Height where the water meets the pool wall
+BATHROBE | Loose garment worn over a swimsuit after class
+FOAMBOARD | Floating board held while practicing leg kicks
+SWIMSUIT | Clothing worn for swimming
+
+=== Cookie Jar | EASY
+CUTOUT | Shaped piece of dough ready for the oven
+TIN | Metal container that keeps biscuits crisp
+LID | Cover that fits over a container
+CRUMB | Tiny broken piece of a baked treat
+DOUGH | Soft mixture shaped before baking
+CHIP | Small piece of chocolate baked into a treat
+OAT | Grain often mixed into cookie dough
+RAISIN | Dried grape baked into some cookies
+NUTMEG | Warm spice grated into some cookie dough
+CINNAMON | Sweet spice from tree bark
+SHORTBREAD | Crumbly biscuit made with plenty of butter
+OVEN | Heated appliance used for baking
+BATCH | Group of treats baked together
+MACAROON | Chewy coconut treat baked until lightly golden
+BISCOTTI | Crisp twice-baked biscuit often dipped in a drink
+WAFER | Thin crisp biscuit with a light texture
+MOLASSES | Thick dark syrup used in spiced cookies
+DOZEN | Group containing twelve items
+SPRITZ | Small piped cookie shaped through a patterned nozzle
+TREAT | Something pleasant given as a reward
+
+=== Toy Robots | EASY
+ROBOT | Machine that can perform programmed actions
+TIN | Light metal used in some toy bodies
+WINDUP | Turn a key to make a toy move
+GEAR | Toothed wheel that turns another wheel
+POWERPACK | Compact unit that supplies energy to a toy
+SWITCH | Small control that turns a toy on or off
+ACTUATOR | Part that makes a robot move a joint
+WHEEL | Round part that rolls along a surface
+TRACK | Pair of belts that lets a toy crawl
+LASER | Narrow beam of bright light
+CLANK | Sharp metallic sound
+REMOTE | Handheld control for a toy
+SENSOR | Part that detects changes nearby
+METAL | Strong material that can be shaped
+SHELL | Hard outer body that covers a toy's parts
+SPARK | Tiny flash of light
+VOICEBOX | Part that lets a toy robot speak
+PROGRAM | Instructions that tell a machine what to do
+ARM | Jointed part that reaches out
+ANDROID | Robot shaped to look like a person
+
+=== Family Photos | EASY
+GROUPSHOT | Picture showing several relatives together
+YEARBOOK | Book containing school portraits and memories
+ALBUM | Book that holds printed pictures
+FRAME | Border around a picture
+POSE | Position held for a photograph
+SMILE | Happy expression shown with the mouth
+FLASH | Brief burst of light from a camera
+SELFIE | Picture a person takes of themself
+PORTRAIT | Picture showing a person's face
+SNAPSHOT | Quick informal photograph
+TRIPOD | Three-legged stand that steadies a camera
+ZOOM | Make a distant subject appear closer
+WEDDING | Family celebration often recorded in pictures
+BACKDROP | Scene placed behind people in a picture
+GRANDPARENT | Parent of someone's mother or father
+COUSIN | Child of an aunt or uncle
+SIBLING | Brother or sister
+REUNION | Gathering of relatives who have not met in a while
+MEMORY | Something remembered from the past
+PRINT | Paper copy of a digital picture
+
+=== Painted Rocks | EASY
+PEBBLE | Small smooth stone found by water
+ACRYLIC | Quick-drying paint often used for crafts
+BRUSH | Tool with bristles for spreading colour
+DOT | Tiny round mark
+STRIPE | Long narrow band of colour
+SPOT | Small mark on a painted surface
+DRYING | Time when wet paint loses moisture
+SEALER | Clear coat that protects a painted rock
+RAINBOW | Curved band with several colours
+LADYBUG | Small red beetle with dark spots
+CACTUS | Spiny plant that stores water
+MUSHROOM | Fungus with a cap and a stem
+PATTERN | Repeated arrangement of shapes or colours
+MOTIF | Small design repeated in a picture
+GLOSSY | Shiny after a coating dries
+OUTLINE | Edge drawn around a shape
+STENCIL | Cutout sheet used to guide a painted design
+PALLETTE | Board used for mixing paint
+STONE | Hard natural material from the ground
+GARDENMARKER | Painted rock used to label a garden row
+
+=== Shoe Laces | EASY
+LACE | Narrow cord threaded through a shoe
+KNOT | Tied crossing that keeps laces secure
+BOW | Looped tie made from ribbon or lace
+EYELET | Small reinforced opening for a lace
+AGLET | Hard tip at the end of a lace
+SNEAKER | Comfortable shoe worn for sports
+BOOT | Sturdy shoe that covers the ankle
+TONGUE | Padded flap beneath the laces
+HEEL | Rear part of a shoe
+SOLE | Bottom part of a shoe
+TIGHTEN | Pull a lace to make a shoe fit firmly
+LOOSEN | Make a tie less tight
+BUNNYEARS | Two loops made when tying a shoelace bow
+THREAD | Pass a cord through a small opening
+CROSS | Shape made when two laces pass over each other
+STRAP | Narrow band that holds something in place
+SLIPON | Shoe put on without tying
+PAIR | Two matching shoes
+UNTIE | Undo a knot
+SQUEAK | Short high sound made by a shoe
+
+=== Curtain Shop | EASY
+CURTAIN | Cloth panel hung over a window
+DRAPE | Hang fabric in soft folds
+ROD | Bar that holds up a curtain
+RING | Small circle that slides along a curtain rod
+TASSEL | Decorative bunch of threads
+LINING | Extra fabric sewn inside a curtain
+HEM | Folded edge stitched at the bottom
+VALANCE | Short decorative cloth across a window's top
+BLIND | Window covering made of slats or fabric
+SUNLIGHT | Bright light that comes from the sun
+PRIVACY | Being hidden from the view of others
+MEASURE | Find the size of a window
+FABRIC | Woven material used for curtains
+PATTERN | Repeated shapes printed on cloth
+WINDOW | Opening in a wall that lets in light
+TIEBACK | Strip used to hold a curtain open
+PLEAT | Fold in fabric sewn into place
+SHEER | Thin fabric that lets light pass through
+BLACKOUT | Thick covering that blocks most light
+SEAM | Line where two pieces of cloth are joined
+
+=== Paper Lanterns | EASY
+LANTERN | Portable light held inside a protective cover
+SHEET | Flat layer of material cut for a lantern
+CREASE | Bend a sheet along a line
+BAIL | Curved handle fixed to the top of a lantern
+GLOW | Soft steady light
+CANDLE | Wax stick with a wick that can be lit
+FRAME | Structure that holds paper in shape
+TISSUE | Very thin soft paper
+FRINGE | Loose threads hanging from an edge
+TASSEL | Decorative bundle of hanging threads
+SUSPEND | Hang something from above
+STRING | Thin cord used to hang a decoration
+FESTIVAL | Public celebration with music or food
+DECORATE | Add details to make something look festive
+LIGHT | Brightness that lets people see
+SHADE | Cover that softens a light
+RIBBON | Narrow strip of fabric used for decoration
+SCISSORS | Two-bladed tool for cutting paper
+PUNCH | Make a hole with a small tool
+ORIGAMI | Art of making shapes by folding paper
+
+=== Stamp Collection | EASY
+STAMP | Small printed label that pays for postage
+COLLECTOR | Person who gathers items as a hobby
+ALBUM | Book with spaces for a collection
+POSTMARK | Ink mark showing when mail was sent
+CANCEL | Mark a stamp so it cannot be used again
+ENVELOPE | Flat paper sleeve for a letter
+POSTAGE | Payment for sending a letter or parcel
+PENNY | Small coin worth one cent in the United States
+COUNTRY | Nation shown on a stamp's design
+PORTRAIT | Picture of a person's face
+PERFORATION | Tiny holes that help separate stamps
+GUM | Sticky coating on the back of a stamp
+HINGE | Small paper strip used to mount a stamp
+RARE | Hard to find in a collection
+VALUE | Amount a stamp may be worth
+ISSUE | Official release of a new stamp
+SERIES | Group of related stamps
+THEME | Subject shared by items in a collection
+POSTCARD | Card sent through the mail without an envelope
+MAILBOX | Container where letters are collected

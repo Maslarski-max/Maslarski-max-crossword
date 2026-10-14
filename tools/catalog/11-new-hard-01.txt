@@ -1,0 +1,439 @@
+=== Byzantine Mosaics | HARD
+TESSERA | Small tile set into a mosaic
+GOLDLEAF | Thin sheet used to gild a background
+GROUT | Material that fills the gaps between tiles
+NAVE | Central aisle of a church
+APSE | Rounded end of a basilica
+NIMBUS | Halo around a sacred figure
+ICON | Painted devotional image
+PENDENTIVE | Curved triangle that helps support a dome
+DOME | Rounded roof often covering a central space
+ALTAR | Raised table used in a religious service
+BASILICA | Large church building with a long central aisle
+MARTYR | Person killed for holding to a religious belief
+SERAPH | Angelic figure associated with heavenly worship
+CHERUB | Angelic figure often shown as a winged child
+EMPEROR | Ruler who held the highest imperial authority
+EMPRESS | Woman who ruled an empire or married its emperor
+SOPHIA | Name meaning wisdom, used in a famous Constantinople church
+GILDED | Covered with a thin layer of gold
+FRESCO | Wall painting made on fresh plaster
+MOSAIC | Image formed from many small pieces
+
+=== Baroque Music | HARD
+FUGUE | Composition built from a theme repeated in overlapping voices
+COUNTERPOINT | Music made by combining independent melodic lines
+ORNAMENT | Decorative musical flourish added to a written part
+CONTINUO | Bass line played through much Baroque ensemble music
+HARPSICHORD | Keyboard instrument whose strings are plucked
+CONCERTO | Work featuring a soloist with an accompanying ensemble
+RITORNELLO | Recurring passage between solo episodes in a concerto
+ARIA | Expressive solo song in an opera or oratorio
+RECITATIVE | Speech-like singing that advances a dramatic plot
+ORATORIO | Large work for soloists, chorus, and orchestra
+TRIO | Ensemble of three performers or voices
+SUITE | Group of contrasting dances arranged as one work
+ALLEMANDE | Moderate German dance often opening a Baroque suite
+SARABANDE | Slow dance with a characteristic emphasis on beat two
+GIGUE | Lively dance often closing a Baroque suite
+PASSACAGLIA | Set of variations over a repeating bass pattern
+CHACONNE | Variation form built over a recurring harmonic pattern
+ORGAN | Keyboard instrument that sounds through pipes
+OPERA | Stage drama in which the roles are sung
+LIBRETTO | Text written for an opera or oratorio
+
+=== Indus Valley Cities | HARD
+HARAPPA | Indus city whose name is used for the wider civilization
+MOHENJODARO | Large Indus city known for its carefully planned streets
+INDUS | River whose valley supported ancient urban settlements
+CITADEL | Raised area that often held public buildings
+GRANARY | Building used to store a supply of grain
+DRAINAGE | System that carries wastewater away from a settlement
+BRICK | Fired or sun-dried block used in city construction
+SIGNET | Carved stamp pressed into clay to mark ownership
+SCRIPT | Set of signs used in the still-undeciphered Indus writing
+WEIGHT | Standard mass used to measure traded goods
+BEAD | Small shaped object strung for decoration
+CISTERN | Tank built to collect and store water
+WELL | Deep shaft that provides access to groundwater
+BATH | Large water basin found in a major Indus city
+GRIDPLAN | Street layout with roads crossing at right angles
+POTTERY | Fired clay vessels used for storage or serving
+TRADE | Exchange of goods between people or settlements
+PLANTFIBRE | Plant fibre spun into cloth by Indus communities
+DOCKYARD | Basin thought to have served boats at Lothal
+TERRACOTTA | Fired clay used for figurines and other objects
+
+=== Medieval Canon Law | HARD
+DECRETAL | Papal letter that addressed a question of church law
+PAPAL | Relating to the pope or the office of the pope
+COUNCIL | Formal meeting of church leaders to decide doctrine
+DISPENSATION | Permission to set aside a rule in a particular case
+EXCOMMUNION | Formal exclusion from participation in church life
+BENEFICE | Church office that traditionally carried an income
+CLERGY | People ordained for religious service
+BISHOP | Senior cleric who oversees a diocese
+DIOCESE | Territory placed under the care of a bishop
+SYNOD | Assembly of church officials for discussion or decisions
+PENANCE | Act undertaken to show repentance for wrongdoing
+ORDINATION | Ceremony that admits someone to the clergy
+VOW | Solemn promise made in a religious setting
+MONASTIC | Relating to life in a religious community
+CHANCERY | Office where official documents are prepared
+APPEAL | Request for a higher church court to review a decision
+ANNULMENT | Ruling that a marriage was invalid from its beginning
+TITHE | Traditionally, a tenth given to support a church
+ECCLESIASTIC | Person who holds a position in the church
+LAITY | Church members who are not ordained clergy
+
+=== Seismology | HARD
+SEISMOMETER | Instrument that detects and measures ground motion
+SEISMOGRAPH | Device that records vibrations produced by an earthquake
+EPICENTER | Point on the surface above an earthquake's focus
+HYPOCENTER | Underground point where an earthquake begins
+RUPTURE | Fracture where blocks of rock can move
+TECTONIC | Relating to the structure and movement of Earth's crust
+PWAVE | Fast seismic wave that compresses material in its path
+SWAVE | Seismic wave that shakes material at right angles to its travel
+SHEAR | Sideways deformation caused by opposing forces
+RICHTER | Scale originally used to compare earthquake sizes
+INTENSITY | Rating of how strongly shaking affects a place
+AFTERSHOCK | Smaller earthquake following a larger event
+FORESHOCK | Small earthquake that precedes a larger one
+LIQUEFACTION | Loss of soil strength when shaking raises pore pressure
+SEISMOSCOPE | Sensor that detects ground movement during an earthquake
+TRIANGULATE | Estimate a source location from several measured directions
+ONSET | Recorded time when a seismic wave reaches a station
+TRACE | Line on a recording that shows ground movement
+MOMENT | Physical quantity used to calculate earthquake size
+OBSERVATORY | Place where instruments monitor seismic activity
+
+=== Motion and Forces | HARD
+FORCE | Push or pull that can change an object's motion
+MOTION | Change in an object's position over time
+SPEED | Distance travelled per unit of time
+VELOCITY | Speed in a stated direction
+ENERGY | Ability to cause change or do work
+MASS | Measure of how much matter an object contains
+WEIGHT | Force of gravity acting on an object
+INERTIA | Resistance to a change in motion
+FRICTION | Force that resists sliding between surfaces
+GRAVITY | Attraction between bodies with mass
+ACCELERATION | Rate at which velocity changes
+MOMENTUM | Product of an object's mass and velocity
+TRAJECTORY | Path followed by a moving object
+DIRECTION | Way in which an object is moving or pointing
+DISTANCE | Length of the path between two places
+TIME | Measure used to order events and duration
+PUSH | Force directed away from the person applying it
+PULL | Force directed toward the person applying it
+COLLISION | Impact in which moving objects meet
+BALANCE | State in which forces cancel each other
+
+=== Sumerian Cuneiform | HARD
+CUNEIFORM | Wedge-shaped writing system used in ancient Mesopotamia
+WETCLAY | Flat piece of clay used as a writing surface
+STYLUS | Reed tool pressed into wet clay to make signs
+STROKE | Mark made by pressing a stylus into clay
+SUMER | Ancient region in southern Mesopotamia
+URUK | Sumerian city associated with early urban life
+NIPPUR | Sumerian city that was a major centre of worship for Enlil
+AKKAD | Mesopotamian kingdom whose rulers adopted cuneiform
+SCRIBE | Trained person who copied or composed written records
+GLYPH | Written sign representing a sound, word, or idea
+SYLLABLE | Unit of speech represented by some cuneiform signs
+LOGOGRAM | Sign that stands for a whole word
+LAPIS | Deep-blue stone traded widely in the ancient Near East
+CYLINDERSEAL | Carved roller pressed into clay to make a repeating image
+ARCHIVE | Stored group of written records
+KINGLIST | Record naming rulers in historical sequence
+ENLIL | Sumerian deity associated with wind and authority
+GILGAMESH | Legendary king who is central to an epic poem
+TABLET | Small slab that could carry a written record
+EPIC | Long narrative poem about heroic deeds
+
+=== Renaissance Banking | HARD
+FLORENCE | Italian city where powerful banking families operated
+LEDGER | Book used to record accounts and transactions
+FLORIN | Gold coin minted in Florence
+DUCAT | Gold coin used in trade across Europe
+EXCHANGE | Rate or act of converting one currency into another
+DEPOSIT | Money placed with a bank for safekeeping
+LOAN | Money advanced with an agreement to repay it
+INTEREST | Charge paid for the use of borrowed money
+COLLATERAL | Property pledged to secure repayment of a loan
+BILL | Written promise or order to pay a sum
+MONEYCHANGER | Business that changed one currency for another
+PARTNER | Co-owner who shares a firm's risks and profits
+FACTOR | Agent who arranged sales or payments abroad
+BRANCH | Local office belonging to a larger banking firm
+REMITTANCE | Movement of funds between accounts or cities
+CREDIT | Trust that a borrower will repay an obligation
+DEBIT | Entry recording money owed or paid out
+NETTOTAL | Difference between the amounts owed and held
+ACCOUNT | Record of money belonging to or owed by a client
+MERCHANT | Trader who might use a bank to settle a deal
+
+=== Immunology | HARD
+ANTIBODY | Protein that binds to a particular target
+ANTIGEN | Substance recognized by the immune system
+LYMPHOCYTE | White blood cell that includes B and T cells
+MACROPHAGE | Immune cell that engulfs microbes and debris
+PHAGOCYTE | Cell that takes in particles or microbes
+CYTOKINE | Signal protein that helps immune cells communicate
+ANTITOXIN | Antibody preparation that neutralizes a toxin
+VACCINE | Preparation that trains the immune system to recognize a threat
+IMMUNITY | Ability to resist a particular infection or disease
+PATHOGEN | Organism or agent capable of causing disease
+TOLERANCE | Lack of an immune attack against a particular target
+ALLERGY | Immune response to a normally harmless substance
+INFLAMMATION | Tissue response that can bring warmth, redness, and swelling
+COMPLEMENT | Group of proteins that can assist antibody action
+THYMUS | Organ where many T cells mature
+SPLEEN | Organ that filters blood and supports immune function
+MARROW | Tissue inside bones where blood cells form
+EPITOPE | Part of an antigen recognized by an antibody
+ADJUVANT | Ingredient that strengthens a vaccine's immune response
+CYTOTOXIC | Describes a cell that can kill infected or abnormal cells
+
+=== Gemstones and Minerals | HARD
+ZIRCON | Natural gemstone that can resemble diamond in jewelry
+PERIDOT | Olive-green gemstone often used in August birthstone jewelry
+EMERALD | Green gemstone prized for its colour
+SAPPHIRE | Blue variety of the mineral corundum
+OPAL | Gemstone known for flashes of shifting colour
+AMETHYST | Purple variety of quartz
+TOPAZ | Gemstone that can be blue, yellow, or colourless
+GARNET | Red gemstone often used in jewellery
+QUARTZ | Common mineral found in many rocks
+JADE | Green stone carved into ornaments and tools
+PEARL | Smooth gem formed inside some molluscs
+CRYSTAL | Solid whose atoms form a repeating pattern
+GEODE | Rock with a hollow centre lined by crystals
+GRANITE | Hard rock made mainly of quartz and feldspar
+MARBLE | Rock prized for sculpture and building
+ORE | Rock from which useful metal can be extracted
+GEMSTONE | Mineral or other material cut and polished for jewellery
+POLISH | Smooth a stone to bring out its colour and shine
+JEWEL | Precious stone used in an ornament
+TURQUOISE | Blue-green mineral used in jewellery
+
+=== Aircraft Aerodynamics | HARD
+AIRFOIL | Cross-section shaped to produce lift in moving air
+CAMBER | Curvature of an airfoil's upper or lower surface
+CHORD | Straight line from an airfoil's leading to trailing edge
+INCIDENCE | Angle between a wing chord and the aircraft reference line
+YAW | Rotation of an aircraft about its vertical axis
+NOSEATTITUDE | Rotation about the aircraft's side-to-side axis
+ROLL | Rotation about the aircraft's nose-to-tail axis
+LIFT | Aerodynamic force acting roughly perpendicular to airflow
+DRAG | Force that resists motion through air
+THRUST | Forward force produced by an engine or propeller
+SEPARATION | Loss of lift when airflow detaches from a wing
+VORTEX | Swirling flow that can form near a wingtip
+WALLLAYER | Thin region of airflow next to a surface
+TURBULENCE | Irregular, swirling motion in the air
+FLAP | Hinged wing surface that can increase lift at low speed
+SLAT | Leading-edge device that helps delay a stall
+WINGSPAN | Distance from one wingtip to the other
+ASPECT | Ratio comparing a wing's span with its chord
+DOWNWASH | Airflow deflected downward behind a lifting wing
+STREAMLINE | Curve that follows the local direction of airflow
+
+=== Language Building Blocks | HARD
+ALPHABET | Set of letters used to write a language
+LETTER | Written sign that represents a speech sound
+VOWEL | Speech sound made without blocking the airflow
+CONSONANT | Speech sound made with a narrowing or closure
+SYLLABLE | Unit of speech built around a vowel sound
+WORD | One or more spoken or written language units with meaning
+ROOT | Basic form from which related words are built
+PREFIX | Element placed before a base to alter its meaning
+SUFFIX | Element attached after a base or root
+GRAMMAR | Rules that describe how words fit together
+VERB | Word that expresses an action or state
+NOUN | Word used to name a person, place, thing, or idea
+TENSE | Verb form that marks when an action happens
+PLURAL | Form used when referring to more than one
+PRONOUN | Word that can stand in for a noun
+ADJECTIVE | Word that describes a noun
+SENTENCE | Group of words that expresses a complete thought
+CLAUSE | Word group containing a subject and a verb
+ACCENT | Mark or feature showing a syllable's prominence
+MEANING | Idea or message expressed by a word or phrase
+
+=== Constitutional Law | HARD
+CONSTITUTION | Foundational document or body of rules for a state
+PREAMBLE | Opening statement that introduces a legal document
+AMENDMENT | Formal change added to a constitution
+JUDICIARY | Branch of government that interprets the law
+LEGISLATURE | Elected body that makes laws
+EXECUTIVE | Branch that carries out public laws and policy
+FEDERALISM | Division of authority between national and regional governments
+SOVEREIGNTY | Supreme governing authority within a territory
+JURISDICTION | Legal power to hear a case or govern an area
+PRECEDENT | Earlier court decision used to guide a later one
+PETITION | Formal written request to a court or public authority
+INJUNCTION | Court order requiring or forbidding an action
+REMEDY | Legal means of correcting a wrong
+APPEAL | Request for a higher court to review a decision
+CLAUSE | Distinct provision within a legal document
+QUORUM | Minimum number of members needed to conduct a meeting
+VETO | Formal rejection of a measure by an authorized official
+RATIFY | Formally approve an agreement or amendment
+IMPEACH | Bring a formal charge against a public official
+RIGHTS | Legal freedoms or protections held by people
+
+=== Cellular Respiration | HARD
+GLYCOLYSIS | First stage that splits glucose in a cell
+PYRUVATE | Three-carbon product formed during glycolysis
+MITOCHONDRIA | Cell structures where much aerobic respiration occurs
+CYTOSOL | Fluid portion of a cell outside its organelles
+ACETYL | Two-carbon group that enters the citric acid cycle
+OXIDATION | Loss of electrons during a chemical reaction
+REDUCTION | Gain of electrons during a chemical reaction
+ELECTRON | Negatively charged particle transferred in respiration
+NADH | Electron-carrying molecule formed during metabolism
+FAD | Carrier molecule that brings electrons to the respiratory chain
+ATP | Cell's main short-term energy-carrying molecule
+SYNTHASE | Enzyme that helps form ATP
+CYTOCHROME | Protein that transfers electrons in the respiratory chain
+CRISTAE | Folds of the inner mitochondrial membrane
+INTERIOR | Fluid-filled space inside a mitochondrion
+OXYGEN | Final electron acceptor in aerobic respiration
+DIOXIDE | Gas released when glucose is completely oxidized
+FERMENTATION | Energy pathway that can proceed without oxygen
+CHEMIOSMOSIS | ATP production driven by a proton gradient
+GLUCOSE | Sugar commonly broken down to release cellular energy
+
+=== Bronze Age Crete | HARD
+CRETE | Mediterranean island that was home to Minoan culture
+ISLAND | Land surrounded by water
+PALACE | Large residence used by a ruler
+BULL | Horned animal often shown in Minoan art
+MYTH | Traditional story about gods or heroes
+MAZE | Network of winding paths with a difficult way out
+FRESCO | Wall painting made on wet plaster
+POTTERY | Fired clay vessels made in many shapes and styles
+VASE | Open vessel used to hold flowers or liquids
+JAR | Wide-mouthed container for storing food
+TABLET | Clay object used to record information
+SHIP | Vessel shown on some Minoan works of art
+AEGEAN | Sea surrounding Crete and nearby islands
+OLIVE | Fruit used for food and oil in the Aegean world
+SAILING | Travelling across water using wind-filled cloth
+COURTYARD | Open space enclosed by buildings
+RUINS | Remains of buildings from an earlier time
+MURAL | Large painting made directly on a wall
+STAIRWAY | Set of steps joining different levels
+SEA | Large body of salt water
+
+=== Roman Legends | HARD
+JUPITER | King of the Roman gods
+JUNO | Roman goddess of marriage and queen of the gods
+MINERVA | Roman goddess of wisdom and crafts
+NEPTUNE | Roman god who ruled the sea
+PLUTO | Roman god associated with the underworld
+VENUS | Roman goddess of love and beauty
+MARS | Roman god of war
+MERCURY | Messenger god known for speed
+VULCAN | Roman god of fire and metalworking
+CERES | Roman goddess associated with grain and farming
+DIANA | Roman goddess of the hunt
+CUPID | Winged god associated with love
+JANUS | Two-faced Roman god of beginnings and doorways
+VESTA | Roman goddess whose sacred fire was tended by priestesses
+ROMULUS | Legendary founder of Rome
+REMUS | Twin brother of Rome's legendary founder
+ROME | City at the heart of the Roman world
+EAGLE | Bird used as a symbol by Roman legions
+LAUREL | Leafy crown awarded to victors in ancient Rome
+TEMPLE | Building dedicated to a god or goddess
+
+=== Molecular Biology | HARD
+NUCLEOTIDE | Building block of DNA and RNA
+GENOME | Complete set of genetic material in an organism
+CHROMOSOME | Organized structure containing a long DNA molecule
+REPLICATION | Process by which DNA is copied
+RNASYNTHESIS | Production of RNA from a DNA template
+TRANSLATION | Assembly of a protein using an RNA message
+RIBOSOME | Cell structure that builds proteins
+PROMOTER | DNA region where transcription can begin
+CODON | Three-base sequence that specifies an amino acid or stop
+INTRON | Part of a gene removed from many RNA transcripts
+EXON | Gene segment retained in mature messenger RNA
+SPLICEOSOME | Complex that removes introns from an RNA transcript
+POLYMERASE | Enzyme that builds a nucleic acid strand
+HELICASE | Enzyme that separates paired DNA strands
+LIGASE | Enzyme that joins DNA fragments
+PLASMID | Small DNA molecule separate from a chromosome
+MUTATION | Change in a genetic sequence
+ALLELE | One version of a gene at a particular location
+OPERON | Group of genes regulated together in some bacteria
+EPIGENETIC | Describes gene regulation without changing the DNA sequence
+
+=== Human Hormones | HARD
+HORMONE | Chemical messenger that affects activity in the body
+PITUITARY | Gland at the base of the brain that regulates other glands
+THYROID | Gland in the neck that helps regulate metabolism
+ADRENALINE | Hormone released during the body's fight-or-flight response
+PANCREAS | Organ that releases insulin and digestive enzymes
+INSULIN | Hormone that helps lower blood glucose
+GLUCAGON | Hormone that raises blood glucose between meals
+CORTISOL | Hormone involved in the body's response to stress
+THYROXINE | Thyroid hormone that affects energy use and growth
+ALDOSTERONE | Hormone that helps regulate salt and water balance
+OXYTOCIN | Hormone involved in childbirth and milk release
+MELATONIN | Hormone that helps coordinate the sleep-wake cycle
+RECEPTOR | Protein that detects a particular chemical signal
+FEEDBACK | Process in which a system's output influences its activity
+GLAND | Organ that releases a useful substance
+HYPOTHALAMUS | Brain region linking nervous and hormone control
+CALCITONIN | Hormone from the thyroid that helps lower blood calcium
+ESTROGEN | Group of hormones involved in reproductive development
+TESTOSTERONE | Hormone involved in male reproductive development
+HOMEOSTASIS | Stable internal conditions maintained by the body
+
+=== Roman Roads | HARD
+ROAD | Prepared route for travel between places
+MILESTONE | Stone marker recording distance along a Roman road
+PAVING | Hard surface laid to make a road easier to travel
+AQUEDUCT | Structure that carries water across a distance
+BRIDGE | Structure built to cross a river or valley
+ARCH | Curved structure used in many Roman bridges
+STONE | Hard material used to build Roman roads
+DRAIN | Channel that carries water away from a road
+MILE | Unit used to measure long distances
+ROME | City at the centre of the Roman road network
+FORUM | Public square at the centre of a Roman town
+EMPIRE | Large realm ruled by one central authority
+ROUTE | Path followed to travel from one place to another
+CART | Wheeled vehicle used to carry goods on a road
+TRAVEL | Journey from one place to another
+COURIER | Person who carries a message over a distance
+GATE | Opening in a wall or fence that can be closed
+MARKET | Place where people gather to buy and sell goods
+STATION | Stopping place along a long route
+LEGION | Major unit of the Roman army
+
+=== Antarctic Exploration | HARD
+SOUTHPOLE | Southernmost point on Earth's axis of rotation
+ANTARCTICA | Continent surrounding the South Pole
+ICEBERG | Large piece of floating ice broken from a glacier
+GLACIER | Slow-moving river of ice
+PENGUIN | Flightless seabird that breeds in the Antarctic region
+SEAL | Marine mammal that rests on ice and hunts in the sea
+KRILL | Small marine crustacean important in Antarctic food webs
+DOGSLED | Sled pulled across snow by a team of dogs
+WINDCHILL | How cold moving air makes exposed skin feel
+EXPEDITION | Organized journey for exploration or research
+EXPLORER | Person who travels to study or map an unfamiliar place
+WHITEOUT | Snowy conditions in which sky and ground seem to blend
+SCOTT | British explorer who led an expedition to the South Pole
+AMUNDSEN | Norwegian explorer who first reached the South Pole
+SHACKLETON | Explorer whose ship was trapped and crushed by Antarctic ice
+SNOW | Soft frozen precipitation covering much of the continent
+BLIZZARD | Severe snowstorm with strong winds
+AURORA | Colourful light display seen near a polar region
+SNOWDRIFT | Pile of snow pushed together by the wind
+COMPASS | Instrument that points toward magnetic north

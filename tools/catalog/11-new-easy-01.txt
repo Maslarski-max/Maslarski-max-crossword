@@ -1,0 +1,439 @@
+=== Bakery Counter | EASY
+BAGEL | Chewy bread ring often eaten at breakfast
+BUN | Small round bread roll
+CROISSANT | Flaky crescent-shaped pastry
+MUFFIN | Soft baked treat served in a paper cup
+SCONE | Crumbly baked good often served with tea
+DANISH | Sweet pastry often filled with fruit or cheese
+PASTRY | Baked dough used for pies and sweet treats
+ICING | Sweet coating spread over a cake
+FROSTING | Soft topping piped onto cupcakes
+YEAST | Tiny living ingredient that makes dough rise
+SIEVE | Mesh tool used to sift flour
+DOUGH | Flour mixture ready for shaping and baking
+BATTER | Pourable mixture for pancakes or cakes
+SPRINKLE | Tiny piece of candy scattered on a treat
+CRUMB | Small piece broken from a loaf
+BRIOCHE | Soft rich loaf made with eggs and butter
+LOAF | Shaped mass of bread for slicing
+ROLL | Small bread portion baked in a round shape
+PRETZEL | Twisted bread snack sprinkled with salt
+CANNOLI | Crisp tube pastry filled with sweet ricotta
+
+=== Bicycle Shop | EASY
+SADDLE | Seat fitted above a bicycle frame
+PEDAL | Footrest that turns the rear wheel
+HANDLEBAR | Steering bar held by a rider
+BRAKE | Device that slows a rolling bicycle
+CHAIN | Linked metal loop that transfers power
+SPOKE | Thin rod connecting a rim to its hub
+TIRE | Outer rubber covering around a wheel
+TUBE | Inflatable ring inside a bicycle tire
+HELMET | Protective headwear for a rider
+DERAILLEUR | Mechanism that shifts a chain between gears
+SPROCKET | Toothed wheel that engages the drive chain
+HUB | Center part around which a wheel turns
+MUDGUARD | Curved cover that blocks spray from a wheel
+PUMP | Tool that pushes air into an inner tube
+FREEWHEEL | Rear gear assembly that lets a rider coast
+TREAD | Patterned rubber surface that contacts the road
+REFLECTOR | Bright piece that returns light toward a car
+KICKSTAND | Folding support that keeps a bicycle upright
+GEARSHIFT | Control used to select a different gear
+VALVECAP | Small cover screwed onto an air valve
+
+=== Umbrella Stand | EASY
+UMBRELLA | Folding cover held above the head in rain
+CANOPY | Fabric roof stretched over the frame
+HANDLE | Part held in the hand
+SHAFT | Long central rod beneath the canopy
+RIB | Thin support spreading the fabric
+CROOK | Curved end of a hooked handle
+TIP | Small cap at the end of a support
+HOOK | Curved piece used to hang a wet cover
+DRIP | Drop of water falling from a wet edge
+RAINCOAT | Waterproof outer layer worn in a shower
+PONCHO | Loose waterproof garment pulled over the head
+GALOSH | Rubber overshoe for wet weather
+BOOT | High shoe that helps keep feet dry
+PUDDLE | Shallow pool left after a rain
+MIST | Fine water droplets floating in the air
+SHOWER | Short period of falling rain
+DOWNPOUR | Sudden burst of heavy rain
+WATERPROOF | Describes material that keeps water out
+AWNING | Fabric cover shading a doorway or window
+FOLD | Bend a cover into a smaller bundle
+
+=== Key Ring | EASY
+KEYCHAIN | Small holder that keeps keys together
+KEYRING | Metal loop holding several keys
+FOB | Small tag or remote carried with a key
+KEYCASE | Folded holder that keeps keys covered in a pocket
+LATCH | Fastener released by lifting or sliding a piece
+SHACKLE | Curved metal bar that hooks into a padlock body
+DEADBOLT | Thick locking bar moved by a key or thumb turn
+PADLOCK | Portable lock with a hinged shackle
+KEYHOLE | Narrow opening where a key is inserted
+TUMBLER | Small moving part inside some locks
+CYLINDER | Round lock housing turned by a key
+DUPLICATE | Second copy cut from an original
+CUTTER | Shop tool used to shape a spare key
+TAG | Small label identifying a set of keys
+CARABINER | Spring-gated clip used to attach keys to a bag
+CLASP | Small fastening piece that can be opened
+HOOK | Curved piece used to hang a set
+METAL | Hard material used to make most keys
+SPARE | Extra key kept for emergencies
+DOOR | Entry panel that a key can unlock
+
+=== Fish Tank | EASY
+AQUARIUM | Glass home for fish and aquatic plants
+GUPPY | Small colorful fish that gives birth to live young
+TETRA | Tiny schooling fish often kept in groups
+GOLDFISH | Orange pet fish often kept in a bowl or tank
+ANGELFISH | Tall-bodied tropical fish with long fins
+GOURAMI | Freshwater fish that can breathe air at the surface
+DANIO | Active little fish often seen darting in a school
+BETTA | Colorful fish known for flowing fins
+CATFISH | Bottom-feeder with whiskerlike feelers
+MINNOW | Small silvery fish that swims in a school
+MOLLY | Livebearing fish that may have black coloring
+FILTER | Device that cleans water as it circulates
+PUMP | Machine that keeps tank water moving
+GRAVEL | Small stones spread across the tank floor
+PEBBLE | Smooth little stone among the bottom rocks
+PLANT | Green decoration that can provide shelter
+BUBBLE | Round pocket of air rising through water
+NET | Mesh scoop used to move a small fish
+SNAIL | Slow tank animal with a coiled shell
+SHRIMP | Small crustacean that may clean up leftover food
+
+=== Table Setting | EASY
+PLACEMAT | Pad placed under a dinner plate
+NAPKIN | Cloth or paper square for wiping fingers
+CHARGER | Large decorative plate beneath the dinner plate
+FORK | Eating tool with several pointed tines
+SPOON | Utensil with a small rounded bowl
+KNIFE | Table tool with a cutting edge
+PLATE | Flat dish used for serving a meal
+BOWL | Deep dish for soup or cereal
+GOBLET | Stemmed cup used for a drink
+TUMBLER | Straight-sided glass without a stem
+SAUCER | Small dish beneath a teacup
+TEACUP | Small handled cup for a hot drink
+PITCHER | Pouring vessel with a handle and spout
+TRIVET | Heat-safe stand placed beneath a hot pot
+CUTLERY | Group name for table knives, forks, and spoons
+CENTERPIECE | Decoration placed in the middle of a dining table
+CANDLE | Wax light placed on a dinner table
+LINEN | Cloth used for napkins or a table covering
+TABLECLOTH | Fabric spread over the dining surface
+RAMEKIN | Small baking dish for an individual serving
+
+=== Shoe Closet | EASY
+SNEAKER | Comfortable lace-up shoe for walking or running
+BOOT | Sturdy shoe that covers the ankle
+SANDAL | Open shoe held by straps
+SLIPPER | Soft shoe worn around the house
+LOAFER | Slip-on shoe with no laces
+CLOG | Shoe with a thick rigid sole
+CLEAT | Sports shoe with studs beneath the sole
+OXFORD | Low lace-up dress shoe
+MOCASSIN | Soft leather shoe with a flexible sole
+LACE | Cord threaded through holes to tighten a shoe
+INSOLE | Removable layer resting inside a shoe
+HEEL | Raised rear part of a shoe
+TOECAP | Reinforced part covering the front of a shoe
+TONGUE | Flap beneath a shoe's laces
+EYELET | Small ring reinforcing a lace hole
+SHOEHORN | Curved tool that helps a foot slide into a shoe
+POLISH | Colored cream used to shine leather footwear
+WEDGE | Heel that forms one solid angled piece
+BUCKLE | Fastener joining two straps
+SHOEBOX | Cardboard container sold with a new pair
+
+=== Hairbrush Kit | EASY
+BRUSH | Handheld tool with rows of stiff fibers
+COMB | Flat tool with a row of teeth
+BARRETTE | Clasp used to hold hair in place
+BOBBYPIN | Small metal clip with wavy sides
+HAIRPIN | Thin pin used to secure an updo
+SCRUNCHIE | Fabric-covered elastic for tying hair
+CLIP | Small fastener that grips a lock
+ELASTIC | Stretchy band used to tie a ponytail
+RIBBON | Narrow strip tied into a hair bow
+SHAMPOO | Wash used to clean the scalp
+CONDITIONER | Creamy rinse that softens hair
+DRYER | Electric tool that blows warm air
+CURLER | Rod or clip used to shape a lock
+ROLLER | Round form around which hair is wrapped
+BRAID | Hairstyle made by crossing strands over one another
+PONYTAIL | Hair gathered and tied behind the head
+BANGS | Short front section falling over the forehead
+MIRROR | Reflective glass used while grooming
+BRISTLE | One stiff fiber in a brush
+DETANGLER | Product that makes knots easier to comb out
+
+=== Toy Building Blocks | EASY
+BLOCK | Solid piece used for stacking or building
+BRICK | Rectangular piece that can form a wall
+STACK | Pile made by placing pieces one above another
+TOWER | Tall structure built from many pieces
+ARCH | Curved opening made between two supports
+BRIDGE | Structure built to cross a gap
+CASTLE | Fort built from toy pieces
+CUBE | Solid shape with six equal square faces
+PLANK | Long flat piece used as a platform
+RAMP | Sloping piece for rolling a toy downward
+ROOF | Top covering placed over a little building
+WALL | Upright side of a pretend building
+STUD | Raised connector that lets toy pieces snap together
+DOOR | Hinged panel that closes an entry
+FIGURE | Small toy person placed in a scene
+BASE | Bottom layer supporting a model
+PEG | Short pin joining two pieces
+SLOT | Narrow opening that accepts a flat piece
+WEDGE | Piece that is thick at one end and thin at the other
+TUNNEL | Covered passage built beneath a structure
+
+=== Baby Stroller | EASY
+STROLLER | Wheeled seat pushed along by an adult
+PRAM | Baby carriage with a deep bed
+CARRIAGE | Wheeled frame used to take an infant outdoors
+CUSHION | Soft pad placed beneath a child
+HARNESS | Straps that keep a rider safely seated
+CANOPY | Folding shade above the seat
+BASKET | Storage space beneath the seat
+WHEEL | Round part that rolls along the path
+BRAKE | Device that keeps the frame from rolling
+HANDLE | Bar held by the person pushing
+FOLD | Close the frame into a smaller shape
+BUCKLE | Clasp joining two straps
+FOOTREST | Support where a child's feet can rest
+BLANKET | Warm covering tucked around a baby
+RATTLE | Noisemaking toy shaken by a child
+PACIFIER | Soft item a baby may suck for comfort
+BIB | Cloth worn at the neck during a meal
+DIAPER | Absorbent garment changed by a caregiver
+BOTTLE | Container used for a baby's drink
+TOY | Plaything carried along for a ride
+
+=== Candle Shop | EASY
+CANDLE | Stick or jar of wax lit for its glow
+WICK | Thread that carries a flame through wax
+PARAFFIN | Common wax used in many household candles
+FLAME | Bright, hot part of a burning candle
+TAPER | Long slender candle that narrows toward the top
+VOTIVE | Small candle placed in a glass holder
+PILLAR | Thick candle that can stand on its own
+SNUFFER | Tool that puts out a small flame
+HOLDER | Base that catches dripping wax
+SCONCE | Wall-mounted fixture for a candle
+LANTERN | Portable case protecting a light from wind
+MELT | Turn from a solid into a liquid with heat
+SCENT | Smell added to a candle
+AROMA | Pleasant smell drifting through a room
+JAR | Glass container holding a candle
+COTTON | Soft plant fiber often used for a wick
+DYE | Color added to wax
+MOLD | Shape used to form a candle
+BEESWAX | Natural wax made by honeybees
+SOY | Plant source for some candle wax
+
+=== Window Cleaning | EASY
+SQUEEGEE | Rubber-edged tool pulled across wet glass
+PANE | Single sheet of glass in a window
+GLASS | Clear material used in most windows
+FRAME | Border holding a window in place
+SILL | Flat ledge at the bottom of a window
+CASING | Trim that borders a window opening
+SCREEN | Mesh panel that keeps many bugs outdoors
+SPRAY | Fine stream released from a bottle nozzle
+SOAP | Cleaner that helps lift dirt from a surface
+BUCKET | Open container carried by its handle
+SPONGE | Soft porous block used for scrubbing
+CLOTH | Piece of fabric used for wiping
+RAG | Old piece of fabric used as a cleaning wipe
+LADDER | Climbing frame used to reach a high pane
+POLISH | Product that leaves glass bright and clear
+STREAK | Long mark left behind by a wet wipe
+SCRUB | Rub firmly to loosen dirt
+WIPE | Clean a surface with a cloth
+CHAMOIS | Soft absorbent leather used to dry glass
+WASHER | Tool with a fabric sleeve for spreading soapy water
+
+=== Garage Sale | EASY
+YARD | Outdoor place where sale tables may be set
+TAG | Small card showing an item's price
+PRICE | Amount asked in exchange for an item
+BARGAIN | Good deal bought for less than expected
+CHANGE | Coins or bills returned after payment
+CASH | Paper money and coins used to pay
+TABLE | Flat surface displaying things for sale
+BOX | Container holding a group of items
+HANGER | Hooked frame used to display a coat
+DONATE | Give an unwanted item to a group that helps others
+SELLER | Person offering goods for money
+BUYER | Person choosing an item to purchase
+USED | Previously owned rather than brand new
+VINTAGE | Describes an older item from an earlier period
+LAMP | Household light placed on a table
+COAT | Warm outer garment hung for display
+BOOK | Bound pages offered to a new reader
+RECORD | Round disc that stores music
+TOASTER | Small kitchen appliance that browns bread
+CLOTHING | Shirts, pants, and other things worn
+
+=== Juice Bar | EASY
+JUICE | Drink pressed from fruit or vegetables
+SMOOTHIE | Thick cold drink blended from fruit
+BLENDER | Machine with spinning blades for mixing food
+STRAW | Narrow tube used for sipping a drink
+CUP | Small vessel for a single serving
+GLASS | Clear drinking vessel
+MANGO | Sweet tropical fruit with a large flat stone
+PAPAYA | Soft orange fruit with black seeds
+GUAVA | Tropical fruit with fragrant flesh
+LYCHEE | Small fruit with a rough red skin
+PULP | Soft crushed fruit left after pressing
+CITRUS | Fruit group including oranges and limes
+LEMON | Yellow tart fruit used in a drink
+LIME | Small green fruit with sharp juice
+ORANGE | Round citrus fruit with a thick peel
+PITCHER | Large vessel used to pour drinks
+CHILL | Make a drink cold before serving it
+MINT | Fragrant leaf used to flavor a drink
+GINGER | Spicy root grated into some drinks
+CELERY | Crisp green stalk sometimes juiced
+
+=== Gift Wrapping | EASY
+WRAP | Cover a present before giving it
+PAPER | Thin sheet used to cover a box
+RIBBON | Narrow strip tied around a package
+BOW | Looped decoration tied on top
+TAPE | Sticky strip joining two edges
+TAG | Small label bearing a recipient's name
+LABEL | Written marker identifying a package
+GLITTER | Sparkly decoration sprinkled over a package
+FOLD | Bend a sheet along a straight line
+CREASE | Sharp line left in folded paper
+TISSUE | Thin soft sheet tucked around a gift
+CELLOPHANE | Clear crinkly film around a basket
+TWINE | Strong thin string for tying a parcel
+STICKER | Adhesive decoration pressed onto a package
+BOX | Container that can hold a present
+BAG | Handheld carrier for a small gift
+ROSETTE | Ribbon decoration shaped like a flower
+POMPOM | Fluffy ball used as a package topper
+TULLE | Fine netting used as a gift decoration
+CARD | Folded note sent with a present
+
+=== Pencil Sharpener | EASY
+PENCIL | Writing stick with a graphite core
+SHARPENER | Tool that trims wood to expose a point
+CRANK | Handle turned to operate a desktop device
+BLADE | Small cutting edge inside a sharpener
+SHAVINGS | Curled bits of wood left after sharpening
+POINT | Fine end used for writing
+LEAD | Common name for the dark pencil core
+GRAPHITE | Dark mineral used inside a pencil
+ERASER | Soft block that removes pencil marks
+RUBBER | Material used for many pink erasers
+STATIONERY | Paper, pens, and other desk supplies as a group
+PAPER | Sheet that receives a written mark
+CRAYON | Wax stick used to color a picture
+CHALK | Soft stick used on a classroom board
+MARKER | Pen with a broad colored tip
+STUB | Short piece left after repeated use
+CORE | Inner rod of graphite and clay
+WOOD | Material surrounding the pencil's core
+NOTEPAD | Small pad of pages used for quick notes
+BIN | Container that catches discarded shavings
+
+=== Canning Kitchen | EASY
+JAR | Glass container used to store preserved food
+LID | Top that closes a jar
+RING | Screw-on band holding a flat top in place
+FUNNEL | Wide-mouthed tool guiding liquid into a jar
+TONGS | Gripping tool for lifting hot glass
+MARMALADE | Citrus spread made with pieces of peel
+APRICOT | Small golden fruit often saved in syrup
+BOIL | Heat liquid until bubbles rise throughout
+SEAL | Close a jar so air cannot enter
+STERILIZE | Use heat to kill germs on a jar
+PICKLE | Vegetable preserved in a sour brine
+HEADSPACE | Small gap left between food and the jar lid
+RELISH | Chopped vegetable condiment stored in a jar
+VINEGAR | Sour liquid used in many pickling recipes
+BRINE | Saltwater mixture used to pickle food
+CANNING | Preserving food in sealed containers
+NECTARINE | Smooth-skinned fruit that can be preserved in syrup
+PRESERVES | Thick fruit spread with pieces of fruit
+PEAR | Sweet fruit that can be canned in slices
+LABEL | Paper identifying the jar's contents
+
+=== Letter Writing | EASY
+LETTER | Written message sent to another person
+POSTCARD | Stiff card mailed without an envelope
+ENVELOPE | Paper cover holding a written message
+STAMP | Small prepaid label attached before mailing
+ADDRESS | Location written on the outside for delivery
+GREETING | Friendly opening words at the start of a note
+MESSAGE | Information shared in writing
+INK | Colored liquid used by a pen
+PEN | Handheld tool that leaves a line of ink
+FOUNTAIN | Pen type that holds liquid ink inside
+SEAL | Mark pressed into wax to close a letter
+SIGNATURE | Handwritten name at the end of a note
+AIRMAIL | Postal service carrying letters by airplane
+SENDER | Person who writes and sends a note
+RECIPIENT | Person meant to receive a message
+CURSIVE | Joined handwriting with flowing strokes
+POSTMARK | Ink impression showing where and when a letter entered the mail
+DRAFT | First version written before a final copy
+POSTAGE | Fee paid before a letter can be sent
+NOTEPAPER | Writing sheets kept for personal correspondence
+
+=== Dog Walking | EASY
+LEASH | Strap held while taking a dog outdoors
+COLLAR | Band worn around a pet's neck
+HARNESS | Straps fitted around a dog's chest
+POOPBAG | Small sack used to clean up after a pet
+MUZZLE | Face covering that prevents a bite
+BOOTIE | Small protective covering for a dog's paw
+WALK | Outdoor outing taken on foot
+SNIFF | Draw air through the nose to smell
+TREAT | Small reward given for good behavior
+FETCH | Game of throwing an object for a dog to bring back
+KENNEL | Enclosed place where a dog can rest
+TICK | Tiny parasite that may cling to a dog's coat
+FLEA | Small jumping insect that can bother pets
+PUPPY | Young dog learning to explore
+HOUND | Dog bred for tracking or hunting
+TRACK | Follow marks or a scent along the ground
+PACE | Speed of movement along a path
+ROUTE | Chosen way from one place to another
+STOOP | Small set of steps outside a doorway
+CURB | Raised edge separating a sidewalk from the road
+
+=== Handmade Soap | EASY
+SOAP | Cleaner rubbed between wet hands
+LATHER | Foam made when soap is mixed with water
+BAR | Solid block used for washing
+SCENT | Smell added to a bath product
+OIL | Liquid ingredient that can soften skin
+GLYCERIN | Clear ingredient that helps soap hold moisture
+LYE | Strong ingredient used to turn oils into soap
+MOLD | Shape used to form a bar
+CUTTER | Tool used to divide a large soap loaf
+CURE | Rest soap until it becomes firm enough to use
+FOAM | Bubbles formed while washing
+BUBBLE | Small round pocket of air in suds
+BATH | Wash taken in a tub of water
+WASH | Clean with soap and water
+SKIN | Outer covering of the body
+SCRUB | Rub firmly to clean a surface
+LOOFAH | Dry plant fiber used as a bath scrubber
+SPONGE | Soft porous item used for washing
+WRAP | Cover a finished bar before giving it away
+LABEL | Printed name attached to a finished bar

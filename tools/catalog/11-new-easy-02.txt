@@ -1,0 +1,439 @@
+=== Barber Shop | EASY
+BARBER | Person who cuts and styles hair
+CLIPPER | Electric tool that trims hair close
+RAZOR | Sharp tool used for a close shave
+SIDEBURN | Strip of hair in front of an ear
+STUBBLE | Short rough hairs left after shaving
+LATHER | Foam made by soap or shaving cream
+TOWEL | Cloth wrapped around a customer's shoulders
+CAPE | Cover worn to keep loose hair off clothes
+APRON | Garment protecting the barber's front
+COMB | Flat tool with a row of teeth
+MIRROR | Reflective glass used to check a haircut
+CHAIR | Seat that turns and rises in the shop
+TALC | Fine powder brushed on after a trim
+BLADE | Sharp metal edge inside a razor
+NECKLINE | Bottom edge of hair at the back of the head
+POMADE | Greasy styling product smoothed through hair
+TONIC | Liquid rubbed into the scalp after a cut
+TRIM | Small cut that tidies the ends
+SCISSORS | Hand tool with two crossing blades
+HAIRCUT | Change in hair length made at the shop
+
+=== Recycling Day | EASY
+CARTON | Paper container for milk or juice
+CAN | Metal container often collected for reuse
+TIN | Thin metal used for some food containers
+GLASS | Clear material that can be melted and reused
+CARDBOARD | Thick brown material from many shipping boxes
+NEWSPAPER | Daily pages that can go in a paper bin
+MAGAZINE | Glossy pages that can be recycled
+JAR | Glass container with a screw top
+BOTTLE | Container that may be made of plastic or glass
+PLASTIC | Lightweight material used for many packages
+SORT | Put items into groups by material
+BIN | Container waiting at the curb
+CURBSIDE | Place where a household pickup is left
+TRUCK | Large vehicle that collects sorted items
+PICKUP | Scheduled collection from homes
+COMPOST | Decayed scraps used to improve garden soil
+SCRAP | Small leftover piece of material
+ALUMINUM | Light metal used in drink cans
+REUSE | Use an item again instead of discarding it
+DEPOT | Place where collected materials are brought
+
+=== Balloon Party | EASY
+BALLOON | Inflated rubber decoration tied with a string
+HELIUM | Light gas that can make a party balloon rise
+STRING | Thin cord tied to keep a floaty decoration close
+KNOT | Tied twist that keeps air inside
+TWIST | Turn a long balloon into a new shape
+INFLATE | Fill with air or another gas
+FLOAT | Stay up in the air rather than fall
+POP | Burst with a sudden little bang
+PARTY | Gathering held to celebrate something
+STREAMER | Long curled strip hung across a room
+CONFETTI | Tiny colorful pieces tossed in the air
+ARCH | Curved display made from many decorations
+BUNCH | Group of decorations gathered together
+TANK | Heavy container holding compressed gas
+NOZZLE | Narrow end where gas comes out
+PUMP | Hand tool that pushes air into rubber
+COLOR | Bright shade used to decorate the room
+TIE | Fasten a knot at the end
+DECOR | Things arranged to make a room festive
+TETHER | Cord keeping a floating object from drifting away
+
+=== Grocery Checkout | EASY
+CASHIER | Worker who rings up a shopper's items
+SCANNER | Device that reads a striped product code
+BARCODE | Printed set of lines identifying an item
+RECEIPT | Paper showing what was bought and its cost
+CONVEYOR | Moving belt carrying groceries to the clerk
+BAGGER | Worker who packs paid-for groceries
+COUPON | Slip that lowers the price at checkout
+DIVIDER | Small bar separating one shopper's items from another's
+DISCOUNT | Amount taken off the listed price
+CHANGE | Coins or bills returned after payment
+REGISTER | Machine that records a sale
+CHECKOUT | Place where a shopper pays
+PRICE | Amount marked for an item
+BASKET | Handheld carrier for a few groceries
+CART | Wheeled carrier pushed through store aisles
+CARD | Plastic item used to pay or earn rewards
+TILL | Drawer holding cash at a sales counter
+LOYALTY | Store program that rewards repeat shoppers
+LANE | Marked path leading to a register
+PURCHASE | Item or items bought by a shopper
+
+=== Rabbit Hutch | EASY
+HUTCH | Sheltered wooden home for a small pet
+RABBIT | Long-eared animal that likes to nibble
+HARE | Fast relative with long legs and ears
+BOUNCE | Spring up from the ground on four feet
+BURROW | Underground home dug by a wild rabbit
+HAY | Dried grass fed to a small pet
+HOPPER | Rack that holds a pet's dry food
+LITTER | Bedding material placed in a tray
+PELLET | Small dry piece of feed
+FUR | Soft coat covering an animal
+WHISKER | Long stiff hair near an animal's nose
+PAW | Foot with soft pads and small claws
+CAGE | Enclosure made with bars or wire
+CHEW | Bite repeatedly with the back teeth
+NOSE | Part used to sniff a treat
+NEST | Soft place made for resting
+CARROT | Crunchy orange root vegetable
+NIBBLE | Take small bites from food
+BEDDING | Soft material spread on the floor
+WATERBOTTLE | Container with a drinking spout for a pet
+
+=== Paper Airplanes | EASY
+HEADWIND | Wind blowing toward the front of a light flier
+AIRFOIL | Curved surface that helps a wing create lift
+NOSE | Pointed front end of the craft
+GLIDE | Move smoothly through the air
+PAPER | Thin sheet used to build the flier
+THRUST | Push that sends a craft forward
+TAIL | Rear part that helps keep it steady
+FLIGHT | Trip through the air
+DART | Narrow model made for a quick throw
+CROSSWIND | Sideways wind that can push a light flier off course
+CREASE | Sharp line left in folded paper
+FUSELAGE | Main body running between nose and tail
+CRAFT | Handmade object built for a playful flight
+LAUNCH | Send a model into the air
+THROW | Send forward with an arm motion
+LOOP | Curved path that returns toward its start
+SPIRAL | Twisting path through the sky
+STALL | Lose forward motion and drop
+HOVER | Stay nearly in one spot in the air
+BANK | Lean to one side during a turn
+
+=== Toy Train Station | EASY
+BOGIE | Wheeled frame underneath a railway carriage
+TURNTABLE | Rotating platform that turns a locomotive around
+FLATCAR | Freight vehicle with an open level deck
+ENGINE | Powered front part that pulls the cars
+CABOOSE | Car traditionally found at the end of a freight train
+TRACK | Rails that guide the wheels
+SIGNAL | Light or sign telling a train when to move
+WHISTLE | Noisemaker used to announce a departure
+STATION | Stop where passengers board or leave
+SCHEDULE | List of planned arrival and departure times
+CARRIAGE | Passenger car pulled by an engine
+COUPLER | Fitting that joins two railway cars
+COAL | Black fuel once burned in many steam engines
+STEAM | Cloud made when heated water turns to gas
+DEPOT | Building where vehicles are stored or dispatched
+CROSSING | Place where a road passes over railway rails
+SWITCH | Track piece that sends cars onto another route
+WAGON | Open railway car for carrying a load
+BUFFER | End stop that keeps a car from rolling too far
+BRAKE | Device that slows a moving train
+
+=== Dish Rack | EASY
+DRAINER | Perforated holder that lets water run away
+COLANDER | Bowl-shaped strainer with many holes
+STRAINER | Mesh tool that separates liquid from food
+BASIN | Wide bowl used for washing
+PLATE | Flat dish used to serve a meal
+SPOON | Utensil with a rounded bowl
+FORK | Eating tool with several pointed tines
+KNIFE | Table tool with a cutting edge
+CUP | Small vessel for a drink
+MUG | Sturdy handled cup for a hot drink
+BOWL | Deep dish for cereal or soup
+DISHES | Plates, cups, and bowls waiting to be washed
+RACK | Frame that holds items upright to dry
+DRAINBOARD | Flat surface beside a sink where dishes can drip dry
+SOAP | Cleaner that makes suds in water
+WASHCLOTH | Small fabric square used for scrubbing
+TEATOWEL | Cloth used to dry cups and plates
+SINK | Basin with a faucet for washing
+TUMBLER | Straight-sided drinking vessel that can sit on a rack
+PLACEMAT | Pad put beneath a dish at mealtime
+
+=== School Locker | EASY
+LOCKER | Tall storage cupboard found in a hallway
+COMBINATION | Number sequence used to open a dial lock
+PADLOCK | Portable lock with a hinged shackle
+DIAL | Round numbered part turned to enter a code
+SPIN | Turn a dial around its center
+LATCH | Fastener that holds a small door shut
+SHELF | Flat board inside a storage space
+DOOR | Hinged panel that opens the compartment
+HINGE | Joint that lets a locker door swing open
+VENT | Narrow opening that lets air pass through
+BACKPACK | Bag carried over both shoulders
+TEXTBOOK | School volume used during a lesson
+NOTEBOOK | Pages joined for taking class notes
+BINDER | Cover with metal rings holding loose pages
+FOLDER | Paper cover that keeps sheets together
+GYM | Room where students play indoor sports
+SCHEDULE | List showing where classes meet and when
+SNACK | Small bite eaten between meals
+WATERBOTTLE | Refillable container carried to class
+CUBBY | Small open space used for personal storage
+
+=== Snow Fort | EASY
+BLOCK | Packed piece used to build a wall
+PACK | Press loose snow into a solid mass
+SNOWBANK | Raised pile of windblown snow around a fort
+WALL | Upright side of a shelter
+SNOWBRICK | Packed block cut from snow for building a fort
+ROOF | Top that shelters the space below
+IGLOO | Dome shelter traditionally built from snow
+FORT | Protected place built for pretend play
+SHOVEL | Tool used to move loose snow
+MITTENS | Warm hand coverings with one space for fingers
+SCARF | Long warm strip worn around the neck
+SNOWSHOE | Wide foot covering that helps a walker cross soft snow
+CARROT | Orange vegetable sometimes used for a snowman's nose
+SLED | Small vehicle that slides down a snowy hill
+DRIFT | Deep pile of windblown snow
+FLURRY | Brief burst of falling snow
+POWDER | Light freshly fallen snow
+RAMP | Sloped path leading up to a wall
+FLAG | Cloth marker planted on top
+DOORWAY | Opening left for entering the shelter
+
+=== Phone Charger | EASY
+CHARGER | Device that refills a phone's battery
+ADAPTER | Small piece connecting a plug to a different socket
+CABLE | Flexible cord that carries power
+PLUG | End pushed into an outlet
+SOCKET | Recess that accepts an electrical plug
+OUTLET | Wall fitting that supplies electricity
+PORT | Opening where a charging cord connects
+USB | Common connector type for small electronics
+PHONE | Handheld device used for calls and messages
+BATTERY | Part that stores power for later use
+POWERBANK | Portable pack used to charge a device away from home
+CASE | Protective cover around a handheld device
+SCREEN | Glass display showing text and pictures
+BUTTON | Small control pressed with a finger
+CONNECTOR | Fitting at the end of a cable
+BRICK | Block-shaped power supply for a wall outlet
+WIRE | Thin metal strand carrying electricity
+LIGHTNING | Name of a small plug used by some phones
+TYPEC | Reversible plug style found on many newer devices
+VOLTAGE | Electrical force supplied by a charger
+
+=== Lunch Thermos | EASY
+THERMOS | Insulated container that keeps soup warm
+LUNCHBOX | Small carrier for a midday meal
+FLASK | Narrow container used for a hot drink
+LID | Cover that closes the top
+SEAL | Ring that helps prevent a leak
+VACUUM | Space with nearly all the air removed
+STEEL | Strong metal used in many insulated containers
+INSULATED | Describes a container with walls that slow heat loss
+NOODLE | Long strip of dough served in a bowl
+STAINLESS | Type of steel that resists rust
+WRAP | Flatbread rolled around a filling
+ICEPACK | Cold pack tucked beside food
+NAPKIN | Small cloth or paper for wiping fingers
+SPOON | Utensil for eating soup
+FORK | Eating tool with several tines
+FRUIT | Sweet plant food packed as a snack
+SNACK | Small bite between regular meals
+YOGURT | Tangy cultured dairy snack
+JUICE | Drink pressed from fruit
+LUNCHBAG | Soft carrier that holds a packed midday meal
+
+=== Pet Carrier | EASY
+CARRIER | Portable enclosure used to transport a pet
+CRATE | Strong box with openings for air
+KENNEL | Enclosed shelter for a dog
+GRIP | Part held firmly while lifting a container
+FLAP | Hinged panel that closes a travel crate
+LATCH | Small fastener keeping an opening shut
+VENT | Opening that lets fresh air circulate
+PAD | Soft layer placed on the floor
+BLANKET | Warm covering laid inside for comfort
+STRAP | Narrow band used for carrying
+MICROCHIP | Tiny implant that can identify a lost pet
+COLLAR | Band worn around an animal's neck
+PUPPY | Young dog taken along on a trip
+CAT | Small pet that may ride in a carrier
+TRAVEL | Go from one place to another
+RIDE | Trip made in a vehicle
+WIRE | Metal strand used in some crate walls
+PLASTIC | Light material used for many carriers
+PORTABLE | Easy to carry from place to place
+BED | Soft place where a pet can rest
+
+=== Night Light | EASY
+NIGHTLIGHT | Small lamp left glowing after bedtime
+GLOW | Soft steady light in a dark room
+LED | Tiny bright lamp used in modern devices
+BULB | Glass or plastic part that lights up
+LAMP | Fixture that holds a source of light
+DIMMER | Control that lowers a lamp's brightness
+SOCKET | Fitting that holds a small bulb
+SWITCH | Control moved to turn a light on or off
+SHADE | Cover that softens a lamp's brightness
+PLUG | End pushed into a wall outlet
+OUTLET | Wall fitting that supplies electricity
+SENSOR | Part that reacts when someone comes near
+DUSK | Time when daylight is fading
+DAWN | First light before sunrise
+HALL | Passage connecting rooms in a home
+NURSERY | Room prepared for a young child
+BEDSIDE | Place next to a bed
+BRIGHT | Full of strong light
+DARKNESS | Lack of light after sunset
+TIMER | Device that switches a lamp off after a set time
+
+=== Driveway Chalk | EASY
+CHALK | Soft stick used to draw on pavement
+SIDEWALK | Paved path beside a street
+HOPSCOTCH | Jumping game marked with numbered squares
+SQUARE | Four-sided shape with equal edges
+GRID | Set of crossing lines making small spaces
+COLOR | Shade chosen for a drawing
+RAIN | Water that can wash drawings away
+DUST | Fine powder left by a chalk stick
+DRAW | Make a picture with lines
+SCENE | Picture showing a place or event
+MURAL | Large picture painted on a wall or ground
+SQUIRT | Send out a short stream of water
+BUCKET | Open container carried by its handle
+STICK | Thin piece held while drawing
+LINE | Long narrow mark made across a surface
+ARROW | Mark with a point showing direction
+NUMBER | Symbol used for counting
+JUMP | Push off the ground and land again
+SKIP | Move with a light hopping step
+PICTURE | Drawing that shows an object or place
+
+=== Kitchen Scale | EASY
+SCALE | Device that tells how heavy an item is
+WEIGHT | Measure of how heavy something is
+GRAM | Small unit used for measuring mass
+OUNCE | Unit often used for a small amount of food
+POUND | Unit equal to sixteen ounces
+TARE | Set a scale back to zero with a bowl on it
+ZERO | Starting number shown before weighing
+DIAL | Round display with a moving pointer
+READOUT | Numbers shown after an item is weighed
+BUTTON | Small control pressed with a finger
+PLATE | Flat surface holding the ingredient
+BOWL | Deep vessel placed on the scale
+BATTERY | Part that supplies power to a digital device
+SCREEN | Flat panel showing numbers
+CALIBRATE | Set a weighing device against a known standard
+FLOUR | Fine powder used in many recipes
+SUGAR | Sweet crystals added to a mixture
+BUTTER | Creamy dairy ingredient used in baking
+RECIPE | Directions for preparing a dish
+CAPACITY | Maximum load the device is designed to weigh
+
+=== Bookshop Window | EASY
+BOOKSTORE | Shop that sells printed stories and guides
+NOVEL | Long work of made-up prose
+AUTHOR | Person who writes a book
+JACKET | Removable sleeve protecting a hardbound book
+SPINE | Narrow bound edge bearing a title
+PAGE | One side of a sheet inside a book
+TITLE | Name printed on the cover
+SHELF | Flat ledge displaying books
+DISPLAY | Arrangement made to catch a shopper's eye
+SIGN | Written notice showing a shop message
+STACK | Neat pile of books
+PAPERBACK | Book with a flexible paper cover
+HARDCOVER | Book with a stiff outer cover
+BOOKMARK | Slip placed between pages to save a spot
+POETRY | Writing arranged in lines and verses
+MYSTERY | Story built around a puzzle or crime
+BIOGRAPHY | Account of a real person's life
+FICTION | Writing about invented people or events
+READER | Person enjoying a book
+BOOKSELLER | Worker who helps customers choose a book
+
+=== Restaurant Bill | EASY
+MENU | List of meals available at a restaurant
+WAITER | Server who brings food to a table
+SERVER | Worker who takes orders and serves meals
+TIP | Extra amount left to thank a server
+TOTAL | Final amount due after charges are added
+TAX | Government charge added to a purchase
+CHANGE | Money returned after paying too much
+CASH | Coins and notes used to pay
+CARD | Plastic item used to pay for a meal
+CREDIT | Type of payment billed later
+DEBIT | Type of payment taken from a bank account
+RECEIPT | Printed record of what was paid
+BILL | Paper showing the amount owed
+ORDER | Request for food and drinks
+TABLE | Place where diners sit to eat
+SPLIT | Divide one bill among several people
+SHARE | Pay or use something together
+CHECK | Another name for the amount due at a restaurant
+GRATUITY | Extra payment for a server
+ITEMIZED | Listed one charge at a time
+
+=== Hula Hoop | EASY
+HOOP | Large plastic ring spun around the waist
+TWIRL | Turn around quickly or repeatedly
+SPIN | Rotate around a central point
+WAIST | Narrow part between the ribs and hips
+CIRCLE | Round shape with no corners
+ROUND | Curved shape like a ring
+SWAY | Move gently from side to side
+HIPS | Body parts beside the waist
+RHYTHM | Repeated beat that guides a dance
+DANCE | Move the body to music
+SWING | Move in a smooth back-and-forth arc
+STAND | Remain upright on one's feet
+ARM | Limb between a shoulder and a hand
+HAND | Body part used to hold a ring
+TOY | Plaything used for fun
+COLOR | Bright shade on a plastic ring
+PLASTIC | Light material used to make the ring
+WIGGLE | Move with quick small motions
+TRICK | Clever move that takes practice
+FLAIR | Stylish way of doing a movement
+
+=== Plant Watering Can | EASY
+WATERINGCAN | Handheld vessel with a spout for watering plants
+SPOUT | Narrow opening that directs a pour
+RAINBARREL | Container that stores water collected outdoors
+DRIPLINE | Tube that carries water along a row of plants
+MIST | Fine spray of tiny water droplets
+SOIL | Loose earth where roots grow
+ROOT | Part that takes in water from the ground
+STEM | Upright part supporting leaves
+LEAF | Flat green part that catches sunlight
+POT | Container holding a growing plant
+DRAINAGE | Flow of extra water away from a pot
+SAUCER | Shallow dish placed beneath a flowerpot
+TROWEL | Small hand tool for moving soil
+SEEDLING | Young plant just beginning to grow
+PLANT | Living thing grown in soil or a container
+SUNLIGHT | Natural rays needed by many houseplants
+DROPLET | A tiny bead of water from the spout
+DAMP | Slightly wet rather than dry
+SPRINKLER | Device that sends water across a garden
+SPRAYER | Handheld tool that spreads a fine stream
