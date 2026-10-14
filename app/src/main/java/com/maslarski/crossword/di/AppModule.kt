@@ -72,6 +72,7 @@ object AppModule {
     @Provides @Singleton
     fun provideDatabase(@ApplicationContext context: Context): CrosswordDatabase =
         Room.databaseBuilder(context, CrosswordDatabase::class.java, CrosswordDatabase.NAME)
+            .addMigrations(CrosswordDatabase.MIGRATION_6_7)
             .addCallback(object : RoomDatabase.Callback() {
                 override fun onCreate(db: SupportSQLiteDatabase) {
                     db.execSQL("INSERT OR IGNORE INTO wallet (id, coins, lifetimeEarned) VALUES (0, ${GameRules.STARTING_COINS}, 0)")
