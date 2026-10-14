@@ -1,0 +1,58 @@
+{
+  "id": "level-326",
+  "title": "Space Station",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "W####N#D#SHAFT",
+    "EXPERIMENT#L#I",
+    "I#E##C#F#A#G#N",
+    "G#N##K#T#TOAST",
+    "H##A#E#E#I##K#",
+    "T##SOLAR#ORBIT",
+    "L##T##P##N###I",
+    "EXERCISE###S#M",
+    "S##O##E#MODULE",
+    "S##N###Z###P#R",
+    "#V#AIRLOCK#P##",
+    "MENU#U#O#I#LOP",
+    "#S#TELEMETRY#U",
+    "CTD##E###E###P"
+  ],
+  "clues": {
+    "across": {
+      "4": "Rod that carries the motor's turning force",
+      "7": "Test designed to answer a question",
+      "9": "Browned slice of bread",
+      "12": "Relating to the sun",
+      "14": "Curved path around a celestial body",
+      "16": "Activity used to keep muscles strong",
+      "18": "Separate section of a spacecraft",
+      "21": "Chamber between spaces at different pressures",
+      "24": "List of meals available at a restaurant",
+      "25": "Rabbit breed known for hanging ears",
+      "27": "Automatic transmission of measurement data",
+      "28": "Instrument measuring conductivity, temperature, and depth"
+    },
+    "down": {
+      "1": "Condition of very weak apparent weight",
+      "2": "Metal often found with iron in meteorites",
+      "3": "Ottoman register used to record land or taxpayers",
+      "4": "Structure where a crew lives in orbit",
+      "5": "Simple photosynthetic organism living in water",
+      "6": "Small amount of colour",
+      "8": "Tool with a point used to write or draw",
+      "10": "Long narrow runner worn on snow",
+      "11": "Person trained to travel in space",
+      "13": "Rounded end of a basilica",
+      "15": "Device used to track a speaker's allotted minutes",
+      "17": "Food or equipment delivered to a crew",
+      "19": "Make a distant subject appear closer",
+      "20": "Bright clothing that helps workers be seen",
+      "22": "Agreed instruction that governs how a game is played",
+      "23": "Lightweight toy flown on a string",
+      "26": "Young dog learning to eat solid food"
+    }
+  },
+  "order": 326
+}

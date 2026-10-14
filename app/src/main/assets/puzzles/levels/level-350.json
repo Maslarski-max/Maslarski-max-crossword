@@ -1,0 +1,60 @@
+{
+  "id": "level-350",
+  "title": "Tropical Cyclones",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "BAROMETER######",
+    "A#####R#I###GEM",
+    "R#TYPHOON##F#Y#",
+    "O#R#R#P#K#HOVER",
+    "C#A#ACID###R#W#",
+    "L#D#C#C#M#DECAF",
+    "INERTIA#O##C#L#",
+    "N#W#I#LANDFALL#",
+    "I#INCH##S##S##F",
+    "CAN#E#STORMTIDE",
+    "##D###A#O#A###N",
+    "VEST##WINDGUST#",
+    "E######R##N###T",
+    "N###SQUID#E###A",
+    "TAF####S#STRING"
+  ],
+  "clues": {
+    "across": {
+      "1": "Instrument used to measure air pressure",
+      "4": "Small sparkling stone fixed to a decoration",
+      "6": "Severe tropical storm in the northwest Pacific",
+      "9": "Stay nearly in one spot in the air",
+      "10": "Lemon juice is one",
+      "12": "Coffee treated to remove most of its caffeine",
+      "13": "Resistance to change in motion",
+      "14": "Arrival of a storm centre over land",
+      "15": "Unit marked on some weather instruments",
+      "17": "Metal container often collected for reuse",
+      "18": "Abnormally high coastal water pushed by a storm",
+      "20": "Bright garment that helps a patrol member be seen",
+      "21": "Brief burst of fast-moving air",
+      "24": "Sea animal with a soft body and long arms",
+      "25": "Coded forecast issued for an airport",
+      "26": "Stretched wire that vibrates to create a piano note"
+    },
+    "down": {
+      "1": "Relating to pressure systems with tilted temperature layers",
+      "2": "Relating to warm regions near the equator",
+      "3": "Enclosed area for skating",
+      "5": "Ring of powerful storms around a cyclone's centre",
+      "6": "Steady tropical winds that steer storm systems",
+      "7": "Repeated work to improve a skill",
+      "8": "Prediction of a storm's future path and strength",
+      "11": "Seasonal wind shift that brings heavy rain",
+      "16": "Peat-forming wetland fed by mineral-rich water",
+      "18": "Toothed blade for cutting wood",
+      "19": "Object that creates a field which can turn a motor",
+      "20": "Opening in the seafloor where hot fluid escapes",
+      "22": "Coloured ring around the centre of an eye",
+      "23": "Chasing game: you are it"
+    }
+  },
+  "order": 350
+}

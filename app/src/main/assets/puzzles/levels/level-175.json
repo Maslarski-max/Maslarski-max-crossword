@@ -1,39 +1,43 @@
 {
   "id": "level-175",
-  "title": "Space Mission",
+  "title": "Toy Robots",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####E##O###",
-    "TRAJECTORY##",
-    "E####L##B#A#",
-    "L#D#MISSION#",
-    "E#O##P##T#T#",
-    "M#CAPSULE#E#",
-    "E#K##E##R#N#",
-    "T#I###L###N#",
-    "R#N##PAYLOAD",
-    "Y#G###N#####",
-    "####MODULE##",
-    "######E#####",
-    "####THRUSTER"
+    "POWERPACK#S",
+    "R###O#N###K",
+    "O#C#A#DECAY",
+    "G#LASER##C#",
+    "R#A#T#O##T#",
+    "AUNT#WINDUP",
+    "M#K#T#D##A#",
+    "#F##O##MAT#",
+    "BETTA##E#O#",
+    "#R##SENSOR#",
+    "INLET##H###"
   ],
   "clues": {
     "across": {
-      "3": "Curved path followed by a moving object",
-      "6": "Planned journey with a specific goal",
-      "7": "Compact craft carrying astronauts",
-      "9": "Equipment carried for a mission",
-      "10": "Separate section of a larger spacecraft",
-      "11": "Small engine that changes a craft's motion"
+      "1": "Compact unit that supplies energy to a toy",
+      "6": "Spontaneous change of an unstable nucleus",
+      "8": "Narrow beam of bright light",
+      "9": "Your parent's sister",
+      "10": "Turn a key to make a toy move",
+      "13": "Woven plant material used for a traditional sail",
+      "14": "Colorful fish known for flowing fins",
+      "15": "Part that detects changes nearby",
+      "16": "Opening that lets street water enter a drain"
     },
     "down": {
-      "1": "One celestial body blocks another from view",
-      "2": "Spacecraft that circles a celestial body",
-      "3": "Automatic sending of measurement data",
-      "4": "Device that sends or receives signals",
-      "5": "Joining two spacecraft in orbit",
-      "8": "Craft designed to touch down on a world"
+      "1": "Instructions that tell a machine what to do",
+      "2": "Cook food with dry heat",
+      "3": "Robot shaped to look like a person",
+      "4": "Space above the ground",
+      "5": "Sharp metallic sound",
+      "7": "Part that makes a robot move a joint",
+      "11": "Browned slice of bread",
+      "12": "Plant that reproduces by spores rather than seeds",
+      "13": "Fine netting that keeps insects outside"
     }
   },
   "order": 175

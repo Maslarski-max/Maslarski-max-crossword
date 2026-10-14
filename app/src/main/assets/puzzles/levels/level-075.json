@@ -1,43 +1,34 @@
 {
   "id": "level-075",
-  "title": "Philosophy",
+  "title": "Post Office",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#S############",
-    "ETHICS#S######",
-    "#O###K#O######",
-    "VIRTUE#C######",
-    "#C###PARADOX##",
-    "#####T#A#E####",
-    "####NIETZSCHE#",
-    "#####C#E#C####",
-    "#######S#AXIOM",
-    "#########R####",
-    "####K#PLATO###",
-    "DOGMA##O#E####",
-    "####N##G#S####",
-    "###UTOPIA#####",
-    "#######C######"
+    "ENVELOPE#",
+    "######A##",
+    "POSTCARD#",
+    "##E###C#L",
+    "PEN#QUEUE",
+    "O#D###L#T",
+    "E##F#A##T",
+    "MICROWAVE",
+    "###Y#L##R"
   ],
   "clues": {
     "across": {
-      "2": "Study of right and wrong",
-      "5": "Moral excellence",
-      "6": "Self-contradictory truth",
-      "8": "Philosopher who declared God is dead",
-      "9": "Self-evident starting truth",
-      "11": "Student of Socrates who wrote The Republic",
-      "13": "Belief held beyond question",
-      "14": "Imagined perfect society"
+      "1": "Paper cover for a letter",
+      "3": "Card with a picture and short message",
+      "6": "Tool used for writing",
+      "7": "Line of people waiting",
+      "10": "Electromagnetic band commonly used in radio astronomy"
     },
     "down": {
-      "1": "Follower of Zeno, unmoved by passion",
-      "3": "One who doubts accepted opinions",
-      "4": "Athenian who drank hemlock",
-      "7": "I think, therefore I am",
-      "10": "Author of Critique of Pure Reason",
-      "12": "Study of valid reasoning"
+      "2": "Wrapped package sent to someone",
+      "4": "Arrange for a letter to travel",
+      "5": "Written message sent in an envelope",
+      "6": "Writing arranged in lines with rhythm or imagery",
+      "8": "Cook an egg in a shallow pan",
+      "9": "Pointed hand tool for making a small hole"
     }
   },
   "order": 75

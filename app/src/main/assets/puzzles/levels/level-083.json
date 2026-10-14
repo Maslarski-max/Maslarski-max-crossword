@@ -1,42 +1,34 @@
 {
   "id": "level-083",
-  "title": "Economics",
+  "title": "Bird Feeder",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#######MONOPOLY",
-    "###E###A#######",
-    "###Q#SURPLUS###",
-    "###U###K####C##",
-    "#S#I###E####O##",
-    "AUSTERITY#I#M##",
-    "#B#Y#E####N#M##",
-    "#S###C####F#O#D",
-    "DIVIDEND##L#D#E",
-    "#D###S###TARIFF",
-    "#Y###S####T#T#I",
-    "####LIQUIDITY#C",
-    "#####O####O###I",
-    "CURRENCY##N###T"
+    "GREENBEAN",
+    "A#######I",
+    "R##Q##M#K",
+    "DEMURRAGE",
+    "E##E##Y##",
+    "N##C##DIG",
+    "#ATHENA#R",
+    "#M#U##Y#I",
+    "#STAMP##T"
   ],
   "clues": {
     "across": {
-      "1": "Market with one seller",
-      "3": "Excess of income",
-      "6": "Strict spending cuts",
-      "10": "Share of profits paid to shareholders",
-      "11": "Tax on imports",
-      "12": "Ease of turning assets into cash",
-      "13": "System of money in use"
+      "1": "Unroasted seed prepared for roasting",
+      "5": "Charge for keeping equipment beyond its free-use period",
+      "6": "Defensive save made on a hard-driven ball",
+      "8": "Goddess of wisdom who sprang from Zeus's head",
+      "9": "Small printed label that pays for postage"
     },
     "down": {
-      "1": "Place where buyers and sellers meet",
-      "2": "Ownership value in an asset",
-      "4": "Raw material traded in bulk",
-      "5": "Government financial aid",
-      "7": "Economic decline",
-      "8": "Rising prices over time",
-      "9": "Shortfall of money"
+      "1": "Outdoor area where a feeder may hang",
+      "2": "Winged goddess often shown as a figure of victory",
+      "3": "Language family spoken across the Andes",
+      "4": "International radio call for grave distress",
+      "7": "Small hard particles washed off streets",
+      "8": "Method that counts individual atoms in a sample"
     }
   },
   "order": 83

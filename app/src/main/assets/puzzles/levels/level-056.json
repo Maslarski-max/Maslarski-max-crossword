@@ -1,38 +1,32 @@
 {
   "id": "level-056",
-  "title": "Space Exploration",
+  "title": "Backyard Birds",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "C#GALAXY###T#",
-    "O####S##ROVER",
-    "S##V#T#####L#",
-    "METEOR#####E#",
-    "O##N#O#N###S#",
-    "SATURN#E#J#C#",
-    "###S#A#B#U#O#",
-    "#####U#U#P#P#",
-    "###SATELLITE#",
-    "#######A#T###",
-    "#########E###",
-    "####CRATER###"
+    "FLOCK####",
+    "E##R#F##M",
+    "A#ROBIN#E",
+    "T##W#N##T",
+    "H#D##C##A",
+    "E#E#CHILL",
+    "R#B#####B",
+    "##I#####A",
+    "NOTEPAPER"
   ],
   "clues": {
     "across": {
-      "2": "Huge system of stars",
-      "5": "Vehicle that explores Mars",
-      "7": "Shooting star",
-      "9": "Planet with famous rings",
-      "11": "It orbits Earth sending signals",
-      "12": "Bowl-shaped dent on the Moon"
+      "1": "Group of birds together",
+      "5": "Red-breasted songbird common in gardens",
+      "7": "Make something colder",
+      "8": "Writing sheets kept for personal correspondence"
     },
     "down": {
-      "1": "The universe",
-      "3": "Space traveller",
-      "4": "It shows distant stars",
-      "6": "Hottest planet",
-      "8": "Cloud of gas in space",
-      "10": "Largest planet"
+      "1": "Covering that helps a bird fly",
+      "2": "Black bird known for clever behaviour",
+      "3": "Seed-eating bird with a short beak",
+      "4": "Cast block of metal carried as cargo",
+      "6": "Entry recording money owed or paid out"
     }
   },
   "order": 56

@@ -1,0 +1,61 @@
+{
+  "id": "level-363",
+  "title": "Telescope Optics",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "FORT###TRIPOD##",
+    "I###M###I#L####",
+    "NEWTONIAN#A#CTD",
+    "D#O#U###DUNE#U#",
+    "E#O#N#M###E##B#",
+    "RED#T#APERTURE#",
+    "S##E##G#####E#K",
+    "C##Y##N#L#F#FEN",
+    "OBJECTIVE#O#R#E",
+    "P##P##F#N#C#A#E",
+    "EMAIL#Y#SLUICE#",
+    "###E#A####S#T#G",
+    "#FOCALPLANE#OIL",
+    "#L#E#G#I##R#R#O",
+    "GYM#CADDY#####W"
+  ],
+  "clues": {
+    "across": {
+      "1": "Protected place built for pretend play",
+      "2": "Three-legged stand that steadies a telescope",
+      "6": "Telescope design with a concave main mirror and a diagonal secondary",
+      "8": "Instrument measuring conductivity, temperature, and depth",
+      "10": "Low mound of beach sand shaped by wind",
+      "12": "Colour of a stop sign",
+      "13": "Diameter of the main light-gathering opening",
+      "19": "Peat-forming wetland fed by mineral-rich water",
+      "20": "Main lens or mirror that collects distant light",
+      "21": "Electronic letter",
+      "22": "Channel that carries water and gravel past a screen",
+      "25": "Surface where a sharp image comes to a focus",
+      "27": "Liquid ingredient that can soften skin",
+      "28": "Room where students play indoor sports",
+      "29": "Small counter bin for collecting food waste"
+    },
+    "down": {
+      "1": "Small aiming telescope fixed beside the main tube",
+      "3": "Outer layer of a cheese",
+      "4": "World such as Jupiter that can be viewed through a telescope",
+      "5": "Support that holds and points a telescope",
+      "7": "Hard material forming a tree trunk",
+      "9": "Long body that blocks stray light from the lens",
+      "11": "Make a distant object appear larger",
+      "14": "Telescope that bends incoming light through lenses",
+      "15": "Small lens assembly used to view the image",
+      "16": "Joint between the thigh and lower leg",
+      "17": "Curved glass that bends rays into focus",
+      "18": "Sliding holder used to sharpen the image",
+      "23": "Simple photosynthetic organism living in water",
+      "24": "Soft light made by some deep-sea animals",
+      "25": "Buzzing insect",
+      "26": "Cover that closes the top"
+    }
+  },
+  "order": 363
+}

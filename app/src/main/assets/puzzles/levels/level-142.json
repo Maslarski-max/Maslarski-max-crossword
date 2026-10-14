@@ -1,40 +1,39 @@
 {
   "id": "level-142",
-  "title": "Rocket Science",
+  "title": "Raincoat Pocket",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####GRAVITY#",
-    "A#######E####",
-    "S###SATELLITE",
-    "T#B#####O####",
-    "R#O#LAUNCHPAD",
-    "O#O#####I####",
-    "N#S#COUNTDOWN",
-    "A#T#A###Y###O",
-    "U#E#P##O####Z",
-    "THRUST#R####Z",
-    "####U##B#FUEL",
-    "####L##I####E",
-    "###REENTRY###"
+    "SLEEVE#C##",
+    "T#X###HOOD",
+    "OVAL#R#L#R",
+    "R#M#WALL#I",
+    "M####I#A#Z",
+    "FASTENER#Z",
+    "L#T##H###L",
+    "A#A##ARETE",
+    "POCKET#Y##",
+    "##K####EDO"
   ],
   "clues": {
     "across": {
-      "1": "Pull toward the earth",
-      "4": "Object circling the earth",
-      "6": "Platform for lift-off",
-      "7": "Ten, nine, eight...",
-      "10": "Force that pushes a rocket",
-      "11": "What the rocket burns",
-      "12": "Return through the atmosphere"
+      "1": "Part of a coat that covers an arm",
+      "4": "Head covering sewn onto a jacket",
+      "6": "Egg shape",
+      "8": "Upright structure that divides or encloses a space",
+      "9": "Part used to keep two sides of clothing together",
+      "11": "Sharp ridge carved between glacial valleys",
+      "13": "Small fabric pouch for carrying things",
+      "14": "Former name of the city now called Tokyo"
     },
     "down": {
-      "2": "Speed in a direction",
-      "3": "Space traveller",
-      "5": "Extra rocket strapped on",
-      "7": "Crew compartment",
-      "8": "Exhaust opening",
-      "9": "Path around a planet"
+      "1": "Strip of fabric that covers a coat's front fastener",
+      "2": "Test at the end of a term",
+      "3": "Band around the neck of a coat",
+      "5": "Light rain made of tiny drops",
+      "7": "Waterproof head covering for a storm",
+      "10": "Neat pile of boards awaiting storage or drying",
+      "12": "You see with it"
     }
   },
   "order": 142

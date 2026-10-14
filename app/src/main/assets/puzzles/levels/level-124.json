@@ -1,39 +1,38 @@
 {
   "id": "level-124",
-  "title": "Newspaper",
+  "title": "Balloon Party",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##########C##",
-    "##########A##",
-    "####OBITUARY#",
-    "#P########T##",
-    "#R####C###O#R",
-    "#E##HOROSCOPE",
-    "ISSUE#O###N#P",
-    "#S##A#S##C##O",
-    "####D#SCOOP#R",
-    "####L#W##L##T",
-    "##EDITOR#U##E",
-    "####N#R##M##R",
-    "###DEADLINE##"
+    "S#S#D#####",
+    "TETHER##L#",
+    "R#R#C#TEAM",
+    "EPITOPE#M#",
+    "A#N#R#M#P#",
+    "MUG###PAW#",
+    "E##F##L#I#",
+    "REMITTANCE",
+    "#D#J##T#K#",
+    "FOLIAGE###"
   ],
   "clues": {
     "across": {
-      "2": "Notice of a death",
-      "6": "Star-sign forecast",
-      "7": "Single edition",
-      "9": "Exclusive story",
-      "10": "Person in charge of content",
-      "11": "Time a story must be finished"
+      "4": "Cord keeping a floating object from drifting away",
+      "6": "Group working or playing together",
+      "7": "Part of an antigen recognized by an antibody",
+      "8": "Cup with a handle",
+      "9": "Soft foot of a dog",
+      "11": "Payment sent by a subject territory to its ruler",
+      "13": "Collective term for a plant's leaves"
     },
     "down": {
-      "1": "Funny drawing",
-      "3": "Printing machine, or the media",
-      "4": "Grid puzzle on the back pages",
-      "5": "Journalist who gathers news",
-      "6": "Big bold title on page one",
-      "8": "Regular opinion piece"
+      "1": "Long curled strip hung across a room",
+      "2": "Thin cord tied to keep a floaty decoration close",
+      "3": "Things arranged to make a room festive",
+      "5": "Fibre that draws fuel toward a flame",
+      "6": "Reusable guide for cutting a fabric shape",
+      "10": "Pacific nation of over three hundred islands",
+      "12": "Former name of the city now called Tokyo"
     }
   },
   "order": 124

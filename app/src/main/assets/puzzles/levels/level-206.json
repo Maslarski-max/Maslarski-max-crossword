@@ -1,39 +1,46 @@
 {
   "id": "level-206",
-  "title": "River Expedition",
+  "title": "Paper Crown Party",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "####COMPASS##",
-    "####U#####H##",
-    "####R#####O##",
-    "#C##R##W##A##",
-    "CANOE#PADDLE#",
-    "#M##N##T#####",
-    "#PORTAGE#####",
-    "#S#A###R#D###",
-    "#I#P###F#RAFT",
-    "#TRIBUTARY###",
-    "#E#D###L#B###",
-    "#######L#A###",
-    "#########G###"
+    "HEADBAND####",
+    "#L#####ICE##",
+    "#A#J#C#E##T#",
+    "#SHEARS#YAW#",
+    "#T#W#A#R##I#",
+    "RICE#Y#E##L#",
+    "#C#LOOPCOIL#",
+    "A#S##N#E#S#K",
+    "DNA#L##I#O#N",
+    "Z#PLACEVALUE",
+    "E###W##E#D#A",
+    "#THUNDERHEAD"
   ],
   "clues": {
     "across": {
-      "1": "Tool that indicates direction",
-      "5": "Narrow boat propelled with a paddle",
-      "6": "Blade used to move a small boat",
-      "7": "Carry a boat and gear around an obstacle",
-      "10": "Flat floating platform for a river trip",
-      "11": "Stream that joins a larger river"
+      "1": "Band worn around the head to hold hair back",
+      "4": "Frozen water used to chill a glass",
+      "8": "Tool with two blades for cutting",
+      "9": "Rotation of an aircraft about its vertical axis",
+      "11": "Grain eaten all over Asia",
+      "12": "Wire sensor buried in a road to detect vehicles",
+      "17": "Genetic molecule carried by some viruses",
+      "19": "Position that determines a digit's numerical value",
+      "20": "Tall dark mass that can build before a storm"
     },
     "down": {
-      "1": "Flow of water in a river",
-      "2": "Shallow area in a river",
-      "3": "Place to pitch a tent overnight",
-      "4": "River drop over a steep edge",
-      "8": "Fast section of rough water",
-      "9": "Waterproof sack for keeping gear dry"
+      "2": "Stretchy band that can hold a crown in place",
+      "3": "Engraved tool used to stamp a coin design",
+      "5": "Precious stone set into a crown",
+      "6": "Wax stick used to colour a design",
+      "7": "Weave pattern with diagonal ridges",
+      "10": "Equipment that converts incoming light into an electrical signal",
+      "13": "Wagner's Irish princess",
+      "14": "Edge tool used to shape wood",
+      "15": "Covered trench advanced toward a fortification",
+      "16": "Work the dough by hand",
+      "18": "Short grass covering a yard"
     }
   },
   "order": 206

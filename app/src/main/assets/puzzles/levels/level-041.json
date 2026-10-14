@@ -1,35 +1,30 @@
 {
   "id": "level-041",
-  "title": "Seaside Holiday",
+  "title": "Pizza Night",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "S#B##S###",
-    "PIER#U###",
-    "A#A##N###",
-    "DECKCHAIR",
-    "E#H##A#C#",
-    "#####T#E#",
-    "W######C#",
-    "A###G##R#",
-    "V##BUCKET",
-    "E###L##A#",
-    "SHELLS#M#"
+    "TITHE###",
+    "O####D#I",
+    "MUSHROOM",
+    "A#L##U#P",
+    "T#I##G#U",
+    "ORCA#H#L",
+    "##E####S",
+    "###RHYME"
   ],
   "clues": {
     "across": {
-      "4": "Walkway built out over the sea",
-      "5": "Folding seat for the beach",
-      "9": "Container for building sandcastles",
-      "10": "Things you collect on the beach"
+      "1": "Traditionally, a tenth given to support a church",
+      "4": "Fungus topping",
+      "6": "Killer whale",
+      "7": "Similar ending sound shared by words"
     },
     "down": {
-      "1": "Small digging tool for sand",
-      "2": "Sandy shore",
-      "3": "Wide hat for shade",
-      "6": "Cold treat in a cone",
-      "7": "They roll onto the shore",
-      "8": "Noisy seaside bird"
+      "1": "Red sauce ingredient",
+      "2": "Stretchy base before baking",
+      "3": "Rapid electrical event that travels along a nerve cell",
+      "5": "One triangle of the pie"
     }
   },
   "order": 41

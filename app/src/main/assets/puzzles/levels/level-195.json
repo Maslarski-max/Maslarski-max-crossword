@@ -1,33 +1,45 @@
 {
   "id": "level-195",
-  "title": "Car Wash",
+  "title": "Picnic Quilt",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "####R######",
-    "##SOAP#####",
-    "B#U#G######",
-    "U#D#####WAX",
-    "C#SHINE#A##",
-    "K##O####T##",
-    "E##SPONGE##",
-    "TIRE####RIM"
+    "CHECKERBOARD",
+    "#A#####R#X#R",
+    "SMOG###AGORA",
+    "#M##S##V#N#G",
+    "FOLDABLE##T#",
+    "#C##N#####H#",
+    "#K##D#TASSEL",
+    "##K#W###P#R#",
+    "PICNICKER#M#",
+    "U#A#C#E#E#O#",
+    "PATCH#L#APSE",
+    "A#####PID###"
   ],
   "clues": {
     "across": {
-      "2": "Cleaner that makes foamy suds",
-      "4": "Shiny coating applied after washing",
-      "5": "Bright reflection from a clean surface",
-      "7": "Soft block that soaks up water",
-      "8": "Rubber ring around a wheel",
-      "9": "Outer edge that holds a tire"
+      "1": "Pattern of alternating squares",
+      "6": "Hazy air pollution",
+      "7": "Public marketplace",
+      "9": "Able to be bent into a smaller shape",
+      "11": "Decorative bundle of loose threads",
+      "14": "Person eating a meal outdoors",
+      "16": "Piece of cloth sewn over another piece",
+      "17": "Rounded end of a basilica",
+      "18": "Controller using proportional, integral, and derivative terms"
     },
     "down": {
-      "1": "Cloth used for wiping",
-      "2": "Bubbles made by soap",
-      "3": "Open container for carrying liquid",
-      "4": "Liquid sprayed over the vehicle",
-      "6": "Flexible tube that carries water"
+      "2": "Fabric sling used for resting outdoors",
+      "3": "Not afraid",
+      "4": "Fibre carrying signals away",
+      "5": "Slow a moving sled by pressing it against snow",
+      "8": "Two pieces of bread with a filling",
+      "10": "Insulated container that keeps a drink warm",
+      "12": "Lay a covering flat on the ground",
+      "13": "Rate constant for one enzyme molecule at saturation",
+      "14": "Resting stage between larva and adult",
+      "15": "Large brown seaweed"
     }
   },
   "order": 195

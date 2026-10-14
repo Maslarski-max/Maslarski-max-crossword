@@ -1,41 +1,38 @@
 {
   "id": "level-126",
-  "title": "Volcanic Islands",
+  "title": "Rabbit Hutch",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#########A####",
-    "#####G###T###H",
-    "###KRAKATOA##A",
-    "#####L#R#L###W",
-    "#MAGMA#CALDERA",
-    "#####P#H#####I",
-    "#TSUNAMI#####I",
-    "#####G#PUMICE#",
-    "FUMAROLE##C###",
-    "#####S#L##E###",
-    "######BASALT##",
-    "#######G##A###",
-    "###SANTORINI##",
-    "##########D###"
+    "CAGE###O#H",
+    "A###WAFFLE",
+    "R###H##F#A",
+    "RABBIT#I#R",
+    "O#O#S##C#I",
+    "T#U#K##E#N",
+    "#INTEGER#G",
+    "A#C#R#X#U#",
+    "CHEW#GOAL#",
+    "T#####N#U#"
   ],
   "clues": {
     "across": {
-      "4": "Volcano that erupted catastrophically in 1883",
-      "6": "Molten rock below ground",
-      "7": "Collapsed volcanic crater",
-      "8": "Giant wave from an undersea quake",
-      "9": "Light rock that floats",
-      "11": "Vent emitting steam and gas",
-      "12": "Dark volcanic rock",
-      "13": "Greek island in a caldera"
+      "1": "Enclosure made with bars or wire",
+      "4": "Crisp cake cooked in a patterned iron",
+      "5": "Long-eared animal that likes to nibble",
+      "7": "Whole number that may be positive, negative, or zero",
+      "11": "Bite repeatedly with the back teeth",
+      "12": "Something a saver hopes to buy"
     },
     "down": {
-      "1": "Ring-shaped coral reef",
-      "2": "Islands that inspired Darwin",
-      "3": "Pacific state with Mauna Loa",
-      "5": "Chain of islands",
-      "10": "Land of fire and ice"
+      "1": "Crunchy orange root vegetable",
+      "2": "Official who verifies travellers' documents",
+      "3": "Public meeting where a proposal is considered",
+      "4": "Long stiff hair near an animal's nose",
+      "6": "Spring up from the ground on four feet",
+      "8": "Part of a gene retained in a mature RNA molecule",
+      "9": "Major division of a play or opera",
+      "10": "Hawaiian name for breadfruit"
     }
   },
   "order": 126

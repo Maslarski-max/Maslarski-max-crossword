@@ -1,0 +1,57 @@
+{
+  "id": "level-313",
+  "title": "Lighthouse Keepers",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "F###WAX#W#BITT",
+    "O##T#N#TIDE#U#",
+    "G##A#G##C#AWL#",
+    "SHIPWRECK#C#L#",
+    "I##I#Y#O#ROWER",
+    "G##R##TAR#N###",
+    "N#L##H#S#F#M##",
+    "A#E##A#THROAT#",
+    "LANTERN##A#R##",
+    "##S##B#W#G#A##",
+    "S##O#OVENMITT#",
+    "KEEPER#A#E#H##",
+    "I##U###VAN#O##",
+    "#COSTUME#TUNIC"
+  ],
+  "clues": {
+    "across": {
+      "2": "Material of a honeycomb",
+      "5": "Strong post used to secure a line",
+      "8": "Regular rise and fall of the sea",
+      "9": "Pointed hand tool for making a small hole",
+      "10": "Destruction of a vessel at sea",
+      "12": "Person who propels a galley with an oar",
+      "13": "Sticky substance used to protect seams and rope",
+      "18": "Narrow section that speeds up a stream of air",
+      "19": "Enclosed lamp used to guide vessels",
+      "23": "Padded glove used to handle hot pans",
+      "24": "Person who maintains a lighthouse",
+      "25": "Vehicle for deliveries",
+      "26": "Special clothing worn for a performance",
+      "27": "Simple garment worn under a toga"
+    },
+    "down": {
+      "1": "Warning sound heard in mist",
+      "3": "Feeling mad",
+      "4": "Fibrous part that draws fuel to a flame",
+      "5": "Signal that helps sailors find a route",
+      "6": "Fine netting used as a gift decoration",
+      "7": "Pig-like animal with a short trunk",
+      "11": "Land beside the sea",
+      "14": "Curved glass that focuses a beam",
+      "15": "Sheltered place where boats can anchor",
+      "16": "Piece produced when a molecule breaks apart",
+      "17": "Race of about forty-two kilometres",
+      "20": "Crossing movement where entering and exiting streams overlap",
+      "21": "Glide down a mountain on it",
+      "22": "Latin term used in names for Roman building techniques"
+    }
+  },
+  "order": 313
+}

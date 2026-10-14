@@ -1,0 +1,62 @@
+{
+  "id": "level-374",
+  "title": "Documentary Film",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "ILIAD#SCAR##F#D",
+    "N####V#R##S#ION",
+    "T##PROJECTION#A",
+    "E##O#I#A##L##E#",
+    "REENACTMENT##X#",
+    "V##Y#E###A###I#",
+    "I##TROY#CREDITS",
+    "E##A#V###R#####",
+    "W#WIRE##CANDID#",
+    "#D#L#R#R#T####C",
+    "#I#####EDITOR#O",
+    "BENTO##T#O#V##R",
+    "A#O#SEQUENCE##D",
+    "RUN#L##R###NERO",
+    "D#ICON#NOUN###N"
+  ],
+  "clues": {
+    "across": {
+      "1": "Homer's epic of the Trojan War",
+      "2": "Mark painted to look like a healed wound",
+      "8": "Atom or molecule carrying an electric charge",
+      "9": "Showing recorded images on a screen",
+      "11": "Staged version of an event from the past",
+      "13": "Weight system used for precious metals",
+      "14": "End titles naming the people behind a film",
+      "15": "Metal strand that carries electric current",
+      "16": "Filmed without a posed or rehearsed response",
+      "20": "Person who selects and arranges a film's shots",
+      "22": "Japanese packed meal arranged in a box",
+      "25": "Run of shots arranged to tell one part of a story",
+      "26": "One timed or judged trip down the course",
+      "27": "Emperor said to fiddle while Rome burned",
+      "28": "Painted devotional image",
+      "29": "Word used to name a person, place, thing, or idea"
+    },
+    "down": {
+      "1": "Recorded conversation with a person being filmed",
+      "3": "Clotted topping",
+      "4": "Footwear that increases a swimmer's kick",
+      "5": "Molecule that stores hereditary information",
+      "6": "Speech heard while the speaker is not on screen",
+      "7": "Fine soil carried by water",
+      "9": "Hair gathered and tied behind the head",
+      "10": "Official passage out of a country",
+      "12": "Spoken account that guides the viewer through a film",
+      "17": "Engraved tool used to stamp a coin design",
+      "18": "Bring a borrowed book back",
+      "19": "Branch trained horizontally along a support",
+      "21": "Hot box used for baking",
+      "22": "Shakespeare's nickname",
+      "23": "Tropical fruit used in food and traditional remedies",
+      "24": "Norwegian capital"
+    }
+  },
+  "order": 374
+}

@@ -1,33 +1,28 @@
 {
   "id": "level-014",
-  "title": "Body Parts",
+  "title": "Garden Path",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#T########",
-    "MOUTH#####",
-    "#O##A###N#",
-    "#T##N#FOOT",
-    "#HEAD###S#",
-    "##L##KNEE#",
-    "##B####A##",
-    "SHOULDER##",
-    "##W#######"
+    "TULIP#D#",
+    "R###I#Y#",
+    "E#TUNNEL",
+    "E###B#L#",
+    "#WALLBOX",
+    "####O#T#",
+    "####C###",
+    "####K###"
   ],
   "clues": {
     "across": {
-      "2": "You eat and speak with it",
-      "5": "Body part you stand on",
-      "6": "Top part of your body",
-      "8": "Joint in the middle of your leg",
-      "10": "Joint where the arm meets the body"
+      "1": "Spring flower grown from a bulb",
+      "4": "Railway through a hill",
+      "5": "Fixed home unit used to charge a vehicle"
     },
     "down": {
-      "1": "It may need a filling",
-      "3": "Body part with five fingers",
-      "4": "You smell with it",
-      "7": "Joint in the middle of your arm",
-      "9": "You hear with it"
+      "1": "Tall plant with a trunk",
+      "2": "Dense wooden block that holds the tuning pins",
+      "3": "Batch of cloth coloured together in one bath"
     }
   },
   "order": 14

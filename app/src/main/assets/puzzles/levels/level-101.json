@@ -1,43 +1,37 @@
 {
   "id": "level-101",
-  "title": "Mathematics",
+  "title": "Firework Display",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#######C####A#",
-    "######PARABOLA",
-    "#######L####G#",
-    "###L#G#C####E#",
-    "HYPOTENUSE##B#",
-    "###G#O#L#Q##R#",
-    "###A#M#U#U##A#",
-    "#T#R#E#S#A###F",
-    "#H#I#T###T#I#R",
-    "VECTOR#M#I#N#A",
-    "#O#H#Y#A#O#T#C",
-    "PRIME##TANGENT",
-    "#E#####R###G#I",
-    "#M#####I###E#O",
-    "#######X###R#N"
+    "ROCKET#I#P",
+    "##O##W#C#O",
+    "#OLIVINE#R",
+    "##O##G#CAT",
+    "#FUSE##R#I",
+    "##R#N##Y#O",
+    "#V##RAISIN",
+    "DANIO##T#C",
+    "#M##B##A#U",
+    "#PAPERCLIP"
   ],
   "clues": {
     "across": {
-      "3": "U-shaped curve",
-      "6": "Longest side of a right triangle",
-      "11": "Quantity with direction",
-      "13": "Number divisible only by one and itself",
-      "14": "Line touching a curve once"
+      "1": "Firework that shoots upward",
+      "6": "Green mineral found in many meteorites",
+      "7": "Pet that purrs",
+      "8": "Cord that carries flame to a charge",
+      "11": "Dried grape added to some breakfast bowls",
+      "12": "Active little fish often seen darting in a school",
+      "13": "Small metal loop that can weigh down a nose"
     },
     "down": {
-      "1": "Maths of change",
-      "2": "Maths with letters for numbers",
-      "4": "Inverse of exponentiation",
-      "5": "Maths of shapes",
-      "7": "Statement that two things are equal",
-      "8": "Proven statement",
-      "9": "Part of a whole",
-      "10": "Whole number",
-      "12": "Rectangular array of numbers"
+      "2": "Visual quality such as red or blue",
+      "3": "Small thin branch",
+      "4": "Thin layer of ice crystals on a cold surface",
+      "5": "Tiny container for sauce or dressing",
+      "9": "Cover a sweet with a thin chocolate layer",
+      "10": "Short repeated passage used beneath a solo"
     }
   },
   "order": 101

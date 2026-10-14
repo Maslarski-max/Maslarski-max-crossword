@@ -1,39 +1,43 @@
 {
   "id": "level-174",
-  "title": "Dinosaur Dig",
+  "title": "Cookie Jar",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######F#G####",
-    "#AMMONITE####",
-    "######E#O####",
-    "#FOSSIL#L####",
-    "######D#O####",
-    "####D#W#G#S#S",
-    "##TRILOBITE#P",
-    "####N#R#S#D#E",
-    "BEDROCK#T#I#C",
-    "R###S#####M#I",
-    "U###A##MUSEUM",
-    "S###U#####N#E",
-    "H##TROWEL#T#N"
+    "SHORTBREAD#",
+    "P##A#I####B",
+    "ROJI#S##D#A",
+    "I##S#CUTOUT",
+    "TAXI#O##U#C",
+    "Z##NUTMEG#H",
+    "#####T##H##",
+    "S##CHIP##S#",
+    "KALO###VAMP",
+    "Y##N###A#O#",
+    "##NEWTON#G#"
   ],
   "clues": {
     "across": {
-      "3": "Coiled fossil from an extinct sea creature",
-      "4": "Preserved remains or trace of ancient life",
-      "8": "Ancient marine animal with a segmented shell",
-      "9": "Solid rock beneath loose soil",
-      "10": "Place where important objects are displayed",
-      "11": "Small hand tool for careful digging"
+      "1": "Crumbly biscuit made with plenty of butter",
+      "5": "Garden path leading to a tea house",
+      "7": "Shaped piece of dough ready for the oven",
+      "8": "Car you hail on the street",
+      "9": "Warm spice grated into some cookie dough",
+      "11": "Small piece of chocolate baked into a treat",
+      "13": "Hawaiian name for taro",
+      "14": "Short repeated passage used beneath a solo",
+      "15": "Unit of force"
     },
     "down": {
-      "1": "Research carried out outdoors",
-      "2": "Scientist who studies Earth's rocks and ancient history",
-      "5": "Reptile that lived long ago",
-      "6": "Material that settles in layers",
-      "7": "Single example collected for study",
-      "9": "Soft tool used to clear loose dirt"
+      "1": "Small piped cookie shaped through a patterned nozzle",
+      "2": "Dried grape baked into some cookies",
+      "3": "Crisp twice-baked biscuit often dipped in a drink",
+      "4": "Group of treats baked together",
+      "6": "Soft mixture shaped before baking",
+      "10": "Space above the ground",
+      "11": "Shape of an ice-cream holder",
+      "12": "Hazy air pollution",
+      "14": "Vehicle for deliveries"
     }
   },
   "order": 174

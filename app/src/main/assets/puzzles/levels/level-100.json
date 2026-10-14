@@ -1,43 +1,37 @@
 {
   "id": "level-100",
-  "title": "Journalism",
+  "title": "Model Airplanes",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####I##TABLOID",
-    "#####N#P##Y####",
-    "##EDITORIAL####",
-    "#####E#E##I#H##",
-    "##CORRESPONDENT",
-    "##O##V#S##E#A##",
-    "##L##I######D##",
-    "SOURCE######L#R",
-    "C#M##W#DEADLINE",
-    "O#N#####D###N#P",
-    "O#######I###E#O",
-    "P#######T#####R",
-    "######BROADCAST",
-    "########R#####E",
-    "##############R"
+    "PROPELLER#",
+    "###I####E#",
+    "TAIL#CHEF#",
+    "U##O####L#",
+    "R##TEMPLE#",
+    "A#A#C#H#C#",
+    "NARWHAL#T#",
+    "D#T#O#ODIN",
+    "O#####E#O#",
+    "TOURNAMENT"
   ],
   "clues": {
     "across": {
-      "2": "Popular newspaper format",
-      "5": "Article giving the paper's view",
-      "7": "Reporter based abroad",
-      "8": "Person who gives information",
-      "10": "Time a story is due",
-      "12": "Transmit on radio or TV"
+      "1": "Spinning blades that push a small plane",
+      "4": "Rear part that helps a plane stay steady",
+      "5": "Person who cooks professionally",
+      "6": "Sacred place where the sick might seek healing",
+      "10": "Whale with a long tusk",
+      "11": "One-eyed Norse chief god",
+      "12": "Series of matches that decides a champion"
     },
     "down": {
-      "1": "Question-and-answer meeting",
-      "3": "Writer's name on an article",
-      "4": "The news media",
-      "6": "Title of a news story",
-      "7": "Regular opinion piece",
-      "8": "Exclusive story",
-      "9": "Person who gathers news",
-      "11": "Person who checks and revises copy"
+      "2": "Person who controls an aircraft",
+      "3": "Diffraction spot recorded from a crystal",
+      "4": "Puccini's ice princess",
+      "7": "Repeated sound caused by reflection",
+      "8": "Plant tissue that carries sugars through a plant",
+      "9": "Work made to express an idea or show beauty"
     }
   },
   "order": 100

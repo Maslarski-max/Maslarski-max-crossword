@@ -1,39 +1,33 @@
 {
   "id": "level-068",
-  "title": "Spices",
+  "title": "Farm Harvest",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####S###C###",
-    "####VANILLA##",
-    "###P#F###O###",
-    "###A#F#T#V###",
-    "PEPPER#U#E###",
-    "###R#O#R#####",
-    "##CINNAMON###",
-    "###K###E#####",
-    "###A#CARDAMOM",
-    "#####U#I#N###",
-    "#####M#CHILI#",
-    "#####I###S###",
-    "#####NUTMEG##"
+    "PUMPKIN#P",
+    "L#####A#R",
+    "ORCHARD#E",
+    "W#H#P#I#C",
+    "##A#P#RYE",
+    "##SILO##D",
+    "##Q#E###E",
+    "##U#####N",
+    "#LIFEBELT"
   ],
   "clues": {
     "across": {
-      "3": "Pod spice for ice cream",
-      "6": "Black or white seasoning",
-      "7": "Bark spice for buns",
-      "8": "Green pod spice in chai",
-      "10": "Hot pepper",
-      "11": "Spice grated on eggnog"
+      "1": "Large orange squash picked in autumn",
+      "4": "Group of fruit trees grown together",
+      "7": "Dark grain for bread",
+      "8": "Tall farm building for storing grain",
+      "9": "Floating ring thrown to someone in water"
     },
     "down": {
-      "1": "Costly spice from crocuses",
-      "2": "Nail-shaped spice",
-      "4": "Red spice from peppers",
-      "5": "Yellow root spice",
-      "8": "Earthy spice in curry",
-      "9": "Liquorice-flavoured seed"
+      "1": "Tool that turns soil before planting",
+      "2": "Point in the sky directly beneath an observer",
+      "3": "Earlier court decision used to guide a later one",
+      "5": "Runner who carried messages along imperial roads",
+      "6": "Crisp fruit that grows on a tree"
     }
   },
   "order": 68

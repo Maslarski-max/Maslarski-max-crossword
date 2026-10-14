@@ -1,35 +1,42 @@
 {
   "id": "level-158",
-  "title": "Library Day",
+  "title": "Beach Towels",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "######Q###",
-    "#P#RETURN#",
-    "TALE##I###",
-    "#G#A##E###",
-    "LEND#STAMP",
-    "##O####U##",
-    "##V####T##",
-    "SHELF##H##",
-    "##L####O##",
-    "#####CARD#"
+    "SANDCASTLE#",
+    "E#I#H#U####",
+    "ARC#A#NIB##",
+    "S#K#N#L#EAR",
+    "I#E#GROMA##",
+    "DELHI#U#C#S",
+    "E###N#N#H#U",
+    "#SLAG#G#BIN",
+    "#P####E#A#H",
+    "#A#UMBRELLA",
+    "ANT#####L#T"
   ],
   "clues": {
     "across": {
-      "3": "Take a borrowed book back",
-      "4": "Short story",
-      "5": "Let someone borrow something",
-      "7": "Mark showing when a book is due",
-      "9": "Board that holds books",
-      "10": "Small slip used to borrow a book"
+      "1": "Small model fort built from damp beach sand",
+      "5": "Curved shape of a rainbow",
+      "6": "Small broken piece of roasted cacao seed",
+      "8": "You hear with it",
+      "9": "Roman instrument used to lay out straight lines",
+      "10": "Indian city with a \"New\" district",
+      "12": "Waste material separated from molten metal",
+      "13": "Container that catches discarded shavings",
+      "14": "Shade canopy held above a beach chair",
+      "15": "Tiny insect that lives in a colony"
     },
     "down": {
-      "1": "How a library should sound",
-      "2": "One side of a leaf in a book",
-      "3": "Look at words and understand them",
-      "6": "Long made-up story",
-      "8": "Person who writes a book"
+      "1": "Area beside the ocean",
+      "2": "Five-cent coin used in the United States",
+      "3": "Putting on different clothes after swimming",
+      "4": "Reclining chair for relaxing in the sun",
+      "7": "Inflatable ball used for seaside games",
+      "11": "Brimmed hat worn on a sunny day",
+      "12": "Distance between supports"
     }
   },
   "order": 158

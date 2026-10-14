@@ -1,38 +1,32 @@
 {
   "id": "level-051",
-  "title": "Ancient Egypt",
+  "title": "Dinosaurs",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######O######",
-    "#SCARAB##S###",
-    "##L###E##P###",
-    "HIEROGLYPH###",
-    "##O###I##I##D",
-    "PAPYRUS##NILE",
-    "H#A###K##X##S",
-    "A#TOMB######E",
-    "R#R#U#######R",
-    "A#A#M#######T",
-    "O###M########",
-    "H##PYRAMID###"
+    "F#####B##",
+    "O#T#SAUTE",
+    "SWAMP#R#R",
+    "S#I#E#L#A",
+    "I#LUCIA#S",
+    "L###U#P#E",
+    "####L###R",
+    "####U####",
+    "#DORMANCY"
   ],
   "clues": {
     "across": {
-      "2": "Sacred beetle",
-      "5": "Picture symbol of writing",
-      "7": "Ancient writing material",
-      "8": "River through Egypt",
-      "9": "Burial chamber",
-      "11": "Tomb with four triangular sides"
+      "4": "Cook quickly in a shallow pan with little fat",
+      "6": "Wet muddy land",
+      "7": "Mad bride of Lammermoor",
+      "8": "Period when growth slows or stops"
     },
     "down": {
-      "1": "Tall four-sided stone pillar",
-      "3": "Last active ruler of Ptolemaic Egypt",
-      "4": "Lion body with a human head",
-      "6": "Sandy dry land",
-      "7": "Ruler of ancient Egypt",
-      "10": "Wrapped preserved body"
+      "1": "Remains in rock",
+      "2": "Rough cloth often used to cover a stuffed head",
+      "3": "Long end of a stegosaurus",
+      "4": "Tool that gently holds an opening apart for examination",
+      "5": "Soft block that removes pencil marks"
     }
   },
   "order": 51

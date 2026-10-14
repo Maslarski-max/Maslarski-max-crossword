@@ -1,38 +1,38 @@
 {
   "id": "level-122",
-  "title": "Supermarket",
+  "title": "Barber Shop",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######B##D#F",
-    "#####CASHIER",
-    "##P###K##S#E",
-    "BARCODE##C#E",
-    "A#O###R##O#Z",
-    "S#DAIRY##U#E",
-    "K#U##E###N#R",
-    "E#CHECKOUT##",
-    "T#E##E######",
-    "####AISLE###",
-    "#####P######",
-    "#####TROLLEY"
+    "S#C####DNA",
+    "CHAIR#S#E#",
+    "I#M##WINCH",
+    "S#O###D#K#",
+    "STUBBLE#L#",
+    "O#F###BAIL",
+    "R#L###U#N#",
+    "SEA#BARBER",
+    "##G###N##A",
+    "##EDIT#EGG"
   ],
   "clues": {
     "across": {
-      "4": "Person at the till",
-      "6": "Striped label scanned at the till",
-      "7": "Section with milk and yoghurt",
-      "9": "Where you pay",
-      "10": "Passage between shelves",
-      "11": "Wheeled basket for shopping"
+      "3": "Molecule that stores hereditary information",
+      "5": "Seat that turns and rises in the shop",
+      "7": "Powered drum that pulls in a cable or rope",
+      "8": "Short rough hairs left after shaving",
+      "9": "Curved handle fixed to the top of a lantern",
+      "10": "Large body of salt water",
+      "11": "Person who cuts and styles hair",
+      "13": "Remove or rearrange parts of an audio program",
+      "14": "It's fried, boiled or scrambled"
     },
     "down": {
-      "1": "Counter with fresh bread",
-      "2": "Price reduction",
-      "3": "Cold cabinet for ice cream",
-      "5": "Fresh fruit and vegetables",
-      "6": "Hand-held carrier",
-      "8": "Proof of purchase"
+      "1": "Hand tool with two crossing blades",
+      "2": "Colouring that helps an animal blend into its surroundings",
+      "4": "Bottom edge of hair at the back of the head",
+      "6": "Strip of hair in front of an ear",
+      "12": "Cloth used for wiping"
     }
   },
   "order": 122

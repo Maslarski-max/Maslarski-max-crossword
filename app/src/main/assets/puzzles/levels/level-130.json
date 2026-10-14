@@ -1,41 +1,39 @@
 {
   "id": "level-130",
-  "title": "Ancient Greece",
+  "title": "School Locker",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "####H#O#A######",
-    "#DEMOCRACY#####",
-    "####P#A#R##A###",
-    "####L#C#OLYMPIA",
-    "####I#L#P##P##G",
-    "#PARTHENON#H##O",
-    "####E###L#HOMER",
-    "#S#T####I##R##A",
-    "#PERICLES##A###",
-    "#A#I###########",
-    "#R#R###########",
-    "ATHENS#########",
-    "#A#M###########",
-    "###E###########"
+    "TEXTBOOK##",
+    "#X##A###G#",
+    "#O##CUBBY#",
+    "SNACK###M#",
+    "H###P##L#S",
+    "E##PADLOCK",
+    "L#T#C##C#A",
+    "F#WAKE#K#T",
+    "##I##D#E#E",
+    "PEG#DOOR##"
   ],
   "clues": {
     "across": {
-      "4": "Rule by the people",
-      "6": "Site of the original Games",
-      "8": "Temple of Athena",
-      "9": "Poet of the Iliad",
-      "12": "Statesman of the golden age",
-      "13": "City named after a goddess"
+      "1": "School volume used during a lesson",
+      "5": "Small open space used for personal storage",
+      "6": "Small bite eaten between meals",
+      "9": "Portable lock with a hinged shackle",
+      "11": "Slower, turbulent air behind a turbine",
+      "13": "Small wooden pin used to join planks or frames",
+      "14": "Hinged panel that opens the compartment"
     },
     "down": {
-      "1": "Armoured foot soldier",
-      "2": "Prophet at Delphi",
-      "3": "Citadel above Athens",
-      "5": "Two-handled jar",
-      "7": "Public marketplace",
-      "10": "City of fierce warriors",
-      "11": "Warship with three banks of oars"
+      "2": "Part of a gene retained in a mature RNA molecule",
+      "3": "Bag carried over both shoulders",
+      "4": "Room where students play indoor sports",
+      "6": "Flat board inside a storage space",
+      "7": "Tall storage cupboard found in a hallway",
+      "8": "Gliding shoe with a blade",
+      "10": "Small thin branch",
+      "12": "Former name of the city now called Tokyo"
     }
   },
   "order": 130

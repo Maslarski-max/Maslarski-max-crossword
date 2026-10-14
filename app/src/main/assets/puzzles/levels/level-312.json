@@ -1,0 +1,57 @@
+{
+  "id": "level-312",
+  "title": "River Expedition",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "TRIBUTARY#AXIS",
+    "#A###E#A##N##M",
+    "#F##CAMPSITE#O",
+    "#TAPU##I##I##G",
+    "####R##DRYBAG#",
+    "POKER#P#E#O##P",
+    "Y###E#O#SADDLE",
+    "R#CANOE#I#Y##A",
+    "O#O#T#MOLE#GPS",
+    "X#M##S##I#P#I#",
+    "E#PORTAGE#I#C#",
+    "N#A##R##N#NIKE",
+    "E#SHOAL#C#G#L#",
+    "##S##P##ECOFEE"
+  ],
+  "clues": {
+    "across": {
+      "1": "Stream that joins a larger river",
+      "5": "Straight line organizing a garden's layout",
+      "7": "Place to pitch a tent overnight",
+      "8": "Ottoman document recording rights to land",
+      "9": "Waterproof sack for keeping gear dry",
+      "11": "Bluffing game with chips",
+      "14": "Seat mounted above the bicycle frame",
+      "15": "Narrow boat propelled with a paddle",
+      "16": "Spy inside an organisation",
+      "17": "U.S. satellite navigation system",
+      "21": "Carry a boat and gear around an obstacle",
+      "22": "Winged goddess often shown as a figure of victory",
+      "23": "Shallow area in a river",
+      "24": "Charge used to fund waste handling and recovery"
+    },
+    "down": {
+      "2": "Flat floating platform for a river trip",
+      "3": "Drink brewed from leaves",
+      "4": "Fast section of rough water",
+      "5": "Protein that binds to a particular target",
+      "6": "Hazy air pollution",
+      "7": "Flow of water in a river",
+      "10": "Ability of a community or structure to recover after damage",
+      "11": "Group of silicate minerals in igneous rocks",
+      "12": "Work written in lines to express an idea or feeling",
+      "13": "Small green balls in a pod",
+      "15": "Tool that indicates direction",
+      "18": "Food kept in vinegar or brine",
+      "19": "Narrow band used for carrying",
+      "20": "Ice-cored mound that rises in permafrost terrain"
+    }
+  },
+  "order": 312
+}

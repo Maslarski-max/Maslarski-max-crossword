@@ -1,34 +1,47 @@
 {
   "id": "level-222",
-  "title": "Lemonade Stand",
+  "title": "At the Optician",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#I###CUP###",
-    "#C#C###I#T#",
-    "LEMON#STRAW",
-    "###I###C#B#",
-    "SIGN#S#H#L#",
-    "###SQUEEZE#",
-    "#####G#R###",
-    "#####A#####",
-    "##THIRST###"
+    "ASTIGMATISM#",
+    "P#A#L#R#P###",
+    "SURFACEWAVE#",
+    "E###R#N##I##",
+    "#NOSEPAD#S##",
+    "O#P##U#IRIS#",
+    "R#T##P#O#O##",
+    "G#I#TIMPANI#",
+    "A#C##L#T###P",
+    "NAIL##RETINA",
+    "I#A####R#C#W",
+    "CANAL###CEL#"
   ],
   "clues": {
     "across": {
-      "2": "Small vessel for drinking",
-      "6": "Sour yellow fruit",
-      "7": "Thin tube used for sipping",
-      "8": "Board showing what is for sale",
-      "10": "Press fruit to release its juice",
-      "11": "Need for a drink"
+      "1": "Vision condition caused by an uneven curve",
+      "6": "Wave that travels along the outer layer of the ground",
+      "8": "Small rest that sits on either side of a frame",
+      "13": "Coloured ring around the centre of an eye",
+      "14": "Kettle drums",
+      "16": "Small metal pin driven into wood",
+      "17": "Light-sensitive layer at the back of the eye",
+      "19": "Artificial waterway used to carry water",
+      "20": "Clear sheet used in traditional animation"
     },
     "down": {
-      "1": "Frozen water used to chill a glass",
-      "3": "Tall vessel used for serving a drink",
-      "4": "Small pieces of metal money",
-      "5": "Furniture holding the stand's goods",
-      "9": "Sweet crystals stirred into a drink"
+      "1": "Rounded end of a basilica",
+      "2": "Sticky substance used to protect seams and rope",
+      "3": "Bright light that makes seeing harder",
+      "4": "Venue where a public contest is held",
+      "5": "Alphabet used to represent speech sounds",
+      "7": "Ability to see the world around you",
+      "9": "Shop worker who helps fit glasses",
+      "10": "Dark opening that lets light into the eye",
+      "11": "Unit used to measure lens strength",
+      "12": "Grown without most synthetic farm chemicals",
+      "15": "Foot with soft pads and small claws",
+      "18": "Frozen molecules coating dust grains in cold clouds"
     }
   },
   "order": 222

@@ -1,39 +1,45 @@
 {
   "id": "level-198",
-  "title": "Wildlife Rescue",
+  "title": "Marshmallow Roast",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "RESCUE#######",
-    "##P###Q####H#",
-    "#VET##U####A#",
-    "##C##HABITAT#",
-    "S#I#V#R####C#",
-    "A#E#O#A####H#",
-    "NESTLING###L#",
-    "C###U#T####I#",
-    "T##ENRICHMENT",
-    "U###T#N####G#",
-    "A##RELEASE###",
-    "R###E########",
-    "Y###RECOVER##"
+    "MARSHMALLOW#",
+    "#T#K##S##C##",
+    "GOOEY#HIDE##",
+    "#M#W#####ART",
+    "###E###S#N##",
+    "SPARK#VISOR#",
+    "M####N#L#G#A",
+    "O##QUICKDRAW",
+    "K##U#B#R#A#A",
+    "EMBER#HOPPER",
+    "###U###A#H#D",
+    "##HERALDRY##"
   ],
   "clues": {
     "across": {
-      "1": "Safe removal from danger",
-      "5": "Doctor who treats animals",
-      "6": "Natural surroundings where an animal lives",
-      "9": "Young bird still living in its nest",
-      "10": "Activity that encourages natural behaviour",
-      "11": "Return a recovered animal to the wild",
-      "12": "Regain health after an injury"
+      "1": "Soft sweet that puffs when warmed",
+      "6": "Clinging to fingers like melted candy",
+      "7": "Seek's partner in a game",
+      "8": "Work made to express an idea or show beauty",
+      "10": "Tiny bright particle thrown from a flame",
+      "11": "Movable face covering on a helmet",
+      "14": "Two clips joined by a short sewn sling",
+      "15": "Small glowing piece left in a fire",
+      "16": "Rack that holds a pet's dry food",
+      "17": "System of symbols displayed on shields and banners"
     },
     "down": {
-      "2": "Group of similar living organisms",
-      "3": "Separation used to limit the spread of disease",
-      "4": "Newly emerged young animal",
-      "7": "Protected place for wildlife",
-      "8": "Person who gives time without pay"
+      "2": "Tiny building block of matter",
+      "3": "Long thin stick used to hold food over heat",
+      "4": "Grey powder left after wood burns",
+      "5": "Scientific study of the sea",
+      "9": "Network of routes linking East Asia with the west",
+      "10": "Cloud rising from something burning",
+      "12": "Small broken piece of roasted cacao seed",
+      "13": "Prize given for an achievement",
+      "14": "Line of people waiting to be checked"
     }
   },
   "order": 198

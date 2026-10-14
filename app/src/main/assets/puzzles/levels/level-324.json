@@ -1,0 +1,57 @@
+{
+  "id": "level-324",
+  "title": "Weather Satellites",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "INFRARED###SAW",
+    "M####U#ORBIT#A",
+    "A#MINNOW###U#R",
+    "G######N#S#DAM",
+    "E#VIRALLOAD##T",
+    "R#I####I#T###H",
+    "##S#CHANNEL#F#",
+    "DRILL##K#L##O#",
+    "I#B#O###ALTAR#",
+    "N#LAUNCH#I##E#",
+    "E#E#D##A#T##C#",
+    "R###T#ANTENNA#",
+    "#VETO#W#A#U#S#",
+    "####POLAR#TUTU"
+  ],
+  "clues": {
+    "across": {
+      "1": "Invisible radiation beyond red light",
+      "4": "Toothed blade for cutting wood",
+      "6": "Path followed around a planet",
+      "7": "Small silvery fish that swims in a school",
+      "9": "Barrier built across a stream",
+      "10": "Amount of virus measured in a sample",
+      "11": "Range of wavelengths measured by a sensor",
+      "13": "Tool for making a hole in ice",
+      "14": "Raised table used in a religious service",
+      "15": "Send a spacecraft into flight",
+      "17": "Device that transmits or receives signals",
+      "20": "Formal rejection of a measure by an authorized official",
+      "21": "Relating to the regions near either pole",
+      "22": "Short skirt worn by a ballet dancer"
+    },
+    "down": {
+      "1": "Instrument that records pictures",
+      "2": "One timed or judged trip down the course",
+      "3": "Transfer of data from a spacecraft to Earth",
+      "4": "Raised connector that lets toy pieces snap together",
+      "5": "Gentle heat on a cold day",
+      "8": "Object orbiting Earth to observe cloud systems",
+      "10": "Able to be seen by the eye",
+      "11": "Highest surface of a cloud",
+      "12": "Estimate of future weather conditions",
+      "13": "Casual restaurant often near a highway",
+      "16": "Dynasty that ruled China from 206 BCE to 220 CE",
+      "17": "Pointed hand tool for making a small hole",
+      "18": "Sticky substance used to protect seams and rope",
+      "19": "Six-sided fitting turned by a hydrant wrench"
+    }
+  },
+  "order": 324
+}

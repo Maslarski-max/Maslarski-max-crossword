@@ -1,33 +1,50 @@
 {
   "id": "level-249",
-  "title": "Science Garden",
+  "title": "Rainforest",
   "author": "Crossword Team",
-  "difficulty": "EASY",
+  "difficulty": "MEDIUM",
   "grid": [
-    "C###L##G###",
-    "O#STEM#ROOT",
-    "M#H#A##O###",
-    "P#A#FLOWER#",
-    "O#D######A#",
-    "SEED###SOIL",
-    "T######U#N#",
-    "#######N###"
+    "ANACONDA###P#",
+    "X###R##M#T#I#",
+    "I###C#JAGUAR#",
+    "SLOTH##Z#T#A#",
+    "#I##I#ROGUING",
+    "RAG#D##N###H#",
+    "#N#T#C##MACAW",
+    "CANOPY##I#R#A",
+    "L##U#CARDDECK",
+    "E##C#L##D#W#E",
+    "A#TAPIR#L##H#",
+    "R##N#N##E##U#",
+    "#####G#SCRUB#"
   ],
   "clues": {
     "across": {
-      "4": "Structure that holds a plant upright",
-      "5": "Part of a plant that takes up water",
-      "6": "Colourful part that may make seeds",
-      "8": "Beginning of a new plant",
-      "9": "Earth where roots grow"
+      "1": "Huge snake of South America",
+      "6": "Spotted big cat of the Americas",
+      "7": "Very slow tree-dweller",
+      "9": "Removing plants that do not match the desired crop",
+      "10": "Cloth used for wiping",
+      "13": "Large colourful parrot",
+      "16": "Top layer of the forest",
+      "17": "Complete set of playing cards",
+      "18": "Pig-like animal with a short trunk",
+      "20": "Rub firmly to loosen dirt"
     },
     "down": {
-      "1": "Decayed plant matter used to enrich soil",
-      "2": "Plant part that gathers sunlight",
-      "3": "Become larger over time",
-      "4": "Cool area out of direct sunlight",
-      "7": "Water that falls from clouds",
-      "9": "Star that warms our planet"
+      "1": "Straight line organizing a garden's layout",
+      "2": "Exotic flower",
+      "3": "Largest rainforest on Earth",
+      "4": "Fish with razor teeth",
+      "5": "Short skirt worn by a ballet dancer",
+      "8": "Woody climbing vine",
+      "11": "Bird with a huge colourful beak",
+      "12": "Sport of the Tour de France",
+      "13": "Central reference note near the piano's keyboard centre",
+      "14": "Group working together on an emergency",
+      "15": "Slower, turbulent air behind a turbine",
+      "16": "Describes ice with few visible bubbles",
+      "19": "Center part around which a wheel turns"
     }
   },
   "order": 249

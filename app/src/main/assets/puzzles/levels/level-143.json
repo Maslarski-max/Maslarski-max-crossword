@@ -1,40 +1,40 @@
 {
   "id": "level-143",
-  "title": "Card Games",
+  "title": "Fruit Smoothies",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###SHUFFLE#",
-    "###O#######",
-    "##BLACKJACK",
-    "###I###O###",
-    "###T#POKER#",
-    "###A###E#U#",
-    "#D#I##TRUMP",
-    "HEARTS###M#",
-    "#A#E#P###Y#",
-    "#L###ACE###",
-    "#E###D#####",
-    "BRIDGE#####",
-    "#####SNAP##"
+    "STRAINER##",
+    "T#O#C###P#",
+    "R#A#E##BAT",
+    "APRICOT#P#",
+    "W###U#H#A#",
+    "BLUEBERRY#",
+    "E###E#O#A#",
+    "RAY##OWL#A",
+    "R####A#YAW",
+    "YOGURT#E#L"
   ],
   "clues": {
     "across": {
-      "1": "Mix the deck",
-      "2": "Aim for twenty-one",
-      "4": "Bluffing game with chips",
-      "7": "Suit that beats the others",
-      "8": "Red suit",
-      "10": "Highest card in many games",
-      "11": "Partnership bidding game",
-      "12": "Shout it when cards match"
+      "1": "Mesh tool that catches seeds from juice",
+      "5": "Flying mammal that may roost in caves",
+      "6": "Small orange fruit related to the peach",
+      "8": "Small blue fruit that grows on a bush",
+      "9": "Idealized straight path followed by light",
+      "10": "Night bird that hoots",
+      "13": "Rotation that turns a turbine toward the wind",
+      "14": "Cultured dairy food often blended into a drink"
     },
     "down": {
-      "1": "Game for one player",
-      "3": "Wild card",
-      "5": "Game of sets and runs",
-      "6": "Person handing out cards",
-      "9": "Black suit"
+      "1": "Red berry with tiny seeds on its outside",
+      "2": "Loud scary noise",
+      "3": "Frozen block that chills a drink",
+      "4": "Orange-fleshed tropical fruit with black seeds",
+      "7": "Send an object through the air by hand",
+      "10": "Grain often mixed into cookie dough",
+      "11": "Strong ingredient used to turn oils into soap",
+      "12": "Pointed hand tool for making a small hole"
     }
   },
   "order": 143

@@ -1,39 +1,43 @@
 {
   "id": "level-184",
-  "title": "Early Photography",
+  "title": "Toy Garage",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "####CONTACT####",
-    "#N#######A#####",
-    "SEPIA###PLATE##",
-    "#G##P##D#O####F",
-    "DAGUERREOTYPE#I",
-    "#T##R##V#Y##M#X",
-    "#I##T##EXPOSURE",
-    "#V##U##L#E##L#R",
-    "#E#TRIPOD###S##",
-    "####E##P####I##",
-    "######LENS##O##",
-    "#######R####N##"
+    "GARAGE#MANE",
+    "A##C##R###N",
+    "SPEEDWAY##G",
+    "S#M###C#MRI",
+    "T#MUG#E###N",
+    "A#A#LICENSE",
+    "T###O#A##A#",
+    "I#TOWTRUCK#",
+    "O#I##I###O#",
+    "N#ROLLER#K#",
+    "##E##T##GUM"
   ],
   "clues": {
     "across": {
-      "1": "Printing method placing a negative against paper",
-      "4": "Brown tone often seen in old photographs",
-      "6": "Flat surface used to record an early photograph",
-      "9": "Early photograph made on a silver-coated plate",
-      "11": "Amount of light recorded by a camera",
-      "12": "Three-legged support for a camera",
-      "13": "Curved glass that focuses light"
+      "1": "Building where cars can be stored",
+      "3": "Long hair along the top of a horse's neck",
+      "6": "Track built for fast vehicle races",
+      "8": "Imaging method using magnets and radio waves",
+      "9": "Cup with a handle for a hot drink",
+      "11": "Official card allowing someone to drive",
+      "13": "Vehicle that pulls a broken car",
+      "15": "Round part that lets a toy car move",
+      "16": "Sticky coating on the back of a stamp"
     },
     "down": {
-      "2": "Paper-based photographic process invented by Talbot",
-      "3": "Image with light and dark tones reversed",
-      "5": "Opening that controls light entering a camera",
-      "7": "Chemical bath that reveals a latent image",
-      "8": "Solution that makes a developed image permanent",
-      "10": "Light-sensitive coating on photographic film"
+      "1": "Place where drivers buy fuel",
+      "2": "Serve that lands untouched for a point",
+      "4": "Machine that powers a vehicle",
+      "5": "Fast vehicle built for competition",
+      "7": "Austen heroine and matchmaker",
+      "10": "Soft steady light in a dark room",
+      "12": "Term for Japan's restricted foreign relations policy",
+      "13": "Rubber ring around a car wheel",
+      "14": "Angle at which a panel is set"
     }
   },
   "order": 184

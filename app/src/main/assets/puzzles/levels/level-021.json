@@ -1,33 +1,29 @@
 {
   "id": "level-021",
-  "title": "Transport",
+  "title": "Jungle Trek",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#B####S###",
-    "#I####H##C",
-    "#K##S#I##A",
-    "HELICOPTER",
-    "####O#####",
-    "####O####B",
-    "##V#TRAM#O",
-    "PLANE####A",
-    "##N#ROCKET"
+    "E######P",
+    "LOG####A",
+    "E#O#M##R",
+    "PARROT#A",
+    "H#I#N##F",
+    "A#L#K##F",
+    "N#L#E##I",
+    "T#A#YAWN"
   ],
   "clues": {
     "across": {
-      "5": "Aircraft with spinning blades",
-      "8": "Electric street train",
-      "9": "It flies passengers through the sky",
-      "10": "It flies into space"
+      "3": "Thick piece of cut wood",
+      "6": "Bright bird of the rainforest",
+      "7": "Big sleepy mouth"
     },
     "down": {
-      "1": "Two wheels and pedals",
-      "2": "Large boat",
-      "3": "Vehicle with four wheels",
-      "4": "Two wheels and a board",
-      "6": "It floats on water",
-      "7": "Vehicle for deliveries"
+      "1": "Big animal with a trunk",
+      "2": "Common wax used in many household candles",
+      "4": "Largest ape",
+      "5": "Animal that swings through trees"
     }
   },
   "order": 21

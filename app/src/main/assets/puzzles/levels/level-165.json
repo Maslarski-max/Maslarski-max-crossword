@@ -1,35 +1,42 @@
 {
   "id": "level-165",
-  "title": "Ballet Class",
+  "title": "Pet Adoption",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#######C###",
-    "###M###LEAP",
-    "TUTU###A##O",
-    "###SHOES##I",
-    "###I###SPIN",
-    "DANCER##O#T",
-    "########S#E",
-    "####BARRE##",
-    "####O######",
-    "####W######"
+    "COW#M#S####",
+    "O##VISIT##M",
+    "M#A#C#L###U",
+    "PAPERWORK#L",
+    "A#R#O##Y##C",
+    "N#E#C#LEASH",
+    "I#S#H#I####",
+    "O##KITTEN#F",
+    "N#D#P#T#I#O",
+    "##Y###ESKER",
+    "SHELTER#E#K"
   ],
   "clues": {
     "across": {
-      "3": "Jump high into the air",
-      "5": "Short skirt worn by a ballet dancer",
-      "6": "Footwear worn for a lesson",
-      "7": "Turn around quickly",
-      "9": "Person who moves to music",
-      "10": "Rail used for warm-up exercises"
+      "1": "Farm animal that gives milk",
+      "4": "Meet an animal before taking it home",
+      "7": "Forms completed before an adoption",
+      "9": "Strap used to guide a dog on a walk",
+      "10": "Young cat that needs gentle care",
+      "14": "Winding ridge of sand and gravel deposited by meltwater",
+      "15": "Safe place that cares for homeless animals"
     },
     "down": {
-      "1": "Group learning together",
-      "2": "Organised sounds with rhythm",
-      "4": "Tip of a ballet shoe",
-      "8": "Still position held by a performer",
-      "10": "Bend forward to greet an audience"
+      "1": "Animal kept for friendship",
+      "2": "Tiny implant that can help identify a lost pet",
+      "3": "Tall farm building for storing grain",
+      "5": "Layer of plant matter spread over soil",
+      "6": "Social time after a day of skiing",
+      "8": "Dark grain for bread",
+      "9": "Group of young animals born at one time",
+      "11": "Winged goddess often shown as a figure of victory",
+      "12": "Eating tool with several pointed tines",
+      "13": "Colored material used to make ink"
     }
   },
   "order": 165

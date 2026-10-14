@@ -1,43 +1,37 @@
 {
   "id": "level-107",
-  "title": "Grand Finale",
+  "title": "Table Setting",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "##########Q##E#",
-    "T#O##VOCABULARY",
-    "R#D#S#####I##U#",
-    "I#Y#ELOQUENT#D#",
-    "U#S#R#####T##I#",
-    "MASTERPIECE##T#",
-    "P#E#N#####S##E#",
-    "H#Y#D#C###S#F##",
-    "####I#H##ZENITH",
-    "#EPIPHANY#N#N##",
-    "####I#M###C#A##",
-    "####T#P###E#L##",
-    "#LABYRINTH##E##",
-    "######O########",
-    "###PINNACLE####"
+    "TRIVET###T",
+    "A####UNCLE",
+    "BOWL#M#H#X",
+    "L#I##B#A#T",
+    "E#CUTLERY#",
+    "C#K##E#G#S",
+    "L##CURRENT",
+    "O######R#A",
+    "TEACUP###C",
+    "H######INK"
   ],
   "clues": {
     "across": {
-      "5": "Words a person knows",
-      "7": "Fluent and persuasive",
-      "8": "Greatest work",
-      "11": "Highest point",
-      "12": "Sudden realisation",
-      "13": "Complicated maze",
-      "14": "Peak of achievement"
+      "1": "Heat-safe stand placed beneath a hot pot",
+      "4": "Your parent's brother",
+      "6": "Deep dish for soup or cereal",
+      "8": "Group name for table knives, forks, and spoons",
+      "10": "Flowing stream within the ocean",
+      "11": "Small handled cup for a hot drink",
+      "12": "Dark liquid used for writing or drawing"
     },
     "down": {
-      "1": "Perfect example",
-      "2": "Very learned",
-      "3": "Great victory",
-      "4": "Long adventurous journey",
-      "6": "Happy accident",
-      "9": "Winner of a contest",
-      "10": "Last part of a show"
+      "1": "Fabric spread over the dining surface",
+      "2": "Straight-sided glass without a stem",
+      "3": "Words cut into a monument to record an event",
+      "5": "Large decorative plate beneath the dinner plate",
+      "7": "Fibrous part that draws fuel to a flame",
+      "9": "Neat pile of books"
     }
   },
   "order": 107

@@ -1,37 +1,46 @@
 {
   "id": "level-199",
-  "title": "Glassblowing Studio",
+  "title": "Playground Sandpit",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "####GAFFER#C",
-    "#######U###O",
-    "##GATHER###L",
-    "#######N###O",
-    "G#####MARVER",
-    "O#M####C#E#A",
-    "BLOWPIPE#S#N",
-    "L#L#U####S#T",
-    "E#TONGS##E##",
-    "T#E#T####L##",
-    "#ANNEAL#####"
+    "SANDPIT####S",
+    "A##I##E##S#H",
+    "NIKE#SANDPIE",
+    "D####A###A#L",
+    "C#SANDMOLD#L",
+    "A#A######E##",
+    "SANDTRUCK#M#",
+    "T#D#U##A#LOG",
+    "L#R#R##V##M#",
+    "E#A#ROSETTE#",
+    "##K#E#A###N#",
+    "SHELTER#NOTE"
   ],
   "clues": {
     "across": {
-      "1": "Skilled leader in a glassblowing team",
-      "4": "Collect molten glass on the end of a pipe",
-      "6": "Flat surface used to shape hot glass",
-      "9": "Hollow tube used to inflate molten glass",
-      "11": "Tool with arms for gripping hot material",
-      "12": "Cool glass slowly to reduce internal stress"
+      "1": "Shallow box filled with play sand",
+      "6": "Winged goddess often shown as a figure of victory",
+      "7": "Pretend treat packed from damp sand",
+      "8": "Shape used to press sand into a figure",
+      "9": "Toy vehicle used to carry sand",
+      "13": "Trunk section brought in for processing",
+      "14": "Ribbon decoration shaped like a flower",
+      "16": "Covered place away from direct sunlight",
+      "17": "Single musical sound"
     },
     "down": {
-      "2": "Chamber kept hot enough to melt glass",
-      "3": "Substance added to give glass a hue",
-      "5": "Drinking cup with a stem and foot",
-      "7": "Container made to hold something",
-      "8": "Made liquid by great heat",
-      "10": "Solid rod used to hold a vessel while finishing"
+      "1": "Small model fort built from damp sand",
+      "2": "Shaped tool that gives heated plastic its form",
+      "3": "Drink brewed from leaves",
+      "4": "Hard covering left by a sea animal",
+      "5": "Small digging tool for a child",
+      "7": "Feeling down",
+      "8": "Child's hand tool for combing a flat sand surface",
+      "10": "Small tower built on a sandcastle",
+      "11": "Hollow space dug into the sand",
+      "12": "Physical quantity used to calculate earthquake size",
+      "15": "Short name for search and rescue operations"
     }
   },
   "order": 199

@@ -1,34 +1,29 @@
 {
   "id": "level-028",
-  "title": "Space Trip",
+  "title": "Family Tree",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###STAR####",
-    "######O####",
-    "####M#COMET",
-    "####O#K#A##",
-    "####O#EARTH",
-    "#PLANET#S##",
-    "###L#######",
-    "ORBIT######",
-    "###E#######",
-    "#SUN#######"
+    "MOTHER##",
+    "#F###E##",
+    "#F###C#C",
+    "USB##H#E",
+    "#H###A#L",
+    "#OBSERVE",
+    "#R###G#R",
+    "RECOVERY"
   ],
   "clues": {
     "across": {
-      "1": "It twinkles at night",
-      "4": "Icy body with a glowing tail",
-      "6": "Our home planet",
-      "7": "Mars or Venus, for example",
-      "9": "Path around a planet",
-      "10": "Our nearest star"
+      "1": "Mum",
+      "5": "Common connector type for small electronics",
+      "6": "Watch carefully to collect information",
+      "7": "Bringing someone out of danger"
     },
     "down": {
-      "2": "It launches astronauts",
-      "3": "It orbits the Earth",
-      "5": "The Red Planet",
-      "8": "Visitor from another world"
+      "2": "Located at sea, away from the coast",
+      "3": "Water entering an underground storage layer",
+      "4": "Crisp green stalk sometimes juiced"
     }
   },
   "order": 28

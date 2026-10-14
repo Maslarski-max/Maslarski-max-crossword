@@ -1,39 +1,31 @@
 {
   "id": "level-045",
-  "title": "Coffee House",
+  "title": "Tool Shed",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##S###M####",
-    "#CUP##O####",
-    "##G###C#L##",
-    "##A#E#H#A##",
-    "BARISTA#T##",
-    "E###P###T##",
-    "A##GRINDER#",
-    "N###E##E###",
-    "S###SAUCER#",
-    "####S##A#O#",
-    "####O##FOAM",
-    "#########S#",
-    "#########T#"
+    "W###GLUE",
+    "RAKE#A#M",
+    "E####D#P",
+    "NAIL#D#E",
+    "C##E#E#R",
+    "HAMMER#O",
+    "###M###R",
+    "###AIDA#"
   ],
   "clues": {
     "across": {
-      "3": "You drink from it",
-      "6": "Person who makes your coffee",
-      "7": "Machine that crushes beans",
-      "9": "Small plate under a cup",
-      "11": "Frothy top on a cappuccino"
+      "2": "Sticky stuff that joins things",
+      "5": "Garden tool for gathering leaves",
+      "6": "Thin metal spike",
+      "8": "Tool for banging in nails",
+      "9": "Ethiopian princess of Verdi"
     },
     "down": {
-      "1": "Sweet cube for tea",
-      "2": "Coffee with chocolate",
-      "4": "Coffee with lots of steamed milk",
-      "5": "Short, strong coffee",
-      "6": "Coffee is ground from them",
-      "8": "Coffee without the buzz",
-      "10": "Dark or light, for coffee beans"
+      "1": "Tool for turning nuts",
+      "3": "Climb it to reach high places",
+      "4": "Ruler who held the highest imperial authority",
+      "7": "Proven result used to establish a larger theorem"
     }
   },
   "order": 45

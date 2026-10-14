@@ -1,35 +1,39 @@
 {
   "id": "level-139",
-  "title": "Dinosaurs",
+  "title": "Restaurant Bill",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###H######",
-    "#F#EXTINCT",
-    "ROAR#R###A",
-    "#S#D#EGG#I",
-    "#S###X###L",
-    "#I#S##B###",
-    "CLAW##O###",
-    "###A##N###",
-    "###MUSEUM#",
-    "###P##S###"
+    "I####CRUMB",
+    "TABLE####I",
+    "E#O##TOTAL",
+    "MENU##R##L",
+    "I#E#W#D###",
+    "Z#SHARE#S#",
+    "E###I#ROPE",
+    "DEBIT###L#",
+    "#Y##E###I#",
+    "#E#CREDIT#"
   ],
   "clues": {
     "across": {
-      "3": "No longer alive anywhere",
-      "6": "Loud scary noise",
-      "7": "Baby dinosaurs hatched from one",
-      "10": "Sharp toe nail",
-      "11": "Place to see skeletons"
+      "2": "Tiny broken piece of a baked treat",
+      "4": "Place where diners sit to eat",
+      "6": "Final amount due after charges are added",
+      "8": "List of meals available at a restaurant",
+      "10": "Pay or use something together",
+      "12": "Strong cord used for climbing",
+      "13": "Type of payment taken from a bank account",
+      "15": "Type of payment billed later"
     },
     "down": {
-      "1": "Group of plant eaters",
-      "2": "Remains in rock",
-      "4": "Tyrant lizard king",
-      "5": "Long end of a stegosaurus",
-      "8": "Wet muddy land",
-      "9": "Skeleton parts dug up"
+      "1": "Listed one charge at a time",
+      "3": "Paper showing the amount owed",
+      "5": "Skeleton parts dug up",
+      "7": "Request for food and drinks",
+      "9": "Server who brings food to a table",
+      "11": "Divide one bill among several people",
+      "14": "Organ that detects light and forms a visual signal"
     }
   },
   "order": 139

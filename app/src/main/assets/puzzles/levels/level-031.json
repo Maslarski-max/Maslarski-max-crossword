@@ -1,32 +1,30 @@
 {
   "id": "level-031",
-  "title": "Camping Trip",
+  "title": "Bathroom Shelf",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#C#########",
-    "MAP###T#S##",
-    "#N#FOREST##",
-    "#O#I##N#A##",
-    "BEAR##TORCH",
-    "###E####S#I",
-    "##########K",
-    "#######LAKE"
+    "SPONGE##",
+    "H##U###N",
+    "ORATOR#E",
+    "W##R###V",
+    "ESTIMATE",
+    "R##E##U#",
+    "###N##T#",
+    "##STATUE"
   ],
   "clues": {
     "across": {
-      "2": "It shows the way",
-      "5": "Lots of trees",
-      "6": "Big furry animal in the woods",
-      "7": "Handheld light",
-      "9": "Body of fresh water"
+      "1": "Squishy bath scrubber",
+      "4": "Skilled public speaker",
+      "5": "Auction house's suggested value before a sale",
+      "7": "Carved figure that stands outdoors"
     },
     "down": {
-      "1": "Narrow boat paddled by hand",
-      "3": "Shelter you pitch outdoors",
-      "4": "They shine above the campsite",
-      "5": "Campers cook over it",
-      "8": "Long walk in nature"
+      "1": "Spray of water to wash under",
+      "2": "Substance required for plant growth",
+      "3": "Old granular snow that feeds a glacier",
+      "6": "Short skirt worn by many classical dancers"
     }
   },
   "order": 31

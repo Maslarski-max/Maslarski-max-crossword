@@ -1,43 +1,34 @@
 {
   "id": "level-084",
-  "title": "Geology",
+  "title": "Tennis Club",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####B##M######",
-    "M#S##A##A######",
-    "A#EROSION#####G",
-    "R#D##A##T#####R",
-    "B#I##L##L#####A",
-    "LIMESTONE#####N",
-    "E#E#T#######Q#I",
-    "##N#A#####FAULT",
-    "#STALACTITE#A#E",
-    "####A#A###L#R##",
-    "####G#N###D#T##",
-    "####M#Y###S#Z##",
-    "####I#O###P####",
-    "#TECTONIC#A####",
-    "####E#####R####"
+    "D###P##A#",
+    "OBJECTIVE",
+    "U###R##A#",
+    "BACH#PILL",
+    "L#O#A##A#",
+    "E#U#CHINA",
+    "SERVE##C#",
+    "##T####H#",
+    "###NEUTER"
   ],
   "clues": {
     "across": {
-      "5": "Wearing away of land",
-      "7": "Rock formed from shells",
-      "10": "Crack where rock moves",
-      "11": "Icicle-like rock hanging from a cave roof",
-      "13": "Relating to the plates of Earth's crust"
+      "4": "Main lens or mirror that collects distant light",
+      "5": "Composer of the Brandenburg Concertos",
+      "7": "Small solid piece of medicine swallowed whole",
+      "9": "Country in East Asia ruled by the Han dynasty",
+      "10": "Opening hit that starts a point",
+      "11": "Operation that prevents an animal from having young"
     },
     "down": {
-      "1": "Dark volcanic rock",
-      "2": "Layer beneath the crust",
-      "3": "Metamorphic rock for statues",
-      "4": "Material settling at the bottom",
-      "6": "Speckled igneous rock for worktops",
-      "8": "Rock rising from a cave floor",
-      "9": "Common crystal mineral",
-      "10": "Abundant rock-forming mineral",
-      "12": "Deep gorge cut by a river"
+      "1": "Match played by two pairs",
+      "2": "Method for amplifying genetic material",
+      "3": "Rapid flow of snow down a steep slope",
+      "6": "Marked area where a match is played",
+      "8": "Serve the opponent cannot return"
     }
   },
   "order": 84

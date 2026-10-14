@@ -1,0 +1,62 @@
+{
+  "id": "level-381",
+  "title": "Weather Radar",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "REFLECTIVITY##C",
+    "A##A#U##O##O##E",
+    "DOPPLER#W##K##L",
+    "A#A####C##PEDAL",
+    "RAINFALL####U#I",
+    "L#L##Z#U###WARD",
+    "O##RAINBAND#L##",
+    "O####M###O#SPIT",
+    "PUSH#U###W##O#R",
+    "####STORMCELL#A",
+    "S####H#A#A####Y",
+    "CREAK##D#SWEEP#",
+    "A#P##FLOAT##C#T",
+    "R#I##E#M####H#A",
+    "##CLUTTER#SCOOP"
+  ],
+  "clues": {
+    "across": {
+      "1": "Strength of the energy returned from precipitation",
+      "7": "Effect used to estimate how fast rain is moving",
+      "10": "Footrest that turns the rear wheel",
+      "12": "Water measured after clouds release precipitation",
+      "14": "Hospital room of beds",
+      "15": "Narrow area of showers within a larger storm",
+      "17": "Narrow ridge of sand projecting from a coast",
+      "19": "Force directed away from the person applying it",
+      "20": "Compact region of intense rising air and rain",
+      "23": "Low squeaky sound made by old wood",
+      "25": "One pass of a rotating beam around the horizon",
+      "27": "Stay up in the air rather than fall",
+      "29": "Echo from ground objects that is not caused by weather",
+      "30": "Round ball of ice cream"
+    },
+    "down": {
+      "1": "Animated sequence showing echoes over several scans",
+      "2": "Take liquid into the mouth with the tongue",
+      "3": "Signal to start a change or action",
+      "4": "Solemn promise made in a religious setting",
+      "5": "Fitted panel supporting another part of a garment",
+      "6": "Code identifying one radio coverage area",
+      "8": "Open container carried down to the shore",
+      "9": "Tool used to strike the ball",
+      "11": "Method comparing horizontal and vertical radar pulses",
+      "13": "Compass direction from which a radar beam is sent",
+      "16": "Very short-term forecast based on current conditions",
+      "18": "Flat holder for arranging small instruments",
+      "21": "Protective cover over a radar antenna",
+      "22": "Mark painted to look like a healed wound",
+      "24": "Long poem about heroic deeds",
+      "26": "Returned radio energy shown on a weather display",
+      "27": "Transistor controlled by an electric field",
+      "28": "Turn it to get water"
+    }
+  },
+  "order": 381
+}

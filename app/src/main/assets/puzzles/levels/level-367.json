@@ -1,0 +1,61 @@
+{
+  "id": "level-367",
+  "title": "University Campus",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "LECTUREHALL#H##",
+    "A####E##L##FET#",
+    "B#OUTGROUP##I##",
+    "O#P##I##M#SCRAP",
+    "R#U##SPAN##A##O",
+    "A#SCAT##ICEPACK",
+    "T##R#R###R#S##E",
+    "O#DEPARTMENT##R",
+    "R##D#R###A#O#P#",
+    "Y#SIT##SEMINAR#",
+    "###T#C#A###E#O#",
+    "BURSAR#LOBE##V#",
+    "A#I##ART#E#WOOD",
+    "GIFT#B#O#T###S#",
+    "##F#####FACULTY"
+  ],
+  "clues": {
+    "across": {
+      "1": "Large room where a teacher addresses a class",
+      "5": "Transistor controlled by an electric field",
+      "6": "Related group used to root a phylogenetic tree",
+      "7": "Small leftover piece of material",
+      "10": "Distance between supports",
+      "11": "Vocal jazz style using playful syllables",
+      "13": "Cold pack tucked beside food",
+      "15": "Academic unit devoted to one subject area",
+      "17": "Rest on the floor with legs bent",
+      "18": "Small class built around discussion",
+      "20": "University officer who manages financial accounts",
+      "22": "Section of the brain",
+      "24": "Work made to express an idea or show beauty",
+      "25": "Hard material forming a tree trunk",
+      "26": "Present wrapped in paper",
+      "27": "Teachers and researchers at a college"
+    },
+    "down": {
+      "1": "Campus room equipped for experiments",
+      "2": "Officer responsible for student records and enrolment",
+      "3": "Graduates of a school or college",
+      "4": "Person next in line for a throne",
+      "6": "Latin term used in names for Roman building techniques",
+      "8": "Final project that draws together a course of study",
+      "9": "Bluffing game with chips",
+      "12": "Units awarded for completing a course",
+      "14": "Soft preparation rubbed onto the body",
+      "16": "Chief academic officer at some universities",
+      "18": "Aerial somersault performed during a routine",
+      "19": "Sea creature with a hard shell and pincers",
+      "20": "Handheld carrier for a small gift",
+      "21": "Short phrase repeated by an instrument",
+      "23": "Second Greek letter"
+    }
+  },
+  "order": 367
+}

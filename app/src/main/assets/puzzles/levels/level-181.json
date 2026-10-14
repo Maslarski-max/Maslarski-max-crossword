@@ -1,42 +1,43 @@
 {
   "id": "level-181",
-  "title": "Deep Sea Research",
+  "title": "Stamp Collection",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####PLANKTON#L",
-    "##########R###U",
-    "###S###H#VENT#M",
-    "###O###Y##N###I",
-    "###N###D##C###N",
-    "OCEANOGRAPHY##E",
-    "#R#R###O#R####S",
-    "#U##A##T#E####C",
-    "#S##BATHYSCAPHE",
-    "#T##Y##E#S####N",
-    "#A##S##R#U####C",
-    "#C##SUBMERSIBLE",
-    "#E##A##A#E#####",
-    "HADAL##L#######",
-    "#N#############"
+    "PERFORATION",
+    "O##L####S#E",
+    "S##Y##BUS#U",
+    "T#H##C##U#T",
+    "MAILBOX#EYE",
+    "A#N##U#G##R",
+    "RAG##N#U###",
+    "K#E#STAMP#S",
+    "###D#R##U#P",
+    "#PENNY##S#U",
+    "###A##LAHAR"
   ],
   "clues": {
     "across": {
-      "1": "Tiny organisms drifting in water",
-      "6": "Opening in the seafloor where hot fluid escapes",
-      "7": "Scientific study of the sea",
-      "11": "Deep-diving vessel for ocean exploration",
-      "12": "Small craft that travels underwater",
-      "13": "Relating to the deepest ocean trenches"
+      "1": "Tiny holes that help separate stamps",
+      "5": "Large vehicle for many passengers",
+      "8": "Container where letters are collected",
+      "9": "Organ that detects light and forms a visual signal",
+      "11": "Old piece of fabric used as a cleaning wipe",
+      "12": "Small printed label that pays for postage",
+      "16": "Small coin worth one cent in the United States",
+      "17": "Mudflow of volcanic debris and water"
     },
     "down": {
-      "2": "Long, narrow depression in the seafloor",
-      "3": "Light emitted without high temperature",
-      "4": "Method that uses sound to detect objects underwater",
-      "5": "Relating to hot water from Earth's interior",
-      "8": "Animal group that includes crabs and shrimp",
-      "9": "Force exerted by the surrounding water",
-      "10": "Relating to the ocean's deepest regions"
+      "1": "Ink mark showing when mail was sent",
+      "2": "Buzzing insect",
+      "3": "Official release of a new stamp",
+      "4": "Operation that prevents an animal from having young",
+      "6": "Small paper strip used to mount a stamp",
+      "7": "Nation shown on a stamp's design",
+      "10": "Sticky coating on the back of a stamp",
+      "13": "Force directed away from the person applying it",
+      "14": "Fitting worn at the heel to guide a horse",
+      "15": "Molecule that stores hereditary information"
     }
   },
   "order": 181

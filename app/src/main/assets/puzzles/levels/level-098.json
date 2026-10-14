@@ -1,43 +1,36 @@
 {
   "id": "level-098",
-  "title": "Wine Cellar",
+  "title": "Farm Dog",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#R###CABERNET##",
-    "#I##########A##",
-    "#E########S#N##",
-    "#S###CHARDONNAY",
-    "#L#D#H####M#I##",
-    "VINEYARD##M#N##",
-    "#N#C#M####E####",
-    "#G#A#P####L####",
-    "###N#A####I##B#",
-    "VINTAGE##MERLOT",
-    "###E#N####R##U#",
-    "#BORDEAUX##C#Q#",
-    "###########O#U#",
-    "#########BARREL",
-    "###########K#T#"
+    "S###L#B###",
+    "H##REMOVER",
+    "E#B#A#O##E",
+    "P#A#K#K##M",
+    "HERD##C##A",
+    "E#N##LATIN",
+    "R#####R##E",
+    "DISSECTION",
+    "##A##A###C",
+    "APPRENTICE"
   ],
   "clues": {
     "across": {
-      "2": "Bold red grape",
-      "5": "Popular white grape",
-      "7": "Grape farm",
-      "9": "Year a wine was made",
-      "10": "Soft red grape",
-      "11": "French region of claret",
-      "13": "Oak cask for ageing"
+      "4": "Product used to take cosmetics off",
+      "7": "Group of animals kept together",
+      "8": "Language spoken by ancient Romans",
+      "9": "Careful cutting apart to examine internal structures",
+      "12": "Beginner learning a skilled trade"
     },
     "down": {
-      "1": "Aromatic German white grape",
-      "3": "Compound that makes red wine dry",
-      "4": "Wine waiter",
-      "5": "Sparkling wine from France",
-      "6": "Glass vessel for serving wine",
-      "8": "Aroma of a wine",
-      "12": "Bottle stopper"
+      "1": "Person who cares for a flock",
+      "2": "Unwanted escape of water",
+      "3": "Wheeled shelf used to move books",
+      "5": "Magnetism retained after an external field is removed",
+      "6": "Farm building for animals or hay",
+      "10": "Great lake in Cambodia that expands during monsoon season",
+      "11": "Metal container often collected for reuse"
     }
   },
   "order": 98

@@ -1,0 +1,57 @@
+{
+  "id": "level-325",
+  "title": "Antique Maps",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PARALLEL#RAFT#",
+    "R##T#A###E#L#G",
+    "O##LECTUREHALL",
+    "J##A#E###D#K#O",
+    "ELISA##P###E#W",
+    "C#####COMPASS#",
+    "T#F#E##R####C#",
+    "ISLAND#T#L#BAR",
+    "O#A#G#VOTER#L#",
+    "N#N#R##L#G#SEA",
+    "#T#MAPMAKER##L",
+    "OAT#V##N#N#PIT",
+    "#L##E###ADZE#A",
+    "#CHART#####G#R"
+  ],
+  "clues": {
+    "across": {
+      "1": "East-west line on a map",
+      "4": "Flat floating platform for a river trip",
+      "7": "Large room where a teacher addresses a class",
+      "8": "Plate-based test that can detect antibodies or antigens",
+      "10": "Tool for finding direction",
+      "14": "Land surrounded by water",
+      "16": "Solid block used for washing",
+      "17": "Person eligible to cast a ballot",
+      "18": "Large body of salt water",
+      "21": "Person who makes maps",
+      "22": "Grain often mixed into cookie dough",
+      "23": "Sunken area where the orchestra plays",
+      "24": "Edge tool used to shape wood",
+      "25": "Map used for navigation"
+    },
+    "down": {
+      "1": "Method for showing a globe on a flat surface",
+      "2": "Bound collection of maps",
+      "3": "Cord threaded through holes to tighten a shoe",
+      "4": "Tall grass with a firm hollow stem",
+      "5": "Thin crisp pieces of grain in a bowl",
+      "6": "Soft steady light in a dark room",
+      "9": "Early sea chart showing coastlines and bearings",
+      "11": "Relationship between map distance and ground distance",
+      "12": "Blank metal disk prepared for striking",
+      "13": "Artist who cuts a design into a plate",
+      "15": "Key explaining symbols on a map",
+      "19": "Raised place for offerings or worship",
+      "20": "Fine powder brushed on after a trim",
+      "23": "Short pointed pin that anchors a tent"
+    }
+  },
+  "order": 325
+}

@@ -1,38 +1,38 @@
 {
   "id": "level-123",
-  "title": "Hospital Ward",
+  "title": "Recycling Day",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###PLASTER###",
-    "######U######",
-    "#X##NURSE#P##",
-    "#R####G##WARD",
-    "VACCINE#P#T#O",
-    "#Y####O#H#I#C",
-    "####BANDAGE#T",
-    "########R#N#O",
-    "##THERMOMETER",
-    "########A####",
-    "###STRETCHER#",
-    "########Y####"
+    "NAPKINRING",
+    "E###P##N##",
+    "W###A##T##",
+    "SITZ#DRIFT",
+    "P#R#P#E##Z",
+    "ALUMINUM#O",
+    "P#C#C#S##L",
+    "E#K#KEEP#K",
+    "R###U##I#I",
+    "#COMPOST#N"
   ],
   "clues": {
     "across": {
-      "1": "Cast for a broken arm",
-      "4": "Carer in scrubs",
-      "6": "Hospital room of beds",
-      "8": "Jab that prevents disease",
-      "10": "Strip wrapped round a wound",
-      "11": "Measures body temperature",
-      "12": "Bed for carrying patients"
+      "1": "Loop that holds a folded cloth square",
+      "4": "Waist-and-leg sling worn to tie in to a rope",
+      "6": "Slow movement carried by water or wind",
+      "10": "Light metal used in drink cans",
+      "11": "Strong central tower of a castle",
+      "13": "Decayed scraps used to improve garden soil"
     },
     "down": {
-      "2": "Doctor who operates",
-      "3": "Picture of the bones",
-      "5": "Person being treated",
-      "7": "Physician",
-      "9": "Where medicine is dispensed"
+      "1": "Daily pages that can go in a paper bin",
+      "2": "Alphabet used to represent speech sounds",
+      "3": "Sun deity honoured by the Inca",
+      "5": "Large vehicle that collects sorted items",
+      "7": "Use an item again instead of discarding it",
+      "8": "Sacred cycle of 260 days",
+      "9": "Scheduled collection from homes",
+      "12": "Sunken area where the orchestra plays"
     }
   },
   "order": 123

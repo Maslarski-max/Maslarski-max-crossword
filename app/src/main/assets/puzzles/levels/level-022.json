@@ -1,33 +1,29 @@
 {
   "id": "level-022",
-  "title": "Birthday Party",
+  "title": "Clothes Line",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###CANDLE",
-    "###A#####",
-    "#H#K#GIFT",
-    "GAMES##R#",
-    "#T##MUSIC",
-    "##C#I##E#",
-    "#BALLOON#",
-    "##R#E##D#",
-    "##D####S#"
+    "G#I###H#",
+    "L#N###E#",
+    "O#S#DRAW",
+    "VAPOR#D#",
+    "E#E#E#L#",
+    "SOCKS#I#",
+    "##T#S#N#",
+    "######E#"
   ],
   "clues": {
     "across": {
-      "1": "Blow it out and make a wish",
-      "3": "Present wrapped in paper",
-      "5": "Fun activities at a party",
-      "7": "You dance to it",
-      "9": "It floats when filled with helium"
+      "4": "Make a picture with lines",
+      "5": "Tiny water drops floating in the air",
+      "6": "You wear them inside shoes"
     },
     "down": {
-      "1": "Treat with candles on top",
-      "2": "Paper cone worn at a party",
-      "4": "Guests you invite",
-      "6": "Happy face",
-      "8": "It says Happy Birthday"
+      "1": "Hand warmers with fingers",
+      "2": "Examine the hydrant for damage or leaks",
+      "3": "Title of a news story",
+      "4": "One-piece garment with a skirt"
     }
   },
   "order": 22

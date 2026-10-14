@@ -1,43 +1,34 @@
 {
   "id": "level-080",
-  "title": "Literature Classics",
+  "title": "Bicycle Repair",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "###J###########",
-    "##MACBETH####W#",
-    "###N##M###ILIAD",
-    "###E##M######L#",
-    "REBECCA######D#",
-    "###Y#A##I##B#E#",
-    "##FRANKENSTEIN#",
-    "###E#D##F##O###",
-    "##U##I##E##W#H#",
-    "##L##D#DRACULA#",
-    "ODYSSEY#N##L#M#",
-    "##S#####O##F#L#",
-    "##S##########E#",
-    "##E##########T#",
-    "##S############"
+    "HANDLEBAR",
+    "E#A###R##",
+    "L#V#CHAIN",
+    "M#E###K#I",
+    "E##S#GEAR",
+    "TIRE#O##V",
+    "###A#B##A",
+    "#NITROGEN",
+    "#####S##A"
   ],
   "clues": {
     "across": {
-      "2": "Scottish play",
-      "5": "Homer's epic of the Trojan War",
-      "6": "Du Maurier novel of Manderley",
-      "10": "Shelley's creator of a monster",
-      "13": "Stoker's count",
-      "14": "Homer's epic of a long voyage home"
+      "1": "Bar used to steer a bicycle",
+      "4": "Linked metal loop that drives the rear wheel",
+      "7": "Setting that changes pedalling effort",
+      "8": "Rubber ring around a wheel",
+      "9": "Element formed when radioactive carbon decays"
     },
     "down": {
-      "1": "Bronte's governess heroine",
-      "3": "Austen heroine and matchmaker",
-      "4": "Thoreau's book of life by a pond",
-      "7": "Voltaire's optimist",
-      "8": "First part of Dante's Divine Comedy",
-      "9": "Old English epic hero",
-      "11": "Joyce's Dublin novel",
-      "12": "Prince of Denmark"
+      "1": "Protective head covering",
+      "2": "Central aisle of a church",
+      "3": "Device that slows a bicycle",
+      "5": "State of perfect peace in Buddhism",
+      "6": "Place where a rider sits",
+      "7": "Cutout patterns placed in front of a light"
     }
   },
   "order": 80

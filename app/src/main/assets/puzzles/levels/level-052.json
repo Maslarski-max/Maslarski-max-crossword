@@ -1,39 +1,32 @@
 {
   "id": "level-052",
-  "title": "Computers",
+  "title": "Pond Life",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##E##########",
-    "##M##########",
-    "#LAPTOP######",
-    "##I###I####S#",
-    "FILE##X####C#",
-    "#####KEYBOARD",
-    "######L#R##E#",
-    "#####M#ROUTER",
-    "##CODE##W##N#",
-    "#####MOUSE###",
-    "#####O##E####",
-    "###CURSOR####",
-    "#####Y#######"
+    "DRAGONFLY",
+    "U#F#L#I#A",
+    "C#F#Y#S#N",
+    "K#I#M#H#G",
+    "##D#P###T",
+    "DRACULA#Z",
+    "R#V#S###E",
+    "A#I######",
+    "G#TUGBOAT"
   ],
   "clues": {
     "across": {
-      "2": "Portable computer",
-      "5": "Saved document",
-      "6": "You type on it",
-      "9": "Box that shares your internet",
-      "10": "Programmer's instructions",
-      "11": "Pointer you click",
-      "12": "Blinking marker on a screen"
+      "1": "Insect with shimmering wings",
+      "6": "Stoker's count",
+      "7": "Powerful small vessel that moves larger ships"
     },
     "down": {
-      "1": "Electronic letter",
-      "3": "Tiny dot on a screen",
-      "4": "Display",
-      "7": "Program for the web",
-      "8": "RAM, for example"
+      "1": "Bird that quacks",
+      "2": "Written statement made under oath",
+      "3": "Mountain home of the gods in Greek tradition",
+      "4": "Swimmer with fins",
+      "5": "Longest river in Asia",
+      "6": "Force that resists motion through air"
     }
   },
   "order": 52

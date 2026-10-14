@@ -1,0 +1,58 @@
+{
+  "id": "level-332",
+  "title": "Desert Botany",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "XEROPHYTE#SAPA",
+    "Y#A####H##H#O#",
+    "LAITY#DORMANT#",
+    "E#N##G#R##D#A#",
+    "M#F##A#NILE#S#",
+    "#CACTUS#O###S#",
+    "##L##G##N#S#I#",
+    "#FLOWER##SCRUB",
+    "#E##A#O###U#M#",
+    "#L#OXBOW#FLY##",
+    "CTD#Y#T###P##A",
+    "O##L##L##OTTER",
+    "O#POLLEN###A#E",
+    "K##P##T#JUDGES"
+  ],
+  "clues": {
+    "across": {
+      "1": "Plant adapted to very dry conditions",
+      "4": "Title used for the Inca ruler",
+      "6": "Church members who are not ordained clergy",
+      "7": "Temporarily inactive during harsh conditions",
+      "9": "River through Egypt",
+      "11": "Spiny plant adapted to dry conditions",
+      "13": "Plant structure that can form seeds",
+      "16": "Rub firmly to clean a surface",
+      "17": "Curved lake left by a river bend",
+      "18": "Buzzing insect",
+      "19": "Instrument measuring conductivity, temperature, and depth",
+      "22": "Playful swimmer",
+      "24": "Fine grains involved in plant reproduction",
+      "25": "Officials who score a competitive run"
+    },
+    "down": {
+      "1": "Plant tissue that carries water upward",
+      "2": "Water that descends from clouds",
+      "3": "Sharp point growing on a plant",
+      "4": "Shelter from direct sunlight",
+      "5": "Positively charged ion that helps restore resting voltage",
+      "8": "Device used to check a dimension or quantity",
+      "10": "Atom or molecule carrying an electric charge",
+      "12": "Shape a solid material into an artwork",
+      "13": "Soft cloth used to make a figure",
+      "14": "Having a surface that helps limit water loss",
+      "15": "Small branch of a plant's root",
+      "19": "Captain who charted New Zealand",
+      "20": "God of war in Greek myth",
+      "21": "Rabbit breed known for hanging ears",
+      "23": "Chasing game"
+    }
+  },
+  "order": 332
+}

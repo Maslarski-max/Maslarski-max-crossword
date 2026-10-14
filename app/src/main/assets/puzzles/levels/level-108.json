@@ -1,37 +1,37 @@
 {
   "id": "level-108",
-  "title": "Picnic Basket",
+  "title": "Shoe Closet",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#BASKET###",
-    "#L#####J##",
-    "PARK###U##",
-    "#N##S##I#A",
-    "#K##A##CUP",
-    "LEMONADE#P",
-    "#T##D####L",
-    "####W#CAKE",
-    "NAPKIN#N##",
-    "####C##T##",
-    "###CHEESE#"
+    "MOCASSIN#P",
+    "####L####E",
+    "INCLINE##A",
+    "####P####C",
+    "A#I#POLISH",
+    "NONCE#O#A#",
+    "U#S#R#A#N#",
+    "BOOT##F#D#",
+    "I#L###EXAM",
+    "SNEAKER#L#"
   ],
   "clues": {
     "across": {
-      "1": "Wicker carrier with a lid",
-      "3": "Grassy public place for a day out",
-      "6": "Small drinking vessel",
-      "7": "Sweet citrus drink",
-      "8": "Sweet baked treat cut into slices",
-      "10": "Paper square for wiping fingers",
-      "11": "Cheddar or brie"
+      "1": "Soft leather shoe with a flexible sole",
+      "4": "Upward slope of a mounted panel",
+      "7": "Colored cream used to shine leather footwear",
+      "10": "Number used once",
+      "11": "Sturdy shoe that covers the ankle",
+      "12": "Test at the end of a term",
+      "13": "Comfortable lace-up shoe for walking or running"
     },
     "down": {
-      "1": "Spread it on the grass to sit on",
-      "2": "Drink squeezed from fruit",
-      "4": "Two slices of bread with a filling",
-      "5": "Crunchy fruit packed for lunch",
-      "9": "Tiny uninvited guests"
+      "2": "Soft shoe worn around the house",
+      "3": "Fuzzy fruit with a large central stone",
+      "5": "Jackal-headed god associated with burial rites",
+      "6": "Removable layer resting inside a shoe",
+      "8": "Slip-on shoe with no laces",
+      "9": "Open shoe held by straps"
     }
   },
   "order": 108

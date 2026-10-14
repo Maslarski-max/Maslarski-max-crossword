@@ -1,34 +1,30 @@
 {
   "id": "level-034",
-  "title": "Rainy Day Games",
+  "title": "Vegetable Patch",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###Q#H####",
-    "###U#I####",
-    "###I#DICE#",
-    "PUZZLE#H##",
-    "#######E#B",
-    "##T#C##S#I",
-    "CHARADES#N",
-    "##G#R####G",
-    "####DOMINO",
-    "####S#####"
+    "L######B",
+    "ENSEMBLE",
+    "T###A##A",
+    "TOMATO#T",
+    "U#####B#",
+    "CABBAGE#",
+    "E#####A#",
+    "##ONION#"
   ],
   "clues": {
     "across": {
-      "3": "Cubes you roll",
-      "5": "Jigsaw, for example",
-      "9": "Game of acting without words",
-      "10": "Tile with dots"
+      "3": "Collection of possible states used in a model",
+      "5": "Red fruit used like a vegetable",
+      "7": "Leafy head often made into coleslaw",
+      "8": "Vegetable that makes you cry"
     },
     "down": {
-      "1": "Set of questions",
-      "2": "Seek's partner in a game",
-      "4": "Game with kings and queens on a board",
-      "6": "Game where you shout when your card is full",
-      "7": "Chasing game",
-      "8": "A deck of fifty-two"
+      "1": "Salad leaves",
+      "2": "One contraction of the heart muscle",
+      "4": "Flat pad placed under a feeding dish",
+      "6": "Jack's magic seed"
     }
   },
   "order": 34

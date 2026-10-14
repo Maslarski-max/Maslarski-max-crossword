@@ -1,0 +1,56 @@
+{
+  "id": "level-307",
+  "title": "Cheese Making",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "RENNET#RIVET#E",
+    "I#O#D#L####R#C",
+    "N#M#G#O##PEARL",
+    "DIALECTIC##V#I",
+    "##D#C##L###E#P",
+    "R##ROYAL##PLOT",
+    "ULU#N##U#W#E#I",
+    "B##ATMOSPHERIC",
+    "YAM#R##T#I##N#",
+    "##U#O##R#TOOTH",
+    "P#SILICATE##E#",
+    "OAT####T##P#G#",
+    "E#E#GREENWAVE#",
+    "MARE######W#R#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Enzyme used to help milk coagulate",
+      "4": "Metal pin joining two plates",
+      "8": "Gem made by an oyster",
+      "9": "Method of reasoning through question and response",
+      "12": "Belonging to a king or queen",
+      "13": "Small measured area assigned a growing treatment",
+      "14": "Hawaiian name for breadfruit",
+      "16": "Describes depth suggested by changes in colour and clarity",
+      "18": "Tuber grown in warm island gardens",
+      "20": "Hard biting part often found as a fossil",
+      "22": "Mineral compound containing silicon and oxygen",
+      "23": "Grain often mixed into cookie dough",
+      "25": "Timed signals that let traffic progress through several junctions",
+      "26": "Adult female horse"
+    },
+    "down": {
+      "1": "Outer layer of a cheese",
+      "2": "Wandering herder",
+      "3": "Skill of setting a ski on its side to turn",
+      "5": "Curtain that opens by moving horizontally",
+      "6": "Apparent yearly path of the Sun across the sky",
+      "7": "Single item or group offered for sale",
+      "10": "Add pictures to a written work",
+      "11": "Red gemstone",
+      "15": "Colour of fresh snow",
+      "17": "Whole number that may be positive, negative, or zero",
+      "19": "Gather passengers at a planned meeting place",
+      "21": "Work written in lines to express an idea or feeling",
+      "24": "Foot with soft pads and small claws"
+    }
+  },
+  "order": 307
+}

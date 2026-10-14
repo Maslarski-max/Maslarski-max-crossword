@@ -1,39 +1,43 @@
 {
   "id": "level-173",
-  "title": "Weather Station",
+  "title": "Swimming Lesson",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "H######ISOBAR",
-    "UPDRAFT###A##",
-    "M##A######R##",
-    "I##I##CYCLONE",
-    "D##N######M##",
-    "I##G###F##E#F",
-    "T##ANEMOMETER",
-    "Y##U###R##E#O",
-    "#HYGROMETER#N",
-    "###E###C####T",
-    "######RADAR##",
-    "#######S#####",
-    "SATELLITE####"
+    "WATERWINGS#",
+    "A####A###W#",
+    "X##B#THESIS",
+    "YEAR#E###M#",
+    "###E#R#T#S#",
+    "#SHALLOW#U#",
+    "#P#T#I#IRIS",
+    "#L#H#N#N#T#",
+    "LAP#BEZEL#O",
+    "#S##A###YAW",
+    "WHISTLE#E#L"
   ],
   "clues": {
     "across": {
-      "2": "Line joining places with equal pressure",
-      "4": "Rising current of air",
-      "6": "Large rotating storm system",
-      "9": "Device that measures wind speed",
-      "10": "Instrument that measures moisture in air",
-      "11": "System that detects distant precipitation",
-      "12": "Object in orbit used to observe weather"
+      "1": "Inflatable bands worn on the arms for support",
+      "5": "Extended argument supported by research",
+      "6": "Twelve months",
+      "8": "Not very deep",
+      "9": "Coloured ring around the centre of an eye",
+      "10": "One length across the pool and back",
+      "11": "Raised rim holding a gem or seal stone",
+      "14": "Rotation of an aircraft's nose left or right around a vertical axis",
+      "15": "Sharp sound used to start a lesson"
     },
     "down": {
-      "1": "Amount of water vapour in the air",
-      "3": "Instrument for measuring air pressure",
-      "5": "Container used to measure rainfall",
-      "7": "Statement about expected weather",
-      "8": "Boundary between two air masses"
+      "1": "Having a surface that helps limit water loss",
+      "2": "Height where the water meets the pool wall",
+      "3": "Clothing worn for swimming",
+      "4": "Air taken into or out of the lungs",
+      "7": "Strong thin string made from fibres",
+      "8": "Drops of water sent outward",
+      "11": "Flying mammal that may roost in caves",
+      "12": "Strong ingredient used to turn oils into soap",
+      "13": "Night bird known for wisdom"
     }
   },
   "order": 173

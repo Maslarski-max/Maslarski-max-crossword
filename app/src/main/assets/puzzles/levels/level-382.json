@@ -1,0 +1,62 @@
+{
+  "id": "level-382",
+  "title": "Quilt Construction",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "RED#POIROT###H#",
+    "O#A#I#N##HINGE#",
+    "TEMPLATE#U#U#M#",
+    "A###E#I#KNOT##B",
+    "RIB#U####D####A",
+    "Y#APPLIQUE##P#T",
+    "C#C###S##R#BITT",
+    "U#K###LCM#M#E#I",
+    "THIMBLE#U#A#C#N",
+    "T#N#A###SASHING",
+    "E#G#SEOUL#K#N##",
+    "R###T###I##AGAR",
+    "###BINDING#T##O",
+    "####N#####VOLGA",
+    "##LOGCABIN#M##R"
+  ],
+  "clues": {
+    "across": {
+      "1": "Colour of a stop sign",
+      "3": "Christie's Belgian detective",
+      "7": "Joint that lets a locker door swing open",
+      "9": "Reusable guide for cutting a fabric shape",
+      "10": "Tied twist that keeps air inside",
+      "12": "Curved frame supporting the sides of a ship",
+      "14": "Fabric shape stitched onto a larger piece",
+      "17": "Strong post used to secure a line",
+      "18": "Smallest positive common multiple of given integers",
+      "21": "Small cap that protects a finger while sewing",
+      "23": "Narrow fabric strips separating blocks",
+      "24": "South Korean capital",
+      "25": "Gel used as a growth medium",
+      "27": "Folded strip that finishes the outer edge",
+      "28": "Longest river in Europe",
+      "29": "Block pattern built from strips around a centre"
+    },
+    "down": {
+      "1": "Rolling blade used to slice fabric accurately",
+      "2": "Barrier built across a stream",
+      "3": "Heap made when sleds or riders bump together",
+      "4": "Sun deity honoured by the Inca",
+      "5": "Rumble after lightning",
+      "6": "Folded edge sewn along the bottom",
+      "8": "Six-sided fitting turned by a hydrant wrench",
+      "11": "Soft middle layer that gives a quilt warmth",
+      "13": "Fabric layer placed behind the quilt top",
+      "15": "Small island",
+      "16": "Joining fabric shapes to build a quilt top",
+      "19": "Plain cotton cloth often used as a backing",
+      "20": "Pattern used to expose selected chip regions",
+      "22": "Temporary stitches or pins holding layers in place",
+      "25": "Tiny building block of matter",
+      "26": "Loud scary noise"
+    }
+  },
+  "order": 382
+}

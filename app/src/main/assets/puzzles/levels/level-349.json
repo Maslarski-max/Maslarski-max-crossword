@@ -1,0 +1,60 @@
+{
+  "id": "level-349",
+  "title": "Ancient Pottery",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "BLACKFIGURE##P#",
+    "U#C#N#####A##I#",
+    "N#T#E#####R#WET",
+    "#A#TERRACOTTA##",
+    "#M#U#E##A#H#N#P",
+    "SPUR#D##SHERD#I",
+    "#H#N#F##H#N###T",
+    "FOOTRING##W#P#F",
+    "#R#A#G#R##A#O#I",
+    "LAMB#U#I#KRATER",
+    "###L#R#P##E#T#I",
+    "#CLEVER##L##E#N",
+    "#U##E#OTTER#RAG",
+    "#B##S#J##N#####",
+    "##HOTTIP#DECAY#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Greek vase style with dark silhouettes",
+      "6": "Covered with water",
+      "8": "Fired reddish clay used for vessels and figures",
+      "12": "Short woody shoot that may carry fruit buds",
+      "13": "Broken fragment of an old ceramic object",
+      "14": "Raised ring supporting the base of a bowl",
+      "17": "Young sheep",
+      "18": "Wide Greek bowl for mixing wine and water",
+      "19": "Quick to learn",
+      "23": "Playful swimmer",
+      "24": "Cloth used for wiping",
+      "25": "Heated tip that directs plastic into a mold",
+      "26": "Spontaneous change of an unstable atomic nucleus"
+    },
+    "down": {
+      "1": "Small round piece of bread, often served individually",
+      "2": "Major division of a play or opera",
+      "3": "Joint between the thigh and lower leg",
+      "4": "Pottery made from fired natural clay",
+      "5": "Pastry filled with fruit",
+      "6": "Slim stick used to dip and blow",
+      "7": "Two-handled vessel used to carry oil or wine",
+      "8": "Spinning platform used to shape a pot",
+      "9": "Greek vase style with red figures on dark ground",
+      "10": "Coins and notes used to pay",
+      "11": "Heating clay in a simple open-air kiln",
+      "15": "Part attached to help lift a vessel",
+      "16": "Craftsperson who shapes clay into vessels",
+      "19": "Young bear, lion, or fox",
+      "20": "Bright clothing that helps workers be seen",
+      "21": "Garden path leading to a tea house",
+      "22": "Let someone borrow something"
+    }
+  },
+  "order": 349
+}

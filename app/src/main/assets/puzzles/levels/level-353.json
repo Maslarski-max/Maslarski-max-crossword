@@ -1,0 +1,60 @@
+{
+  "id": "level-353",
+  "title": "Textile Loom",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PLAINWEAVE##E##",
+    "#O###I####KILN#",
+    "FORMANT##I##L##",
+    "#M#O#D##OSIRIS#",
+    "#F#TWILL#O##P##",
+    "#R#I#N##EMDASH#",
+    "CALF#G###O##O#G",
+    "#M##W##HEREDITY",
+    "SELVEDGE#P##D#M",
+    "H#E#A##D#H#I#T#",
+    "U#NEVE#DRILL#O#",
+    "T#O#I##L#S#I#M#",
+    "T###N#BEAM#AGAR",
+    "L###G#U#R##D#T#",
+    "ECHO#ISOMER#DOT"
+  ],
+  "clues": {
+    "across": {
+      "1": "Simple pattern alternating over and under",
+      "5": "Oven that fires clay at high temperature",
+      "6": "Resonant frequency peak in a speech sound",
+      "9": "God associated with the dead and the afterlife",
+      "10": "Weave pattern with diagonal ridges",
+      "11": "Long punctuation mark",
+      "12": "Young whale or dolphin",
+      "15": "Genetic information passed from a virus to its offspring",
+      "16": "Finished edge running along woven cloth",
+      "20": "Old granular snow that feeds a glacier",
+      "21": "Tool that bores a round hole",
+      "22": "Roller that holds or winds the cloth",
+      "24": "Gel used as a growth medium",
+      "25": "Repeated sound caused by reflection",
+      "26": "Molecule with the same formula but a different structure",
+      "27": "Tiny round mark"
+    },
+    "down": {
+      "2": "Loom structure holding rows of lifting loops",
+      "3": "Rolling yarn onto a spool or beam",
+      "4": "Smooth mathematical model of Earth's shape",
+      "7": "Planned arrangement of coloured threads",
+      "8": "Structure-preserving correspondence between graphs",
+      "13": "Room where students play indoor sports",
+      "14": "Making cloth by crossing threads at right angles",
+      "15": "Loop that lifts a warp thread",
+      "16": "Tool that carries yarn across the loom",
+      "17": "Open weave made by crossing warp threads",
+      "18": "Homer's epic of the Trojan War",
+      "19": "Red fruit used to make pizza sauce",
+      "22": "Shared path carrying several audio channels",
+      "23": "Limb between a shoulder and a hand"
+    }
+  },
+  "order": 353
+}

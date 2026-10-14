@@ -1,35 +1,29 @@
 {
   "id": "level-029",
-  "title": "Bakery Window",
+  "title": "Rainy Day Games",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#######P#",
-    "###MUFFIN",
-    "#####L#E#",
-    "###C#O###",
-    "##DONUT#T",
-    "###O#R##A",
-    "#B#K##B#R",
-    "CROISSANT",
-    "#E#E##G##",
-    "#A##OVEN#",
-    "#D####L##"
+    "P#I#####",
+    "U#N#P###",
+    "Z#T#L###",
+    "ZEEMAN#R",
+    "L#R#C##E",
+    "EYELEVEL",
+    "##S#B##A",
+    "##THORAX"
   ],
   "clues": {
     "across": {
-      "2": "Small cake baked in a cup",
-      "5": "Fried ring often glazed",
-      "9": "Flaky French crescent",
-      "10": "Where bread is baked"
+      "4": "Effect that splits spectral lines in a magnetic field",
+      "6": "Height at which a speaker looks toward listeners",
+      "7": "Middle body region bearing an insect's legs"
     },
     "down": {
-      "1": "Pastry filled with fruit",
-      "3": "Powder used to make bread",
-      "4": "Sweet baked biscuit",
-      "6": "Small open pastry",
-      "7": "Loaf from the oven",
-      "8": "Bread roll with a hole"
+      "1": "Jigsaw, for example",
+      "2": "Extra paid on a loan",
+      "3": "Dummy pill in a trial",
+      "5": "Rest without doing much"
     }
   },
   "order": 29

@@ -1,39 +1,33 @@
 {
   "id": "level-063",
-  "title": "Money Matters",
+  "title": "Family Road Trip",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#B#W####B",
-    "SALARY##U",
-    "#N#L##I#D",
-    "#K#LOAN#G",
-    "###E##V#E",
-    "#INTEREST",
-    "P#####S##",
-    "RECEIPT##",
-    "I#O##R###",
-    "C#I##O###",
-    "E#N##F###",
-    "#####I###",
-    "#####TAX#"
+    "L##MESH#A",
+    "U#T###AWL",
+    "GROOMER#L",
+    "G#R###D#E",
+    "ANNOUNCER",
+    "G#A#R#O#G",
+    "E#D#I#V#Y",
+    "#COUNTER#",
+    "####E#R##"
   ],
   "clues": {
     "across": {
-      "4": "Regular pay for work",
-      "6": "Money borrowed",
-      "7": "Extra paid on a loan",
-      "9": "Proof of purchase",
-      "12": "Money paid to the government"
+      "2": "Fine netting that keeps insects outside",
+      "6": "Pointed hand tool for making a small hole",
+      "7": "Machine that smooths snow on a ski trail",
+      "8": "Person who introduces news or music on air",
+      "10": "Small playing piece"
     },
     "down": {
-      "1": "Place to keep your savings",
-      "2": "You keep cash in it",
-      "3": "Spending plan",
-      "5": "Put money in to make more",
-      "8": "What something costs",
-      "10": "Metal money",
-      "11": "Money left after costs"
+      "1": "Bags packed for a journey",
+      "3": "Book with a stiff outer cover",
+      "4": "Immune response to a normally harmless substance",
+      "5": "Spinning funnel of wind",
+      "9": "Liquid waste made by the kidneys"
     }
   },
   "order": 63

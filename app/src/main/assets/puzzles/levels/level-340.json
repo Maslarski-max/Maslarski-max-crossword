@@ -1,0 +1,60 @@
+{
+  "id": "level-340",
+  "title": "Stage Makeup",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "GATE#STRIPPER##",
+    "R#H#W#I##E##O##",
+    "EYELINER#N#ODIN",
+    "A#T#G##E##B####",
+    "SCAR#O#MIRROR##",
+    "E##A#A#O##U#E##",
+    "POWDER#V##S#I##",
+    "A##A##BERTHING#",
+    "I#DRAG#R####J##",
+    "N##G#L##A#S#E##",
+    "T##ROUTECHOICE#",
+    "#DNA#O##R#D#T#O",
+    "#I#MINA#E#ALIAS",
+    "#V##########O#L",
+    "CALCIFICATION#O"
+  ],
+  "clues": {
+    "across": {
+      "1": "Numbered door to your flight",
+      "3": "Chemical used to remove an old finish",
+      "8": "Cosmetic applied around the eyes",
+      "10": "One-eyed Norse chief god",
+      "12": "Mark painted to look like a healed wound",
+      "15": "Reflective surface used while applying makeup",
+      "17": "Fine cosmetic used to reduce shine",
+      "18": "Securing a boat to a fixed point",
+      "19": "Slow a moving sled by pressing it against snow",
+      "23": "Decision about which way to reach a control",
+      "24": "Genetic molecule carried by some viruses",
+      "26": "Ancient weight and accounting unit",
+      "27": "Assumed name",
+      "28": "Process of making calcium carbonate structures"
+    },
+    "down": {
+      "1": "Thick makeup worn by performers",
+      "2": "Letter often used for angles",
+      "4": "Fasten a knot at the end",
+      "5": "Handheld tool that leaves a line of ink",
+      "6": "Bar that holds up a curtain",
+      "7": "Artificial hair worn on the head",
+      "9": "Product used to take cosmetics off",
+      "11": "Tool used to apply makeup",
+      "13": "Picture made from radar observations",
+      "14": "Hand-held blade used to propel a small boat",
+      "16": "Returning cooled water to an underground reservoir",
+      "20": "Carrier of the strong force",
+      "21": "Unit used to measure an area of farmland",
+      "22": "Sweet bubbly drink served cold",
+      "24": "Celebrated female singer",
+      "25": "Norwegian capital"
+    }
+  },
+  "order": 340
+}

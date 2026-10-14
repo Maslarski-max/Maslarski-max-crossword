@@ -1,39 +1,32 @@
 {
   "id": "level-053",
-  "title": "Weather Science",
+  "title": "Shopping Mall",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######S######",
-    "#DRIZZLE#####",
-    "######E######",
-    "CYCLONE#####D",
-    "######THUNDER",
-    "#M###B#U####O",
-    "#O##CLIMATE#U",
-    "#N#B#I#I#O##G",
-    "#S#R#Z#D#R##H",
-    "#O#E#Z#I#N##T",
-    "FORECAST#A###",
-    "#N#Z#R#Y#D###",
-    "###E#D###O###"
+    "EXTRATIME",
+    "S#######D",
+    "CINEMA##G",
+    "A###O###E",
+    "LACONIC##",
+    "A#A#E####",
+    "T#TOYS###",
+    "O########",
+    "ROOTLET##"
   ],
   "clues": {
     "across": {
-      "2": "Light rain",
-      "3": "Large rotating storm",
-      "5": "Rumble after lightning",
-      "9": "Long-term weather pattern",
-      "12": "Weather prediction"
+      "1": "Added period played when a knockout match is level",
+      "3": "Place to watch films",
+      "5": "Using very few words",
+      "7": "Things children play with",
+      "8": "Small young root"
     },
     "down": {
-      "1": "Mix of rain and snow",
-      "4": "Long spell without rain",
-      "6": "Moisture in the air",
-      "7": "Seasonal rainy wind",
-      "8": "Snowstorm with strong wind",
-      "10": "Spinning funnel of wind",
-      "11": "Gentle wind"
+      "1": "Moving staircase",
+      "2": "Folded part stitched at the bottom",
+      "4": "What you pay with",
+      "6": "Pet that purrs"
     }
   },
   "order": 53

@@ -1,36 +1,38 @@
 {
   "id": "level-115",
-  "title": "Snow Day",
+  "title": "Juice Bar",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "##ICICLE#",
-    "##G##O###",
-    "##L#SCARF",
-    "##O##O##L",
-    "SNOWMAN#A",
-    "####I###K",
-    "##B#T###E",
-    "##O#T##C#",
-    "SHOVEL#O#",
-    "##T#N##L#",
-    "##S#SLED#"
+    "SMOOTHIE#C",
+    "#A#R###P#A",
+    "#N#A###I#S",
+    "AGING#SCAT",
+    "#O#G##T##L",
+    "R#CELERY#I",
+    "O#H###A##N",
+    "JUICE#WING",
+    "I#L#######",
+    "##LYCHEE##"
   ],
   "clues": {
     "across": {
-      "1": "Frozen spike hanging from a roof",
-      "3": "Warm strip worn round the neck",
-      "5": "Frosty figure with a carrot nose",
-      "9": "Tool to clear the path",
-      "10": "Ride it down a snowy hill"
+      "1": "Thick cold drink blended from fruit",
+      "6": "Controlled resting that develops a cheese's flavor",
+      "7": "Animal droppings examined for clues",
+      "9": "Crisp green stalk sometimes juiced",
+      "10": "Drink pressed from fruit or vegetables",
+      "11": "Part used to fly",
+      "12": "Small fruit with a rough red skin"
     },
     "down": {
-      "1": "Dome house made of ice blocks",
-      "2": "Hot chocolate drink",
-      "4": "Single crystal of snow",
-      "6": "Gloves without separate fingers",
-      "7": "Warm waterproof footwear",
-      "8": "Opposite of hot"
+      "2": "Sweet tropical fruit with a large flat stone",
+      "3": "Round citrus fruit with a thick peel",
+      "4": "Long poem about heroic deeds",
+      "5": "King and rook move together in a special turn",
+      "7": "Narrow tube used for sipping a drink",
+      "8": "Garden path leading to a tea house",
+      "9": "Make a drink cold before serving it"
     }
   },
   "order": 115

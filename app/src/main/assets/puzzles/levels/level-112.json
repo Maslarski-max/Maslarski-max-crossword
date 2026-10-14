@@ -1,36 +1,37 @@
 {
   "id": "level-112",
-  "title": "Pizza Night",
+  "title": "Candle Shop",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "M#####D#P##",
-    "U#####OVEN#",
-    "SLICE#U#P##",
-    "H##R##G#P##",
-    "R##U#CHEESE",
-    "O##S####R##",
-    "O##TOMATO##",
-    "M###L###N##",
-    "#BASIL##I##",
-    "#O##V######",
-    "#X##E######"
+    "CANDLE##D#",
+    "####A###Y#",
+    "#A#SNUFFER",
+    "#R##T##L##",
+    "HOLDER#A#C",
+    "#M##R##M#O",
+    "JAR#N#MELT",
+    "U#####O##T",
+    "G#####L##O",
+    "#COUNTDOWN"
   ],
   "clues": {
     "across": {
-      "4": "Hot box where it bakes",
-      "5": "One triangle of the pie",
-      "7": "Melted topping, often mozzarella",
-      "8": "Red sauce ingredient",
-      "10": "Green herb on a margherita"
+      "1": "Stick or jar of wax lit for its glow",
+      "5": "Tool that puts out a small flame",
+      "7": "Base that catches dripping wax",
+      "9": "Glass container holding a candle",
+      "10": "Turn from a solid into a liquid with heat",
+      "11": "Ten, nine, eight..."
     },
     "down": {
-      "1": "Fungus topping",
-      "2": "Stretchy base before baking",
-      "3": "Spicy sausage topping",
-      "6": "Crunchy edge of the pizza",
-      "9": "Small black or green topping",
-      "10": "Cardboard delivery carrier"
+      "2": "Portable case protecting a light from wind",
+      "3": "Color added to wax",
+      "4": "Pleasant smell drifting through a room",
+      "6": "Bright, hot part of a burning candle",
+      "8": "Soft plant fiber often used for a wick",
+      "9": "Container for pouring a drink",
+      "10": "Shape used to form a candle"
     }
   },
   "order": 112

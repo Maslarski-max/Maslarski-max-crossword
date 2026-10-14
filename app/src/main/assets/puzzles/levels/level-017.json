@@ -1,34 +1,29 @@
 {
   "id": "level-017",
-  "title": "City Streets",
+  "title": "Birthday Party",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "##R##BUS",
-    "#TOWER#H",
-    "##A##I#O",
-    "##D##D#P",
-    "###M#G##",
-    "##CAFE##",
-    "###R##T#",
-    "PARK##A#",
-    "###E##X#",
-    "###TRAIN"
+    "BLENDING",
+    "A##I#T#A",
+    "LIFEBELT",
+    "L##C#M#I",
+    "O##E#I#N",
+    "O####Z#G",
+    "N####E##",
+    "##WALDEN"
   ],
   "clues": {
     "across": {
-      "2": "Large vehicle for many passengers",
-      "4": "Very tall building",
-      "6": "Small place for coffee and cake",
-      "8": "Green space in a city",
-      "9": "It runs on rails"
+      "1": "Smoothing one colour into another",
+      "5": "Floating ring thrown to someone in water",
+      "6": "Thoreau's book of life by a pond"
     },
     "down": {
-      "1": "Street for cars",
-      "2": "It crosses a river",
-      "3": "Place to buy things",
-      "5": "Place with stalls selling food",
-      "7": "Car you hail on the street"
+      "1": "It floats when filled with helium",
+      "2": "Your sibling's daughter",
+      "3": "Listed one charge at a time",
+      "4": "Network of channels that directs metal into a mold"
     }
   },
   "order": 17

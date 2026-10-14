@@ -1,36 +1,44 @@
 {
   "id": "level-192",
-  "title": "School Lunch",
+  "title": "Pinecone Craft",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "S#######A#",
-    "A####Y##P#",
-    "N###BOX#P#",
-    "D#T##G##L#",
-    "W#H#JUICE#",
-    "I#E##R#R##",
-    "CARROT#A#L",
-    "H#M####C#U",
-    "##O#NAPKIN",
-    "##S####E#C",
-    "###WATER#H"
+    "ESTUARY#ASH",
+    "V######P#E#",
+    "E#Y##PAINT#",
+    "R#A##I#D###",
+    "GARLAND#T#W",
+    "R#N##E##W#R",
+    "E##ARC#MILE",
+    "EPIC#O##N#A",
+    "N##ORNAMENT",
+    "###R#E#R##H",
+    "SCENT#FIJI#"
   ],
   "clues": {
     "across": {
-      "4": "Container that holds a meal",
-      "6": "Drink pressed from fruit",
-      "8": "Crunchy orange root vegetable",
-      "10": "Paper or cloth used to wipe the mouth",
-      "11": "Clear drink needed by the body"
+      "1": "Coastal reach where river water mixes with seawater",
+      "2": "Fine grey dust from an eruption",
+      "6": "Coloured liquid brushed onto a surface",
+      "7": "Long decoration made from leaves or flowers",
+      "10": "Bright discharge jumping through air between conductors",
+      "11": "Unit used to measure long distances",
+      "12": "Long narrative poem about heroic deeds",
+      "13": "Decoration hung up for display",
+      "15": "Smell released by a natural object",
+      "16": "Pacific nation of over three hundred islands"
     },
     "down": {
-      "1": "Filling held between slices of bread",
-      "2": "Crisp fruit often packed for a meal",
-      "3": "Creamy food made from fermented milk",
-      "5": "Insulated container that keeps a drink warm",
-      "7": "Thin crisp baked snack",
-      "9": "Meal eaten around midday"
+      "1": "Plant that keeps its leaves through winter",
+      "3": "Painted scenery for a play",
+      "4": "Controller using proportional, integral, and derivative terms",
+      "5": "Soft strand used to decorate a craft",
+      "6": "Seed-bearing cone that falls from a pine tree",
+      "8": "Strong thin string made from fibres",
+      "9": "Ring-shaped decoration made from natural pieces",
+      "10": "Nut produced by an oak tree",
+      "14": "Imaging method using magnets and radio waves"
     }
   },
   "order": 192

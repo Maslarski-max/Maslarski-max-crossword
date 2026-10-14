@@ -1,33 +1,29 @@
 {
   "id": "level-026",
-  "title": "Jungle Trek",
+  "title": "Camping Trip",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#GORILLA###",
-    "#####I##P#T",
-    "#M###O##A#I",
-    "TOUCAN#FROG",
-    "#N####S#R#E",
-    "#K####N#O#R",
-    "#ELEPHANT##",
-    "#Y####K####",
-    "###VINE####"
+    "C#F#P##A",
+    "A#A#R##C",
+    "NUTRIENT",
+    "O#H#M##U",
+    "EYELET#A",
+    "##R#R##T",
+    "#######O",
+    "###MOTOR"
   ],
   "clues": {
     "across": {
-      "1": "Largest ape",
-      "6": "Bird with a huge colourful beak",
-      "7": "Green jumper that croaks",
-      "9": "Big animal with a trunk",
-      "10": "Climbing plant to swing on"
+      "5": "Substance required for plant growth",
+      "6": "Small reinforced opening for a lace",
+      "7": "Machine that changes electrical energy into motion"
     },
     "down": {
-      "2": "King of the jungle",
-      "3": "Bright bird of the rainforest",
-      "4": "Big cat with stripes",
-      "5": "Animal that swings through trees",
-      "8": "Animal with no legs that slithers"
+      "1": "Narrow boat paddled by hand",
+      "2": "Dad",
+      "3": "Mechanism used to fill a filter before it starts",
+      "4": "Part that makes a robot move a joint"
     }
   },
   "order": 26

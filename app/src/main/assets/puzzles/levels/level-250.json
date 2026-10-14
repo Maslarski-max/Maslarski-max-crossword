@@ -1,34 +1,50 @@
 {
   "id": "level-250",
-  "title": "Roadside Diner",
+  "title": "Detective Story",
   "author": "Crossword Team",
-  "difficulty": "EASY",
+  "difficulty": "MEDIUM",
   "grid": [
-    "M#COFFEE###",
-    "E###R###D##",
-    "NAPKIN#BILL",
-    "U#I#E#W#N##",
-    "##E#SHAKE##",
-    "######I#R##",
-    "###BOOTH###",
-    "######E####",
-    "COUNTER####"
+    "FIELDWORK#VET",
+    "I###I#R####P#",
+    "NUMBERED#SPOT",
+    "G###T####H#C#",
+    "E##V#MAMMOTH#",
+    "R##E###Y#W###",
+    "POIROT#S##USB",
+    "R##D##STEM#U#",
+    "INTI#A#E#O#S#",
+    "N##CULPRIT#P#",
+    "TART#I#Y#I#E#",
+    "#####B###V#C#",
+    "HAWAII#SLEUTH"
   ],
   "clues": {
     "across": {
-      "2": "Dark drink brewed from roasted beans",
-      "5": "Cloth or paper used to wipe the mouth",
-      "7": "Paper showing how much a meal costs",
-      "9": "Cold drink mixed until foamy",
-      "10": "Bench seating beside a small table",
-      "11": "Long worktop where customers may sit"
+      "1": "Research carried out outdoors",
+      "4": "Doctor who treats animals",
+      "6": "Marked with figures in a set order",
+      "7": "Small mark on a painted surface",
+      "9": "Shaggy ancient elephant with long curved tusks",
+      "11": "Christie's Belgian detective",
+      "12": "Common connector type for small electronics",
+      "14": "Structure that holds a plant upright",
+      "16": "Sun deity honoured by the Inca",
+      "18": "Guilty party",
+      "19": "Sharp or sour in flavour",
+      "20": "Pacific state with Mauna Loa",
+      "21": "Detective"
     },
     "down": {
-      "1": "List of meals a restaurant serves",
-      "3": "Potato strips cooked in hot oil",
-      "4": "Casual restaurant often near a highway",
-      "6": "Baked dessert with a crust",
-      "8": "Worker who brings food to a table"
+      "1": "Unique mark left by a hand",
+      "2": "Food and drink prescribed as part of a treatment",
+      "3": "Rock containing enough metal-bearing minerals to be useful",
+      "5": "Division of geological time",
+      "7": "Performance for an audience",
+      "8": "Jury's decision",
+      "10": "Puzzle to be solved",
+      "13": "Person who might have done it",
+      "15": "Reason for a crime",
+      "17": "Proof you were elsewhere"
     }
   },
   "order": 250

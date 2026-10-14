@@ -1,0 +1,57 @@
+{
+  "id": "level-318",
+  "title": "Cave Exploration",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "SPELUNKER#LOBE",
+    "T#######E###A#",
+    "A###K##PASSAGE",
+    "LAHAR#C#R##M#N",
+    "A#E#I#H####BAT",
+    "CRAWLWAY#LYE#R",
+    "T#D#L#M##I#R#A",
+    "I#L###B#AMS##N",
+    "THAW##E##E#H#C",
+    "E#M##DRIPSTONE",
+    "##PEAR#N#T#M##",
+    "U##D#U#T#O#E##",
+    "STIGMA#R#NURSE",
+    "B##E##ROPE####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Person who explores caves for recreation",
+      "3": "Section of the brain",
+      "6": "Narrow route through a cave",
+      "9": "Mudflow of volcanic debris and water",
+      "12": "Flying mammal that may roost in caves",
+      "13": "Very low tunnel through a cave",
+      "14": "Strong ingredient used to turn oils into soap",
+      "15": "Method that counts individual atoms in a sample",
+      "16": "Change from solid ice into liquid water",
+      "18": "Mineral deposit formed by dripping water",
+      "20": "Sweet fruit that can be canned in slices",
+      "23": "Sticky flower tip that receives pollen",
+      "24": "Clinician who monitors and cares for patients",
+      "25": "Strong cord used on a descent"
+    },
+    "down": {
+      "1": "Mineral formation hanging from a cave roof",
+      "2": "Raised section beneath the back of a shoe",
+      "4": "Carry your buys in it",
+      "5": "Small marine crustacean important in Antarctic food webs",
+      "7": "Warm yellow-orange lighting colour",
+      "8": "Opening that leads into a cave",
+      "10": "Light fastened to a helmet",
+      "11": "Large room inside a cave",
+      "14": "Rock often dissolved to form caves",
+      "17": "Poet of the Iliad",
+      "18": "Large double-hulled sailing canoe of Fiji",
+      "19": "Opening segment that identifies the show",
+      "21": "Connection between two points",
+      "22": "Common connector type for small electronics"
+    }
+  },
+  "order": 318
+}

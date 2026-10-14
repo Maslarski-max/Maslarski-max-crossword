@@ -1,37 +1,32 @@
 {
   "id": "level-055",
-  "title": "Theatre Night",
+  "title": "Art Supplies",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######DRAMA##",
-    "##C#######P##",
-    "##U###B###P#D",
-    "##REHEARSAL#I",
-    "##T###L###A#R",
-    "STAGE#COSTUME",
-    "C#I###O###S#C",
-    "R#N##ENCORE#T",
-    "I#####Y#####O",
-    "PROMPT##USHER",
-    "T############"
+    "CRAYON##B",
+    "A#####B#R",
+    "N#####A#O",
+    "V#PAINT#A",
+    "A#R#N#H#D",
+    "SMOCK#T#C",
+    "##X###U#A",
+    "#SYLLABUS",
+    "########T"
   ],
   "clues": {
     "across": {
-      "1": "Serious play",
-      "6": "Practice before opening night",
-      "7": "Where actors perform",
-      "8": "Actor's outfit",
-      "9": "Extra performance after demand",
-      "10": "Help for an actor who forgets",
-      "11": "Person who shows you to your seat"
+      "1": "Wax stick for drawing",
+      "4": "Colour in a tube or pot",
+      "6": "Shirt worn to protect clothes",
+      "7": "Outline of topics and work for a course"
     },
     "down": {
-      "2": "Clapping at the end",
-      "3": "It rises before the show",
-      "4": "Upper seating level",
-      "5": "Person in charge of a production",
-      "7": "Written lines for actors"
+      "1": "Cloth stretched for painting",
+      "2": "Transmit on radio or TV",
+      "3": "Large basin used for washing a baby",
+      "4": "Indirect evidence used to infer past conditions",
+      "5": "Dark liquid used for writing"
     }
   },
   "order": 55

@@ -1,33 +1,28 @@
 {
   "id": "level-009",
-  "title": "Farmyard",
+  "title": "Body Parts",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###H#D###",
-    "G##O#U#C#",
-    "O#TRACTOR",
-    "O##S#K#W#",
-    "SHEEP####",
-    "E###I#B##",
-    "####GOAT#",
-    "######R##",
-    "####HEN##"
+    "SHOULDER",
+    "#E####A#",
+    "HAND##R#",
+    "#D#A####",
+    "###I####",
+    "###M####",
+    "###Y####",
+    "SUDOKU##"
   ],
   "clues": {
     "across": {
-      "5": "Farm vehicle that pulls a plough",
-      "6": "Woolly animal that says baa",
-      "9": "Bearded farm animal that will eat almost anything",
-      "10": "Female chicken"
+      "1": "Joint where the arm meets the body",
+      "4": "Body part with five fingers",
+      "6": "Number grid puzzle"
     },
     "down": {
-      "1": "Animal you ride in a saddle",
-      "2": "Farm bird that quacks",
-      "3": "Farm bird bigger than a duck that honks",
-      "4": "Farm animal that gives milk",
-      "7": "Pink farm animal that loves mud",
-      "8": "Big red farm building"
+      "2": "Top part of your body",
+      "3": "You hear with it",
+      "5": "Powerful regional lord who served under the shogun"
     }
   },
   "order": 9

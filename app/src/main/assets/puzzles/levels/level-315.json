@@ -1,0 +1,57 @@
+{
+  "id": "level-315",
+  "title": "Beekeeping Basics",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "HONEYCOMB#TRIM",
+    "A##X#A##I####I",
+    "NECTAR#URUK##L",
+    "D##R##P#T##CEL",
+    "L#MACROPHAGE##",
+    "A##C##L##N#M#E",
+    "M##T##L##CREAM",
+    "P#WORKER#I#N#E",
+    "###R##N#SETTER",
+    "GAS#S##R#N###G",
+    "R#HAT#MALT###E",
+    "ODE#O##C#D#TIN",
+    "G#E#N##E#N###C",
+    "##PRESERVATIVE"
+  ],
+  "clues": {
+    "across": {
+      "1": "Wax cells built by bees",
+      "5": "Small cut that tidies the ends",
+      "7": "Sweet liquid collected from flowers",
+      "8": "Sumerian city associated with early urban life",
+      "10": "Clear sheet used in traditional animation",
+      "11": "Immune cell that engulfs microbes and debris",
+      "14": "Soft preparation rubbed onto the body",
+      "15": "Female bee that gathers nectar",
+      "16": "Player who places the ball for an attacker",
+      "17": "Matter that expands to fill its container",
+      "21": "Stetson",
+      "22": "Powdered grain sometimes mixed into a shake",
+      "23": "Formal poem of praise or reflection",
+      "24": "Metal container that keeps biscuits crisp",
+      "25": "Ingredient that slows spoilage in a preparation"
+    },
+    "down": {
+      "1": "Portable light carried by railway staff",
+      "2": "Machine that spins honey from comb",
+      "3": "Vehicle with four wheels",
+      "4": "Arrival of a young animal into the world",
+      "6": "Building where grain is ground into flour",
+      "9": "Fine powder carried between flowers",
+      "10": "Powder mixed with water for building",
+      "12": "Genetic material recovered from old remains",
+      "13": "Appearance of a seedling above the growing medium",
+      "17": "Crushed fired clay added to a clay body",
+      "18": "Woolly animal that says baa",
+      "19": "Hard natural material used in temple buildings",
+      "20": "Driving game played against a clock"
+    }
+  },
+  "order": 315
+}

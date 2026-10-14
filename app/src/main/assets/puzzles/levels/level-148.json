@@ -1,38 +1,41 @@
 {
   "id": "level-148",
-  "title": "Spy Mission",
+  "title": "Pet Bed",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####C#S####",
-    "##D##O#AGENT",
-    "##E##D#F###A",
-    "##B#DEFECTOR",
-    "G#R#I##H###G",
-    "ALIAS#DOUBLE",
-    "D#E#G##U#U#T",
-    "G#F#U##S#G##",
-    "E##CIPHER###",
-    "T###S#######",
-    "#MOLE#######"
+    "WET#NOTCH##",
+    "A##P###H##C",
+    "SCRATCHER#L",
+    "H##W#O#W##O",
+    "A##PIVOT##C",
+    "BEAR#E#O##K",
+    "L##I#RHYTHM",
+    "E##N#L##A#A",
+    "#KITTEN#P#K",
+    "#E###T#WINE",
+    "SYRUP###R#R"
   ],
   "clues": {
     "across": {
-      "4": "Secret operative",
-      "6": "One who switches sides",
-      "8": "Assumed name",
-      "9": "___ agent, working both sides",
-      "11": "Secret writing",
-      "12": "Spy inside an organisation"
+      "1": "Covered with water",
+      "2": "Small mark used to match sewing pieces",
+      "6": "Sturdy post a cat can claw",
+      "8": "Point around which a part turns",
+      "9": "Big furry animal in the woods",
+      "10": "Repeated beat that guides a dance",
+      "12": "Young cat with a soft coat",
+      "13": "Liquid sometimes used to wash an injury",
+      "14": "Thick sweet liquid poured over food"
     },
     "down": {
-      "1": "Hidden message system",
-      "2": "Secret hideout",
-      "3": "Report after a mission",
-      "5": "Mission objective",
-      "6": "False appearance",
-      "7": "Clever device",
-      "10": "Hidden microphone"
+      "1": "Able to be cleaned in a washing machine",
+      "3": "Safe play item made for a dog's teeth",
+      "4": "Mark left by an animal's foot",
+      "5": "Person who builds or repairs clocks",
+      "7": "Light bed covering spread over a cushion",
+      "11": "Pig-like animal with a short trunk",
+      "12": "Value that unlocks a code"
     }
   },
   "order": 148

@@ -1,0 +1,59 @@
+{
+  "id": "level-339",
+  "title": "Public Health",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "MONITORING#DRUA",
+    "A#E###E#U##E##C",
+    "SCAR#AUCTIONEER",
+    "K#P#V#S#R##I##E",
+    "##T#A#EPIDEMIC#",
+    "#DISC###T###M##",
+    "T#D#CLINIC##M#S",
+    "AXE#I###O###U#L",
+    "P###N#B#NOMINEE",
+    "HYGIENE###E#I#E",
+    "O#R###A#T#D#T#T",
+    "N#O#COMMUNITY##",
+    "O#U##A##L#U##W#",
+    "M#PRETZEL#MILE#",
+    "Y####H##E####T#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Ongoing collection of health information",
+      "5": "Large double-hulled sailing canoe of Fiji",
+      "7": "Mark painted to look like a healed wound",
+      "8": "Person who leads the bidding",
+      "10": "Widespread occurrence of a disease",
+      "12": "Round metal blade that cuts into the ground",
+      "14": "Place where people receive medical care",
+      "16": "Tool with a sharp metal head for chopping",
+      "18": "Candidate formally selected by a party",
+      "20": "Practices that support cleanliness and health",
+      "23": "People living or working in one area",
+      "26": "Twisted salty knot",
+      "27": "Unit used to measure long distances"
+    },
+    "down": {
+      "1": "Face covering worn to limit germs",
+      "2": "Tide with a smaller than usual range",
+      "3": "Use an item again instead of discarding it",
+      "4": "Study or process of nourishing the body",
+      "5": "Fabric of jeans",
+      "6": "Unit used to measure an area of farmland",
+      "9": "Preparation that helps prevent a disease",
+      "11": "Ability to resist a particular infection",
+      "13": "Study of what happens to remains after death",
+      "15": "Frozen rain that falls as small ice pellets",
+      "17": "Roller that holds or winds the cloth",
+      "19": "Path through which a message is transmitted",
+      "21": "Set of waves that travel together",
+      "22": "Fine netting used as a gift decoration",
+      "24": "Serious promise to tell the truth",
+      "25": "Covered with water"
+    }
+  },
+  "order": 339
+}

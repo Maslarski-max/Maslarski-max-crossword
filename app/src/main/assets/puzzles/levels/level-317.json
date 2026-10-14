@@ -1,0 +1,57 @@
+{
+  "id": "level-317",
+  "title": "Museum Curators",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "GALLERY###S##P",
+    "#R#A#E#ROTOR#O",
+    "#TABLET###N##L",
+    "#I#E#D#SMOG##Y",
+    "#FILM#C#U##RUN",
+    "#A####U#SOLE#Y",
+    "#CONSERVE##SEA",
+    "#T#U##A#U##T##",
+    "S##R##TIMEZONE",
+    "TORSO#O##X#R#N",
+    "E##E#ARCHIVE#T",
+    "E#B#V##U#T###R",
+    "L#U#A##B#####E",
+    "#PROTOLANGUAGE"
+  ],
+  "clues": {
+    "across": {
+      "1": "Room where artworks are displayed",
+      "7": "Turning part inside a turbine",
+      "8": "Clay object used to record information",
+      "9": "Hazy air pollution",
+      "11": "Thin layer stretched across an opening",
+      "13": "One timed or judged trip down the course",
+      "14": "Bottom part of a shoe",
+      "15": "Protect an object from damage",
+      "17": "Large body of salt water",
+      "19": "Region that shares the same standard clock time",
+      "22": "Trunk of a body without the head or limbs",
+      "23": "Collection of historical records",
+      "27": "Reconstructed ancestor of related languages"
+    },
+    "down": {
+      "2": "Object made or used by people in the past",
+      "3": "Short text identifying a display",
+      "4": "Tall grass at the water's edge",
+      "5": "Something you sing",
+      "6": "Open water surrounded by sea ice",
+      "10": "Institution that preserves and displays objects",
+      "12": "Person responsible for a collection",
+      "13": "Repair an old object carefully",
+      "16": "Health worker who cares for patients",
+      "18": "Strong metal used in many insulated containers",
+      "20": "Official passage out of a country",
+      "21": "Main course in the US",
+      "24": "Caribbean island of Havana",
+      "25": "Small rotating cutting tip fitted into a dental drill",
+      "26": "Large vessel where milk is warmed and set"
+    }
+  },
+  "order": 317
+}

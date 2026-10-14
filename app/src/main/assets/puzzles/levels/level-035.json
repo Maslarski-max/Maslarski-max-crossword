@@ -1,35 +1,30 @@
 {
   "id": "level-035",
-  "title": "Bugs and Beasties",
+  "title": "Fairy Tales",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#BEETLE###",
-    "#####A####",
-    "#####D####",
-    "###FLY####",
-    "W#C##B####",
-    "A#R##I####",
-    "SPIDER#S#M",
-    "P#C##D#N#O",
-    "##K####ANT",
-    "##E####I#H",
-    "BUTTERFLY#"
+    "CTD###G#",
+    "A#E#G#E#",
+    "SUNBURN#",
+    "T#D#M#E#",
+    "L#R###P#",
+    "EMISSION",
+    "##T###O#",
+    "PREP##L#"
   ],
   "clues": {
     "across": {
-      "1": "Insect with a hard shell",
-      "3": "Buzzing insect",
-      "6": "Eight-legged web spinner",
-      "9": "Tiny insect that lives in a colony",
-      "10": "Insect with colourful wings"
+      "1": "Instrument measuring conductivity, temperature, and depth",
+      "5": "Red skin caused by too much sun",
+      "6": "Release of a photon by an atom or other system",
+      "7": "Chopping and measuring ingredients before service"
     },
     "down": {
-      "2": "Red beetle with black spots",
-      "4": "Striped insect that stings",
-      "5": "Insect that chirps at night",
-      "7": "Slow creature with a shell",
-      "8": "Night-flying cousin of the butterfly"
+      "1": "Royal home with towers",
+      "2": "Branch receiving signals",
+      "3": "All gene variants present in a population",
+      "4": "Sticky coating on the back of a stamp"
     }
   },
   "order": 35

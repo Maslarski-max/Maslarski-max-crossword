@@ -6,7 +6,7 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
 - **Classic Crossword**: zoomable/pannable Canvas grid for boards up to 25x25 (pinch, pan, double-tap to zoom in on a spot or back out; taps hit the right cell at any zoom), Across/Down word and active-cell
   highlighting, a live clue bar, a full clue list screen, an on-screen keyboard plus hardware-keyboard support,
   animated letter entry and a confetti/score/stars completion screen.
-- **Content**: 300 Classic levels (Easy → Hard, ending with a 20x20 board); the first is free and each next one is unlocked in order for 50 coins, plus a rotating Daily Puzzle with a streak counter.
+- **Content**: 720 Classic levels (Easy → Hard, growing from 6 words on an 8x8 board to 56 words on a 22x22 board); the first is free and each next one is unlocked in order for 50 coins, plus a rotating Daily Puzzle with a streak counter.
   Puzzles are plain JSON in `app/src/main/assets/puzzles/`; drop in a file to add a level.
 - **Crossword Arena**: an arrow-word board (clues and arrows sit in the grid) with `+2`/`+3` bonus cells, a
   "You N vs N Opponent" score banner and a 5-tile letter rack. Drag or tap tiles onto one word, then Submit (correct
@@ -127,13 +127,17 @@ python3 tools/puzzle_builder.py tools/puzzle-sources/easy-03.txt
 
 Words that can't be interlocked are reported and left out; tweak `size`/`seed` or the word list and re-run.
 
-The 293 themed levels after the hand-made ones live in `tools/catalog/*.txt` (`=== Title | DIFFICULTY` headers
-followed by `WORD | clue` lines). Regenerate their sources and JSON with:
+The 713 catalog themes plus seven hand-made themes define the 720 slot-stable Classic levels. Catalog files use
+`=== Title | DIFFICULTY` headers followed by `WORD | clue` lines. Validate the catalog and generate every Classic
+board with:
 
 ```bash
-python3 tools/catalog_to_sources.py
-python3 tools/puzzle_builder.py tools/puzzle-sources/level-*.txt
+python3 tools/validate_catalog.py
+python3 tools/level_generator.py
 ```
+
+The generator grows word counts and square board sizes by level order and records its fill statistics in
+`/home/ubuntu/level_stats.txt`. `tools/puzzle_builder.py` remains available for hand-made and Daily source files.
 
 ## Configuration
 

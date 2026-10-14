@@ -1,37 +1,41 @@
 {
   "id": "level-147",
-  "title": "Bakery Oven",
+  "title": "Coloring Book",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "########D#C##",
-    "Y#B###FLOUR##",
-    "E#A##C##U#U##",
-    "A#G##R##G#M##",
-    "SOURDOUGH#B##",
-    "T#E##I##N###K",
-    "##T##S#MUFFIN",
-    "##T##S##T###E",
-    "##ECLAIR####A",
-    "#####N#Y####D",
-    "##PRETZEL####"
+    "COLORPENCIL",
+    "U##U#A##R#O",
+    "P##T#G##ARC",
+    "#SILVER#Y#K",
+    "#H#I###CORK",
+    "RAINBOW#N#E",
+    "#D#E#R#ISLE",
+    "#I###A####P",
+    "INCLINE#ODE",
+    "#G###G####R",
+    "####YELLOW#"
   ],
   "clues": {
     "across": {
-      "5": "Ground wheat",
-      "7": "Tangy fermented bread",
-      "9": "Small domed cake",
-      "10": "Cream-filled choux finger",
-      "12": "Twisted salty knot"
+      "1": "Wooden drawing stick filled with coloured pigment",
+      "6": "Curved shape of a rainbow",
+      "7": "Shiny grey colour of a metal spoon",
+      "8": "Bottle stopper",
+      "9": "Curved band showing several colours",
+      "11": "Small island",
+      "12": "Inclined land that can affect fire movement",
+      "13": "Formal poem of praise or reflection",
+      "14": "Bright colour of ripe lemons"
     },
     "down": {
-      "1": "Ring with a hole",
-      "2": "Tiny bit of bread",
-      "3": "It makes dough rise",
-      "4": "Long French loaf",
-      "6": "Flaky crescent pastry",
-      "8": "Work the dough by hand",
-      "11": "Dark grain for bread"
+      "1": "Small drinking vessel",
+      "2": "Dark edge that marks a picture's shape",
+      "3": "One side of a sheet in a book",
+      "4": "Wax sticks sold together in a box",
+      "5": "Worker who operates a canal lock",
+      "7": "Darker tone added to give a drawing depth",
+      "10": "Colour between red and yellow"
     }
   },
   "order": 147

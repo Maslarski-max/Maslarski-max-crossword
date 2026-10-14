@@ -1,35 +1,30 @@
 {
   "id": "level-039",
-  "title": "Vegetable Patch",
+  "title": "Playground",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "####C#####",
-    "##PEAS####",
-    "L###R#####",
-    "E#P#R#####",
-    "T#U#O##C##",
-    "TOMATO#A##",
-    "U#P##N#B##",
-    "C#K##I#B#C",
-    "E#I#POTATO",
-    "##N##N#G#R",
-    "######BEAN"
+    "LIGHTING",
+    "A#######",
+    "DRAFTING",
+    "D##R##U#",
+    "E##I#EGG",
+    "ROPE##G#",
+    "###N##E#",
+    "SANDPIT#"
   ],
   "clues": {
     "across": {
-      "2": "Small green balls in a pod",
-      "6": "Red fruit used like a vegetable",
-      "9": "Vegetable for chips",
-      "10": "Jack's magic seed"
+      "1": "Arrangement of lamps used to brighten the subject",
+      "2": "Riding close behind another cyclist to reduce drag",
+      "5": "Small case from which a young insect hatches",
+      "6": "Skip with it",
+      "7": "Box of sand for digging"
     },
     "down": {
-      "1": "Orange root that rabbits love",
-      "3": "Salad leaves",
-      "4": "Orange squash carved at Halloween",
-      "5": "Leafy head often made into coleslaw",
-      "7": "Vegetable that makes you cry",
-      "8": "Yellow cobs"
+      "1": "Steps for climbing up",
+      "3": "Someone you like to play with",
+      "4": "Small natural lump of precious metal"
     }
   },
   "order": 39

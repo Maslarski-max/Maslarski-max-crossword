@@ -1,36 +1,38 @@
 {
   "id": "level-114",
-  "title": "Busy Bees",
+  "title": "Garage Sale",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#####Q#####",
-    "####BUZZ###",
-    "###P#E#####",
-    "#FLOWER####",
-    "###L#N##S##",
-    "###L####WAX",
-    "HIVE##S#A##",
-    "O##NECTAR##",
-    "N#####I#M##",
-    "E##DRONE###",
-    "Y#####G####"
+    "V###CASH##",
+    "I#C#O###B#",
+    "N#H#A#PLUG",
+    "TOASTER#Y#",
+    "A#N###I#E#",
+    "G#G#RECORD",
+    "E#E#N#E##R",
+    "#A##A##E#A",
+    "#R#####A#P",
+    "#CONCOURSE"
   ],
   "clues": {
     "across": {
-      "2": "Sound of a bee",
-      "4": "Bees visit it for nectar",
-      "6": "Material of a honeycomb",
-      "7": "Bee home",
-      "9": "Sweet liquid in flowers",
-      "10": "Male bee"
+      "2": "Paper money and coins used to pay",
+      "5": "Fitting that connects a device to a power supply",
+      "6": "Small kitchen appliance that browns bread",
+      "7": "Round disc that stores music",
+      "11": "Building or complex where passengers begin a trip"
     },
     "down": {
-      "1": "Mother of the colony",
-      "3": "Yellow dust bees carry",
-      "5": "Large flying group of bees",
-      "7": "Sweet golden food bees make",
-      "8": "Bee's painful defence"
+      "1": "Describes an older item from an earlier period",
+      "2": "Warm outer garment hung for display",
+      "3": "Coins or bills returned after payment",
+      "4": "Person choosing an item to purchase",
+      "5": "Amount asked in exchange for an item",
+      "7": "Genetic material used by many viruses",
+      "8": "Hang fabric in soft folds",
+      "9": "Curved shape of a rainbow",
+      "10": "Part on the side of a head used for hearing"
     }
   },
   "order": 114

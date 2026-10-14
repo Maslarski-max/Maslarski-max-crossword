@@ -1,35 +1,47 @@
 {
   "id": "level-223",
-  "title": "Stage Crew",
+  "title": "Local Bus Stop",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#####A##S##",
-    "#####C##C##",
-    "##COSTUME##",
-    "M#U##O##N##",
-    "A#R##ROPE##",
-    "SET#U##R###",
-    "K#A#S#SOUND",
-    "#LIGHT#P###",
-    "##N#E######",
-    "####R######"
+    "BUSSHELTER##",
+    "U#I##Y#I#ODE",
+    "N#TUBE#M#U##",
+    "#B##U##E#T#S",
+    "FUR#SEATBELT",
+    "#S##C##A#M#O",
+    "#P##A##B#ATP",
+    "HANDRAIL#P#P",
+    "#S##D##E###O",
+    "USB###R##V#L",
+    "##A##BUSLANE",
+    "GLYPH#N##T##"
   ],
   "clues": {
     "across": {
-      "3": "Special clothing worn for a performance",
-      "5": "Strong cord used to lift scenery",
-      "7": "Painted scenery for a play",
-      "9": "What the audience hears",
-      "10": "Bright beam used to illuminate a stage"
+      "1": "Covered place where riders wait for a bus",
+      "6": "Formal poem of praise or reflection",
+      "7": "Long body that blocks stray light from the lens",
+      "11": "Soft coat covering an animal",
+      "12": "Strap that helps protect a seated rider",
+      "13": "Cell's main short-term energy-carrying molecule",
+      "14": "Bar passengers hold while standing",
+      "15": "Common connector type for small electronics",
+      "19": "Road strip reserved for buses",
+      "20": "Single character shape"
     },
     "down": {
-      "1": "Person who performs a role",
-      "2": "Part of a play set in one place",
-      "3": "Cloth that hides the stage",
-      "4": "Face covering worn by a performer",
-      "6": "Object handled by an actor",
-      "8": "Worker who guides people to their seats"
+      "1": "Small round bread roll",
+      "2": "Rest on the floor with legs bent",
+      "3": "You see with it",
+      "4": "Printed list of planned departure times",
+      "5": "Drawing that shows a bus's path",
+      "8": "Plastic card used to pay a fare",
+      "9": "Card that pays for a ride",
+      "10": "Tall sign marking where a bus will pause",
+      "16": "Marked space where a vehicle can be left",
+      "17": "One timed or judged trip down the course",
+      "18": "Large vessel where milk is warmed and set"
     }
   },
   "order": 223

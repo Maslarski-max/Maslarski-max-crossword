@@ -1,43 +1,35 @@
 {
   "id": "level-090",
-  "title": "Engineering",
+  "title": "Roadside Diner",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####H###P#####",
-    "#ALLOY###I#####",
-    "#####D###S#####",
-    "####PROTOTYPE##",
-    "#V###A###O#####",
-    "#O##SUSPENSION#",
-    "#L###L########T",
-    "#T###I###C#G##O",
-    "#A###CANTILEVER",
-    "#G##G####R#A##Q",
-    "WELDING##C#R##U",
-    "####R###TURBINE",
-    "####D####I#O###",
-    "#BLUEPRINT#X###",
-    "####R##########"
+    "COFFEE###",
+    "O#L###EDO",
+    "U#A#D###U",
+    "NAPKIN##T",
+    "T###N#K#R",
+    "E##MENU#E",
+    "RED#R#K#A",
+    "#G####U#C",
+    "#GOLDFISH"
   ],
   "clues": {
     "across": {
-      "3": "Metal mixture",
-      "4": "First working model",
-      "6": "Springs and shocks under a car",
-      "10": "Beam fixed at one end only",
-      "12": "Joining metal with heat",
-      "13": "Rotary engine driven by fluid",
-      "14": "Technical drawing"
+      "1": "Dark drink brewed from roasted beans",
+      "3": "Former name of the city now called Tokyo",
+      "6": "Cloth or paper used to wipe the mouth",
+      "8": "List of meals a restaurant serves",
+      "9": "Colour of a ripe tomato",
+      "11": "Orange pet fish often kept in a bowl or tank"
     },
     "down": {
-      "1": "Powered by liquid pressure",
-      "2": "Part moving inside a cylinder",
-      "5": "Electrical pressure",
-      "7": "Twisting force",
-      "8": "Path for electric current",
-      "9": "Housing of a vehicle's gears",
-      "11": "Large steel beam"
+      "1": "Long worktop where customers may sit",
+      "2": "Hinged panel that closes a travel crate",
+      "4": "Effort to connect with a community",
+      "5": "Casual restaurant often near a highway",
+      "7": "Tree whose nuts supplied oil and light in Hawaii",
+      "10": "Baby dinosaurs hatched from one"
     }
   },
   "order": 90

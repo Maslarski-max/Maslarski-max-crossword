@@ -1,35 +1,29 @@
 {
   "id": "level-024",
-  "title": "Musical Instruments",
+  "title": "Bakery Window",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#D###H####",
-    "#R###A###V",
-    "GUITAR#B#I",
-    "#M#R#PIANO",
-    "#S#U###N#L",
-    "###M###J#I",
-    "###P#F#O#N",
-    "##CELLO###",
-    "###T#U####",
-    "#####TUBA#",
-    "#####E####"
+    "COOKIE##",
+    "#V###Y#E",
+    "SEASHELL",
+    "#N###C#E",
+    "#####H#G",
+    "XENOGAMY",
+    "#####R##",
+    "#SHEET##"
   ],
   "clues": {
     "across": {
-      "4": "Instrument with six strings",
-      "7": "Instrument with black and white keys",
-      "9": "Big string instrument held between the knees",
-      "10": "Biggest brass instrument"
+      "1": "Sweet baked biscuit",
+      "5": "Hard outer covering left by a sea animal",
+      "6": "Transfer of pollen between separate plants",
+      "7": "Thin paper that receives the printed image"
     },
     "down": {
-      "1": "Instrument you hit with sticks",
-      "2": "Large instrument with many strings plucked by hand",
-      "3": "Small string instrument played with a bow",
-      "5": "Brass instrument with three valves",
-      "6": "Round string instrument used in bluegrass",
-      "8": "Thin wind instrument held sideways"
+      "2": "Where bread is baked",
+      "3": "Board of letters used to check sight",
+      "4": "Poem of mourning or serious reflection"
     }
   },
   "order": 24

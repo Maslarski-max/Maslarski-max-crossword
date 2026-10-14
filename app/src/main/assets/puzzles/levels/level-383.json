@@ -1,0 +1,63 @@
+{
+  "id": "level-383",
+  "title": "Ocean Current Survey",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "DOG#EULERIAN###",
+    "O##D#P#D#O#IOTA",
+    "W#DRAWDOWN#B##R",
+    "N##I#E####S#F#E",
+    "W##F#L#CORIOLIS",
+    "E#ATOLL###T#O##",
+    "L##E#I##W##LAST",
+    "LAGRANGIAN##T##",
+    "I#L##G##T#TIDE#",
+    "NOUN####E#A#R#G",
+    "G#C#S#VORTICITY",
+    "#COOP#I#M#L#F#R",
+    "A#S#O#S#A###TIE",
+    "PIE#TRANSECT#P#",
+    "P#######S###VAN"
+  ],
+  "clues": {
+    "across": {
+      "1": "Animal often waiting at a shelter for a new home",
+      "2": "Describing observations made at a fixed location",
+      "8": "Tiny amount, or a Greek letter",
+      "10": "Drop in water level caused by pumping",
+      "13": "Apparent deflection caused by Earth's rotation",
+      "14": "Ring-shaped reef surrounding a lagoon",
+      "16": "Shaped form used while building footwear",
+      "17": "Describing motion tracked from the moving water itself",
+      "19": "Rise and fall of the sea",
+      "20": "Word used to name a person, place, thing, or idea",
+      "23": "Measure of local spinning in a moving fluid",
+      "24": "Small shelter built for chickens",
+      "26": "Strip used to fasten a garment",
+      "28": "Baked dessert with a crust",
+      "29": "Planned line along which observations are collected",
+      "30": "Vehicle for deliveries"
+    },
+    "down": {
+      "1": "Sinking of surface water into the deep ocean",
+      "3": "Rise of deep, cold water toward the surface",
+      "4": "Former name of the city now called Tokyo",
+      "5": "Atom or molecule carrying an electric charge",
+      "6": "Small broken piece of roasted cacao seed",
+      "7": "Floating device that follows and records a current",
+      "9": "God of war in Greek myth",
+      "11": "Rest on the floor with legs bent",
+      "12": "Movement of a surface instrument with the current",
+      "15": "Large body of seawater with shared properties",
+      "18": "Sugar commonly broken down to release cellular energy",
+      "19": "Long thin part behind an animal",
+      "21": "Large circular system of ocean currents",
+      "22": "Small round marking on a butterfly's wing",
+      "23": "Entry permission placed in a travel document",
+      "25": "Phone program used to locate or unlock a bicycle",
+      "27": "Alphabet used to represent speech sounds"
+    }
+  },
+  "order": 383
+}

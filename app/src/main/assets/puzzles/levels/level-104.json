@@ -1,42 +1,37 @@
 {
   "id": "level-104",
-  "title": "Shakespeare",
+  "title": "Umbrella Stand",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#JULIET##I##",
-    "###E##E#BARD",
-    "###A##M##G##",
-    "##PROSPERO##",
-    "##U###E#O#F#",
-    "##C###S#M#A#",
-    "##K##OTHELLO",
-    "#G######O#S#",
-    "#L##S#####T#",
-    "#O##OPHELIA#",
-    "#B##N#####F#",
-    "VERONA####F#",
-    "####E#######",
-    "####T#######"
+    "WATERPROOF",
+    "####A####O",
+    "G###I#GULL",
+    "AWNING#M#D",
+    "L#A#C##B##",
+    "O#SHOWER##",
+    "S#A#A##E#B",
+    "HALITE#L#O",
+    "#C#####L#O",
+    "#T###SHAFT"
   ],
   "clues": {
     "across": {
-      "1": "Capulet who loves Romeo",
-      "5": "Shakespeare's nickname",
-      "6": "Magician of The Tempest",
-      "9": "Moor of Venice",
-      "12": "Hamlet's tragic love",
-      "13": "City of two gentlemen"
+      "1": "Describes material that keeps water out",
+      "5": "Noisy seaside bird",
+      "7": "Fabric cover shading a doorway or window",
+      "9": "Short period of falling rain",
+      "11": "Cubic mineral form of ordinary table salt",
+      "13": "Long central rod beneath the canopy"
     },
     "down": {
-      "2": "King with three daughters",
-      "3": "Storm, or a late play",
-      "4": "Othello's treacherous ensign",
-      "6": "Mischievous sprite of a midsummer night",
-      "7": "Montague who loves Juliet",
-      "8": "Fat knight of Henry IV",
-      "10": "Shakespeare's theatre",
-      "11": "Fourteen-line poem"
+      "2": "Waterproof outer layer worn in a shower",
+      "3": "Bend a cover into a smaller bundle",
+      "4": "Rubber overshoe for wet weather",
+      "6": "Folding cover held above the head in rain",
+      "8": "Sound produced with air through the nose",
+      "10": "High shoe that helps keep feet dry",
+      "12": "Major division of a play or opera"
     }
   },
   "order": 104

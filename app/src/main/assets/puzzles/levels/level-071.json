@@ -1,39 +1,33 @@
 {
   "id": "level-071",
-  "title": "Rivers of the World",
+  "title": "Campfire Tales",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######Y#V###",
-    "####AMAZON##",
-    "######N#L###",
-    "######G#G###",
-    "CONGO#THAMES",
-    "###A##Z#####",
-    "#DANUBE#####",
-    "###G###R####",
-    "#N#E###H##T#",
-    "MISSISSIPPI#",
-    "#L#####N##B#",
-    "#E####SEINE#",
-    "##########R#"
+    "B#GALLERY",
+    "E###O####",
+    "D###G##L#",
+    "R#NUCLEAR",
+    "O#I#A##T#",
+    "LOG#BOXER",
+    "L#H#I##R#",
+    "##TENT#A#",
+    "######FLY"
   ],
   "clues": {
     "across": {
-      "3": "River through Brazil",
-      "4": "Deep river of central Africa",
-      "6": "River through London",
-      "7": "River through Vienna and Budapest",
-      "11": "River through New Orleans",
-      "12": "River through Paris"
+      "2": "Room where works are displayed",
+      "5": "Relating to an atomic nucleus",
+      "6": "Thick piece of cut wood",
+      "7": "Muscular breed with a square jaw",
+      "8": "Portable shelter made from fabric",
+      "9": "Buzzing insect"
     },
     "down": {
-      "1": "Longest river in Asia",
-      "2": "Longest river in Europe",
-      "5": "Sacred river of India",
-      "8": "River from the Alps to the North Sea",
-      "9": "Longest river in Africa",
-      "10": "River through Rome"
+      "1": "Padded cover for sleeping outside",
+      "3": "Block pattern built from strips around a centre",
+      "4": "Side shoot growing from a main branch",
+      "5": "Dark time after sunset"
     }
   },
   "order": 71

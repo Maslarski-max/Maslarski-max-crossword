@@ -1,0 +1,60 @@
+{
+  "id": "level-345",
+  "title": "Jazz Ensemble",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "W#BRUSHES######",
+    "A##I#O##ARABIC#",
+    "LEAF#L##X#T###A",
+    "K##F#O#HOST#TAX",
+    "I###C#B#P#A#R#E",
+    "N#CAT#ADHOC#U##",
+    "G#L#D#N#O#K#MRI",
+    "BEAK##D#N#P#P#M",
+    "A#R##BLUENOTE#P",
+    "S#I#D#E###I#TAR",
+    "SYNCOPATION###O",
+    "##E#G#D#M#T#S#V",
+    "MUTE##E#A###C#I",
+    "A###UPRIGHTBASS",
+    "POD#####E###T#E"
+  ],
+  "clues": {
+    "across": {
+      "2": "Wire-tipped sticks swept across a drum",
+      "6": "Language written from right to left in a flowing script",
+      "8": "Flat green part of a plant often eaten by caterpillars",
+      "10": "Person who introduces and leads a recorded program",
+      "11": "Required payment collected by a government",
+      "14": "Small pet that may ride in a carrier",
+      "15": "For this purpose only",
+      "16": "Imaging method using magnets and radio waves",
+      "18": "Bird's hard mouth",
+      "19": "Jazz tone lowered slightly for expressive effect",
+      "21": "Sticky substance used to protect seams and rope",
+      "22": "Stress placed on an unexpected beat",
+      "25": "Device placed in a bell to soften its sound",
+      "26": "Tall string instrument played standing or seated",
+      "27": "Social group of dolphins or whales"
+    },
+    "down": {
+      "1": "Steady low line moving through a chord pattern",
+      "3": "Short phrase repeated by an instrument",
+      "4": "Part played or sung by one performer",
+      "5": "Reed instrument often heard in a jazz solo",
+      "7": "Easy-to-recognize spot near a control marker",
+      "9": "Tool with a sharp metal head for chopping",
+      "11": "Brass horn with three finger valves",
+      "12": "Instrument measuring conductivity, temperature, and depth",
+      "13": "Musician who directs an ensemble",
+      "14": "Reed instrument with a straight dark body",
+      "17": "Create a melody while the music is playing",
+      "20": "Man's best friend",
+      "23": "Picture made by a camera or other instrument",
+      "24": "Vocal jazz style using playful syllables",
+      "25": "It shows the way"
+    }
+  },
+  "order": 345
+}

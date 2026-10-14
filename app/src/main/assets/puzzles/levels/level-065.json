@@ -1,39 +1,33 @@
 {
   "id": "level-065",
-  "title": "Film Night",
+  "title": "Windy Kite Day",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######SEQUEL",
-    "####T#C#####",
-    "##SCREEN##T#",
-    "####A#N###H#",
-    "###DIRECTOR#",
-    "####L##R##I#",
-    "P###E##E##L#",
-    "OSCAR##D##L#",
-    "P#O###TICKET",
-    "CAMERA#T##R#",
-    "O#E####S####",
-    "R#D#########",
-    "N#Y#########"
+    "DIAMOND#O",
+    "##F###E#X",
+    "V#TIMOTHY",
+    "E#E###A#G",
+    "SARABANDE",
+    "T#G#E#G#N",
+    "#PLURAL##",
+    "##O#A#E##",
+    "##WATERY#"
   ],
   "clues": {
     "across": {
-      "1": "Follow-up film",
-      "3": "Where the film is shown",
-      "5": "Person who calls Action",
-      "8": "Famous film award",
-      "10": "You show it to get in",
-      "11": "It films the scenes"
+      "1": "Common four-sided kite shape",
+      "6": "Grass commonly dried for rabbit food",
+      "7": "Slow dance with a characteristic emphasis on beat two",
+      "9": "Form used when referring to more than one",
+      "10": "Paint consistency after adding plenty of water"
     },
     "down": {
-      "1": "Part of a film in one place",
-      "2": "Preview of a film",
-      "4": "Suspenseful film",
-      "6": "Names that roll at the end",
-      "7": "Snack at the movies",
-      "9": "Funny film"
+      "2": "Delayed light emission that continues after excitation",
+      "3": "Product that makes knots easier to comb out",
+      "4": "Gas used by many cells to release energy from food",
+      "5": "Bright garment that helps a patrol member be seen",
+      "8": "Charter confirming an office or privilege"
     }
   },
   "order": 65

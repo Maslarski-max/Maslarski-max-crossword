@@ -1,38 +1,32 @@
 {
   "id": "level-050",
-  "title": "Kitchen Herbs",
+  "title": "Wild West",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##SAGE#######",
-    "####A########",
-    "###OREGANO###",
-    "####L#I######",
-    "#CORIANDER###",
-    "#H##C#G##O###",
-    "MINT##E##S###",
-    "#V##PARSLEY#D",
-    "#E#######M##I",
-    "#S######BASIL",
-    "#########R##L",
-    "#######THYME#"
+    "SALOON##C",
+    "H#A#R###R",
+    "E#S#T###O",
+    "ROSTER##S",
+    "I#O#L#A#S",
+    "F##MINNOW",
+    "F###U#T#A",
+    "#CLASP##L",
+    "########K"
   ],
   "clues": {
     "across": {
-      "1": "Herb paired with onion stuffing",
-      "3": "Pizza herb",
-      "5": "Herb also called cilantro",
-      "7": "Herb for mojitos",
-      "8": "Curly garnish herb",
-      "10": "Herb in pesto",
-      "11": "Herb that sounds like time"
+      "1": "Bar with swinging doors",
+      "5": "Scheduled change between watching and resting",
+      "7": "Small silvery fish that swims in a school",
+      "8": "Small fastening piece that can be opened"
     },
     "down": {
-      "2": "Pungent bulb for flavouring",
-      "4": "Spicy root",
-      "5": "Onion-flavoured herb",
-      "6": "Needle-leaved herb for lamb",
-      "9": "Feathery herb with fish"
+      "1": "Law officer with a star",
+      "2": "Rope loop for catching cattle",
+      "3": "Mapmaker who published an early modern world atlas",
+      "4": "Marked place for people to cross the street",
+      "6": "Tiny insect that lives in a colony"
     }
   },
   "order": 50

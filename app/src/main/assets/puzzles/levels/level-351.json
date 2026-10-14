@@ -1,0 +1,60 @@
+{
+  "id": "level-351",
+  "title": "Textile Dyeing",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "CHAFF##GOLDFISH",
+    "O###O#B#A##I#C#",
+    "COLORFAST##X#O#",
+    "H###T#T####ALUM",
+    "IMMERSION##T#R#",
+    "N#O#E#K#A##I#I#",
+    "E#ROSE##D##VENT",
+    "A#D#S##RINSE#G#",
+    "LOAF#D##R#K###B",
+    "##N##Y#T##E#R#O",
+    "VATDYE#INDIGO#M",
+    "A####L#E##N#JIB",
+    "L#M#WOAD####I#A",
+    "U#U##T#Y######R",
+    "EDDIC#RESIST##D"
+  ],
+  "clues": {
+    "across": {
+      "1": "Papery skin released during the heating process",
+      "3": "Orange pet fish often kept in a bowl or tank",
+      "8": "Able to resist fading or running when washed",
+      "9": "Mineral salt used in some dye baths",
+      "10": "Placing cloth fully into a dye bath",
+      "13": "Thorny flower often given on Valentine's Day",
+      "14": "Opening in the seafloor where hot fluid escapes",
+      "15": "Washing out loose colour after dyeing",
+      "17": "Shaped mass of bread for slicing",
+      "22": "Colourant applied in a reduced, soluble state",
+      "23": "Deep blue dye made from certain plants",
+      "24": "Short arm attached to the end of a crane boom",
+      "26": "Plant used in Europe to make blue colour",
+      "27": "Relating to old Norse mythological or heroic poems",
+      "28": "Material that blocks dye from part of a fabric"
+    },
+    "down": {
+      "1": "Red dye made from an insect",
+      "2": "Strong building designed for defence",
+      "4": "Grain often mixed into cookie dough",
+      "5": "Treatment that helps colour remain in fabric",
+      "6": "Washing cloth to remove oils before dyeing",
+      "7": "Cloth decorated by resisting dye with wax",
+      "11": "Substance that helps dye bind to cloth",
+      "12": "Point in the sky opposite the zenith",
+      "16": "Loose coil of yarn prepared for colouring",
+      "18": "Batch of cloth coloured together in one bath",
+      "19": "Early cannon designed to hurl heavy stone balls",
+      "20": "Pattern made by tying fabric before colouring it",
+      "21": "Garden path leading to a tea house",
+      "22": "Degree of lightness or darkness in a colour",
+      "25": "Wet earth at the bottom"
+    }
+  },
+  "order": 351
+}
