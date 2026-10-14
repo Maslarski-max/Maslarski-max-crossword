@@ -1,0 +1,56 @@
+{
+  "id": "level-304",
+  "title": "Wildlife Rescue",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "QUIPU#CAT#OSLO",
+    "U####H#R#H##A#",
+    "A###SANCTUARY#",
+    "R##T#B###M##U#",
+    "A#ZODIAC##SAPA",
+    "N##U#T##VET###",
+    "TALC#A##O#I##G",
+    "I##HATCHLING#R",
+    "N##L####U#G##A",
+    "ENRICHMENT#LOP",
+    "###N#U##T#Z##H",
+    "TALE#M#RELEASE",
+    "#M###O##E#U##M",
+    "#SALARY#RESCUE"
+  ],
+  "clues": {
+    "across": {
+      "1": "Knotted-cord device used to record information",
+      "2": "Pet that purrs",
+      "4": "Norway's capital",
+      "8": "Protected place for wildlife",
+      "10": "Belt of constellations along the ecliptic",
+      "11": "Title used for the Inca ruler",
+      "12": "Doctor who treats animals",
+      "13": "Fine powder brushed on after a trim",
+      "15": "Newly emerged young animal",
+      "16": "Activity that encourages natural behaviour",
+      "18": "Rabbit breed known for hanging ears",
+      "20": "Short story",
+      "22": "Return a recovered animal to the wild",
+      "23": "Regular pay for work",
+      "24": "Safe removal from danger"
+    },
+    "down": {
+      "1": "Separation used to limit the spread of disease",
+      "3": "Curved shape of a rainbow",
+      "5": "Close shot made near the basket",
+      "6": "Natural surroundings where an animal lives",
+      "7": "Sing with your mouth shut",
+      "9": "Boundary running along the long side of the pitch",
+      "11": "Bee's painful defence",
+      "12": "Person who gives time without pay",
+      "14": "Written sign representing a sound in an alphabet",
+      "17": "One of four bodily fluids once thought to govern health",
+      "19": "King of the gods who ruled from Mount Olympus",
+      "21": "Method that counts individual atoms in a sample"
+    }
+  },
+  "order": 304
+}

@@ -1,37 +1,30 @@
 {
   "id": "level-042",
-  "title": "World Capitals",
+  "title": "Little Cottage",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######R###V##",
-    "#P####O#CAIRO",
-    "#A####M###E##",
-    "#R###BERLIN##",
-    "#I########N##",
-    "OSLO###LIMA##",
-    "###TOKYO#####",
-    "###T###N#####",
-    "##MADRID#####",
-    "###W###O#####",
-    "###ATHENS####"
+    "CHIMNEY#",
+    "A#M#####",
+    "R#PHLOEM",
+    "T#E##A#E",
+    "O#LAUREL",
+    "N#L####O",
+    "##E####D",
+    "CEREMONY"
   ],
   "clues": {
     "across": {
-      "4": "Capital near the Pyramids of Giza",
-      "5": "German capital once divided by a wall",
-      "6": "Norway's capital",
-      "8": "Peru's capital",
-      "9": "Japan's capital",
-      "10": "Spain's capital",
-      "11": "Capital beneath the Acropolis"
+      "1": "Smoke goes up it",
+      "3": "Tissue that transports sugars through a plant",
+      "6": "Leafy crown awarded to victors in ancient Rome",
+      "7": "Formal event held for a special purpose"
     },
     "down": {
-      "1": "Eternal City",
-      "2": "Austrian capital famed for waltzes",
-      "3": "City of the Eiffel Tower",
-      "7": "Canada's capital",
-      "8": "Capital on the Thames"
+      "1": "Sturdy box used to store archival folders",
+      "2": "Rotating wheel that pushes fluid through pipes",
+      "4": "Long pole used to propel a boat by rowing",
+      "5": "Tune that can be hummed"
     }
   },
   "order": 42

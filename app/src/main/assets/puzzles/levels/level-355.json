@@ -1,0 +1,61 @@
+{
+  "id": "level-355",
+  "title": "Inca Empire",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "S#A#L#RECESSIVE",
+    "ANDEAN##O##N##N",
+    "C#H#K#D#RADICAL",
+    "STONEWORK##F##I",
+    "A#C###M####F##L",
+    "Y###QUECHUA##T#",
+    "HAAB###O##Y##A#",
+    "U##EMPIRE#LLAMA",
+    "A##T###I##L##B#",
+    "MACHUPICCHU#SOY",
+    "A#U##U#A#A#I##A",
+    "N#S##SUNSTONE#M",
+    "##CASH#C###T#J#",
+    "##O##E#H##MITA#",
+    "###TERRACE###R#"
+  ],
+  "clues": {
+    "across": {
+      "4": "Trait masked by a dominant version in a pair",
+      "8": "Relating to the mountain range of western South America",
+      "10": "Reactive species with an unpaired electron",
+      "11": "Carefully fitted blocks used in Inca walls",
+      "12": "Language family spoken across the Andes",
+      "16": "Maya year of 365 days",
+      "18": "Territory ruled by one central authority",
+      "19": "Pack animal native to the Andes",
+      "20": "Mountain settlement built by the Inca",
+      "24": "Plant source for some candle wax",
+      "27": "Sacred stone associated with solar worship",
+      "28": "Paper money and coins used to pay",
+      "30": "Labour system requiring service to the state",
+      "31": "Stepped field cut into a mountainside"
+    },
+    "down": {
+      "1": "Stone fortress above the Inca capital",
+      "2": "For this purpose only",
+      "3": "Body of fresh water",
+      "5": "Stopper pressed into a bottle's neck",
+      "6": "Draw air through the nose to smell",
+      "7": "Sumerian deity associated with wind and authority",
+      "9": "Rounded roof spanning a large interior",
+      "13": "Temple of the Sun in the city of Cusco",
+      "14": "Kinship community central to Andean society",
+      "15": "Roadside storehouse or resting place",
+      "17": "Second letter in the traditional Hebrew alphabet",
+      "21": "Andean city that served as the Inca capital",
+      "22": "Tug designed to move a vessel by pressing against it",
+      "23": "Headwear used in a famous magic trick",
+      "25": "Tuber grown in warm island gardens",
+      "26": "Sun deity honoured by the Inca",
+      "29": "Glass container for storing food"
+    }
+  },
+  "order": 355
+}

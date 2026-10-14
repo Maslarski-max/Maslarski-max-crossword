@@ -1,0 +1,60 @@
+{
+  "id": "level-346",
+  "title": "Courtroom Procedure",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "TRANSCRIPT####T",
+    "##R#U#O#R##REAR",
+    "D#RIB#O#O##I##O",
+    "E#A#P#TESTIMONY",
+    "POISON##E#N####",
+    "O#G#E#BACKDROP#",
+    "S#NONI##U#I#B#B",
+    "I#M#A#ART#C#J#A",
+    "TIE#####O#TOE#I",
+    "I#N#ANAGRAM#CEL",
+    "OATH##P###E#T#I",
+    "N##E##PLAINTIFF",
+    "#MRI##E#I#T#O#F",
+    "###REMAND###N##",
+    "######L#ANTS###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Written record of spoken court proceedings",
+      "7": "Raised section beneath the back of a shoe",
+      "9": "Curved frame supporting the sides of a ship",
+      "10": "Evidence given aloud by a witness",
+      "12": "Substance that can injure or kill when absorbed",
+      "13": "Scene placed behind people in a picture",
+      "15": "Tropical fruit used in food and traditional remedies",
+      "17": "Work made to express an idea or show beauty",
+      "18": "Tightened loop in a cord used to store a numerical value",
+      "19": "Front part of a foot",
+      "20": "Word made by rearranging letters",
+      "22": "Clear sheet used in traditional animation",
+      "23": "Serious promise to tell the truth",
+      "25": "Person who brings a civil case to court",
+      "27": "Imaging method using magnets and radio waves",
+      "28": "Return of a case to a lower court for another proceeding",
+      "29": "Tiny uninvited guests"
+    },
+    "down": {
+      "2": "Court session when a charge is read to an accused",
+      "3": "Court order requiring someone to appear",
+      "4": "Part that takes in water from the ground",
+      "5": "Lawyer who brings a criminal case for the state",
+      "6": "City besieged with a wooden horse",
+      "7": "Metal circle that holds the net",
+      "8": "Sworn interview recorded before a trial",
+      "11": "Formal charge brought against an accused person",
+      "14": "Formal challenge to a question or statement",
+      "16": "Officer who keeps order in a courtroom",
+      "21": "Request for a higher court to review a ruling",
+      "24": "Person next in line for a throne",
+      "26": "Ethiopian princess of Verdi"
+    }
+  },
+  "order": 346
+}

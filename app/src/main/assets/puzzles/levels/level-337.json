@@ -1,0 +1,59 @@
+{
+  "id": "level-337",
+  "title": "Radio Astronomy",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "SIGNAL#GLOBULE#",
+    "P#O###K#A#####A",
+    "E#L#CLASP#AGENT",
+    "C#D#O#L#S##A##O",
+    "TELESCOPE#FLY#M",
+    "R#E#M##U###L#E#",
+    "U#A#I#ELOQUENT#",
+    "M#F#C##S#U#R#Y#",
+    "###A##GALAXY#M#",
+    "##SNIP#R#S##LOG",
+    "C##T#####A###L#",
+    "OBSERVE##RADIO#",
+    "D##N#I##H##I#G#",
+    "E##N#C##E##SKY#",
+    "##WAVELENGTH###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Measurable transmission from a source",
+      "3": "Small round film filled with air",
+      "7": "Small fastener that closes a garment",
+      "8": "Secret operative",
+      "10": "Instrument for observing distant objects",
+      "12": "Move through the air",
+      "14": "Fluent and persuasive in speech",
+      "17": "Vast system of stars and gas",
+      "18": "Cut a small piece with scissors",
+      "19": "Trunk section brought in for processing",
+      "21": "Watch carefully to collect information",
+      "23": "Part of the electromagnetic spectrum",
+      "26": "Blue expanse above the land",
+      "27": "Distance between repeating parts of a wave"
+    },
+    "down": {
+      "1": "Range of wavelengths from a source",
+      "2": "Thin sheet of gold used for decoration",
+      "4": "Change in temperature across a distance",
+      "5": "Hawaiian name for taro",
+      "6": "Tiny building block of matter",
+      "7": "Relating to the universe",
+      "9": "Room where pictures are displayed",
+      "11": "Spinning neutron star sending regular radio pulses",
+      "13": "Study of the history of words",
+      "15": "Extremely bright distant galactic core",
+      "16": "Device that receives signals from space",
+      "20": "Programmer's instructions",
+      "22": "Clamping tool that holds a piece firmly",
+      "24": "Curved reflector that gathers radio waves",
+      "25": "Female chicken"
+    }
+  },
+  "order": 337
+}

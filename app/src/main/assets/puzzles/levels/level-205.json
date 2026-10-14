@@ -1,39 +1,46 @@
 {
   "id": "level-205",
-  "title": "Mountain Rescue",
+  "title": "Rain Gauge Garden",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####BEACON##",
-    "#######V#####",
-    "#######A##S##",
-    "#######L##H##",
-    "######HARNESS",
-    "#####A#N##L#T",
-    "#C#HELICOPTER",
-    "#R###T#H##E#E",
-    "CARABINER#R#T",
-    "#M###T######C",
-    "#P##SUMMIT##H",
-    "ROPE#D######E",
-    "#N##RESCUER#R"
+    "MILLIMETER#T",
+    "E##O#####A#O",
+    "A##R#S##LILY",
+    "SEEDLING#N##",
+    "U#D##L##F##D",
+    "ROOFTOP#O##O",
+    "E######ARROW",
+    "MARKING#E##N",
+    "E#U#N#A#CROP",
+    "N#M#C#U#A##O",
+    "T#M#H#G#S##U",
+    "#EYE#WEATHER"
   ],
   "clues": {
     "across": {
-      "1": "Device that helps rescuers locate someone",
-      "4": "Straps that secure a climber",
-      "8": "Aircraft used to reach remote slopes",
-      "9": "Metal clip with a spring gate",
-      "10": "Highest point of a mountain",
-      "11": "Strong cord used for climbing",
-      "12": "Person who brings someone out of danger"
+      "1": "Small metric unit used to measure rainfall",
+      "6": "Floating pad flower",
+      "7": "Young plant just beginning to grow",
+      "11": "Top surface of a house",
+      "12": "Mark with a point showing direction",
+      "13": "Line showing a measured amount",
+      "17": "Plants grown for food or materials",
+      "18": "You see with it",
+      "19": "Conditions outside at a certain time"
     },
     "down": {
-      "2": "Rapid flow of snow down a slope",
-      "3": "Protected place to wait out bad weather",
-      "5": "Frame used to carry an injured person",
-      "6": "Height above sea level",
-      "7": "Spiked frame attached to a boot on ice"
+      "1": "Amount found by using a marked scale",
+      "2": "Noble who controlled land and owed duties to a king",
+      "3": "Water falling from clouds",
+      "4": "Object a cat can bat or chase",
+      "5": "Tall farm building for storing grain",
+      "8": "Former name of the city now called Tokyo",
+      "9": "Report predicting future weather",
+      "10": "Heavy shower that can fill a measuring tube",
+      "14": "Game of sets and runs",
+      "15": "Unit marked on some weather instruments",
+      "16": "Tool that measures how much rain has fallen"
     }
   },
   "order": 205

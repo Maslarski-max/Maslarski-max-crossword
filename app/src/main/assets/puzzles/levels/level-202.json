@@ -1,38 +1,46 @@
 {
   "id": "level-202",
-  "title": "Space Telescope",
+  "title": "Fire Station Crew",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "####M##O##D##",
-    "####INFRARED#",
-    "#H##R##B##T##",
-    "#ULTRAVIOLET#",
-    "#B##O##T##C#C",
-    "OBSERVE###T#O",
-    "#L#####N##O#S",
-    "#E###SPECTRUM",
-    "#######B####O",
-    "####FOCUS###S",
-    "#######L#####",
-    "######GALAXY#"
+    "A#BUST####H#",
+    "E#A#N#SMOKE#",
+    "RADIO#P###L#",
+    "I#G#W#E#S#M#",
+    "ACE#S#E#T#E#",
+    "L###HYDRANT#",
+    "L#S#O###T##S",
+    "A#HEEL#SIREN",
+    "D#E##A##O##A",
+    "DALMATIAN##K",
+    "E#L##T#X###E",
+    "RESCUE#EXON#"
   ],
   "clues": {
     "across": {
-      "4": "Light with wavelengths longer than visible red",
-      "6": "Light with wavelengths shorter than visible violet",
-      "8": "Watch carefully to gather information",
-      "10": "Spread of light separated by wavelength",
-      "11": "Bring an image into sharp view",
-      "12": "Vast system of stars and gas"
+      "2": "Head-and-shoulders sculpture",
+      "5": "Grey cloud that rises from a fire",
+      "6": "Device used to send spoken messages",
+      "8": "Serve that lands untouched for a point",
+      "9": "Street fitting that supplies water to a fire hose",
+      "12": "Rear part of a shoe",
+      "14": "Loud warning sound heard on an emergency vehicle",
+      "15": "Spotted dog traditionally linked with firehouses",
+      "17": "Safe removal of someone from danger",
+      "18": "Gene segment retained in mature messenger RNA"
     },
     "down": {
-      "1": "Reflective surface that gathers light",
-      "2": "Curved path around a celestial body",
-      "3": "Device that senses incoming light",
-      "5": "Space telescope named for an astronomer",
-      "7": "The universe considered as a whole",
-      "9": "Cloud of gas and dust in space"
+      "1": "High-reaching ladder raised from an emergency truck",
+      "2": "Small emblem worn to show a worker's service",
+      "3": "Wide foot covering that helps a walker cross soft snow",
+      "4": "Hard head covering worn by a firefighter",
+      "5": "Rate at which a seismic wave travels",
+      "7": "Building where a fire crew waits for calls",
+      "10": "Things you collect on the beach",
+      "11": "Animal with no legs that slithers",
+      "13": "Coffee with lots of steamed milk",
+      "16": "Tool with a sharp metal head for chopping"
     }
   },
   "order": 202

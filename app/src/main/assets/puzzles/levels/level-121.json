@@ -1,39 +1,38 @@
 {
   "id": "level-121",
-  "title": "Medieval Village",
+  "title": "Handmade Soap",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######W######",
-    "##MILLER####S",
-    "######L###T#Q",
-    "#####PLOUGH#U",
-    "##########A#I",
-    "CHAPEL#JESTER",
-    "###E######C#E",
-    "#BLACKSMITH##",
-    "###S###A#I###",
-    "##TAVERN#T###",
-    "###N###O#H###",
-    "###T#MARKET##"
+    "G#P#L#USED",
+    "LOOFAH#E##",
+    "Y#S#B#GNSS",
+    "CUTTER#D#P",
+    "E#M#L#A##R",
+    "R#O###C##I",
+    "I#R#G#RAIN",
+    "NATSUME##K",
+    "##E#M####L",
+    "DOMESTIQUE"
   ],
   "clues": {
     "across": {
-      "2": "Grinds grain into flour",
-      "5": "Farm tool pulled by oxen",
-      "6": "Small place of worship",
-      "8": "Court entertainer with bells",
-      "9": "Worker at the anvil",
-      "12": "Inn serving ale",
-      "13": "Weekly trading square"
+      "4": "Previously owned rather than brand new",
+      "6": "Dry plant fiber used as a bath scrubber",
+      "7": "Satellite-based system for finding precise positions",
+      "9": "Tool used to divide a large soap loaf",
+      "12": "Water that can wash drawings away",
+      "13": "Small container for powdered tea",
+      "14": "Teammate who supports a race leader"
     },
     "down": {
-      "1": "Village water source",
-      "3": "Knight's attendant",
-      "4": "Straw roof covering",
-      "7": "Poor farm worker",
-      "10": "Lord's estate house",
-      "11": "Tenth given to the church"
+      "1": "Clear ingredient that helps soap hold moisture",
+      "2": "Occurring or performed after death",
+      "3": "Printed name attached to a finished bar",
+      "5": "Arrange for a letter to travel",
+      "8": "Tiny piece of candy scattered on a treat",
+      "10": "Unit used to measure an area of farmland",
+      "11": "Soft tissue around the teeth"
     }
   },
   "order": 121

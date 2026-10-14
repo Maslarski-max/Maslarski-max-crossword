@@ -1,0 +1,439 @@
+=== Backyard Sprinkler | EASY
+SPRINKLER | Garden device that sends water across a lawn
+LAWN | Short grass covering a yard
+ROTATOR | Part that turns as water flows through a sprinkler
+NOZZLE | Fitting that shapes a stream of water
+HOSE | Flexible tube that brings water from a tap
+TAP | Handle that turns water on or off
+WETPATCH | Damp spot left on the lawn by a sprinkler
+DRENCH | Soak a lawn with water from spinning jets
+SPECTRUM | Band of colours seen in fine water spray
+SUMMER | Warm season for playing outdoors
+BAREFOOT | Without shoes or socks
+DROPLET | Tiny bead of water sent through the air
+YARD | Outdoor space beside a home
+WATERING | Giving plants the moisture they need
+SQUIRT | Short burst of liquid from an opening
+ROTATE | Turn around a central point
+VAPOR | Tiny water drops floating in the air
+GRASS | Green blades growing across a lawn
+WATERPLAY | Games children enjoy with a hose or sprinkler
+SPRAYHEAD | Top part that releases water across the yard
+
+=== Basketball Hoop | EASY
+BASKETBALL | Orange ball bounced into a hoop
+BACKBOARD | Flat panel behind a basketball rim
+RIM | Metal circle that holds the net
+NET | Corded bag hanging beneath a hoop
+DRIBBLE | Bounce a ball repeatedly while moving
+PASS | Send the ball to a teammate
+SHOT | Throw aimed toward the basket
+SCORE | Points earned by a player or team
+COURT | Marked floor or outdoor area for a game
+TEAM | Group playing together
+JERSEY | Shirt worn by a player
+HIGHTOP | Basketball shoe that covers the ankle
+TIMEOUT | Short break requested during a game
+REFEREE | Official who enforces the rules
+FREETHROW | Shot taken after a foul
+REBOUND | Ball collected after a missed shot
+LAYUP | Close shot made near the basket
+FOUL | Rule-breaking contact during play
+BENCH | Seats used by players waiting to enter
+BUZZER | Loud signal ending a period
+
+=== Toy Garage | EASY
+GARAGE | Building where cars can be stored
+HOTWHEEL | Small die-cast toy car brand
+RACECAR | Fast vehicle built for competition
+ BAY | Marked space where a vehicle can be left
+SLOPE | Inclined track that sends a toy car upward
+TIRE | Rubber ring around a car wheel
+ROLLER | Round part that lets a toy car move
+ENGINE | Machine that powers a vehicle
+CARWASH | Place where a car is cleaned
+TOWTRUCK | Vehicle that pulls a broken car
+GASSTATION | Place where drivers buy fuel
+MECHANIC | Person who repairs vehicles
+TOOLBOX | Strong case for keeping repair tools
+LICENSE | Official card allowing someone to drive
+TRAFFIC | Vehicles moving along a road
+UNDERPASS | Covered passage beneath a road
+PITSTOP | Short break for service during a race
+SPEEDWAY | Track built for fast vehicle races
+PARKINGLOT | Paved area with spaces for cars
+CARLIFT | Platform that raises a vehicle for repairs
+
+=== Dollhouse Kitchen | EASY
+DOLLHOUSE | Small model home built for toys
+MINIATURE | Much smaller version of a real thing
+STOVE | Appliance used for heating food
+SINK | Basin with a tap for washing
+FRIDGE | Cold cabinet used to keep food fresh
+TEAKETTLE | Small pot for pretend tea
+SAUCEPAN | Deep pan used for cooking on a stove
+PANTRY | Cupboard for storing food
+APRON | Cloth worn to protect clothes while cooking
+DISH | Flat vessel used to serve pretend food
+JUG | Container for pouring a drink
+SPATULA | Flat tool used for turning food
+WHISK | Wire tool used to beat ingredients
+LADLE | Deep spoon for serving soup
+SALT | White seasoning sprinkled on food
+PEPPER | Dark spice ground over a meal
+DINNER | Evening meal shared at a table
+COUNTERTOP | Flat work surface beside a stove
+OVENMITT | Padded glove used to handle hot pans
+TEACUP | Small cup used for serving tea
+
+=== Birthday Cards | EASY
+GREETING | Warm words written to someone
+INVITATION | Written request to join a birthday party
+SLEEVE | Paper cover holding a greeting
+STICKER | Small adhesive decoration for a greeting
+WISH | Hope for someone's happiness
+BUNTING | Row of small flags strung up for a party
+CAKE | Sweet baked treat served at a party
+SPARKLER | Handheld stick that shines with bright sparks
+CONFETTI | Tiny coloured paper pieces tossed at a party
+STREAMER | Long paper decoration hung for a celebration
+CRAYON | Wax stick used to write or draw
+MARKER | Pen with a thick coloured tip
+SIGNATURE | Person's name written by hand
+MESSAGE | Words sent from one person to another
+SURPRISE | Something unexpected that delights someone
+FRIENDSHIP | Caring bond between two people
+PARTYHAT | Pointed paper hat worn at a celebration
+MAILBOX | Container where letters are collected
+THANKYOU | Polite words said after receiving a gift
+POSTCARD | Card mailed without a paper sleeve
+
+=== Pet Bowl | EASY
+FOODBOWL | Dish used for a pet's meal
+WATERBOWL | Dish kept full so an animal can drink
+KIBBLE | Small dry pieces of pet food
+DINNER | Evening meal given to a hungry pet
+FEEDING | Giving food to an animal
+LAP | Take liquid into the mouth with the tongue
+WHISKER | Stiff hair beside a cat's nose
+PUP | Young dog learning to eat solid food
+KITTEN | Young cat that needs small meals
+MORSEL | Small bite-sized piece of food
+TREATS | Small rewards given to an animal
+CRUNCH | Sharp sound made by biting dry food
+SLOBBER | Saliva that drips from an open mouth
+MAT | Flat pad placed under a feeding dish
+CERAMIC | Hard fired material used for some bowls
+STAINLESS | Rust-resistant steel used for a dish
+PORTION | Amount of food served at one time
+LEFTOVER | Food remaining after a meal
+SCOOP | Utensil used to measure dry food
+FEEDER | Container that holds food for an animal
+
+=== Mail Carrier Uniform | EASY
+UNIFORM | Matching clothes worn for a job
+CAP | Soft hat worn on the head
+BADGE | Small sign showing a worker's role
+SATCHEL | Strong shoulder bag for carrying letters
+POSTBAG | Sturdy bag used to carry mail
+PARCEL | Wrapped item sent through the post
+LETTER | Written message sent to someone
+ROUTE | Planned path through a neighbourhood
+MAILBOX | Container where post is delivered
+METER | Device that prints postage onto a parcel
+DESTINATION | Place where a letter or parcel should arrive
+DELIVERY | Bringing a letter or parcel to its destination
+POSTMARK | Ink mark showing when mail was sent
+TOGGLE | Small bar-shaped fastener on an outer garment
+JACKET | Warm outer garment for a chilly route
+POCKET | Small fabric pouch sewn into clothing
+GLOVE | Hand covering worn in cold weather
+OVERSHOE | Waterproof covering worn over a shoe
+RAINCOAT | Waterproof outer layer for wet weather
+SIGNAL | Call or sound used to stop a game
+
+=== Snow Shovel | EASY
+SHOVEL | Tool with a broad blade for moving snow
+FLURRY | Brief fall of windblown snow
+SNOWDRIFT | Deep bank formed by windblown snow
+SHAFT | Long part held while lifting a tool
+BLADE | Flat working end of a shovel
+GLOVES | Warm coverings for both hands
+SCARF | Long warm cloth worn around the neck
+BOOTS | Sturdy footwear for cold weather
+DRIVEWAY | Private road from a home to the street
+ICECRUST | Hard icy layer formed after a thaw
+SALT | Crystals spread to help melt icy patches
+ICEPATCH | Small area of frozen water on the ground
+SCRAPE | Remove a thin layer with a blade
+SNOWBANK | Raised pile of pushed-aside snow
+CHILLY | Uncomfortably cold
+MITTENS | Warm hand coverings with a shared finger space
+PATH | Narrow way cleared through a yard
+GRIP | Hold a tool firmly
+FROST | Thin icy layer formed in cold air
+SNOWPLOW | Vehicle fitted with a blade to clear roads
+
+=== Birdbath | EASY
+BIRDBATH | Shallow basin where birds can bathe
+BIRDWATCH | Activity of observing birds outdoors
+SPARROW | Small brown songbird often seen near homes
+ROBIN | Bird with a red-orange breast
+FINCH | Small songbird with a short beak
+BEAK | Hard bill used by a bird to eat
+FEATHER | Soft covering that grows on a bird
+WING | Body part that helps a bird fly
+PERCH | Narrow place where a bird can rest
+RIPPLE | Small wave spreading as a bird lands
+DRINK | Take liquid into the mouth
+PLUMAGE | Feathers covering a bird's body
+SONGBIRD | Small bird known for a musical call
+BATHING | Cleaning feathers by moving in shallow water
+YARD | Outdoor space where birds can be watched
+PEDESTAL | Support that lifts a basin above the ground
+BASIN | Wide shallow bowl that holds water
+REFILL | Add more water to an empty container
+SHALLOW | Not very deep
+SONGBATH | Shallow pool where a bird can clean its feathers
+
+=== Ice Cube Tray | EASY
+ICECUBE | Frozen block used to chill a drink
+TRAY | Flat container with separate sections
+FREEZER | Cold compartment that keeps food frozen
+LIQUID | Clear fluid that freezes when cold enough
+MOLD | Shape used to form a frozen treat
+SILICONE | Flexible material used for some kitchen trays
+POUR | Send liquid into an empty section
+CHILL | Make something colder
+FROZEN | Turned solid by cold
+LEMONADE | Sweet drink made with lemon juice
+CARAFE | Container used to pour a beverage
+GOBLET | Drinking vessel that can hold several ice cubes
+CRACK | Break ice with a short sharp sound
+CLINK | Light ringing sound made by ice in a glass
+MELT | Change from solid ice to liquid
+COOLER | Insulated box that keeps things cold
+REFILL | Fill a container again
+COVER | Top piece that keeps a tray closed
+POPSICLE | Frozen fruit treat on a stick
+ICEWATER | Cold drink with cubes floating inside
+
+=== Pinecone Craft | EASY
+PINECONE | Seed-bearing cone that falls from a pine tree
+CONIFER | Evergreen tree that grows cones
+NEEDLE | Thin pointed leaf of a pine
+GLUE | Sticky liquid used to join craft pieces
+ACORN | Nut produced by an oak tree
+TWINE | Strong thin string made from fibres
+YARN | Soft strand used to decorate a craft
+PAINT | Coloured liquid brushed onto a surface
+BRISTLES | Stiff fibres on a tool used to spread paint
+OWL | Night bird with large forward-facing eyes
+HEDGEHOG | Small mammal with a coat of short spines
+SQUIRREL | Tree-climbing animal that gathers nuts
+SEED | Part of a plant that can grow into a new one
+CRAFT | Activity making something by hand
+ORNAMENT | Decoration hung up for display
+WREATH | Ring-shaped decoration made from natural pieces
+GARLAND | Long decoration made from leaves or flowers
+SCENT | Smell released by a natural object
+EVERGREEN | Plant that keeps its leaves through winter
+DECORATION | Handmade item made from gathered outdoor pieces
+
+=== Firefly Jar | EASY
+FIREFLY | Beetle that glows on warm summer nights
+GLEAM | Soft steady light
+BLINK | Shine briefly and then go dark
+VESSEL | Glass container with a wide opening
+SCREWTOP | Twisted cover that closes a jar
+TWILIGHT | Time when daylight fades after sunset
+MEADOW | Open grassy field filled with wild plants
+SUMMER | Warm season when fireflies are active
+WING | Body part that lets an insect fly
+BEETLE | Insect with a hard pair of wing covers
+GLOWSTICK | Tube that shines after it is bent
+GARDEN | Outdoor place where plants grow
+NIGHT | Dark part of the day after sunset
+CAPTURE | Catch and hold something briefly
+RELEASE | Let something go free
+LIGHTNINGBUG | Another name for a glowing beetle
+MASONJAR | Glass container with a screw-on top
+AIRHOLE | Small opening that lets fresh air through
+GLOWWORM | Larva or beetle that gives off light
+GLOWBUG | Another common name for a firefly
+
+=== Sock Drawer | EASY
+SOCK | Soft covering worn on a foot
+PAIR | Two matching things
+CUFF | Top edge of a sock around the ankle
+TOE | Front part of a foot
+ANKLE | Joint above the foot
+STRIPE | Long narrow band of colour
+ARGYLE | Diamond pattern often knitted into socks
+WOOL | Warm fibre clipped from a sheep
+COTTON | Soft plant fibre used to make clothing
+LAUNDRY | Clothes waiting to be washed
+DRAWER | Sliding box built into a piece of furniture
+ROLL | Shape a sock into a compact ball
+MISMATCH | Uneven pair that does not look alike
+HOLE | Opening where fabric has worn away
+MEND | Repair a tear with needle and thread
+TRAINER | Soft athletic shoe
+SLIPPER | Soft shoe worn indoors
+SEAMLINE | Stitched line across the toes of a sock
+STOCKING | Long close-fitting leg covering
+KNEEHIGH | Long sock that reaches the knee
+
+=== Picnic Quilt | EASY
+QUILT | Warm covering made from stitched fabric layers
+PLAID | Pattern of crossing coloured lines
+PATCH | Piece of cloth sewn over another piece
+SEWING | Joining fabric with stitches
+BASKET | Woven container for carrying food
+SANDWICH | Two pieces of bread with a filling
+LEMONADE | Sweet drink made with lemon juice
+THERMOS | Insulated container that keeps a drink warm
+WIPES | Cloth or paper squares for cleaning hands
+TREECOVER | Overhead leaves that shield a picnic spot
+MEADOW | Open grassy field for a picnic
+TASSEL | Decorative bundle of loose threads
+FRINGE | Loose threads along a fabric edge
+WOVEN | Made by crossing strands over and under
+CHECKERBOARD | Pattern of alternating squares
+GROUNDSHEET | Large covering spread on the ground
+PICNICKER | Person eating a meal outdoors
+SPREAD | Lay a covering flat on the ground
+HAMMOCK | Fabric sling used for resting outdoors
+FOLDABLE | Able to be bent into a smaller shape
+
+=== Balloon Animal | EASY
+RUBBER | Stretchy material used for many party inflatables
+INFLATOR | Tool that pushes air into a balloon
+TWIST | Turn one section around another
+CLOSURE | Tight fastening around a balloon's neck
+PUP | Young dog with a wagging tail
+POODLE | Curly-coated dog sometimes shaped from balloons
+SWORD | Long toy blade made from a narrow balloon
+FLOWER | Colourful bloom made from twisting balloon loops
+STEM | Narrow part that supports a flower head
+PETAL | Coloured part of a flower
+HEART | Shape often made for a balloon gift
+TAIL | Long thin part behind an animal
+EAR | Part on the side of a head used for hearing
+SNOUT | Part that sticks out from an animal's face
+FACE | Front part of a person's head
+SHAPE | Outer form of an object
+PARTY | Celebration with games or guests
+DECORATE | Add colourful details to a room or object
+ELASTIC | Stretchy material used to make many balloons
+ARTISTRY | Skill used to shape an inflated tube into an animal
+
+=== Porch Swing | EASY
+PORCH | Covered space at the entrance to a home
+SWING | Seat that moves back and forth
+CHAIN | Linked metal loops that hold a seat
+ROPE | Strong cord used to suspend something
+BENCH | Long seat for more than one person
+CUSHION | Soft padded support for sitting
+PILLOW | Soft cushion for resting a head
+AWNING | Fabric roof that provides shade
+BREEZE | Gentle moving air
+ROCK | Move gently back and forth
+EVENING | Time between afternoon and night
+SUNSET | Moment when the sun drops below the horizon
+COURTYARD | Outdoor area beside a home
+POST | Upright support set into the ground
+HAMMOCK | Fabric sling suspended between supports
+RELAX | Rest without doing much
+CREAK | Low squeaky sound made by old wood
+MESH | Fine netting that keeps insects outside
+ENTRY | Way into a home
+SITTING | Resting with weight on a seat
+
+=== Marshmallow Roast | EASY
+MARSHMALLOW | Soft sweet that puffs when warmed
+CAMPFIRE | Outdoor fire used for warmth or cooking
+SKEWER | Long thin stick used to hold food over heat
+TOAST | Brown food by holding it near a fire
+STICK | Thin piece of wood from a tree
+GRAHAM | Sweet cracker often paired with chocolate
+CRACKER | Crisp flat baked snack
+CHOCOLATE | Sweet food made from cacao beans
+SANDWICH | Two pieces of bread with a filling
+SMORE | Campfire treat with chocolate between crackers
+FLAME | Bright hot part of a fire
+EMBER | Small glowing piece left in a fire
+ASH | Grey powder left after wood burns
+KINDLING | Small dry sticks used to start a fire
+SMOKE | Cloud rising from something burning
+ROAST | Cook food with dry heat
+FIREPIT | Shallow ring where an outdoor fire is built
+SPARK | Tiny bright particle thrown from a flame
+GOLDEN | Warm yellow-brown colour of toasted sugar
+GOOEY | Clinging to fingers like melted candy
+
+=== Playground Sandpit | EASY
+SANDPIT | Shallow box filled with play sand
+PAIL | Open container used for carrying sand
+SPADE | Small digging tool for a child
+FORM | Outline given to a heap of damp sand
+TURRET | Small tower built on a sandcastle
+TOWER | Tall narrow part of a building
+CAVE | Hollow space dug into the sand
+SANDRAKE | Child's hand tool for combing a flat sand surface
+SIEVE | Mesh bowl used to sift sand
+SANDPIE | Pretend treat packed from damp sand
+SHELL | Hard covering left by a sea animal
+MOAT | Water-filled trench around a castle
+BRIDGE | Raised crossing over a ditch
+SANDTRUCK | Toy vehicle used to carry sand
+DIGGER | Machine or toy used to scoop earth
+SANDCASTLE | Small model fort built from damp sand
+PLAYMATE | Friend who joins a child in a game
+SUNHAT | Brimmed hat worn on a sunny day
+SHELTER | Covered place away from direct sunlight
+SANDMOLD | Shape used to press sand into a figure
+
+=== Kitchen Apron | EASY
+APRON | Cloth worn over clothes while cooking
+POCKET | Small pouch sewn onto a garment
+TIE | Strip used to fasten a garment
+WAIST | Narrow middle part of the body
+SPILL | Small amount of liquid dropped on fabric
+STAIN | Mark left by a spill
+CLASP | Small fastener that closes a garment
+STRAP | Narrow band used to hold something in place
+FABRIC | Woven material used to make clothing
+EDGE | Folded part stitched at the bottom
+CHEF | Person who cooks professionally
+OVEN | Heated appliance used for baking
+PAN | Shallow metal vessel used for cooking
+MITTEN | Hand covering with one space for the thumb
+POT | Deep vessel used for cooking
+SPATULA | Flat tool used to turn food
+FLOUR | Powder made by grinding grain
+SWEETENER | Ingredient that gives food a sweet taste
+WASHABLE | Able to be cleaned in water
+KITCHEN | Room where food is prepared
+
+=== Toy Doctor Kit | EASY
+STETHOSCOPE | Tool with two earpieces for listening to a heartbeat
+BANDAGE | Strip wrapped around a small cut
+PLASTER | Adhesive strip covering a small scrape
+GAUZE | Soft open-weave cloth used to cover a wound
+MEDICALTAPE | Adhesive strip used to secure a dressing
+COTTON | Soft fibre often used for a small swab
+SWAB | Small wad of soft material used to clean a spot
+SYRINGE | Tube and plunger used to measure liquid medicine
+PILLBOX | Small container that keeps tablets sorted
+MEDICINE | Remedy given to help someone feel better
+DROPPER | Small tube that releases liquid a drop at a time
+CLINIC | Small place where a nurse or doctor sees people
+DOCTOR | Health worker who examines an unwell person
+PATIENT | Person receiving care in a clinic
+CHECKUP | Visit that checks whether someone is healthy
+PULSE | Beat felt at the wrist
+FEVER | Higher-than-usual body temperature
+VIAL | Small glass container for liquid medicine
+LANCET | Tiny sharp tool used to take a small blood sample
+DOSAGE | Amount of medicine given at one time

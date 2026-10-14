@@ -1,0 +1,60 @@
+{
+  "id": "level-341",
+  "title": "French Revolution",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "S#C##M##K##WOMB",
+    "ARISTOCRAT####I",
+    "N#T##N##D##DUSK",
+    "S#I#BASTILLE##E",
+    "C#Z##R#E###L#R#",
+    "OVEN#CONSULATE#",
+    "U#N##H#D#R#Y#P#",
+    "L###LYRE#U##CUB",
+    "O##D###RAKE##B#",
+    "TERROR##X##D#L#",
+    "T##U#E##E#PARIS",
+    "ESTATES##U#N#C#",
+    "##U##L###SITE##",
+    "RENT#####E#O###",
+    "##E#GIRONDINS##"
+  ],
+  "clues": {
+    "across": {
+      "5": "Organ where a mammal's young develops before birth",
+      "7": "Member of France's hereditary upper class",
+      "8": "Time when daylight is fading",
+      "9": "Paris fortress stormed on July 14, 1789",
+      "12": "Where a cake bakes",
+      "13": "Government established by Napoleon after the coup",
+      "15": "Stringed instrument shown at ancient feasts",
+      "16": "Young bear, lion, or fox",
+      "18": "Garden tool with a row of teeth",
+      "20": "Violent political period of 1793 and 1794",
+      "23": "French capital at the centre of the uprising",
+      "24": "Three social orders of pre-revolutionary France",
+      "27": "Part of an enzyme where the reaction takes place",
+      "28": "Payment made for the use of a home or land",
+      "29": "Revolutionary faction associated with provincial deputies"
+    },
+    "down": {
+      "1": "Parisian supporter of the radical revolution",
+      "2": "Person with rights and duties in a republic",
+      "3": "Government led by a king or queen",
+      "4": "Judge who administered law in an Ottoman district",
+      "6": "Two wheels and pedals",
+      "8": "Wait caused by a late or interrupted service",
+      "10": "Car carrying fuel and water behind an engine",
+      "11": "State without a hereditary monarch",
+      "14": "Sumerian city associated with early urban life",
+      "17": "Large double-hulled sailing canoe of Fiji",
+      "19": "Tool with a sharp metal head for chopping",
+      "21": "Spool used to wind a long hose",
+      "22": "Revolutionary speaker executed before Robespierre",
+      "25": "Short sequence of musical notes",
+      "26": "Previously owned rather than brand new"
+    }
+  },
+  "order": 341
+}

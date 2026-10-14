@@ -1,43 +1,34 @@
 {
   "id": "level-085",
-  "title": "Art History",
+  "title": "At the Tailor",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "####C##F#######",
-    "####A##R#######",
-    "##VERMEER#M####",
-    "####A##S##A####",
-    "####V##C##T####",
-    "#PICASSO##I####",
-    "#A##G#####S####",
-    "#L##G#####S####",
-    "RENAISSANCE#M##",
-    "#T##O#U##U##O##",
-    "#T####REMBRANDT",
-    "#E####R##I##E##",
-    "###EASEL#SKETCH",
-    "######A##M#####",
-    "####DALI#######"
+    "SEW###E##",
+    "L##XERXES",
+    "E#####I##",
+    "ESTIMATE#",
+    "V####P##A",
+    "EUTROPHIC",
+    "#R#E#L##R",
+    "#U#A#E##E",
+    "SKIPASS##"
   ],
   "clues": {
     "across": {
-      "3": "Painter of Girl with a Pearl Earring",
-      "5": "Co-founder of Cubism",
-      "6": "Rebirth of art in Europe",
-      "10": "Dutch master of The Night Watch",
-      "11": "Painter's stand",
-      "12": "Rough drawing",
-      "13": "Surrealist with melting clocks"
+      "1": "Join cloth with stitches",
+      "3": "Persian king who invaded Greece in the fifth century BCE",
+      "4": "Auction house's suggested value before a sale",
+      "7": "Rich in nutrients, often with abundant plant growth",
+      "10": "Ticket allowing access to ski lifts"
     },
     "down": {
-      "1": "Master of dramatic shadows",
-      "2": "Painting on wet plaster",
-      "4": "Fauvist famous for paper cut-outs",
-      "5": "Board for mixing paint",
-      "7": "Dreamlike, as some art",
-      "8": "Style of fractured forms",
-      "9": "Painter of water lilies"
+      "1": "Part of a shirt covering an arm",
+      "2": "Official passage out of a country",
+      "5": "Crisp fruit sold in a group",
+      "6": "Unit used to measure an area of farmland",
+      "8": "Sumerian city associated with early urban life",
+      "9": "Gather a crop that has finished growing"
     }
   },
   "order": 85

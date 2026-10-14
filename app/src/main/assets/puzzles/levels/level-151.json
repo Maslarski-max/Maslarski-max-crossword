@@ -1,42 +1,41 @@
 {
   "id": "level-151",
-  "title": "Legal Latin",
+  "title": "Breakfast Cereal",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "###M###########",
-    "###E###########",
-    "###N####D######",
-    "###SUBPOENA####",
-    "###R####F######",
-    "###E####A######",
-    "##HABEASCORPUS#",
-    "C###O#F#T##R#T#",
-    "A###N#F#O##O#A#",
-    "VERBATIM###B#T#",
-    "E###F#D##QUORUM",
-    "ALIBI#A####N#S#",
-    "T###D#V####O#Q#",
-    "####E#I######U#",
-    "######T###ADHOC"
+    "B#D#M#####W",
+    "RAISIN##T#A",
+    "E#S#L#K#H#I",
+    "A#HEKTE#A#T",
+    "K#####Y#N#I",
+    "FLAKES#SKIN",
+    "A#R#M#H#Y#G",
+    "SCOOP#U#O#S",
+    "T#M#ICECUBE",
+    "##A#R#####A",
+    "####EVEREST"
   ],
   "clues": {
     "across": {
-      "3": "Order to appear in court",
-      "4": "Writ to produce a prisoner",
-      "10": "Word for word",
-      "11": "Minimum number for a vote",
-      "12": "Proof you were elsewhere",
-      "13": "For this purpose only"
+      "5": "Dried grape added to some breakfast bowls",
+      "8": "Electrum coin valued at one sixth of a stater",
+      "9": "Thin crisp pieces of grain in a bowl",
+      "12": "Outer body covering that blocks many germs",
+      "14": "Utensil that lifts cereal into a dish",
+      "15": "Frozen block used to chill a drink",
+      "16": "Highest mountain on Earth"
     },
     "down": {
-      "1": "Guilty mind",
-      "2": "In fact, if not by law",
-      "5": "In good faith",
-      "6": "Sworn written statement",
-      "7": "Done for free",
-      "8": "Existing state of affairs",
-      "9": "Warning or proviso"
+      "1": "First meal of the day",
+      "2": "Round vessel used to hold cereal",
+      "3": "White drink poured over breakfast",
+      "4": "Long seat for waiting riders",
+      "6": "Polite words said after receiving a gift",
+      "7": "Value that unlocks a code",
+      "10": "Pleasant smell drifting through a room",
+      "11": "Territory ruled by one central authority",
+      "13": "Property of visible light that varies with wavelength"
     }
   },
   "order": 151

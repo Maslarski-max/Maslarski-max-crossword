@@ -1,0 +1,439 @@
+=== Public Library Archive | MEDIUM
+ARCHIVE | Collection of records kept for long-term reference
+CATALOG | Organized list used to locate books or documents
+STORAGEBIN | Container that protects stored papers
+FOLDER | Paper cover that keeps related sheets together
+MANUSCRIPT | Document written by hand or prepared before printing
+LEDGER | Bound book used to record accounts or events
+REGISTER | Official list of names, dates, or items
+DONOR | Person or group that gives material to a collection
+ACCESSION | Item formally added to a collection
+DEED | Legal paper recording ownership or a transfer
+LETTER | Written message sent from one person to another
+REPOSITORY | Group of related documents held together
+FILING | Arranging papers in a system for later use
+PRESERVATION | Work that prevents a record from being damaged
+MICROFILM | Reduced photographic copy stored on a narrow roll
+READINGROOM | Quiet space where researchers consult original records
+CLIMATE | Temperature and moisture conditions in a storage area
+ACIDFREE | Describes paper made to resist deterioration
+CARTON | Sturdy box used to store archival folders
+INDEX | Guide that points to names or subjects in a record group
+
+=== Television News Studio | MEDIUM
+ANCHOR | Presenter who introduces and links news reports
+REPORTER | Journalist who gathers and presents information
+TELEPROMPTER | Screen that scrolls a presenter's prepared words
+CAMERAPERSON | Worker who frames and records a television report
+MICROPHONE | Device that turns a voice into an electrical signal
+BULLETIN | Short broadcast of current news
+BROADCAST | Send a program to viewers or listeners
+CONTROLROOM | Space where a live program is directed
+TELECAST | Program transmitted for television viewing
+SCRIPT | Written words prepared for a news segment
+EDITOR | Person who selects and arranges recorded material
+PACKAGE | Edited report containing narration, pictures, and sound
+LIVE | Describes a program transmitted as events happen
+SATELLITE | Orbital device used to relay a television signal
+SWITCHER | Console that selects which camera feed goes on air
+LOWERTHIRD | Graphic near the bottom of the picture identifying a person
+BROLL | Extra footage placed over a reporter's narration
+NEWSWIRE | Service that sends reports to news organizations
+STUDIO | Room designed for recording or broadcasting a program
+BREAKING | Describes a major story being reported as it develops
+
+=== Dental Clinic Tools | MEDIUM
+MOUTHMIRROR | Small reflective instrument used to view teeth
+PROBE | Fine instrument used to examine a tooth surface
+SCALER | Tool used to remove hardened deposits from teeth
+HANDPIECE | Powered hand tool used to prepare a tooth for filling
+SUCTION | Device that removes liquid from the mouth
+EJECTOR | Small tube that draws saliva away
+BIB | Protective cloth placed over a patient's clothing
+NITRILEGLOVE | Barrier worn on a hand during an examination
+MASK | Face covering worn to reduce exposure to droplets
+GOGGLES | Protective eyewear used during a procedure
+TRAY | Flat holder for arranging small instruments
+FORCEPS | Pliers-like tool used to grasp or remove a tooth
+ELEVATOR | Instrument used to loosen a tooth before removal
+BUR | Small rotating cutting tip fitted into a dental drill
+MATRIX | Thin band that shapes material around a tooth
+SPACER | Small piece used to hold a dental matrix in place
+IMPRESSION | Negative mold of teeth made with dental material
+XRAY | Image used to see structures beneath the gums
+CURING | Hardening filling material with a special light
+POLISHER | Rotating tool used to smooth a tooth surface
+
+=== Plastic Injection Factory | MEDIUM
+PELLET | Small plastic piece fed into a molding machine
+HOPPER | Funnel-shaped container that supplies pellets
+SCREW | Rotating shaft that melts and pushes plastic forward
+HEATEDTUBE | Heated tube surrounding the machine's screw
+HOTTIP | Heated tip that directs plastic into a mold
+CLAMP | Mechanism that holds two mold halves together
+CAVITY | Hollow space that gives a molded part its shape
+CORE | Inner form that creates a hole or recess in a part
+EJECTOR | Pin that pushes a finished part from its mold
+FEEDPORT | Opening through which melted plastic enters a cavity
+RUNNER | Channel carrying melted plastic toward a mold cavity
+FLASHING | Thin unwanted plastic along a mold seam
+COOLING | Removal of heat so a molded part can harden
+CYCLE | Complete sequence from closing the mold to opening it
+RESIN | Plastic material before it is shaped into a product
+POLYMER | Large molecule made of repeating chemical units
+DIE | Shaped tool that gives heated plastic its form
+PRESSURE | Force that drives softened plastic into the mold
+TONNAGE | Clamping force rating of an injection machine
+TOLERANCE | Allowed difference from a part's specified size
+
+=== Tugboat Operations | MEDIUM
+TUGBOAT | Powerful small vessel that moves larger ships
+TOWLINE | Heavy rope connecting a tug to the vessel it moves
+HAWSER | Thick rope used for towing or mooring
+BITT | Strong post used to secure a line
+WINCH | Powered drum that pulls in a cable or rope
+PILOT | Navigator who directs a ship through local waters
+PUSHER | Tug designed to move a vessel by pressing against it
+FENDER | Cushion that protects boats from impact
+THRUSTER | Device that pushes a vessel sideways
+WHEELHOUSE | Enclosed area from which a boat is controlled
+DECKHAND | Crew member who works on a vessel's deck
+BERTHING | Securing a boat to a fixed point
+WAKE | Waves left behind by a moving vessel
+MANEUVER | Planned movement used to position a boat
+CHOCK | Fitting that guides a rope through a deck edge
+ESCORT | Accompany a vessel to help it travel safely
+TANDEM | Arrangement with two vessels working together
+HITCH | Connection made by tying or fastening a line
+THROTTLE | Control that changes engine power
+HARBOUR | Sheltered water where vessels can remain safely
+
+=== Outdoor Rock Climbing | MEDIUM
+SITZ | Waist-and-leg sling worn to tie in to a rope
+SNAPLINK | Metal clip with a spring-loaded gate
+BELAY | Control a climber's rope to limit a fall
+ANCHOR | Secure point used to attach climbing equipment
+QUICKDRAW | Two clips joined by a short sewn sling
+CHALKBAG | Small pouch holding drying powder for the hands
+CRAG | Steep outdoor rock face used for climbing
+ROPELENGTH | Section of a route climbed between belays
+ASCENT | Chosen line that climbers follow up a rock face
+HOLD | Hand or foot feature used to climb
+CRIMP | Small grip held mainly with the fingertips
+JUG | Large handhold that is easy to grasp
+SLAB | Broad rock face that leans away from vertical
+OVERHANG | Rock section that projects outward above the climber
+RAPPEL | Controlled descent on a rope
+LOCKINGGATE | Moving bar that closes a climbing clip
+TOPROPE | Rope arrangement anchored above the climber
+LEADCLIMB | Style in which the climber places protection while ascending
+APPROACH | Walk from a trail to the base of a route
+DESCENT | Return from the climb to the ground
+
+=== School Debate Tournament | MEDIUM
+MOTION | Statement that teams are asked to support or oppose
+PROPOSITION | Side arguing in favour of the motion
+OPPOSITION | Side arguing against the motion
+AFFIRMATIVE | Team taking the position that a claim is true
+NEGATIVE | Team arguing that a claim should be rejected
+REBUTTAL | Reply that challenges an opposing point
+ARGUMENT | Reason offered in support of a position
+EVIDENCE | Facts or examples used to support an argument
+WARRANT | Explanation linking evidence to a claim
+CLAIM | Point a speaker asks the audience to accept
+REFUTATION | Detailed answer showing why an argument fails
+JUDGE | Official who evaluates the speakers' performance
+DECISIONFORM | Form on which a judge records a decision
+SPEAKER | Contestant who presents a case aloud
+TIMEKEEPER | Official who tracks the length of each speech
+CROSSQUERY | Short questioning period between opposing speakers
+CASE | Organized set of arguments for one side
+IMPACT | Consequence a debater says follows from a claim
+TOPIC | Subject assigned for the round
+CLOSING | Final speech summarizing a team's position
+
+=== Storm Drain Network | MEDIUM
+INLET | Opening that lets street water enter a drain
+GRATE | Metal cover with slots for water to pass through
+CATCHBASIN | Chamber that collects runoff and trapped debris
+CULVERT | Covered passage carrying water beneath a road
+MANHOLE | Access opening used to inspect an underground pipe
+RUNOFF | Rainwater flowing across land or pavement
+OUTFALL | Place where a drain discharges into open water
+SUMP | Low point where water and sediment collect
+PARTICULATE | Particles that settle out of moving water
+DEBRIS | Loose material carried into a drain
+GRIT | Small hard particles washed off streets
+SILT | Fine soil carried by water
+FLOWRATE | Maximum flow a pipe or channel can carry
+GRADIENT | Downward grade that helps water move through a pipe
+BACKFLOW | Reverse movement of water in a drain
+TRASHRACK | Barrier that catches rubbish before it enters a pipe
+PIPELINE | Connected pipes that carry water underground
+INSPECTION | Examination of a drain for damage or blockage
+BLOCKAGE | Material that prevents water from flowing freely
+INFLOW | Water entering a drain or channel
+
+=== Urban Bike Share | MEDIUM
+RACK | Fixed stand where a shared bicycle is locked
+UNLOCK | Release a bicycle from its docking point
+MEMBERSHIP | Registration that allows a rider to borrow a bicycle
+BIKEHUB | Place where shared bicycles can be collected or returned
+FLEET | All bicycles operated by one service
+CHECKOUT | Process of taking a bicycle for a ride
+RETURN | Bring a borrowed bicycle back to a station
+APP | Phone program used to locate or unlock a bicycle
+QRCODE | Square pattern scanned to identify a bicycle
+HELMET | Protective shell worn by a bicycle rider
+SADDLE | Seat mounted above the bicycle frame
+FOOTLEVER | Foot lever that drives the bicycle forward
+DRIVECHAIN | Linked metal loop that carries power to the rear wheel
+GEAR | Part that changes the effort needed to pedal
+CALIPER | Device used to slow or stop a bicycle
+HEADLAMP | Bright lamp carried on a bicycle
+DOCKLESS | Describes a bicycle that can be parked without a fixed stand
+REBALANCE | Move bicycles between stations to meet demand
+SURCHARGE | Extra fee added to a rental
+TRIPTIME | Duration of one bicycle rental
+
+=== Greenhouse Seed Trial | MEDIUM
+TRIAL | Planned test comparing plant varieties or growing methods
+VARIETY | Particular cultivated type of a plant
+GERMINATE | Begin growing from a seed
+EMERGENCE | Appearance of a seedling above the growing medium
+SEEDLING | Young plant recently grown from a seed
+REPLICATE | One repeated plot used to strengthen a test
+CONTROL | Standard treatment used for comparison
+PLOT | Small measured area assigned a growing treatment
+RANDOMIZE | Assign treatments by chance to reduce bias
+ROWCODE | Marker identifying a test plant or row
+GERMINATION | Process by which a seed begins to grow
+VIABILITY | Ability of a seed to grow under suitable conditions
+VIGOUR | Strength and health of a young plant
+THINNING | Removal of extra seedlings to give others more room
+TRANSPLANT | Move a young plant into a new growing place
+ROOTLET | Very small early root
+COTYLEDON | First leaf formed inside a seed
+HYPOCOTYL | Young stem section below a seed's first leaves
+TRUELEAF | Leaf that appears after the seed leaves
+GERMPLASM | Living plant material kept for breeding or study
+
+=== Forest Fire Lookout | MEDIUM
+LOOKOUT | Raised place used to watch a wide area of forest
+SMOKECOLUMN | Tall plume that can signal a distant fire
+FIRETOWER | Structure built above the trees for observation
+SIGHTLINE | Line from the lookout toward a spotted fire
+COMPASSANGLE | Compass angle used to report a fire's direction
+RANGEFINDER | Instrument that estimates the distance to a target
+TELEPHONE | Device once used to report a fire from a lookout
+RADIO | Wireless set used to contact a response crew
+VISIBILITY | How far a person can see through the air
+HAZE | Fine particles that make distant objects look unclear
+TREETOP | Upper layer of leaves and branches
+FUELS | Dry plants and wood that can burn
+DRYNESS | Lack of moisture in grass, leaves, or soil
+WINDWARD | Side facing the incoming wind
+LEEWARD | Sheltered side away from the wind
+PLUME | Cloud of fine particles produced by burning
+REPORT | Message describing a fire's location and size
+ALERT | Warning sent to people or crews
+INCLINE | Inclined land that can affect fire movement
+FIREBREAK | Cleared strip intended to slow a spreading fire
+
+=== Film Festival Jury | MEDIUM
+JURY | Group appointed to evaluate films in a competition
+SCREENING | Showing of a film to an audience
+FEATURE | Full-length film presented in the festival
+SHORTFILM | Movie that lasts only a few minutes
+DOCUMENTARY | Film presenting factual subjects or events
+FICTION | Story presented as invented rather than factual
+DIRECTOR | Person guiding the creative making of a film
+SCREENPLAY | Written plan for a film's dialogue and action
+CAMERAWORK | Art of composing and recording moving images
+SOUNDTRACK | Recorded audio accompanying a film
+SUBTITLE | Translated text displayed at the bottom of a picture
+PREMIERE | First public showing of a film
+AWARD | Prize given for an achievement
+FINALIST | Film selected for the last round of judging
+SELECTION | Smaller group chosen from a larger set of entries
+VOTINGSLIP | Form used by jurors to record their choices
+CRITERIA | Standards used to compare the entries
+DELIBERATE | Discuss carefully before making a decision
+WINNER | Entry selected for the top prize
+VIEWERS | People who watch the film
+
+=== Cider Fermentation | MEDIUM
+POMACE | Crushed apple pulp left after pressing
+MUST | Fresh juice before fermentation is complete
+YEAST | Microorganism that converts sugar into alcohol
+FERMENT | Process that turns fruit sugar into alcohol
+TANNIN | Bitter plant compound that adds structure to cider
+ACIDITY | Tart quality contributed by acids in the juice
+DENSITY | Measure used to estimate sugar in the liquid
+HYDROMETER | Floating instrument that measures liquid density
+RACKING | Siphoning cider away from settled material
+LEES | Spent yeast and other solids settled at the bottom of a vessel
+MALIC | Apple acid that contributes to cider's tart flavour
+SULFITE | Compound used to limit unwanted microbial growth
+AIRLOCK | One-way fitting that lets fermentation gas escape
+CARBOY | Narrow-necked vessel used to ferment a small batch
+BARREL | Wooden vessel used to store a batch of cider
+BOTTLING | Filling and sealing the finished drink in containers
+CARBONATE | Add dissolved gas to make a drink fizzy
+TART | Sharp or sour in flavour
+SWEETNESS | Amount of sugar detected in a drink
+BLEND | Mix different juices or batches together
+
+=== Snowboard Competition | MEDIUM
+SNOWBOARD | Single board used to descend a snowy slope
+HALFPIPE | U-shaped course with high walls on both sides
+SLOPESTYLE | Event with rails and jumps arranged along a course
+BIGAIR | Contest focused on one large jump
+RAIL | Narrow metal feature ridden during a trick
+KICKER | Built snow ramp used to launch a jump
+TOUCHDOWN | Sloped area where a rider comes down after a jump
+TAKEOFF | Point where a rider leaves the ground
+CARVE | Turn by cutting an edge into the snow
+STANCE | Position of a rider's feet on the board
+REGULAR | Stance with the left foot forward
+GOOFY | Stance with the right foot forward
+GRAB | Hold an edge of the board during a jump
+REVOLUTION | Turning movement performed in the air
+AXIALTURN | Complete turn around an axis
+FLIP | Rotation that carries the rider head over heels
+JUDGES | Officials who score a competitive run
+RUN | One timed or judged trip down the course
+COURSEFLAG | Marker riders pass during a race
+GOGGLE | Protective eyewear worn on a snowy slope
+
+=== Aquarium Coral Exhibit | MEDIUM
+CORAL | Marine animal that builds a hard reef structure
+POLYP | Small soft-bodied animal that forms part of a coral colony
+REEF | Structure built over time by coral skeletons
+OFFCUT | Piece cut from a colony for growing elsewhere
+FRAGMENT | Piece separated from a larger coral structure
+BLEACHING | Loss of colour when stressed coral expels its algae
+SYMBIOSIS | Close association between different kinds of organisms
+ALGA | Simple photosynthetic organism living in water
+ANEMONE | Stinging marine animal that can host a clownfish
+CLOWNFISH | Orange reef fish that can live among anemone tentacles
+LIVELOCK | Porous rock from a marine aquarium
+SALINITY | Amount of dissolved salt in water
+ALKALINITY | Ability of water to resist changes in acidity
+CALCIUM | Mineral used by corals to build hard skeletons
+PLEXIGLASS | Tough clear plastic used for some display panels
+CIRCULATION | Directed movement of water through a tank
+FLOW | Movement of water around the exhibit
+LIGHTING | Illumination supplied to support coral growth
+ACCLIMATE | Allow an animal or coral to adjust to new conditions
+QUARANTINE | Separate area used to observe new arrivals
+
+=== Furniture Restoration Shop | MEDIUM
+VENEER | Thin layer of fine wood attached to a surface
+MARQUETRY | Picture made by fitting small pieces of wood together
+INLAY | Material set into a surface for decoration
+DOVETAIL | Interlocking joint often used in a drawer
+TENON | Projecting piece fitted into a matching opening
+MORTISE | Recess cut to receive a tenon
+SHELLAC | Resin finish traditionally used on wood furniture
+VARNISH | Clear coating that protects a finished surface
+STRIPPER | Chemical used to remove an old finish
+SANDING | Smoothing wood with an abrasive
+SCRAPER | Flat-edged tool used to remove a thin layer
+CLAMP | Device that holds pieces tightly together
+GLUE | Adhesive used to join wooden parts
+SPINDLE | Slender turned piece used in a chair or railing
+UPHOLSTERY | Fabric and padding covering a seat
+WEBBING | Strong woven strips supporting upholstery
+GIMP | Narrow decorative braid along an upholstered edge
+CASTER | Small wheel fixed to the bottom of furniture
+DRAWER | Sliding box built into a cabinet or desk
+RESTORE | Return an old object to usable condition
+
+=== Passenger Ferry Terminal | MEDIUM
+FERRY | Vessel carrying people or vehicles across water
+CONCOURSE | Building or complex where passengers begin a trip
+PIER | Structure extending from shore over the water
+GANGWAY | Walkway used to board or leave a vessel
+FAREPASS | Proof of payment for a crossing
+BOARDING | Act of getting onto a vessel
+CASTOFF | Scheduled leaving time
+DOCKING | Scheduled time a vessel reaches its stop
+WAITINGROOM | Indoor area where passengers sit before boarding
+QUEUE | Line of people waiting to board
+ANNOUNCEMENT | Spoken notice about a service or departure
+SAILINGS | Published list of trip times
+VEHICLE | Car, truck, or bus carried aboard
+ONFOOT | Person travelling without a vehicle
+TIDE | Regular rise and fall of sea level
+WATERFLOW | Flow of water around a terminal
+BRIDGEPLATE | Sloping walkway between a vessel and the pier
+MUSTER | Gather passengers at a planned meeting place
+LIMIT | Maximum number of people or vehicles aboard
+DELAY | Wait caused by a late or interrupted service
+
+=== City Marathon Course | MEDIUM
+MARATHON | Road race covering 42 kilometres and 195 metres
+PACER | Runner who sets a target speed for others
+SPLIT | Time recorded at a point within a race
+MILESTONE | Mark showing distance along a course
+CHECKPOINT | Place where runners are counted or timed
+WATERSTOP | Table where runners can take a drink
+HYDRATION | Replacing fluid lost during exercise
+TEMPO | Speed maintained during a run
+STEPRATE | Number of steps taken in a minute
+STARTLINE | Mark where the race begins
+FINISHLINE | Mark where the race ends
+CHIPTIME | Elapsed time recorded by a runner's timing tag
+BIB | Numbered cloth worn on a competitor's chest
+COURSEMAP | Diagram showing the route and key stops
+DETOUR | Temporary route around a blocked street
+VOLUNTEER | Person who helps run the event without pay
+MEDAL | Award given to a finisher
+FOOTSTRIKE | Part of a running step when a shoe meets the ground
+RELAYS | Team races in which runners take turns
+RECOVERY | Rest that lets the body return to normal after effort
+
+=== Astronomical Spectroscopy | MEDIUM
+SPECTRUM | Spread of light into its component wavelengths
+BALMER | Family of visible hydrogen lines in a stellar spectrum
+EMISSION | Light released by an excited atom or molecule
+ABSORPTION | Removal of particular wavelengths from passing light
+WAVELENGTH | Distance between matching points on successive light waves
+FRAUNHOFER | Name given to dark lines in the Sun's spectrum
+CONTINUUM | Smooth background on which spectral features appear
+REDSHIFT | Increase in wavelength as a source moves away
+BLUESHIFT | Decrease in wavelength as a source moves closer
+SPECTRALLINE | Narrow feature used to identify an element in a spectrum
+ZEEMAN | Effect that splits spectral lines in a magnetic field
+TELESCOPE | Instrument that collects light from distant objects
+GRATING | Surface with fine grooves that spreads light into colours
+ARCLAMP | Light source with known lines used to set a wavelength scale
+RESOLUTION | Ability to distinguish closely spaced spectral features
+PHOTON | Smallest packet of electromagnetic radiation
+HYDROGEN | Lightest chemical element, common in stars
+HELIUM | Element whose spectral lines helped identify it in the Sun
+DOPPLER | Effect linking motion toward or away with a wavelength change
+LUMINOSITY | Total energy a star emits as light over time
+
+=== Road Construction Survey | MEDIUM
+SURVEYOR | Specialist who measures and maps land for a project
+TRANSIT | Instrument used to measure horizontal and vertical angles
+THEODOLITE | Telescope instrument for measuring angles
+BENCHMARK | Fixed point with a known elevation
+DATUM | Reference level used for land measurements
+LEVELING | Measuring height differences across a site
+SURVEYPOINT | Marked point used as a reference in a survey
+CHAINAGE | Distance measured along a planned road alignment
+ALIGNMENT | Planned path of a road across the terrain
+PROFILE | Side view showing changes in ground elevation
+CROSSSECTION | Drawing showing the ground across a road
+OFFSET | Side measurement from a main survey line
+ELEVATION | Height above a stated reference level
+GRADE | Slope of a road or its surface
+CURVE | Bent section that changes a road's direction
+RADIUS | Distance from the centre of a curve to its edge
+STAKING | Marking the planned road position on the ground
+SETBACK | Distance a feature must remain from the road
+RIGHTOFWAY | Land reserved for a road and its related works
+TOPOGRAPHY | Shape and height of the land surface

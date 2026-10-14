@@ -1,43 +1,35 @@
 {
   "id": "level-086",
-  "title": "Medical Terms",
+  "title": "Swimming Pool",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "SYMPTOM########",
-    "###L########F##",
-    "D##A#A####VIRUS",
-    "I##C#N####A#A#U",
-    "ANAESTHETIC#C#R",
-    "G##B#I####C#T#G",
-    "N##O#B####I#U#E",
-    "O####I####N#R#O",
-    "STETHOSCOPE#E#N",
-    "I##H#T###U#####",
-    "S##E#INSULIN###",
-    "###R#C###S#####",
-    "###A##ALLERGY##",
-    "###P###########",
-    "###Y###########"
+    "SPLASH###",
+    "H#E#O#TEA",
+    "A#A#N#R#D",
+    "LIFEGUARD",
+    "L###B#N#R",
+    "O#D#A#S#E",
+    "WHISTLE#S",
+    "##V#H#C#S",
+    "#PEG#CTD#"
   ],
   "clues": {
     "across": {
-      "1": "Sign of disease",
-      "6": "Tiny infectious agent",
-      "8": "Drug that numbs pain",
-      "9": "Doctor's listening tool",
-      "12": "Hormone for diabetes treatment",
-      "13": "Reaction to pollen, for example"
+      "1": "Scatter drops of water",
+      "4": "Drink brewed from leaves",
+      "6": "Person who watches swimmers for safety",
+      "8": "Sharp sound used to get attention",
+      "9": "Short pointed pin that anchors a tent",
+      "10": "Instrument measuring conductivity, temperature, and depth"
     },
     "down": {
-      "2": "Dummy pill in a trial",
-      "3": "Broken bone",
-      "4": "Identification of an illness",
-      "5": "Drug that kills bacteria",
-      "6": "Shot that builds immunity",
-      "7": "Doctor who operates",
-      "10": "Course of treatment",
-      "11": "Heartbeat felt at the wrist"
+      "1": "Not very deep",
+      "2": "Flat part that gathers sunlight",
+      "3": "Shallow pool where a bird can clean its feathers",
+      "4": "Planned line along which observations are collected",
+      "5": "Location written on the outside for delivery",
+      "7": "Enter the water head first"
     }
   },
   "order": 86

@@ -1,37 +1,31 @@
 {
   "id": "level-047",
-  "title": "Olympic Games",
+  "title": "Train Set",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####JUDO####",
-    "F######I####J",
-    "E####P#V####A",
-    "N#H#BOXING##V",
-    "C#U##D#N##A#E",
-    "I#ROWING##R#L",
-    "N#D##U####C#I",
-    "GOLD#MARATHON",
-    "##E#######E##",
-    "##S#####TORCH",
-    "##########Y##"
+    "CARRIAGE",
+    "U###D##N",
+    "E#M#E##G",
+    "#WAGASHI",
+    "##R#L##N",
+    "L#BRIDGE",
+    "E#L#S###",
+    "GLEAM###"
   ],
   "clues": {
     "across": {
-      "1": "Japanese martial art at the Games",
-      "7": "Sport in a ring with gloves",
-      "9": "Sport with oars and a boat",
-      "10": "First-place medal",
-      "11": "Race of about forty-two kilometres",
-      "12": "It carries the Olympic flame"
+      "1": "Car for passengers",
+      "5": "Traditional Japanese sweet served with tea",
+      "7": "It carries the line over water",
+      "8": "Soft steady light"
     },
     "down": {
-      "2": "Sport off a springboard",
-      "3": "Sport with foils and masks",
-      "4": "Spear thrown for distance",
-      "5": "Winners stand on it",
-      "6": "Barriers to jump in a race",
-      "8": "Sport with bows and arrows"
+      "1": "Signal for a technical change",
+      "2": "Style that presents a perfected form or figure",
+      "3": "Front car that pulls",
+      "4": "Metamorphic rock for statues",
+      "6": "Route segment between two controls"
     }
   },
   "order": 47

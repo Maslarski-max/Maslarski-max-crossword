@@ -1,0 +1,61 @@
+{
+  "id": "level-358",
+  "title": "Insect Pollination",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "POLLINIA#TOOTH#",
+    "O#I##E##O#A##O#",
+    "LCM##V##I#SALVE",
+    "L#A#SEPAL#I##E#",
+    "I###T##N##SPARK",
+    "NECTAR#T###E#F#",
+    "A#U#M##H#F#T#L#",
+    "T#P#E#XENOGAMY#",
+    "ONION##R#R#L##I",
+    "R#D######A#MUON",
+    "###SELFING#A##D",
+    "HEM####N#I#R##I",
+    "##I#POLLEN#KING",
+    "##N####E#G##O#O",
+    "#PARAPET##SAND#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Compact pollen masses carried by some orchids",
+      "4": "Hard part used for biting food",
+      "8": "Smallest positive common multiple of given integers",
+      "9": "Healing ointment applied to the skin",
+      "10": "Leaflike part that protects a flower bud",
+      "12": "Tiny bright particle thrown from a flame",
+      "14": "Sweet liquid produced by many blossoms",
+      "17": "Transfer of pollen between separate plants",
+      "18": "Vegetable that makes you cry",
+      "20": "Heavy cousin of the electron",
+      "21": "Pollination using pollen from the same plant",
+      "23": "Folded edge stitched at the bottom",
+      "25": "Fine grains carrying plant reproductive cells",
+      "26": "Male ruler of a country",
+      "28": "Low protective wall along a defensive work",
+      "29": "Granular source of silica"
+    },
+    "down": {
+      "1": "Animal that carries pollen between flowers",
+      "2": "Peru's capital",
+      "3": "Old granular snow that feeds a glacier",
+      "5": "Fertile spot with water in dry country",
+      "6": "Insect that mimics a bee and visits blossoms",
+      "7": "Liquid ingredient that can soften skin",
+      "10": "Part associated with pollen-producing flowers",
+      "11": "Part of a flower that releases pollen",
+      "13": "Markings that direct insects toward a flower's reward",
+      "15": "Winged god associated with love",
+      "16": "Searching for food among flowers",
+      "19": "Deep blue dye made from certain plants",
+      "22": "Opening that lets street water enter a drain",
+      "24": "Ancient weight and accounting unit",
+      "27": "Atom or molecule carrying an electric charge"
+    }
+  },
+  "order": 358
+}

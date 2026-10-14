@@ -1,0 +1,60 @@
+{
+  "id": "level-344",
+  "title": "Space Probe",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "MICROPROBE#F###",
+    "A#A###H#A##LION",
+    "GPS##MYSTERY#I#",
+    "N#H#D#M####BALI",
+    "E##TELEMETRY##O",
+    "TAG#E#####U#S#N",
+    "O###PROPULSION#",
+    "M#F#S##O##T#L##",
+    "E#IMPACTOR##A##",
+    "TIN#A##A##SERIF",
+    "E#E#C##T####P#I",
+    "RENDEZVOUS#CAVE",
+    "##E###I##U##N#L",
+    "CASE#HEATSHIELD",
+    "##S###W##A##L##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Very small device sent to examine a sample",
+      "6": "Large cat used as a symbol of power",
+      "8": "U.S. satellite navigation system",
+      "9": "Story built around a puzzle or crime",
+      "11": "Indonesian holiday island",
+      "13": "Sending measurements back from a distant craft",
+      "15": "Chasing game: you are it",
+      "17": "Force system that moves a spacecraft",
+      "20": "Probe sent to strike a small celestial body",
+      "21": "Light metal used in some toy bodies",
+      "22": "Small stroke on the end of a letter",
+      "24": "Planned meeting of two vehicles in space",
+      "27": "Hollow space dug into the sand",
+      "28": "Protective cover around a handheld device",
+      "29": "Protective layer that resists high temperatures"
+    },
+    "down": {
+      "1": "Device that measures a world's magnetic field",
+      "2": "Coins and notes used to pay",
+      "3": "Words that end with matching sounds",
+      "4": "Flying mammal that may roost in caves",
+      "5": "Close passage past a world without landing",
+      "7": "Liquid ingredient that can soften skin",
+      "10": "Region far beyond Earth's nearby planets",
+      "12": "Atom or molecule carrying an electric charge",
+      "14": "Reddish corrosion that forms on iron",
+      "16": "Wing-like surface that gathers sunlight for power",
+      "18": "Vegetable for chips",
+      "19": "Smallest subsurface feature that an image can distinguish",
+      "23": "Open area used for crops",
+      "25": "What a stargazer sees through the eyepiece",
+      "26": "Ancient city used as an Achaemenid royal residence"
+    }
+  },
+  "order": 344
+}

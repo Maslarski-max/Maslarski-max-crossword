@@ -1,0 +1,56 @@
+{
+  "id": "level-311",
+  "title": "Mountain Rescue",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "CARABINER###S#",
+    "#V#N#####SHELF",
+    "HARNESS#A###O#",
+    "#L#U#T##X###P#",
+    "KAVA#ROPE#USED",
+    "#N#L#E#E#A#H##",
+    "#CAB#TEA#L#E#C",
+    "#H#A#C#C#T#L#R",
+    "FERN#H#HOIST#A",
+    "L##DYE#E#T#E#M",
+    "O#P##RESCUER#P",
+    "RELAY#D##D###O",
+    "I#O###G#BEACON",
+    "NATSUME#######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Metal clip with a spring gate",
+      "5": "Flat ledge displaying books",
+      "6": "Straps that secure a climber",
+      "9": "Drink made from the root of a Pacific island plant",
+      "10": "Strong cord used for climbing",
+      "12": "Previously owned rather than brand new",
+      "15": "Enclosed space where the driver sits",
+      "16": "Drink brewed from leaves",
+      "18": "Plant with divided leafy fronds",
+      "19": "Raise a person or object with a lifting device",
+      "20": "Color added to wax",
+      "22": "Person who brings someone out of danger",
+      "24": "System passing a message from one station to another",
+      "25": "Device that helps rescuers locate someone",
+      "26": "Small container for powdered tea"
+    },
+    "down": {
+      "2": "Rapid flow of snow down a slope",
+      "3": "Growth band that can be counted in fossil wood",
+      "4": "Side of a hill that rises or falls",
+      "7": "Frame used to carry an injured person",
+      "8": "Tool with a sharp metal head for chopping",
+      "11": "Soft sweet fruit with fuzzy skin",
+      "13": "Protected place to wait out bad weather",
+      "14": "Height above sea level",
+      "17": "Spiked frame attached to a boot on ice",
+      "18": "Gold coin minted in Florence",
+      "21": "Small measured area assigned a growing treatment",
+      "23": "Connection between two points"
+    }
+  },
+  "order": 311
+}

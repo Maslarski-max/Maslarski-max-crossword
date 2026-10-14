@@ -1,39 +1,38 @@
 {
   "id": "level-119",
-  "title": "Circus Tent",
+  "title": "Letter Writing",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#J###P#######",
-    "#U#CLOWN####T",
-    "#G###P####S#I",
-    "#G##ACROBAT#G",
-    "#L###O####I#H",
-    "TENT#R##M#L#T",
-    "#R#RINGMASTER",
-    "###A####G#S#O",
-    "###P####I###P",
-    "###E#UNICYCLE",
-    "###Z####I####",
-    "###ELEPHANT##",
-    "########N####"
+    "POSTCARD#B",
+    "O#I##D###A",
+    "S#GOLD#EGG",
+    "TIN##R##R#",
+    "M#A#SENDER",
+    "ANTS#S##E#",
+    "R#U#USB#T#",
+    "K#R###O#I#",
+    "#RECIPIENT",
+    "######L#G#"
   ],
   "clues": {
     "across": {
-      "3": "Red-nosed funny performer",
-      "6": "Performer of flips and tumbles",
-      "7": "Big top",
-      "10": "Host in a top hat",
-      "11": "One-wheeled ride",
-      "12": "Huge performer with a trunk"
+      "1": "Stiff card mailed without an envelope",
+      "5": "Precious yellow metal used to decorate manuscripts",
+      "6": "Shell-covered beginning of many animal lives",
+      "8": "Thin metal used for some food containers",
+      "9": "Person who writes and sends a note",
+      "10": "Tiny uninvited guests",
+      "11": "Common connector type for small electronics",
+      "13": "Person meant to receive a message"
     },
     "down": {
-      "1": "Keeps several balls in the air",
-      "2": "Snack sold in striped bags",
-      "4": "Thin line walked high above",
-      "5": "Tall poles to walk on",
-      "8": "High swinging bar",
-      "9": "Pulls a rabbit from a hat"
+      "1": "Ink impression showing where and when a letter entered the mail",
+      "2": "Handwritten name at the end of a note",
+      "3": "Location written on the outside for delivery",
+      "4": "Handheld carrier for a small gift",
+      "7": "Friendly opening words at the start of a note",
+      "12": "Heat liquid until bubbles rise throughout"
     }
   },
   "order": 119

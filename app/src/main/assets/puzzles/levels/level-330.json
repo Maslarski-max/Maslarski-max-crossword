@@ -1,0 +1,58 @@
+{
+  "id": "level-330",
+  "title": "Freshwater Ecology",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "WATERSHED###P#",
+    "#M##U#A#U#BOAT",
+    "#PLANKTON#A#L#",
+    "#H######E#TIME",
+    "RIPARIAN##O###",
+    "#B#D##L#URN##W",
+    "#I#OXYGEN##SEA",
+    "#A#P##A#C##E#I",
+    "KNOT#WETLAND#T",
+    "###I#O##E##I#T",
+    "SUDOKU###E#M#I",
+    "#S#N#N##STREAM",
+    "#E###DAY#N#N#E",
+    "#DICE###BAIT##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Area drained by a river system",
+      "7": "It floats on water",
+      "8": "Small drifting organisms in water",
+      "9": "Measure used to order events and duration",
+      "10": "Relating to land beside a river",
+      "13": "Vessel that can hold ashes or other remains",
+      "15": "Gas dissolved in water and used by many animals",
+      "16": "Large body of salt water",
+      "17": "Tied loop that closes the balloon",
+      "18": "Land saturated with water for much of the year",
+      "19": "Number grid puzzle",
+      "22": "Small flowing body of water",
+      "23": "Twenty-four hours",
+      "24": "Cubes you roll",
+      "25": "Food attached to a hook to attract fish"
+    },
+    "down": {
+      "2": "Animal that often lives on land and in water",
+      "3": "One timed or judged trip down the course",
+      "4": "Paper cone worn at a party",
+      "5": "Low mound of beach sand shaped by wind",
+      "6": "Tropical plant whose fossil pollen can reveal ancient climates",
+      "7": "Short bar used to support a soft hanging scenic piece",
+      "11": "Giving an animal a permanent new home",
+      "12": "Simple organisms often growing in water",
+      "13": "Your parent's brother",
+      "14": "Minutes spent before the next scheduled service",
+      "16": "Material that settles on a streambed",
+      "18": "Injury that breaks the skin or damages tissue",
+      "20": "Previously owned rather than brand new",
+      "21": "Sicily's active volcano"
+    }
+  },
+  "order": 330
+}

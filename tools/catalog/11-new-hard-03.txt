@@ -1,0 +1,439 @@
+=== Royal Diplomacy | HARD
+ENVOY | Person sent to represent a ruler abroad
+AMBASSADOR | Official representative sent to another country
+TREATY | Formal agreement between rulers or states
+TRUCE | Temporary halt in fighting
+ALLIANCE | Agreement to cooperate for mutual protection
+HOSTAGE | Person held to guarantee that an agreement is kept
+TRIBUTE | Payment made by one ruler to another
+MARRIAGE | Union sometimes arranged to secure a political alliance
+CLAIMANT | Person who asserts a right to a throne
+SUCCESSION | Order or process by which a ruler is replaced
+RANSOM | Payment made to secure the release of a captive
+NEGOTIATE | Discuss terms in order to reach an agreement
+PEACE | State in which nations are not fighting
+SUMMIT | Formal meeting between leaders from different nations
+COURT | Household and officials surrounding a ruler
+PRINCE | Male member of a royal family
+QUEEN | Woman who rules a kingdom or is married to its king
+LETTER | Written message sent between rulers
+GIFT | Item presented to build goodwill between leaders
+BORDER | Line separating the lands of neighbouring states
+
+=== Medieval Town Life | HARD
+CHARTER | Written grant that records a town's rights
+LORD | Noble who controlled land and owed duties to a king
+TENANT | Person who rents a home or holds land
+LAND | Ground owned or used by a person
+RENT | Payment made for the use of a home or land
+TOLL | Charge collected for passage over a road or bridge
+MANOR | Estate governed by a lord
+MARKET | Place where people gather to buy and sell goods
+GUILD | Association of workers in the same trade
+CRAFT | Skilled work made by hand
+MILL | Building where grain is ground into flour
+VILLAGE | Small settlement in the countryside
+CASTLE | Fortified home of a ruler or noble
+CHURCH | Building used for Christian worship
+WALL | Barrier built around a town for protection
+GATE | Opening in a wall that can be closed
+BRIDGE | Structure that carries people across a river
+COMMON | Shared land used by members of a community
+SERF | Farm worker bound to a lord's estate
+TAX | Money collected by a ruler from the people
+
+=== Mosque Architecture | HARD
+MOSQUE | Muslim place of communal worship
+MINARET | Tall tower beside a mosque, traditionally used for the call to prayer
+DOME | Rounded roof spanning a large interior
+ARCH | Curved structure often used over a doorway
+COURTYARD | Open space enclosed by surrounding buildings
+TILE | Fired clay piece used to cover a floor or wall
+PRAYER | Words spoken to God in worship
+CARPET | Woven floor covering used in a prayer hall
+FOUNTAIN | Structure that sends water upward or into a basin
+MIHRAB | Recessed prayer niche that indicates the direction of Mecca
+GATE | Entrance that can be opened or closed
+MINBAR | Raised pulpit from which a sermon is delivered
+LANTERN | Portable light enclosed in a protective frame
+CALLIGRAPHY | Decorative writing used on walls and panels
+MARBLE | Smooth stone used for floors and decoration
+STONE | Hard material used to build walls and columns
+ROOF | Top covering that protects a building from weather
+PILLAR | Upright support that holds up part of a structure
+NICHE | Recess in a wall that can mark the direction of prayer
+MOSAIC | Picture made from small pieces of stone or glass
+
+=== Ocean Navigation | HARD
+CANOE | Narrow craft propelled by paddles or a sail
+COMPASS | Instrument that points toward magnetic north
+STAR | Bright object used to find direction at night
+HORIZON | Apparent line where sea and sky meet
+SWELL | Broad ocean wave that can reveal wind and weather
+CURRENT | Flow of water moving in one direction
+ISLAND | Land surrounded by water
+REEF | Shallow ridge of coral or rock near the sea surface
+LAGOON | Shallow body of water enclosed by a barrier
+SAIL | Fabric that catches the wind to move a boat
+PADDLE | Blade used to propel a canoe by hand
+OUTRIGGER | Side float that steadies a narrow canoe
+ROUTE | Path followed to travel from one place to another
+WAYFINDER | Navigator who uses stars, waves, and other natural signs
+NAVIGATOR | Person who determines a vessel's route
+SEAWORTHY | Safe and fit for travelling on the open sea
+TRIANGULATE | Determine a position by measuring angles from known points
+HEADING | Direction in which a vessel is travelling
+TIDE | Regular rise and fall of the sea
+VOYAGE | Long journey by sea
+
+=== Glacier Dynamics | HARD
+CIRQUE | Bowl-shaped hollow carved by ice near a glacier's head
+ARETE | Sharp ridge carved between glacial valleys
+ICEFALL | Steep broken section of a glacier
+OUTWASH | Layered sediment sorted and laid down by glacial meltwater
+DRUMLIN | Streamlined hill shaped beneath a moving ice sheet
+ESKER | Winding ridge of sand and gravel deposited by meltwater
+SERAC | Towering block of fractured glacier ice
+NUNATAK | Rock peak rising above a surrounding ice field
+ICESTREAM | Fast-moving corridor within a large ice sheet
+CALVING | Breaking away of ice from a glacier's edge
+ABLATION | Loss of ice through melting, evaporation, or wind
+ACCUMULATION | Addition of snow to a glacier's surface
+SNOWLINE | Boundary above which snow persists through summer
+FIRN | Granular snow that has survived at least one summer
+GLACIOLOGY | Scientific study of glaciers and ice sheets
+KAME | Mound of sand and gravel left by melting ice
+MELTWATER | Water released as snow or ice melts
+ISOSTASY | Adjustment of Earth's crust under changing ice loads
+KETTLE | Depression left when a buried block of glacial ice melts
+TARN | Mountain lake formed in a glacial basin
+
+=== Moving Earth Plates | HARD
+PLATE | Large slab of rock that forms part of Earth's outer shell
+EARTH | Planet on which people live
+RIFTZONE | Region where plates move apart and the ground pulls open
+CONVERGE | Move toward one another, as two tectonic plates
+DIVERGE | Move apart, as two plates do at a ridge
+COLLISION | Meeting of two land-bearing plates that can raise mountains
+QUAKE | Sudden shaking of the ground
+FAULT | Crack in rock where blocks can move past one another
+FAULTLINE | Surface trace of a crack where rock blocks have moved
+RIDGE | Long underwater mountain chain formed at a plate boundary
+TRENCH | Long, deep depression on the ocean floor
+DRIFT | Slow movement of Earth's continents over time
+CONTINENT | One of Earth's large connected land areas
+OCEAN | Vast body of salt water
+ERUPTION | Sudden release of lava, ash, or gas from a volcano
+SEISMIC | Relating to vibrations produced by earthquakes
+BOUNDARY | Edge where one plate meets another
+SUBDUCTION | Sinking of one tectonic plate beneath another
+BASALT | Dark volcanic rock common on the ocean floor
+HOTSPOT | Area where rising hot rock can feed a volcano
+
+=== Soil Microbiology | HARD
+RHIZOSPHERE | Soil region directly influenced by plant roots
+RHIZOBIUM | Bacterium that forms nitrogen-fixing nodules on legumes
+MYCORRHIZA | Partnership between a fungus and plant roots
+AMMONIUM | Nitrogen ion oxidized by nitrifying microbes
+NITRATE | Nitrogen compound produced by nitrification
+AMMONIA | Nitrogen compound released as organic matter decomposes
+NITROGENASE | Enzyme used by some microbes to fix nitrogen
+FIXATION | Conversion of atmospheric nitrogen into usable compounds
+DECOMPOSER | Organism that breaks down dead material
+BACTERIUM | Single-celled organism found in soil
+ACTINOMYCETE | Filament-forming microbe common in many soils
+HYPHA | Threadlike strand that makes up a fungal body
+SPORE | Reproductive or resting cell formed by many microbes
+BIOFILM | Community of microbes attached to a surface
+HUMUS | Dark stable material formed from decayed organic matter
+CARBON | Element cycled through soil by living organisms
+ENZYME | Protein that speeds a biological reaction
+RESPIRATION | Release of energy from food molecules in a cell
+ANAEROBIC | Describes a process that occurs without oxygen
+METABOLITE | Small molecule made or used in cellular reactions
+
+=== Butterfly Life Cycle | HARD
+EGG | Small case from which a young insect hatches
+LARVA | Young stage that feeds and grows before becoming a pupa
+PUPA | Stage in which a caterpillar changes into an adult
+CATERPILLAR | Leaf-eating young form of a butterfly
+CHRYSALIS | Hard shell that protects a butterfly while it changes
+BUTTERFLY | Insect with colourful wings and a coiled feeding tube
+WING | Flat body part used by an insect to fly
+ANTENNA | Feelers on an insect's head
+HATCH | Emerge from an egg
+MOLT | Shed an outer covering as an insect grows
+COCOON | Protective covering made by some developing insects
+LEAF | Flat green part of a plant often eaten by caterpillars
+NECTAR | Sweet liquid produced by many blossoms
+SPOT | Small round marking on a butterfly's wing
+SCALE | Tiny coloured plate covering a butterfly's wing
+ADULT | Fully grown stage of an animal
+FLIGHT | Movement through the air using wings
+FLOWER | Blossom that provides nectar for many butterflies
+CAMOUFLAGE | Colouring that helps an animal blend into its surroundings
+LIFE | Period of growth and change from egg to adult
+
+=== Animal Babies | HARD
+EMBRYO | Early developing animal before birth or hatching
+BABY | Very young human or animal
+FETUS | Developing young animal before birth
+WOMB | Organ where a mammal's young develops before birth
+BIRTH | Arrival of a young animal into the world
+HATCH | Emerge from an egg
+HATCHLING | Young animal that has just emerged from an egg
+CHICK | Newly hatched young bird
+CALF | Young of a cow, whale, or elephant
+FOAL | Young horse
+CUB | Young bear, lion, or fox
+PUP | Young dog or other small mammal
+KITTEN | Young cat
+PUPPY | Young dog
+LAMB | Young sheep
+YOLK | Stored food that nourishes an embryo
+NEST | Place built by birds to hold eggs and young
+EGG | Shell-covered beginning of many animal lives
+PLACENTA | Organ that supplies a fetus with oxygen and nutrients
+SHELL | Hard outer covering that protects an egg
+
+=== Human Skeleton | HARD
+SKELETON | Framework of bones that supports the body
+BONE | Hard body tissue that forms the skeleton
+SKULL | Bony case that protects the brain
+SPINE | Long row of bones running down the back
+RIB | Curved bone that helps protect the chest
+FEMUR | Long bone running through the thigh
+HIP | Joint that connects the leg to the pelvis
+KNEE | Joint between the thigh and lower leg
+JOINT | Place where two bones meet
+CARTILAGE | Flexible tissue found at the ends of many bones
+TENDON | Strong tissue joining a muscle to a bone
+MARROW | Soft tissue filling many bones
+PELVIS | Ring of bones supporting the trunk and legs
+HUMERUS | Long bone between the shoulder and elbow
+ULNA | Forearm bone on the side of the little finger
+TIBIA | Larger lower-leg bone that bears much of the body's weight
+PATELLA | Small bone at the front of the knee
+HEEL | Back part of the foot beneath the ankle
+JAW | Bone that holds the lower teeth
+COLLARBONE | Bone linking the shoulder to the breastbone
+
+=== Immune System | HARD
+IMMUNE | Describes the body's defence against infection
+ANTIBODY | Protein that binds to a matching target
+ANTIGEN | Substance recognized by the body's defences
+VACCINE | Preparation that trains the body to recognize a disease
+GERM | Microbe that can cause an illness
+VIRUS | Tiny infectious agent that reproduces inside living cells
+BACTERIA | Single-celled microbes, some of which cause disease
+ALLERGY | Immune reaction to a normally harmless substance
+FEVER | Rise in body temperature that can accompany an infection
+DEFENSE | Protection against illness or attack
+INFECTION | Entry and growth of a disease-causing organism
+CELL | Smallest living unit that makes up the body
+TISSUE | Group of similar cells working together
+BLOOD | Red fluid that carries oxygen and immune cells
+SKIN | Outer body covering that blocks many germs
+BARRIER | Something that stops a substance from passing through
+HEAL | Recover from a wound or illness
+RECOVERY | Return to health after an illness
+BOOSTER | Later vaccine dose that strengthens protection
+INFLAMMATION | Warmth, redness, and swelling around an injury or infection
+
+=== Inside a Cell | HARD
+CELL | Smallest living unit that makes up a plant or animal
+MEMBRANE | Thin boundary that surrounds a cell
+NUCLEUS | Cell compartment that holds most of its DNA
+CYTOPLASM | Jellylike material filling much of a cell
+DNA | Molecule that stores hereditary instructions
+GENE | Part of DNA that carries instructions for a product
+PROTEIN | Molecule built from amino acids
+WATER | Liquid that makes up much of the inside of a cell
+SALT | Mineral that separates into charged particles in water
+ION | Atom or molecule carrying an electric charge
+ENERGY | Capacity to power a chemical reaction or movement
+BARRIER | Something that stops a substance from passing through
+WALL | Strong outer layer found around plant cells
+PORE | Small opening through which a substance can pass
+PUMP | Cell protein that moves substances across a boundary
+CHANNEL | Cell protein forming a passage through a membrane
+SUGAR | Sweet carbohydrate used by cells for energy
+OXYGEN | Gas used by many cells to release energy from food
+WASTE | Material left over from a cell's chemical activity
+VESICLE | Small sac that carries material inside a cell
+
+=== Human Kidneys | HARD
+KIDNEY | Organ that filters waste from the blood
+URINE | Liquid waste made by the kidneys
+BLADDER | Organ that stores urine before it leaves the body
+URETER | Tube that carries urine from a kidney to the bladder
+URETHRA | Passage that carries urine out of the body
+FILTER | Remove unwanted material from a liquid or gas
+NEPHRON | Tiny filtering unit inside a kidney
+BLOOD | Red fluid that carries oxygen and nutrients
+WATER | Clear liquid that the kidneys help balance in the body
+SALT | Mineral regulated by the kidneys and carried in body fluids
+WASTE | Material left over after the body uses food
+DIALYSIS | Treatment that filters blood when the kidneys cannot
+STONE | Hard deposit that can form in a kidney or bladder
+TRANSPLANT | Organ moved from a donor to a patient
+DONOR | Person who gives blood, tissue, or an organ
+TOXIN | Poisonous substance that can harm the body
+RENAL | Relating to a kidney
+TUBE | Narrow passage that carries liquid
+FILTERING | Process of separating waste from useful material
+HEALTH | Condition of a body working well
+
+=== Electric Circuits | HARD
+CIRCUIT | Complete path through which electric current can flow
+CURRENT | Flow of electric charge through a conductor
+VOLTAGE | Electrical push that moves charge around a circuit
+BATTERY | Portable source of electrical energy
+WIRE | Metal strand that carries electric current
+SWITCH | Device that opens or closes a circuit
+RESISTOR | Circuit part that limits current
+CAPACITOR | Part that stores electrical charge
+BULB | Glass part of a lamp that produces light
+LAMP | Device that makes light using electricity
+MOTOR | Machine that changes electrical energy into motion
+COIL | Wire wound into loops
+MAGNET | Object that attracts iron and creates a magnetic field
+PLUG | Fitting that connects a device to a power supply
+SOCKET | Receptacle that accepts an electrical plug
+FUSE | Safety part that melts when current becomes too large
+POWER | Rate at which electrical energy is transferred
+GROUND | Reference connection that can safely carry excess current
+SERIES | Circuit arrangement with components along one path
+PARALLEL | Circuit arrangement with separate paths for current
+
+=== Quantum Optics | HARD
+PHOTON | Smallest discrete packet of electromagnetic radiation
+COHERENCE | Fixed phase relationship between waves
+ENTANGLEMENT | Quantum link between states of separated particles
+INTERFERENCE | Pattern formed when waves combine
+LASER | Device that emits a narrow coherent beam of light
+AMPLITUDE | Maximum displacement from a wave's average position
+POLARIZATION | Orientation of a light wave's electric field
+SQUEEZED | Describes a quantum state with reduced noise in one variable
+VACUUM | Lowest-energy state of a field
+PHOTODIODE | Semiconductor sensor that registers incoming light
+BEAMSLITTER | Optical device that divides an incoming light beam
+HOMODYNE | Detection method that mixes a signal with a reference beam
+QUANTUM | Smallest allowed unit in a physical process
+SPONTANEOUS | Describes emission that occurs without an external trigger
+STIMULATED | Describes emission triggered by incoming radiation
+EMISSION | Release of a photon by an atom or other system
+ABSORPTION | Capture of a photon by matter
+WAVELENGTH | Distance between matching points on successive waves
+HERTZ | Unit for the number of wave cycles passing a point per second
+PHASE | Position within one cycle of a repeating wave
+
+=== Precision Metrology | HARD
+METROLOGY | Science of measurement and its standards
+CALIBRATION | Comparison with a known reference to correct a measurement
+TRACEABILITY | Link from a measurement to recognized standards
+UNCERTAINTY | Quantified doubt associated with a measurement result
+ALLOWANCE | Permitted range of variation in a manufactured dimension
+MICROMETER | Instrument for measuring very small lengths
+CALIPER | Tool that measures internal, external, or depth dimensions
+GAUGE | Device used to check a dimension or quantity
+COMPARATOR | Instrument that compares a part with a standard dimension
+GRANULARITY | Smallest interval an instrument can distinguish
+ACCURACY | Closeness of a result to the true value
+PRECISION | Closeness of repeated measurements to one another
+STANDARD | Agreed reference used to compare measurements
+ARTIFACT | False feature introduced by a measurement method
+PARALLAX | Apparent shift caused by viewing from different positions
+ZEROING | Setting an instrument's reading to a reference point
+CONSISTENCY | Agreement between repeated measurements under the same conditions
+CREEP | Slow change in a reading as instrument components age
+VERIFICATION | Check that an instrument meets a stated measurement requirement
+VERNIER | Sliding scale that improves the reading of an instrument
+
+=== Forensic Anthropology | HARD
+SKELETON | Framework of bones used to assess a human's remains
+OSTEOLOGY | Scientific study of bones
+CRANIUM | Part of the skull that encloses the brain
+MANDIBLE | Lower jawbone
+PELVIS | Bone structure that supports the trunk and legs
+FEMUR | Long bone running through the thigh
+TIBIA | Larger lower-leg bone that bears much of the body's weight
+ULNA | Forearm bone on the side of the little finger
+HUMERUS | Long bone between the shoulder and elbow
+EPIPHYSIS | End region of a long bone
+SUTURE | Immovable joint between skull bones
+TRAUMA | Physical injury that can leave marks on bone
+CREMATION | Reduction of remains by intense heat
+BURIAL | Placement of human remains in the ground
+DECEDENT | Person who has died
+POSTMORTEM | Occurring or performed after death
+MATCHING | Establishing who a set of remains belongs to
+STATURE | Estimated standing height of an individual
+ISOTOPE | Atomic form that can reveal aspects of a person's life
+TAPHONOMY | Study of what happens to remains after death
+
+=== Maya Calendar | HARD
+TZOLKIN | Sacred cycle of 260 days
+HAAB | Maya year of 365 days
+TRECENA | Thirteen-day period within the sacred cycle
+BAKTUN | Long Count period of twenty katuns
+DAYKEEPER | Person who interprets and tracks the sacred calendar
+UINAL | Twenty-day period in the Maya calendar
+VEINTENA | Twenty-day period within the solar calendar
+LONGCOUNT | Numbering system for recording long spans of time
+GLYPH | Carved sign used in Maya writing
+STELA | Upright carved stone monument
+TEXT | Words cut into a monument to record an event
+CODEX | Folded book made from bark paper
+VENUS | Planet whose cycles were tracked by Maya observers
+ECLIPSE | Event when one celestial body blocks another
+SOLSTICE | Day with the longest or shortest daylight of the year
+EQUINOX | Date when day and night are nearly equal
+OBSERVATORY | Building used to watch and record celestial events
+EPHEMERIS | Table listing predicted positions of celestial bodies
+CONJUNCTION | Apparent close meeting of two objects in the sky
+NADIR | Point in the sky opposite the zenith
+
+=== Medieval Chivalry | HARD
+CHIVALRY | Code of conduct associated with medieval knights
+KNIGHT | Mounted warrior serving a lord
+SQUIRE | Attendant who trained to become a knight
+PAGE | Young attendant in a noble household
+MESSENGER | Official who announced tournaments or carried messages
+TOURNAMENT | Public contest of mounted or armed skill
+JOUST | Contest in which mounted riders charge with lances
+LANCE | Long weapon used by a mounted warrior
+HAUBERK | Long coat of chain mail
+VISOR | Movable face covering on a helmet
+SPUR | Fitting worn at the heel to guide a horse
+OATH | Formal promise of loyalty or duty
+VIGIL | Period of watchfulness before a knightly ceremony
+COURTESY | Polite conduct expected at a noble court
+LIEGE | Lord to whom a vassal owes allegiance
+PLEDGE | Promise of loyalty or service
+HERALDRY | System of symbols displayed on shields and banners
+ESCUTCHEON | Shield-shaped field used for a coat of arms
+SASH | Band worn across the body as a mark of honour
+VALOUR | Courage shown in danger
+
+=== Inca Quipu Accounting | HARD
+QUIPU | Knotted-cord device used to record information
+TIE | Tightened loop in a cord used to store a numerical value
+PENDANT | Cord hanging from a main recording strand
+CORD | Twisted fibre strand used in a record
+FIBRE | Threadlike material used to make cords
+DECIMAL | Number system based on powers of ten
+PLACEVALUE | Position that determines a digit's numerical value
+ZERO | Number represented by an empty place in a count
+TALLY | Record made by counting marks or objects
+ACCOUNT | Record of quantities received or distributed
+TAX | Required payment collected by a government
+STOREHOUSE | Building used to keep food or supplies
+MITA | Labour duty owed by communities in the Inca state
+AYLLU | Andean kin group that shared land and obligations
+CURACA | Local leader who represented a community
+PROVINCE | Region administered as part of an empire
+TRIBUTE | Goods or labour provided to a ruler
+LLAMA | Pack animal used to carry goods in the Andes
+KHIPUKAMAYUQ | Specialist who made and interpreted knotted records
+REGISTRY | Collection where official records are kept

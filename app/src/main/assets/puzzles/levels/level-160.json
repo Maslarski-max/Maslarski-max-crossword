@@ -1,35 +1,42 @@
 {
   "id": "level-160",
-  "title": "Backyard Birds",
+  "title": "Sewing Buttons",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "NEST#####F",
-    "##P######L",
-    "FEATHER##O",
-    "I#R###O##C",
-    "N#R###BEAK",
-    "CROW##I###",
-    "H#W#WING##",
-    "####R#####",
-    "###PERCH##",
-    "####N#####"
+    "PINCUSHION#",
+    "I#E##C#G#A#",
+    "N#E##I#L#I#",
+    "HIDE#SPOOL#",
+    "O#L##S#O#S#",
+    "L#ENVOY#P##",
+    "E##O#R##A#S",
+    "#VET#STITCH",
+    "#I#E####C#A",
+    "#C##KITCHEN",
+    "NERO######K"
   ],
   "clues": {
     "across": {
-      "1": "Home where birds lay eggs",
-      "4": "Covering that helps a bird fly",
-      "6": "Bird's hard mouth",
-      "7": "Black bird known for clever behaviour",
-      "8": "Body part used for flight",
-      "9": "Place where a bird rests"
+      "1": "Soft pad used to store sewing pins",
+      "6": "Seek's partner in a game",
+      "7": "Cylinder around which thread is wound",
+      "8": "Person sent to represent a ruler abroad",
+      "12": "Doctor who treats animals",
+      "13": "Single loop of thread through cloth",
+      "14": "Room where meals are cooked",
+      "15": "Emperor said to fiddle while Rome burned"
     },
     "down": {
-      "2": "Small brown bird often near homes",
-      "3": "Group of birds together",
-      "4": "Seed-eating bird with a short beak",
-      "5": "Red-breasted songbird common in gardens",
-      "8": "Tiny bird with a loud song"
+      "1": "Tiny opening made by a sewing needle",
+      "2": "Slender metal tool with an eye for thread",
+      "3": "Two-bladed tool for cutting thread or cloth",
+      "4": "House made of snow blocks",
+      "5": "Hard tips trimmed during a pet's care",
+      "9": "Single musical sound",
+      "10": "Piece of cloth sewn over a hole",
+      "11": "Raised part beneath a sewing button",
+      "12": "Clamping tool that holds a piece firmly"
     }
   },
   "order": 160

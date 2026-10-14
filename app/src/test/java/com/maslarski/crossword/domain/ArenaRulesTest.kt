@@ -31,7 +31,15 @@ import java.io.File
  */
 class ArenaRulesTest {
 
+    private val parser = PuzzleParser()
     private val layout = ArenaLayout(miniPuzzle())
+
+    private fun fixturePuzzle(name: String) = parser.parse(
+        checkNotNull(javaClass.getResourceAsStream("/levels/$name.json")) { "Missing test fixture: $name" }
+            .bufferedReader()
+            .use { it.readText() },
+        PuzzleType.LEVEL,
+    )
 
     private fun state(
         playerRack: String = "CAT",
@@ -89,7 +97,7 @@ class ArenaRulesTest {
 
     @Test
     fun `new match deals every empty cell's letter exactly once`() {
-        val puzzle = PuzzleParser().parse(File("src/main/assets/puzzles/levels/medium-01.json").readText(), PuzzleType.LEVEL)
+        val puzzle = fixturePuzzle("medium-01")
         val arena = ArenaLayout(puzzle)
         val match = ArenaRules.newMatch(arena, Difficulty.MEDIUM, seed = 42)
         val empty = arena.letterCells.filter(match::isEmpty)
@@ -103,7 +111,7 @@ class ArenaRulesTest {
 
     @Test
     fun `racks saved with fewer tiles are topped up from the bag`() {
-        val puzzle = PuzzleParser().parse(File("src/main/assets/puzzles/levels/medium-01.json").readText(), PuzzleType.LEVEL)
+        val puzzle = fixturePuzzle("medium-01")
         val match = ArenaRules.newMatch(ArenaLayout(puzzle), Difficulty.MEDIUM, seed = 42)
         val legacy = match.copy(
             bag = match.playerRack.drop(5) + match.opponentRack.drop(5) + match.bag,
@@ -233,13 +241,26 @@ class ArenaRulesTest {
     }
 
     @Test
-    fun `AI moves are always legal and matches always finish`() {
-        val parser = PuzzleParser()
+    fun `every arena word-count range has bundled levels`() {
         val puzzles = File("src/main/assets/puzzles/levels").listFiles { f -> f.extension == "json" }!!
             .map { parser.parse(it.readText(), PuzzleType.LEVEL) }
-        for (puzzle in puzzles) {
-            val arena = ArenaLayout(puzzle)
-            for (difficulty in Difficulty.entries) {
+        Difficulty.entries.forEach { difficulty ->
+            val range = ArenaRules.wordCountRange(difficulty)
+            assertTrue(
+                "$difficulty Arena range $range has no levels",
+                puzzles.any { it.orderedWords.size in range },
+            )
+        }
+    }
+
+    @Test
+    fun `AI moves are always legal and matches always finish`() {
+        val puzzles = File("src/main/assets/puzzles/levels").listFiles { f -> f.extension == "json" }!!
+            .map { parser.parse(it.readText(), PuzzleType.LEVEL) }
+        for (difficulty in Difficulty.entries) {
+            val pool = puzzles.filter { it.orderedWords.size in ArenaRules.wordCountRange(difficulty) }
+            for (puzzle in pool) {
+                val arena = ArenaLayout(puzzle)
                 var s = ArenaRules.newMatch(arena, difficulty, seed = puzzle.id.hashCode().toLong() + difficulty.ordinal)
                 var turns = 0
                 while (!s.finished) {
@@ -265,7 +286,7 @@ class ArenaRulesTest {
 
     @Test
     fun `hard opponent outscores easy opponent against a passive player`() {
-        val puzzle = PuzzleParser().parse(File("src/main/assets/puzzles/levels/hard-01.json").readText(), PuzzleType.LEVEL)
+        val puzzle = fixturePuzzle("hard-01")
         val arena = ArenaLayout(puzzle)
         fun opponentScore(difficulty: Difficulty): Int = (1L..10L).sumOf { seed ->
             var s = ArenaRules.newMatch(arena, difficulty, seed)

@@ -1,40 +1,38 @@
 {
   "id": "level-117",
-  "title": "Airport",
+  "title": "Pencil Sharpener",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###T#########",
-    "###I###HANGAR",
-    "###C######A##",
-    "###K##PILOT##",
-    "#R#E##A###E##",
-    "CUSTOMS#T####",
-    "#N####S#E#L#J",
-    "#W##DEPARTURE",
-    "#A####O#M#G#T",
-    "#Y#BOARDING#L",
-    "######T#N#A#A",
-    "########A#G#G",
-    "##ARRIVAL#E##"
+    "STATIONERY",
+    "H######R#E",
+    "AMBER##A#L",
+    "R#I##BASIL",
+    "PENCIL#E#O",
+    "E##R#ARROW",
+    "N##A#D##C#",
+    "E#INDEX#E#",
+    "R##K####A#",
+    "#####SUNNY"
   ],
   "clues": {
     "across": {
-      "2": "Building where planes are stored",
-      "4": "Person who flies the aircraft",
-      "6": "Where imported goods are checked",
-      "10": "Leaving, on the big board",
-      "11": "Getting onto the plane",
-      "12": "Landing, on the big board"
+      "1": "Paper, pens, and other desk supplies as a group",
+      "4": "Warm yellow-orange lighting colour",
+      "6": "Herb in pesto",
+      "7": "Writing stick with a graphite core",
+      "9": "Mark with a point showing direction",
+      "11": "Guide that points to names or subjects in a record group",
+      "12": "Bright and clear, weather-wise"
     },
     "down": {
-      "1": "Pass for your seat",
-      "3": "Numbered door to your flight",
-      "4": "Document needed to cross borders",
-      "5": "Strip where planes take off",
-      "7": "Main airport building",
-      "8": "Suitcases and bags",
-      "9": "Tiredness after crossing time zones"
+      "1": "Tool that trims wood to expose a point",
+      "2": "Soft block that removes pencil marks",
+      "3": "Colour of a canary",
+      "5": "Container that catches discarded shavings",
+      "6": "Small cutting edge inside a sharpener",
+      "8": "Handle turned to operate a desktop device",
+      "10": "Large body of salt water"
     }
   },
   "order": 117

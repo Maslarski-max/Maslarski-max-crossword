@@ -1,0 +1,63 @@
+{
+  "id": "level-384",
+  "title": "Book Illumination",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "P####P##R##NET#",
+    "ATOM#I#QUIRE###",
+    "L##INTI#B##W#O#",
+    "EXON###ARM#TOF#",
+    "O##I#P##I#C##F#",
+    "GUMARABIC#OUNCE",
+    "R##T#R#N##L##U#",
+    "A##U#C#I#HOIST#",
+    "POUR#HAT##P#C##",
+    "H##E#M#INKHORN#",
+    "YAM#HERA##O#I#F",
+    "##A##N#LAWN#BAR",
+    "B#GILT######A#A",
+    "E#I######VELLUM",
+    "EXCALIBUR#####E"
+  ],
+  "clues": {
+    "across": {
+      "4": "Mesh used to catch fish",
+      "5": "Tiny building block of matter",
+      "7": "Folded sheets gathered for binding into a book",
+      "8": "Sun deity honoured by the Inca",
+      "10": "Part of a gene retained in a mature RNA molecule",
+      "11": "Limb between a shoulder and a hand",
+      "12": "Analyzer that separates ions by travel time",
+      "15": "Tree resin used to bind watercolour pigments",
+      "17": "Unit often used for a small amount of food",
+      "18": "Machine used to lift a suspended load",
+      "20": "Send liquid into an empty section",
+      "21": "Headwear used in a famous magic trick",
+      "22": "Small container carried by a writer for ink",
+      "23": "Tuber grown in warm island gardens",
+      "25": "Goddess of marriage and queen of the gods",
+      "27": "Grassy yard used for an outdoor game",
+      "28": "Solid block used for washing",
+      "30": "Thin gold layer applied to a surface",
+      "31": "Fine prepared animal skin used for writing",
+      "32": "Arthur's legendary sword"
+    },
+    "down": {
+      "1": "Study of old handwriting and scripts",
+      "2": "Sunken area where the orchestra plays",
+      "3": "Red heading or instruction written in a manuscript",
+      "4": "Small spotted amphibian",
+      "6": "Small detailed picture in a decorated book",
+      "9": "Piece cut from a colony for growing elsewhere",
+      "13": "Treated animal skin used as a writing surface",
+      "14": "Closing note naming a book's maker or place",
+      "16": "Enlarged first letter that begins a section",
+      "19": "Relating to a professional writer or copyist",
+      "24": "Tricks that seem impossible",
+      "26": "Single image in a moving picture",
+      "29": "Insect that visits flowers"
+    }
+  },
+  "order": 384
+}

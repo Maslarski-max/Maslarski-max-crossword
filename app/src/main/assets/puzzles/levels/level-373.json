@@ -1,0 +1,62 @@
+{
+  "id": "level-373",
+  "title": "Road Cycling",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "TIMEKEEPER#KNOB",
+    "E#I#I##I#A####L",
+    "A#L#CADENCE###A",
+    "M#K#K####E####C",
+    "C##F#P#C#J#DUCK",
+    "A#DERAILLEUR#O#",
+    "R##E#C#I#R#A#N#",
+    "###DREAM#SAFETY",
+    "QUIZ#L#BEE#T#O#",
+    "###OLIVE#Y#I#U#",
+    "#A#N#N#R###NERO",
+    "#SIEGE###H#G##T",
+    "#S##E##SUET#HAT",
+    "LATIN####A####E",
+    "#Y##EPIC#DOCTOR"
+  ],
+  "clues": {
+    "across": {
+      "1": "Official who records elapsed race times",
+      "6": "Rounded part held in the hand while making an impression",
+      "8": "Number of pedal turns made in a minute",
+      "12": "Farm bird that quacks",
+      "14": "Mechanism that moves a chain between gears",
+      "15": "Story in your sleep",
+      "16": "Protection from danger",
+      "17": "Test of knowledge",
+      "18": "Insect that makes honey",
+      "19": "Small fruit pressed to produce cooking oil",
+      "21": "Emperor said to fiddle while Rome burned",
+      "23": "Military effort to capture a defended place",
+      "26": "Fat-based food put out for wild birds",
+      "27": "Head covering with a brim or crown",
+      "28": "Language spoken by ancient Romans",
+      "29": "Long poem about heroic deeds",
+      "30": "Person who treats the sick"
+    },
+    "down": {
+      "1": "Support vehicle following a racing squad",
+      "2": "White drink from cows",
+      "3": "Move the legs to push through water",
+      "4": "Baked dessert with a crust",
+      "5": "Team top worn by riders during a road event",
+      "7": "Colour of night",
+      "9": "Race area where riders collect bottles and food",
+      "10": "Row of riders taking turns against the wind",
+      "11": "Rider suited to steep uphill sections",
+      "12": "Riding close behind another cyclist to reduce drag",
+      "13": "Line joining equal heights",
+      "20": "Laboratory test used to detect or measure a target",
+      "22": "River mammal that floats on its back",
+      "24": "DNA segment that contributes to a functional product",
+      "25": "Height of a fluid column used to express pressure"
+    }
+  },
+  "order": 373
+}

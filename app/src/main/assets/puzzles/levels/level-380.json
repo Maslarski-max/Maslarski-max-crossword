@@ -1,0 +1,62 @@
+{
+  "id": "level-380",
+  "title": "Satellite Photos",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "FIN#P##C#SIDON#",
+    "A##SIGNAL##A#O#",
+    "L#M#X##M###LOSS",
+    "SPACE#MEDICI#E#",
+    "E#P#L##R##A#L##",
+    "C##S###A#OCEAN#",
+    "O#LENS####A#N##",
+    "L##N##P#CLOUD##",
+    "O##S##I##A###S#",
+    "RESOLUTION#RACE",
+    "#X#R#N###D#O#O#",
+    "LOG##L#E#S#CROP",
+    "#N#CLOUDMASK#P#",
+    "#####C#I#T#E###",
+    "#CHOCK#T##STARS"
+  ],
+  "clues": {
+    "across": {
+      "1": "Footwear that increases a swimmer's kick",
+      "4": "Ancient port north of Tyre",
+      "7": "Message sent from an orbiting device to a ground station",
+      "9": "Result when a team is defeated",
+      "10": "Region beyond Earth's atmosphere",
+      "11": "Banking family of patrons",
+      "15": "Vast body of salt water",
+      "16": "Curved glass that focuses light",
+      "18": "Visible mass of droplets or ice crystals in the sky",
+      "21": "Amount of detail visible in a recorded image",
+      "24": "Contest of speed",
+      "25": "Thick piece of cut wood",
+      "27": "Remove unwanted edges from an image",
+      "28": "Image layer marking pixels hidden by clouds",
+      "29": "Fitting that guides a rope through a deck edge",
+      "30": "They shine above the campsite"
+    },
+    "down": {
+      "1": "Image style that assigns colours to show data",
+      "2": "Smallest picture element in a digital image",
+      "3": "Device that records a view of Earth from above",
+      "5": "Surrealist with melting clocks",
+      "6": "You smell with it",
+      "8": "Drawing that shows the position of places",
+      "12": "Seed used to make chocolate",
+      "13": "Solid part of Earth's surface",
+      "14": "Part that detects light or heat",
+      "17": "Sunken area where the orchestra plays",
+      "19": "Name of a long-running series of Earth-observing satellites",
+      "20": "Round ball of ice cream",
+      "22": "Gene segment retained in mature messenger RNA",
+      "23": "Release a bicycle from its docking point",
+      "24": "Vehicle that carries a satellite into space",
+      "26": "Change a recording by cutting or moving parts"
+    }
+  },
+  "order": 380
+}

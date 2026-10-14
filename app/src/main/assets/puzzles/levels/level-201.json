@@ -1,39 +1,46 @@
 {
   "id": "level-201",
-  "title": "Cheese Making",
+  "title": "Toy Doctor Kit",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##CHEDDAR",
-    "##U####G#",
-    "MOLD#B#I#",
-    "##T##RIND",
-    "##U##I#G#",
-    "##R##N###",
-    "CREAMERY#",
-    "U#####E##",
-    "R#####N#P",
-    "D###W#N#R",
-    "###CHEESE",
-    "####E#T#S",
-    "####Y###S"
+    "MEDICALTAPE#",
+    "E#R#H#A##A#P",
+    "DRONE#N##T#I",
+    "I#P#C#C#VIAL",
+    "C#P#KNEE#E#L",
+    "ICE#U#T##NIB",
+    "N#R#P##HAT#O",
+    "E##T###U###X",
+    "#FRONT#R##S#",
+    "#U#Y##EDITOR",
+    "#J#####L##C#",
+    "SILICATE##K#"
   ],
   "clues": {
     "across": {
-      "1": "Firm cheese first made in an English village",
-      "3": "Fuzzy growth used in some cheese varieties",
-      "5": "Outer layer of a cheese",
-      "6": "Place where dairy products are made",
-      "10": "Food made by curdling milk"
+      "1": "Adhesive strip used to secure a dressing",
+      "7": "Male bee",
+      "8": "Small glass container for liquid medicine",
+      "9": "Joint in the middle of your leg",
+      "10": "Frozen water beneath a skater",
+      "11": "Small broken piece of roasted cacao seed",
+      "12": "Head covering with a brim or crown",
+      "14": "Boundary between air masses",
+      "16": "Person who selects and arranges recorded material",
+      "17": "Mineral compound containing silicon and oxygen"
     },
     "down": {
-      "1": "Microorganisms added to start fermentation",
-      "2": "Keeping food to develop its flavour",
-      "4": "Salty water used to soak some cheeses",
-      "6": "Soft solid formed from milk",
-      "7": "Enzyme used to help milk coagulate",
-      "8": "Device that squeezes liquid from curds",
-      "9": "Liquid left after curds form"
+      "1": "Remedy given to help someone feel better",
+      "2": "Small tube that releases liquid a drop at a time",
+      "3": "Visit that checks whether someone is healthy",
+      "4": "Tiny sharp tool used to take a small blood sample",
+      "5": "Person receiving care in a clinic",
+      "6": "Small container that keeps tablets sorted",
+      "12": "Low barrier a dog can jump over",
+      "13": "Plaything carried along for a ride",
+      "14": "Japan's sacred volcano",
+      "15": "Soft covering worn on a foot"
     }
   },
   "order": 201

@@ -1,34 +1,28 @@
 {
   "id": "level-015",
-  "title": "Breakfast Table",
+  "title": "Ocean Life",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#####JAM#",
-    "###T###I#",
-    "###O###L#",
-    "##PANCAKE",
-    "#J#S#E###",
-    "BUTTER##H",
-    "#I###E##O",
-    "#C##BACON",
-    "#EGG#L##E",
-    "########Y"
+    "DOLPHIN#",
+    "#C######",
+    "STARFISH",
+    "#O######",
+    "#P#SQUID",
+    "#U#E####",
+    "#SHARK##",
+    "###L####"
   ],
   "clues": {
     "across": {
-      "1": "Fruit spread for toast",
-      "4": "Flat cake served with syrup",
-      "7": "Spread made from cream",
-      "9": "Crispy strips of pork",
-      "10": "It can be scrambled or fried"
+      "1": "Clever sea mammal that leaps",
+      "3": "Star-shaped sea creature",
+      "4": "Sea creature that squirts ink",
+      "5": "Fish with sharp teeth and a fin"
     },
     "down": {
-      "2": "White drink from cows",
-      "3": "Browned slice of bread",
-      "5": "Breakfast food eaten with milk",
-      "6": "Orange drink at breakfast",
-      "8": "Sweet spread made by bees"
+      "2": "Sea creature with eight arms",
+      "4": "Sea mammal that barks"
     }
   },
   "order": 15

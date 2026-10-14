@@ -1,35 +1,42 @@
 {
   "id": "level-159",
-  "title": "Art Supplies",
+  "title": "Birdhouse Build",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "##P##B###S",
-    "#PAPER###M",
-    "E#S##U#P#O",
-    "A#T##S#A#C",
-    "SKETCH#INK",
-    "E#L#R##N##",
-    "L##PALETTE",
-    "####Y#####",
-    "####O#####",
-    "##CANVAS##"
+    "BRUSH#FLYBY",
+    "I#####O##A#",
+    "ROOFPEAK#C#",
+    "D###I#M#SKY",
+    "HAMMER###H#",
+    "O#####POLAR",
+    "U#G#G#O##U#",
+    "SPARROW#FLY",
+    "E#B#O#D####",
+    "##LUMBER###",
+    "TOE#A#R####"
   ],
   "clues": {
     "across": {
-      "4": "Thin material for writing or drawing",
-      "7": "Quick simple drawing",
-      "9": "Dark liquid used for writing",
-      "10": "Board for mixing colours",
-      "11": "Cloth stretched for painting"
+      "1": "Tool with bristles for spreading paint",
+      "2": "Close passage past a world without landing",
+      "4": "Highest point along a pitched roof",
+      "6": "Space above the ground",
+      "7": "Tool used to tap in a nail",
+      "8": "Relating to the regions near either pole",
+      "11": "Small brown songbird often nesting near homes",
+      "12": "Move through the air",
+      "13": "Cut boards prepared for building",
+      "14": "Front part of a foot"
     },
     "down": {
-      "1": "Soft stick of coloured chalk",
-      "2": "Tool with bristles for painting",
-      "3": "Shirt worn to protect clothes",
-      "5": "Stand that holds a picture",
-      "6": "Colour in a tube or pot",
-      "8": "Wax stick for drawing"
+      "1": "Small wooden shelter for a nesting bird",
+      "2": "Bubbles formed while washing",
+      "3": "Link carrying site traffic toward the core network",
+      "5": "Baked dessert with a crust",
+      "8": "Dry finely ground form of a medicine",
+      "9": "Triangular upper end beneath a sloping roof",
+      "10": "Roman instrument used to lay out straight lines"
     }
   },
   "order": 159

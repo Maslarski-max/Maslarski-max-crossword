@@ -1,35 +1,30 @@
 {
   "id": "level-037",
-  "title": "Days and Months",
+  "title": "Picnic Basket",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#MAY#S##",
-    "###E#U#D",
-    "###A#N#A",
-    "##FRIDAY",
-    "#####A##",
-    "MONDAY##",
-    "A###U###",
-    "R###G#W#",
-    "C##JUNE#",
-    "H###S#E#",
-    "####T#K#"
+    "LEMONADE",
+    "####A#I#",
+    "##C#P#S#",
+    "BLANKET#",
+    "A#K#I#A#",
+    "C#E#NILE",
+    "O#######",
+    "NOSEFOLD"
   ],
   "clues": {
     "across": {
-      "1": "Fifth month",
-      "5": "Last day of the work week",
-      "6": "First day of the work week",
-      "9": "Month with the longest days in the north"
+      "1": "Sweet citrus drink",
+      "5": "Spread it on the grass to sit on",
+      "6": "Longest river in Africa",
+      "7": "Pointed front section shaped from the sheet"
     },
     "down": {
-      "2": "Twelve months",
-      "3": "Day of rest",
-      "4": "Twenty-four hours",
-      "6": "Third month",
-      "7": "Eighth month",
-      "8": "Seven days"
+      "2": "Paper square for wiping fingers",
+      "3": "Describes a later convoluted segment of a nephron tubule",
+      "4": "Sweet baked treat cut into slices",
+      "5": "Crispy strips of pork"
     }
   },
   "order": 37

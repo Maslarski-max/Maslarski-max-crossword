@@ -1,36 +1,42 @@
 {
   "id": "level-167",
-  "title": "Family Road Trip",
+  "title": "Baby Bath Time",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#SEATBELT##",
-    "#N##R##U###",
-    "MAP#U##G###",
-    "#C##N##G##M",
-    "#K##K#RADIO",
-    "#S###M#G##T",
-    "###DRIVER#E",
-    "#####L##O#L",
-    "#####E##U##",
-    "###RESTSTOP",
-    "########E##"
+    "WICK#BUBBLE",
+    "A#L#A###A##",
+    "THERMOMETER",
+    "E#A#B#U#H#O",
+    "RINSE#G#T#B",
+    "P#S#R##LIVE",
+    "REEL##W#M##",
+    "O#R#DIAPER#",
+    "O##U##R##O#",
+    "F##SHAMPOO#",
+    "###B#####T#"
   ],
   "clues": {
     "across": {
-      "1": "Strap that keeps a passenger secure",
-      "4": "Drawing that shows roads and places",
-      "6": "Device that plays broadcasts in a car",
-      "8": "Person controlling the car",
-      "10": "Roadside place to take a break"
+      "1": "Strip that draws liquid toward a plant's roots",
+      "3": "Round pocket of air in soapy water",
+      "6": "Tool that checks how warm water is",
+      "9": "Wash away soap with clean water",
+      "10": "Describes a program transmitted as events happen",
+      "11": "Round holder for wound film",
+      "13": "Absorbent garment worn by an infant",
+      "16": "Liquid cleanser for hair"
     },
     "down": {
-      "1": "Small bites eaten between meals",
-      "2": "Car space for carrying bags",
-      "3": "Bags packed for a journey",
-      "5": "Lodging beside a highway",
-      "7": "Units used to measure a long journey",
-      "9": "Planned way from one place to another"
+      "1": "Able to keep liquid from soaking through",
+      "2": "Gentle cleaning product mixed with water",
+      "4": "Part of the day set aside for washing",
+      "5": "Warm yellow-orange lighting colour",
+      "7": "Sturdy handled cup for a hot drink",
+      "8": "Loose garment worn after a bath",
+      "12": "Comfortably hot but not too hot",
+      "14": "Basic form from which related words are built",
+      "15": "Common connector type for small electronics"
     }
   },
   "order": 167

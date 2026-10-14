@@ -1,0 +1,61 @@
+{
+  "id": "level-366",
+  "title": "Harbor Pilotage",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "LIGHTSHIP#CUB##",
+    "E#E#I#E#O#H##Q#",
+    "A#M#D#L#E#ALBUM",
+    "D##HELMSMAN##A#",
+    "LCM#S##O##N#GYM",
+    "I###THRUSTER#S#",
+    "N###R##N##L#MIX",
+    "E##MELODY####D#",
+    "#S##A##I#RUDDER",
+    "SERUM##N###R##E",
+    "#Q#####GUIDANCE",
+    "GULL#######U##F",
+    "#E#E#MOORING###",
+    "#LLAMA##I##HIVE",
+    "###D#TUGBOAT###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Vessel carrying a navigational light offshore",
+      "6": "Young bear, lion, or fox",
+      "8": "Collection of paintings and calligraphy bound together",
+      "9": "Person who steers a ship",
+      "11": "Smallest positive common multiple of given integers",
+      "12": "Room where students play indoor sports",
+      "13": "Small engine used to adjust a craft's position",
+      "14": "Balance several audio sources into one program",
+      "15": "Tune",
+      "17": "Flat steering surface at the stern of a vessel",
+      "20": "Liquid part of blood after clotting",
+      "21": "Service of guiding vessels through local waters",
+      "22": "Noisy seaside bird",
+      "24": "Lines or equipment securing a vessel in place",
+      "26": "Pack animal used to carry goods in the Andes",
+      "27": "Home made by a bee colony",
+      "28": "Powerful small vessel that manoeuvres larger ships"
+    },
+    "down": {
+      "1": "Weighted rope used to check water depth",
+      "2": "Small sparkling stone fixed to a decoration",
+      "3": "Current produced by the regular movement of tides",
+      "4": "Steering position or wheel of a boat",
+      "5": "Work written in lines to express an idea or feeling",
+      "6": "Deeper route through which vessels can safely pass",
+      "7": "Edge of a harbour where vessels load and unload",
+      "10": "Measurement of water depth beneath a vessel",
+      "16": "Follow-up film",
+      "18": "Depth of a ship's hull below the waterline",
+      "19": "Ridge of coral",
+      "23": "Metal once used for some Roman pipes",
+      "24": "Woven plant material used for a traditional sail",
+      "25": "Curved frame supporting the sides of a ship"
+    }
+  },
+  "order": 366
+}

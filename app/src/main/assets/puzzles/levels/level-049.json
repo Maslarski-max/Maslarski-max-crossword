@@ -1,39 +1,32 @@
 {
   "id": "level-049",
-  "title": "Detective Story",
+  "title": "Bedtime",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##C#########",
-    "##U##W###V##",
-    "#ALIBI###E#M",
-    "##P##T###R#Y",
-    "##R##N###D#S",
-    "#FINGERPRINT",
-    "##T##S###C#E",
-    "#H#SUSPECT#R",
-    "#O#L##O####Y",
-    "CLUE##I#####",
-    "#M#U##R#####",
-    "#E#T#MOTIVE#",
-    "#S#H##T#####"
+    "LAMP#####",
+    "U#######A",
+    "LEADCLIMB",
+    "L#######Y",
+    "A#Y###S#S",
+    "BLANKET#S",
+    "Y#W#A#O#A",
+    "##NUMERAL",
+    "####A#Y##"
   ],
   "clues": {
     "across": {
-      "4": "Proof you were elsewhere",
-      "6": "Unique mark left by a hand",
-      "8": "Person who might have done it",
-      "10": "Piece of evidence",
-      "11": "Reason for a crime"
+      "1": "Light by the bed",
+      "3": "Style in which the climber places protection while ascending",
+      "6": "Warm bed cover",
+      "8": "Written symbol representing a number"
     },
     "down": {
-      "1": "Guilty party",
-      "2": "Person who saw it happen",
-      "3": "Jury's decision",
-      "5": "Puzzle to be solved",
-      "7": "Fictional detective of Baker Street",
-      "8": "Detective",
-      "9": "Christie's Belgian detective"
+      "1": "Soothing song for a baby",
+      "2": "Relating to the ocean's deepest regions",
+      "4": "Big sleepy mouth",
+      "5": "Tale read aloud before sleep",
+      "7": "Iron kettle used to heat water"
     }
   },
   "order": 49

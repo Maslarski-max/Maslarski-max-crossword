@@ -1,0 +1,59 @@
+{
+  "id": "level-338",
+  "title": "Steam Locomotives",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "LOCOMOTIVE#####",
+    "E#Y#####A##CRAG",
+    "A#L###TILL##A#R",
+    "RAILWAY#V#Q#D#I",
+    "##N###P#ELUTION",
+    "##DRIVER##A#U#D",
+    "##E#####CYRUS##",
+    "FIREBOX###T###M",
+    "####O##E##OCHRE",
+    "P#WHISTLE#####T",
+    "I#O#L##I#COAT#H",
+    "SMOKEBOX#U#D##O",
+    "T#D#R##I#M#O##D",
+    "O####TERRIER###",
+    "NADIR####N#NOUN"
+  ],
+  "clues": {
+    "across": {
+      "1": "Powered rail vehicle that pulls a train",
+      "4": "Steep outdoor rock face used for climbing",
+      "7": "Drawer where a shop keeps cash",
+      "8": "Track system used by trains",
+      "10": "Process carrying separated compounds through a column",
+      "11": "Wheel that receives power from the pistons",
+      "12": "Persian king who founded the Achaemenid empire",
+      "13": "Part of an engine where fuel burns",
+      "17": "Earth pigment used in ancient wall painting",
+      "19": "Steam-powered signal on a locomotive",
+      "20": "Warm outer garment hung for display",
+      "22": "Chamber at the front of a steam engine",
+      "23": "Small, feisty digger",
+      "24": "Point in the sky directly beneath an observer",
+      "25": "Word used to name a person, place, thing, or idea"
+    },
+    "down": {
+      "1": "King with three daughters",
+      "2": "Chamber in which a piston moves",
+      "3": "Device that controls steam flow",
+      "5": "Distance from the centre of a curve to its edge",
+      "6": "Crushed coffee prepared for brewing",
+      "7": "Raised letter used to print a page",
+      "9": "Book size created by folding each sheet twice",
+      "14": "Vessel that heats water to make steam",
+      "15": "Ordered procedure for solving a problem",
+      "16": "Sweet liquid form used to deliver medicine",
+      "18": "Sliding part driven by steam pressure",
+      "19": "Hard material forming a tree trunk",
+      "20": "Earthy spice in curry",
+      "21": "Add colour or ornament to something"
+    }
+  },
+  "order": 338
+}

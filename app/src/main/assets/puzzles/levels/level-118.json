@@ -1,40 +1,38 @@
 {
   "id": "level-118",
-  "title": "Pirates",
+  "title": "Canning Kitchen",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##ISLAND#####",
-    "#######O#####",
-    "######MUTINY#",
-    "#####C#B#####",
-    "#####U#LOOT##",
-    "PARROT#O##R##",
-    "#N###L#O##E##",
-    "#CAPTAIN##A##",
-    "#H###S####S#P",
-    "COMPASS#SKULL",
-    "#R########R#A",
-    "######GALLEON",
-    "############K"
+    "STERILIZE#",
+    "E##E#A###N",
+    "A##L#BRINE",
+    "L#NIKE###C",
+    "#W#S#LID#T",
+    "ARCH#####A",
+    "#E####PEAR",
+    "EARLY#U##I",
+    "#T####L##N",
+    "#HEADSPACE"
   ],
   "clues": {
     "across": {
-      "1": "Land surrounded by water",
-      "3": "Crew uprising against officers",
-      "5": "Stolen goods",
-      "7": "Talking bird on a shoulder",
-      "9": "Ship's commander",
-      "11": "Instrument pointing north",
-      "12": "Bony emblem on a black flag",
-      "13": "Large old sailing ship"
+      "1": "Use heat to kill germs on a jar",
+      "5": "Saltwater mixture used to pickle food",
+      "6": "Winged goddess often shown as a figure of victory",
+      "8": "Top that closes a jar",
+      "9": "Curved display made from many decorations",
+      "10": "Sweet fruit that can be canned in slices",
+      "11": "Running before the published time",
+      "12": "Small gap left between food and the jar lid"
     },
     "down": {
-      "2": "Old Spanish gold coin",
-      "4": "Short curved sword",
-      "6": "Buried chest of gold",
-      "8": "Heavy hook dropped to the seabed",
-      "10": "Board prisoners must walk"
+      "1": "Close a jar so air cannot enter",
+      "2": "Chopped vegetable condiment stored in a jar",
+      "3": "Paper identifying the jar's contents",
+      "4": "Smooth-skinned fruit that can be preserved in syrup",
+      "7": "Ring-shaped decoration made from natural pieces",
+      "10": "Soft crushed fruit left after pressing"
     }
   },
   "order": 118

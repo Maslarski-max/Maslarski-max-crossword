@@ -1,0 +1,58 @@
+{
+  "id": "level-334",
+  "title": "Medieval Guilds",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "J##S#C#O##SAGA",
+    "O##WORKSHOP#Y#",
+    "ULNA#A#L##ARM#",
+    "R##M#FOOT#N##C",
+    "NETPOT###M#O#A",
+    "E####S##MASTER",
+    "Y##M#MUG#R#T#P",
+    "M##E#A#U#K#AXE",
+    "APPRENTICE#W#N",
+    "N##C###L#TRACT",
+    "#S#H#H#D##E##E",
+    "#WEAVER#S#DYER",
+    "#A#N#R##K#####",
+    "#N#TRAINING###"
+  ],
+  "clues": {
+    "across": {
+      "5": "Long prose story about families or heroes",
+      "7": "Place where goods are made",
+      "8": "Forearm bone on the side of the little finger",
+      "9": "Jointed part that reaches out",
+      "10": "Body part you stand on",
+      "12": "Perforated holder that supports a plant above water",
+      "15": "Highly skilled craftsperson who leads a workshop",
+      "17": "Sturdy handled cup for a hot drink",
+      "19": "Tool with a sharp metal head for chopping",
+      "20": "Beginner learning a skilled trade",
+      "21": "One legally defined piece of land",
+      "25": "Person who makes cloth on a loom",
+      "27": "Worker who colours fabric",
+      "28": "Period of learning a trade"
+    },
+    "down": {
+      "1": "Craft worker who has completed training but not mastered a trade",
+      "2": "Wet muddy land",
+      "3": "Person skilled at making things by hand",
+      "4": "Norway's capital",
+      "5": "Distance between supports",
+      "6": "Room where students play indoor sports",
+      "11": "Craft worker who builds with wood",
+      "13": "Place where goods are sold",
+      "14": "Canada's capital",
+      "16": "Person who buys and sells goods",
+      "18": "Association of workers in a craft",
+      "22": "Colour of a ripe strawberry",
+      "23": "Graceful white water bird",
+      "24": "Goddess of marriage and queen of the gods",
+      "26": "Glide down a mountain on it"
+    }
+  },
+  "order": 334
+}

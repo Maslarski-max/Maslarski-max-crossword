@@ -1,0 +1,60 @@
+{
+  "id": "level-352",
+  "title": "Air Traffic Control",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PARKINGAREA###A",
+    "E#U##E#L####FIN",
+    "LENS#T#T####A#T",
+    "L#W###AIRSPACE#",
+    "EXAM#E#M#A##E#S",
+    "T#Y#ADHESIVE##E",
+    "#####I#T#L#DIVA",
+    "#HEART#E###G#E#",
+    "C##P##FREQUENCY",
+    "HOOP#######F#T#",
+    "I##R#T##R#ALLOY",
+    "L#LOGOGRAM#A#R#",
+    "I##A#W##D##RAIN",
+    "###CLEARANCE#N#",
+    "BATH#R##R####G#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Paved area where aircraft are parked and serviced",
+      "6": "Footwear that increases a swimmer's kick",
+      "7": "Curved transparent object that focuses or spreads light",
+      "8": "Region of sky managed by a control authority",
+      "10": "Test at the end of a term",
+      "13": "Sticky substance used to hold a fold in place",
+      "15": "Celebrated female singer",
+      "17": "Muscular organ that sends blood around the body",
+      "20": "Radio channel used by pilots and controllers",
+      "21": "Large plastic ring spun around the waist",
+      "24": "Metal mixture",
+      "25": "Sign that stands for a whole word",
+      "26": "Water that falls from clouds",
+      "27": "Official approval for a planned aircraft movement",
+      "28": "Tub for soaking"
+    },
+    "down": {
+      "1": "Small dry piece of feed",
+      "2": "Long paved strip used for takeoffs and landings",
+      "3": "Mesh scoop used to move a small fish",
+      "4": "Instrument showing an aircraft's height",
+      "5": "Tiny insect that lives in a colony",
+      "6": "Front part of a person's head",
+      "9": "Fabric surface that catches the wind",
+      "11": "Remove or rearrange parts of an audio program",
+      "12": "Large body of salt water",
+      "14": "Lamp marking the edge or end of a runway",
+      "16": "Giving a pilot directions to guide a route",
+      "18": "Flight path followed while preparing to land",
+      "19": "Hot pepper",
+      "22": "Building from which controllers watch an airport",
+      "23": "System that detects aircraft with radio waves"
+    }
+  },
+  "order": 352
+}

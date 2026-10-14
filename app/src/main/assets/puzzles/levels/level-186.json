@@ -1,40 +1,44 @@
 {
   "id": "level-186",
-  "title": "Ancient Coinage",
+  "title": "Birthday Cards",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "####SPECIE###A",
-    "##R##O#######L",
-    "##E#DRACHMA##L",
-    "##V##T#O#####O",
-    "#DENARIUS#TROY",
-    "M#R##A#N####B#",
-    "INSCRIPTION#V#",
-    "N#E##T#E####E#",
-    "T######R####R#",
-    "##NUMISMATICS#",
-    "#######A####E#",
-    "#TREASURY#####",
-    "#######K######"
+    "INVITATION#",
+    "N#I#A#H##A#",
+    "S#STREAMER#",
+    "E#I###N##R#",
+    "T#T#CAKE#A#",
+    "#I#W##Y#ATP",
+    "#MAILBOX#O#",
+    "#P#S##U#ARM",
+    "LATHER##G#O",
+    "#C###Y#PASS",
+    "STICKER#R#S"
   ],
   "clues": {
     "across": {
-      "1": "Coins made from precious metal",
-      "5": "Ancient Greek unit of money and weight",
-      "7": "Silver coin used in ancient Rome",
-      "8": "Weight system used for precious metals",
-      "11": "Words engraved on a hard surface",
-      "12": "Study or collection of coins and currency",
-      "13": "Place where public money is kept"
+      "1": "Written request to join a birthday party",
+      "6": "Long paper decoration hung for a celebration",
+      "7": "Sweet baked treat served at a party",
+      "10": "Cell's main short-term energy-carrying molecule",
+      "11": "Container where letters are collected",
+      "12": "Limb between a shoulder and a hand",
+      "14": "Foam made when soap is mixed with water",
+      "16": "First controlled touch after receiving a serve",
+      "17": "Adhesive decoration pressed onto a package"
     },
     "down": {
-      "2": "Image of a person on a coin",
-      "3": "Mixture of two or more metals",
-      "4": "Back side of a coin",
-      "6": "Extra stamped mark added to a coin",
-      "9": "Front side of a coin",
-      "10": "Place where coins are made"
+      "1": "Small extra map in a corner",
+      "2": "Meet an animal before taking it home",
+      "3": "Sticky substance used to protect seams and rope",
+      "4": "Polite words said after receiving a gift",
+      "5": "Voice that tells a story in verse",
+      "8": "Consequence a debater says follows from a claim",
+      "9": "Hope for someone's happiness",
+      "12": "Gel used as a growth medium",
+      "13": "Soft green growth on damp stone",
+      "15": "Dark grain for bread"
     }
   },
   "order": 186

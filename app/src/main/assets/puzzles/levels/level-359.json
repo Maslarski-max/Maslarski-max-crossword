@@ -1,0 +1,61 @@
+{
+  "id": "level-359",
+  "title": "Radio Broadcasting",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "TRANSMITTER#B##",
+    "A#N#######AGAR#",
+    "X#N##C#STAY#Y##",
+    "#PODCAST#P#J#N#",
+    "##U##N#AIRTIME#",
+    "FAN##A#T#O#N#W#",
+    "##CALLSIGN#G#S#",
+    "##E####O##BLACK",
+    "#FREQUENCY#E#A#",
+    "#######I#####S#",
+    "##S#STUDIO#GATE",
+    "ZETA#U####A#U#P",
+    "E#U##N##TORONTO",
+    "R#MIXER#E#M#T#C",
+    "O#P##R#WAXY###H"
+  ],
+  "clues": {
+    "across": {
+      "1": "Device that sends a signal through the air",
+      "5": "Gel used as a growth medium",
+      "7": "Remain in one place",
+      "9": "Recorded programme available for later listening",
+      "12": "Time reserved for a programme or announcement",
+      "13": "Rotating device that drives air through the passage",
+      "14": "Letters used to identify a radio station",
+      "15": "Colour of night",
+      "16": "Number of wave cycles occurring each second",
+      "18": "Room designed for making a radio programme",
+      "20": "Opening in a fence",
+      "23": "Sixth Greek letter",
+      "25": "Canada's largest city",
+      "26": "Console that balances several audio sources",
+      "27": "Having a surface that helps limit water loss"
+    },
+    "down": {
+      "1": "Required payment collected by a government",
+      "2": "Person who introduces news or music on air",
+      "3": "Idealized straight path followed by light",
+      "4": "Marked space where a vehicle can be left",
+      "6": "Man-made waterway carrying irrigation supplies",
+      "7": "Short message naming a broadcaster",
+      "8": "Cloth worn to keep clothes clean",
+      "10": "Short tune used to identify a station",
+      "11": "Scheduled radio report of current events",
+      "17": "Base left after a tree is cut or broken",
+      "19": "Device that selects a radio station",
+      "21": "Your parent's sister",
+      "22": "Division of geological time",
+      "23": "Starting number shown before weighing",
+      "24": "Organized force trained to fight",
+      "25": "Drink brewed from leaves"
+    }
+  },
+  "order": 359
+}

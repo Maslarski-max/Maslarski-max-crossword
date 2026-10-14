@@ -1,0 +1,62 @@
+{
+  "id": "level-371",
+  "title": "Ballet Production",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "CAB#GCD##ISOLDE",
+    "H##C#E#O##W#E##",
+    "O#BALLERINA#D##",
+    "R##L#L#C##Y##C#",
+    "E##LEOTARD#BOOK",
+    "O##B##I#A##E#N#",
+    "G##O##POINTE#G#",
+    "RADAR#T#N#U##R#",
+    "A##R##O##ATRIUM",
+    "PASDEDEUX#U##E#",
+    "H#U#N#S##T#DUNE",
+    "Y#S#A##SEA###C#",
+    "#HAMMOCK#PRIME#",
+    "####E##I#E##A##",
+    "OCCULTING###YAW"
+  ],
+  "clues": {
+    "across": {
+      "1": "Enclosed space where the driver sits",
+      "2": "Greatest common divisor of two or more integers",
+      "4": "Wagner's Irish princess",
+      "9": "Female principal dancer in a ballet company",
+      "11": "Close-fitting one-piece garment worn for dance",
+      "14": "Novel, for example",
+      "15": "Technique of balancing on the tips of the toes",
+      "17": "System that detects aircraft with radio waves",
+      "18": "Open central hall",
+      "19": "Dance performed by two principal dancers",
+      "23": "Low mound of beach sand shaped by wind",
+      "24": "Large body of salt water",
+      "25": "Fabric sling used for resting outdoors",
+      "26": "Number divisible only by one and itself",
+      "28": "Light pattern with longer bright periods than dark ones",
+      "29": "Rotation that turns a turbine toward the wind"
+    },
+    "down": {
+      "1": "Planned sequence of movements for a dance",
+      "3": "Seated bowed string instrument",
+      "5": "Move gently from side to side",
+      "6": "Tiny bright lamp used in modern devices",
+      "7": "Notice board listing company rehearsal information",
+      "8": "Killer whale",
+      "10": "Relation between integers with equal remainders",
+      "12": "Dancing with the body balanced on toe tips",
+      "13": "Water that can wash drawings away",
+      "14": "Insect that makes honey",
+      "16": "Short skirt worn by many classical dancers",
+      "20": "Ancient city used as an Achaemenid royal residence",
+      "21": "Decoration added on top of a fired glaze",
+      "22": "Sticky strip used to seal a carton",
+      "24": "Outer body covering that blocks many germs",
+      "27": "Fifth month"
+    }
+  },
+  "order": 371
+}

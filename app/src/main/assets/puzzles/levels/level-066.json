@@ -1,36 +1,33 @@
 {
   "id": "level-066",
-  "title": "Human Body",
+  "title": "Home Sewing Box",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "VEIN#STOMACH",
-    "###E#P######",
-    "##BRAIN#L###",
-    "###V#N##U#S#",
-    "#SKELETON#K#",
-    "##I#I###G#U#",
-    "##D#V#MUSCLE",
-    "##N#E#####L#",
-    "#HEART######",
-    "##Y#########"
+    "SEAM#C#G#",
+    "C##I#O#L#",
+    "I##CORDON",
+    "SASH#T#W#",
+    "S##A#I##M",
+    "OBVERSE#A",
+    "R##L#O##S",
+    "STAINLESS",
+    "###S#####"
   ],
   "clues": {
     "across": {
-      "1": "Blood vessel to the heart",
-      "3": "Where food is digested",
-      "4": "Organ that thinks",
-      "7": "Frame of bones",
-      "10": "Tissue that moves the body",
-      "11": "Organ that pumps blood"
+      "1": "Line where two pieces of cloth are joined",
+      "5": "Branch trained horizontally along a support",
+      "6": "Band worn across the body as a mark of honour",
+      "8": "Front side of a coin",
+      "9": "Type of steel that resists rust"
     },
     "down": {
-      "2": "It carries signals to the brain",
-      "3": "Backbone",
-      "5": "You breathe with them",
-      "6": "Bone that protects the brain",
-      "8": "Bean-shaped organ",
-      "9": "Organ that filters the blood"
+      "1": "Tool with two blades for cutting",
+      "2": "Scientist whose name appears in a common enzyme model",
+      "3": "Hormone involved in the body's response to stress",
+      "4": "Soft light made by some deep-sea animals",
+      "7": "Measure of the amount of matter in a particle"
     }
   },
   "order": 66

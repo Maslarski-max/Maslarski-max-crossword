@@ -1,43 +1,37 @@
 {
   "id": "level-102",
-  "title": "Arctic and Antarctic",
+  "title": "Bakery Counter",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "####PUFFIN####",
-    "########N###W#",
-    "##CARIBOU###A#",
-    "#F###C##I###L#",
-    "SLEDGE##TUNDRA",
-    "#O###B####A#U#",
-    "#E##PERMAFROST",
-    "#####R##U#W###",
-    "#####G##R#H###",
-    "#######POLAR##",
-    "######K#R#L###",
-    "#####ORCA#####",
-    "######I#######",
-    "######L#######",
-    "######L#######"
+    "CROISSANT#",
+    "#####P###D",
+    "#PASTRY##A",
+    "T##A#I#L#N",
+    "O##CANNOLI",
+    "PUCK#K#A#S",
+    "I####L#F#H",
+    "C#BAGEL#C#",
+    "##U#####O#",
+    "#SNOWPLOW#"
   ],
   "clues": {
     "across": {
-      "1": "Seabird with a colourful beak",
-      "4": "North American reindeer",
-      "7": "Sled pulled by dogs",
-      "8": "Treeless frozen plain",
-      "10": "Ground that stays frozen",
-      "12": "Relating to the poles",
-      "14": "Killer whale"
+      "1": "Flaky crescent-shaped pastry",
+      "4": "Baked dough used for pies and sweet treats",
+      "8": "Crisp tube pastry filled with sweet ricotta",
+      "9": "Flat black disc struck across the ice",
+      "10": "Chewy bread ring often eaten at breakfast",
+      "12": "Vehicle fitted with a blade to clear roads"
     },
     "down": {
-      "2": "People of the Arctic",
-      "3": "Tusked Arctic mammal",
-      "5": "Floating mass of ice",
-      "6": "Sheet of floating ice",
-      "9": "Whale with a long tusk",
-      "11": "Northern or southern lights",
-      "13": "Tiny shrimp whales eat"
+      "2": "Tiny piece of candy scattered on a treat",
+      "3": "Sweet pastry often filled with fruit or cheese",
+      "5": "Large cloth bag used to form a figure's head",
+      "6": "Subject assigned for the round",
+      "7": "Shaped mass of bread for slicing",
+      "10": "Small round bread roll",
+      "11": "Farm animal that gives milk"
     }
   },
   "order": 102

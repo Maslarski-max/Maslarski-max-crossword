@@ -1,0 +1,62 @@
+{
+  "id": "level-378",
+  "title": "Mountain Weather",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "DOWNDRAFT#THOR#",
+    "O#H#O###E####E#",
+    "WRISTER#SQUALL#",
+    "N#T#####T##V#I#",
+    "HUE#LACE###A#E#",
+    "I#O#E#R##UPLIFT",
+    "L#URETER#P#A##R",
+    "LOT#W#V##H#NEVE",
+    "W###A#A##I#C##E",
+    "ICECRYSTAL#HEEL",
+    "N#L#D#S##L#E##I",
+    "DIET#RESAW##CAN",
+    "##G##O#A#I##R#E",
+    "FRY##ALPENGLOW#",
+    "###MUD#A#D##W##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Strong flow of air sinking toward the ground",
+      "5": "Norse god with a hammer",
+      "7": "Quick shot made mainly with a flick of the wrists",
+      "8": "Sudden burst of strong wind",
+      "10": "Property of visible light that varies with wavelength",
+      "11": "Cord threaded through holes to secure a shoe",
+      "13": "Rise of air forced up a mountainside",
+      "15": "Tube that carries urine from a kidney to the bladder",
+      "16": "Single item or group offered for sale",
+      "17": "Old granular snow that feeds a glacier",
+      "18": "Thin layer of ice crystals on a cold surface",
+      "20": "Back part of a shoe beneath the foot",
+      "21": "Food and drink prescribed as part of a treatment",
+      "22": "Saw a thick piece of wood into thinner boards",
+      "24": "Metal container often collected for reuse",
+      "25": "Cook an egg in a shallow pan",
+      "26": "Reddish light on mountain peaks near sunrise or sunset",
+      "27": "Wet earth at the bottom"
+    },
+    "down": {
+      "1": "Cold air current flowing down a mountain slope",
+      "2": "Condition in which snow and sky blend together",
+      "3": "Tiny round mark",
+      "4": "Check to learn how something works",
+      "6": "Carving raised from a flat surface",
+      "9": "Rapid flow of snow down a steep slope",
+      "11": "Facing away from the direction of the wind",
+      "12": "Deep crack in the surface of a glacier",
+      "13": "Air current that moves up a mountain slope",
+      "14": "Highest elevation where trees can grow",
+      "19": "Poem of mourning or serious reflection",
+      "22": "Street for cars",
+      "23": "Title used for the Inca ruler",
+      "24": "Black bird known for clever behaviour"
+    }
+  },
+  "order": 378
+}

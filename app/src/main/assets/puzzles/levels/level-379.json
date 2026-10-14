@@ -1,0 +1,62 @@
+{
+  "id": "level-379",
+  "title": "Bridge Engineering",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "COMPRESSION##T#",
+    "###O#X#K####SUM",
+    "###N#P#YAW#T#C#",
+    "ROADWAY###DECK#",
+    "A#B##N###B#N##A",
+    "I#U##SUSPENSION",
+    "LOT##I#P#A#I##C",
+    "##M#IOTA#R#OATH",
+    "PIER#N#N#ION##O",
+    "Y#N###A##N####R",
+    "L#TOWER##G#RED#",
+    "O##A##C#S##O#E#",
+    "N##K#SHOES#DRIP",
+    "###U####A##I#T#",
+    "#COMPOSITION#Y#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Squeezing force acting through a structure",
+      "6": "Result found by adding numbers",
+      "7": "Rotation of an aircraft about its vertical axis",
+      "9": "Surface of a bridge used by cars and trucks",
+      "11": "Surface that carries traffic across a bridge",
+      "14": "Bridge type with a deck hanging from main cables",
+      "16": "Single item or group offered for sale",
+      "17": "Tiny amount, or a Greek letter",
+      "18": "Serious promise to tell the truth",
+      "19": "Upright support placed beneath a bridge",
+      "20": "Atom or molecule carrying an electric charge",
+      "22": "Tall structure that holds up a bridge's main cables",
+      "24": "Colour of a stop sign",
+      "27": "Footwear store item",
+      "28": "Drop that falls from a melting snack",
+      "29": "Arrangement of figures and objects in a picture"
+    },
+    "down": {
+      "2": "Small still body of water",
+      "3": "Planned movement as bridge materials warm or cool",
+      "4": "Space above the ground",
+      "5": "Narrow stitched fold used for shaping or decoration",
+      "8": "Pulling force acting along a structural member",
+      "9": "Raised barrier that helps keep vehicles on a bridge",
+      "10": "Strong support at either end of a bridge",
+      "12": "Part that lets a bridge move slightly as temperatures change",
+      "13": "Heavy fitting that secures the end of a cable",
+      "15": "Distance covered between two bridge supports",
+      "19": "Tall upright tower that holds bridge cables",
+      "21": "Curved structure that carries weight toward its supports",
+      "23": "Fiber used to seal gaps between a ship's planks",
+      "24": "Sculptor of The Thinker",
+      "25": "God or goddess worshipped in a religion",
+      "26": "Place where a rider sits"
+    }
+  },
+  "order": 379
+}

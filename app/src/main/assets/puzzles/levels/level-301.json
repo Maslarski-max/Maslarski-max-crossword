@@ -1,0 +1,56 @@
+{
+  "id": "level-301",
+  "title": "Farmers Market",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "STALLHOLDER###",
+    "O##O#A####Y###",
+    "Y##TURNIP#EMMA",
+    "#R###V##R##O##",
+    "HAGGLE#WEIGH#B",
+    "#D###S##S##S#U",
+    "NITRITE#E#P##N",
+    "#S##O##ORGANIC",
+    "CHUTNEY#V#R##H",
+    "A###D##PERSIA#",
+    "PAPER##A##L###",
+    "E#O#I#CRATE##S",
+    "##L#V##T##YOLK",
+    "BIOMETRY#####Y"
+  ],
+  "clues": {
+    "across": {
+      "1": "Person who sells goods at a market",
+      "5": "Round root vegetable with a pale top",
+      "7": "Austen heroine and matchmaker",
+      "10": "Bargain over a price",
+      "11": "Find how heavy something is",
+      "13": "Toxic compound formed during the aquarium nitrogen cycle",
+      "16": "Grown without most synthetic farm chemicals",
+      "17": "Spiced fruit or vegetable relish",
+      "18": "Ancient name for the land now called Iran",
+      "19": "Sheet that receives a written mark",
+      "21": "Open box used to carry produce",
+      "23": "Stored food that nourishes an embryo",
+      "24": "Measurement of dimensions in a living body"
+    },
+    "down": {
+      "1": "Plant source for some candle wax",
+      "2": "Single item or group offered for sale",
+      "3": "Crops gathered when they are ripe",
+      "4": "Dark grain for bread",
+      "6": "Fruit cooked and stored for later",
+      "8": "Name of the scale that ranks mineral hardness",
+      "9": "Crisp root with a peppery taste",
+      "12": "Group of vegetables tied together",
+      "14": "Engine that accelerates charged particles",
+      "15": "Leafy herb used as a garnish",
+      "17": "Cover worn to keep loose hair off clothes",
+      "18": "Celebration with games or guests",
+      "20": "Sport played on horseback",
+      "22": "Space above the ground"
+    }
+  },
+  "order": 301
+}

@@ -1,42 +1,34 @@
 {
   "id": "level-079",
-  "title": "Architecture",
+  "title": "Sleepover Party",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "####P########A#",
-    "#C##O########T#",
-    "BUTTRESS#####R#",
-    "#P##T##P#####I#",
-    "MOSAIC#I#####U#",
-    "#L##C##R#COLUMN",
-    "GARGOYLE###I###",
-    "###O#######N###",
-    "###T##F####T###",
-    "###H#BAROQUE###",
-    "###I##C####L###",
-    "#ARCHWAY#######",
-    "######D########",
-    "CORNICE########"
+    "SNACK###V",
+    "L#M###ACE",
+    "E#S##B##R",
+    "E##Y#L##D",
+    "PAJAMAS#I",
+    "O##W#N##C",
+    "VEIN#KANT",
+    "E####E###",
+    "RECEPTOR#"
   ],
   "clues": {
     "across": {
-      "4": "Support built against a wall",
-      "6": "Picture made of small tiles",
-      "7": "Upright pillar",
-      "9": "Carved spout on a cathedral",
-      "12": "Ornate seventeenth-century style",
-      "13": "Curved opening",
-      "14": "Moulding along the top of a wall"
+      "1": "Small bite between meals",
+      "4": "Serve the opponent cannot return",
+      "7": "Clothes worn for bed",
+      "8": "Vessel returning blood toward the heart",
+      "9": "Author of Critique of Pure Reason",
+      "10": "Protein that detects a chemical or physical signal"
     },
     "down": {
-      "1": "Columned porch",
-      "2": "Open central hall",
-      "3": "Small dome on a roof",
-      "5": "Tapering point of a steeple",
-      "8": "Beam over a door",
-      "10": "Style with pointed arches",
-      "11": "Front face of a building"
+      "1": "Night spent at a friend's home",
+      "2": "Method that counts individual atoms in a sample",
+      "3": "Jury's finding",
+      "5": "Warm bed covering",
+      "6": "Wide opening of the mouth when tired"
     }
   },
   "order": 79

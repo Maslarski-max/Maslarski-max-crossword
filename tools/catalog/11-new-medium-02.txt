@@ -1,0 +1,439 @@
+=== Government Cabinet | MEDIUM
+CABINET | Senior group of ministers advising the head of government
+MINISTER | Elected or appointed official leading a department
+PORTFOLIO | Set of responsibilities assigned to a minister
+COALITION | Government formed by several political parties
+MAJORITY | More than half of the votes or seats
+OPPOSITION | Parties not currently leading the government
+CAUCUS | Meeting of members from one political party
+BALLOT | Paper or electronic form used to cast a vote
+CONSTITUENCY | Area represented by an elected lawmaker
+CANDIDATE | Person seeking election to public office
+SESSION | Period when a legislature meets to do business
+BILL | Proposed law presented to a legislature
+COMMITTEE | Small group assigned to examine a public issue
+QUORUM | Minimum number of members needed to conduct business
+DEBATE | Formal exchange of arguments on a motion
+AMENDMENT | Proposed change to a bill or motion
+VETO | Official rejection of a proposed law
+SENATE | Upper chamber in some national legislatures
+CHAMBER | One of the debating rooms in a legislature
+SPEAKER | Presiding officer who keeps order in a lower house
+
+=== Coffee Roasting | MEDIUM
+GREENBEAN | Unroasted seed prepared for roasting
+ROASTER | Heated drum or machine that browns coffee seeds
+CHAFF | Papery skin released during the heating process
+MAILLARD | Browning reaction that develops flavour under heat
+CARAMELIZE | Turn sugars brown through prolonged heating
+FIRSTCRACK | Audible popping stage as beans expand
+SECONDCRACK | Later popping stage during a darker roast
+COOLINGTRAY | Perforated surface used to stop the roast
+PROFILE | Planned curve of heat and time for one batch
+DECAF | Coffee treated to remove most of its caffeine
+ARABICA | Major coffee species prized for its flavour
+ROBUSTA | Coffee species often used in strong blends
+ACIDITY | Bright, tart quality noticed when tasting a brew
+BODY | Weight or fullness of coffee on the tongue
+ORIGIN | Farm or region where a coffee crop was grown
+GRIND | Crushed coffee prepared for brewing
+ESPRESSO | Concentrated coffee pulled under high pressure
+ROASTLEVEL | Degree of darkness reached by the heated seeds
+RESTING | Short wait that lets newly roasted beans release gas
+BLEND | Mix of beans from different crops or regions
+
+=== Telescope Optics | MEDIUM
+NEWTONIAN | Telescope design with a concave main mirror and a diagonal secondary
+REFRACTOR | Telescope that bends incoming light through lenses
+APERTURE | Diameter of the main light-gathering opening
+OBJECTIVE | Main lens or mirror that collects distant light
+EYEPIECE | Small lens assembly used to view the image
+OCULAR | Optical part placed nearest the observer's eye
+FOCUSER | Sliding holder used to sharpen the image
+DIAGONAL | Angled fitting that sends a view upward to the eyepiece
+LENS | Curved glass that bends rays into focus
+PRISM | Transparent shape that separates white light into colours
+PLANET | World such as Jupiter that can be viewed through a telescope
+ALIGNMENT | Straight arrangement of optical parts for a clear image
+FOCALPLANE | Surface where a sharp image comes to a focus
+MOUNT | Support that holds and points a telescope
+FINDERSCOPE | Small aiming telescope fixed beside the main tube
+REFLECTOR | Telescope that gathers light with a mirror
+MAGNIFY | Make a distant object appear larger
+TRIPOD | Three-legged stand that steadies a telescope
+TUBE | Long body that blocks stray light from the lens
+VIEW | What a stargazer sees through the eyepiece
+
+=== City Park Design | MEDIUM
+PROMENADE | Broad walkway intended for leisurely strolling
+PERGOLA | Open framework that can support climbing plants
+GAZEBO | Small roofed structure offering a place to rest
+PAVILION | Large covered space used for gatherings or events
+BANDSTAND | Raised outdoor platform for musicians
+ARBORETUM | Garden devoted mainly to labelled trees
+MEADOW | Open grassy area planted with wildflowers
+PLAYFIELD | Open ground set aside for recreation
+PLAYGROUND | Outdoor area with equipment for children's games
+FLOWERBED | Plot of soil planted with blossoms
+GREENWAY | Long planted route for walking or cycling
+PATHWAY | Designed route through a landscaped space
+KIOSK | Small booth selling refreshments or park maps
+LAWN | Open area of grass in a park
+FOUNTAIN | Water feature that sends jets into the air
+PAVERS | Flat stones laid along a garden walk
+TRELLIS | Lattice frame used to support vines
+LANDSCAPE | Arrangement of plants, paths, and open spaces
+LAKESIDE | Area of a park along the edge of a lake
+ORCHARD | Group of fruit trees in a planned planting
+
+=== Archaeological Dig | MEDIUM
+TRENCH | Long narrow cut used to expose buried layers
+PAINTBRUSH | Soft tool used to clear loose soil from a find
+LAYER | Distinct level of soil containing archaeological finds
+SITE | Place where archaeologists study objects from the past
+ARTIFACT | Object made or altered by people in the past
+SIEVE | Mesh frame used to sort soil from small finds
+GRID | Set of measured squares laid over an excavation
+TROWEL | Small hand tool used to remove soil carefully
+SHERD | Broken piece of ancient pottery
+DEPOSIT | Material accumulated in a particular place
+EXCAVATE | Remove earth in a careful, recorded way
+SURVEY | Systematic study of a site before digging
+CARBONDATE | Estimate the age of organic material by isotope decay
+BURIAL | Grave containing human remains
+COIN | Metal piece that may reveal where an object came from
+HEARTH | Fire site that can show how a place was used
+FEATURE | Nonportable trace such as a hearth or posthole
+SOIL | Loose earth removed during an excavation
+SCREENING | Passing soil through mesh to find tiny objects
+NOTEBOOK | Book used to record observations at a dig
+
+=== Harbor Pilotage | MEDIUM
+PILOT | Local expert who guides a ship into or out of port
+CHANNEL | Deeper route through which vessels can safely pass
+BUOY | Floating marker showing a channel or hazard
+BEACON | Fixed light used to mark a harbour entrance
+SOUNDING | Measurement of water depth beneath a vessel
+DRAUGHT | Depth of a ship's hull below the waterline
+TUGBOAT | Powerful small vessel that manoeuvres larger ships
+MOORING | Lines or equipment securing a vessel in place
+BERTH | Assigned place where a ship can tie up
+QUAYSIDE | Edge of a harbour where vessels load and unload
+DOCKMASTER | Official who coordinates traffic and berths in a dock
+LEADLINE | Weighted rope used to check water depth
+FAIRWAY | Main navigable passage through a harbour
+BREAKWATER | Barrier that shields a harbour from heavy waves
+ANCHORAGE | Protected water where ships can drop anchor
+LIGHTSHIP | Vessel carrying a navigational light offshore
+TIDESTREAM | Current produced by the regular movement of tides
+RUDDER | Flat steering surface at the stern of a vessel
+HELMSMAN | Person who steers a ship
+GUIDANCE | Service of guiding vessels through local waters
+
+=== University Campus | MEDIUM
+QUADRANGLE | Open courtyard surrounded by campus buildings
+LECTUREHALL | Large room where a teacher addresses a class
+SEMINAR | Small class built around discussion
+REGISTRAR | Officer responsible for student records and enrolment
+BURSAR | University officer who manages financial accounts
+TENURE | Continuing academic appointment after a review
+FACULTY | Teachers and researchers at a college
+SYLLABUS | Outline of topics and work for a course
+CREDITS | Units awarded for completing a course
+FRESHMAN | Student in the first year of college
+SOPHOMORE | Student in the second year of college
+CAPSTONE | Final project that draws together a course of study
+DISSERTATION | Long research work submitted for an advanced degree
+THESIS | Extended argument supported by research
+LABORATORY | Campus room equipped for experiments
+DEAN | Senior academic who leads a school or faculty
+PROVOST | Chief academic officer at some universities
+ALUMNI | Graduates of a school or college
+DEPARTMENT | Academic unit devoted to one subject area
+TRANSCRIPT | Official record of a student's course results
+
+=== Orchestra Rehearsal | MEDIUM
+CONDUCTOR | Musician who directs an ensemble's performance
+BATON | Slim stick used to mark a beat
+SCORE | Written music showing the parts of a composition
+PARTITURE | Full score containing every instrumental line
+SECTION | Group of players using related instruments
+ENSEMBLE | Group of musicians performing together
+DOWNBEAT | First beat of a measure, marked by the director
+REHEARSAL | Practice session before a public performance
+CUE | Signal telling a player when to begin
+PITCH | Highness or lowness of a musical tone
+TEMPO | Speed at which a passage should be played
+ENTRANCE | Point where a player or section starts
+DYNAMICS | Instructions for changes in musical loudness
+CADENZA | Solo passage that displays a performer's skill
+FERMATA | Mark telling a player to hold a note longer
+ARTICULATION | Manner in which notes are started and connected
+PHRASE | Short musical idea played as one expressive unit
+SEATING | Arrangement of players on the stage
+TUNING | Adjustment that brings instruments to the right pitch
+UPBOW | Bow stroke drawn from tip toward the hand
+
+=== Postal Sorting | MEDIUM
+SORTING | Separating letters and parcels by their destination
+POSTMARK | Ink mark showing when and where a letter entered the mail
+FRANKING | Adding an approved mark to show postage is paid
+MAILER | Prepaid paper or padded cover for a shipment
+PARCEL | Wrapped package sent through a delivery service
+DELIVERY | Carrying an item to its named recipient
+COURIER | Person or company that transports urgent items
+POSTALMETER | Machine that prints proof of prepaid mailing
+ZIPCODE | Digits that help route mail to a delivery area
+MAILSACK | Strong bag used to carry letters between offices
+POSTBOX | Public container where letters are deposited
+REGISTERED | Sent with a record of handling and receipt
+AIRMAIL | Service that carries letters by aircraft
+BULKMAIL | Large quantity of similarly addressed mail
+ROUTING | Directing an item through the correct postal offices
+FORWARDING | Sending mail onward after a recipient has moved
+CARRIERAREA | Postal area assigned to one mail carrier
+COUNTER | Service desk where postage and parcels are accepted
+DISPATCH | Sending sorted mail onward to another office
+CANCEL | Mark that prevents a postage stamp from being reused
+
+=== Mineral Collection | MEDIUM
+SPECIMEN | Individual sample kept for study or display
+CRYSTAL | Solid with atoms arranged in a repeating pattern
+GEODE | Hollow rock lined with inward-growing crystals
+QUARTZ | Hard mineral common in many kinds of rock
+FELDSPAR | Mineral group found in much of Earth's crust
+MICA | Mineral that splits into thin flexible sheets
+GARNET | Often red gemstone used in jewellery and abrasives
+PYRITE | Brassy mineral sometimes nicknamed fool's gold
+FLUORITE | Colourful mineral that can glow under ultraviolet light
+CALCITE | Common mineral that fizzes in weak acid
+DOLOMITE | Carbonate mineral named for a French geologist
+GYPSUM | Soft mineral used to make plaster
+HALITE | Cubic mineral form of ordinary table salt
+OLIVINE | Green mineral found in some volcanic rocks
+HEMATITE | Iron-rich mineral with a reddish streak
+MAGNETITE | Iron ore that can attract a magnet
+STREAK | Colour left when a mineral is rubbed on porcelain
+CLEAVAGE | Tendency of a mineral to break along flat planes
+LUSTER | Way a mineral surface reflects light
+MOHS | Name of the scale that ranks mineral hardness
+
+=== Ballet Production | MEDIUM
+TUTU | Short skirt worn by many classical dancers
+TIGHTS | Close-fitting legwear used in ballet class
+LIBRETTO | Text or story outline behind a staged dance
+PASDEDEUX | Dance performed by two principal dancers
+TIPTOES | Dancing with the body balanced on toe tips
+BARRE | Horizontal rail used for warm-up exercises
+CORPS | Ensemble of dancers supporting the main roles
+BALLERINA | Female principal dancer in a ballet company
+REHEARSAL | Practice session before the audience arrives
+COSTUME | Special clothing worn by a performer
+WARDROBE | Collection of clothing used in a production
+BACKDROP | Large painted cloth forming the rear of a stage
+PROSCENIUM | Arch framing the front of a theatre stage
+CURTAIN | Fabric screen that opens or closes a performance
+LEOTARD | Close-fitting one-piece garment worn for dance
+POINTE | Technique of balancing on the tips of the toes
+CHOREOGRAPHY | Planned sequence of movements for a dance
+MATINEE | Afternoon performance at a theatre
+CALLBOARD | Notice board listing company rehearsal information
+WINGSPACE | Area just beyond the visible edge of a stage
+
+=== Farm Irrigation | MEDIUM
+DRIPLINE | Tube that delivers water slowly beside crop roots
+SPRAYLINE | Pipe fitted with outlets that water a row of crops
+FURROW | Shallow channel guiding water between crop rows
+CANAL | Man-made waterway carrying irrigation supplies
+DITCH | Narrow channel that drains or redirects water
+RESERVOIR | Stored supply of water held for later use
+PIVOT | Rotating arm that waters a circular field
+MICROSPRAY | Low-flow device for watering a small planting area
+EMITTER | Small outlet that releases water from a drip tube
+HEADGATE | Gate controlling water entering a farm channel
+DRAINAGE | Removal of excess water from soil
+CULVERT | Pipe or covered channel carrying water under a road
+TERRACE | Step cut into a slope to hold soil and water
+MOISTURE | Water held within the soil
+PUMPING | Moving water by mechanical force
+WELLHEAD | Top structure surrounding a water well
+WATERWAY | Route used to carry water across farmland
+FLOODING | Spreading water over fields to soak the soil
+IRRIGATOR | Device or worker that supplies water to crops
+WATERTABLE | Underground level below which soil stays saturated
+
+=== Road Cycling | MEDIUM
+PELOTON | Main group of riders moving together in a race
+BREAKAWAY | Small group riding ahead of the main pack
+DOMESTIQUE | Teammate who supports a race leader
+CADENCE | Number of pedal turns made in a minute
+DERAILLEUR | Mechanism that moves a chain between gears
+CRANKSET | Pedal arms and chainrings that drive a bicycle
+CASSETTE | Cluster of sprockets mounted on the rear wheel
+HANDLEBAR | Steering bar gripped by a cyclist
+DRAFTING | Riding close behind another cyclist to reduce drag
+SPRINT | Short burst of maximum speed near a finish
+CLIMBER | Rider suited to steep uphill sections
+BIBSHORT | Padded cycling shorts held up by shoulder straps
+TUBULAR | Tyre sewn around an inner tube and glued to a rim
+FEEDZONE | Race area where riders collect bottles and food
+PUNCTURE | Small hole that lets air escape from a tyre
+RACEJERSEY | Team top worn by riders during a road event
+TIMEKEEPER | Official who records elapsed race times
+ROADRACE | Cycling contest held on public or closed roads
+TEAMCAR | Support vehicle following a racing squad
+PACELINE | Row of riders taking turns against the wind
+
+=== Documentary Film | MEDIUM
+NARRATION | Spoken account that guides the viewer through a film
+INTERVIEW | Recorded conversation with a person being filmed
+FOOTAGE | Moving images captured for use in a production
+ARCHIVE | Collection of older records available to a filmmaker
+VOICEOVER | Speech heard while the speaker is not on screen
+BROLL | Supplementary images cut over narration
+SEQUENCE | Run of shots arranged to tell one part of a story
+TIMELINE | Ordered track of clips in an editing project
+EDITOR | Person who selects and arranges a film's shots
+DIRECTOR | Person who shapes the film's overall approach
+SUBJECT | Person or issue that a nonfiction film examines
+REENACTMENT | Staged version of an event from the past
+SUBTITLE | On-screen text translating or transcribing speech
+PROJECTION | Showing recorded images on a screen
+CREDITS | End titles naming the people behind a film
+PREMIERE | First public screening of a new production
+CUTAWAY | Brief shot inserted to show a related detail
+CANDID | Filmed without a posed or rehearsed response
+ROUGHCUT | Early assembled version of an edited film
+NARRATIVE | Account of events arranged into a story
+
+=== Botanical Garden | MEDIUM
+HERBARIUM | Collection of preserved, labelled plant specimens
+CONSERVATORY | Glass building used to grow delicate plants
+GLASSHOUSE | Enclosed structure that admits sunlight for cultivation
+COLLECTION | Group of living plants gathered for study or display
+TAXONOMY | Science of naming and classifying living things
+PROPAGATION | Raising new plants from seeds or cuttings
+RHIZOME | Horizontal stem that grows below or near the soil
+GREENHOUSE | Heated structure for growing plants under cover
+PERENNIAL | Plant that lives for more than two growing seasons
+BIODIVERSITY | Variety of living organisms in a place
+NURSERY | Area where young plants are raised
+ACCESSION | Recorded plant entry added to a collection
+SEEDBANK | Stored reserve of seeds kept for future use
+POLLINATOR | Animal that transfers pollen between flowers
+HORTICULTURE | Science and practice of growing garden plants
+GARDENER | Person who tends cultivated plants
+IRRIGATION | Supplying water to growing plants
+PLANTTAG | Marker identifying a plant and its origin
+SPECIES | Group of similar organisms able to reproduce
+EXSICCATA | Dried plant specimen preserved for a collection
+
+=== World Cup Stadium | MEDIUM
+TOURNAMENT | Series of matches that decides a champion
+QUALIFIER | Match used to earn a place in the finals
+REFEREE | Official who applies the rules on the field
+TOUCHLINE | Long boundary marking either side of a football pitch
+PENALTY | Kick awarded after a serious foul in the area
+OFFSIDE | Rule restricting an attacker ahead of the ball
+CORNERKICK | Restart taken from the corner arc
+GOALKEEPER | Player allowed to use hands inside the penalty area
+STRIKER | Forward whose main task is to score goals
+MIDFIELDER | Player linking defence and attack
+DEFENDER | Player whose role is to prevent scoring chances
+SUBSTITUTION | Replacement of one player by another during play
+SHOOTOUT | Series of kicks used to break a tied match
+GROUPSTAGE | Early round in which teams play within pools
+SEMIFINAL | Match that decides a place in the championship game
+FINALIST | Team that reaches the last match
+STADIUM | Large venue with seating around the field
+CHANT | Short rhythmic words sung by supporters
+ADMISSION | Pass that lets a spectator enter the ground
+EXTRATIME | Added period played when a knockout match is level
+
+=== Airshow Display | MEDIUM
+AEROBATIC | Involving skilled manoeuvres performed in the air
+FORMATION | Group of aircraft flying in a planned arrangement
+BARRELROLL | Manoeuvre in which an aircraft rolls around its path
+WINGOVER | Turn in which a plane climbs and pivots onto a new heading
+SMOKETRAIL | Coloured plume marking a plane's path through the sky
+FLYPAST | Flight made low over a viewing area
+COCKPIT | Enclosed space where a pilot controls an aircraft
+FLIGHTLINE | Area where display aircraft are parked before a show
+HANGAR | Large building used to store aircraft
+TAILDRAGGER | Plane with its small wheel beneath the tail
+BIPLANE | Aircraft with two main wings stacked vertically
+VINTAGE | Made in an earlier period and valued for its age
+SHOWGROUND | Open venue where the flying display is held
+SPOTTER | Observer who identifies and records aircraft
+WINGSPAN | Distance from one wingtip to the other
+LOOP | Aerial manoeuvre that takes the plane over the top
+YAW | Rotation of an aircraft's nose left or right around a vertical axis
+BUBBLECANOPY | Rounded clear cover around a pilot's seating area
+TARMAC | Paved surface used for aircraft parking and movement
+DISPLAYTEAM | Group of pilots performing a coordinated routine
+
+=== Mountain Weather | MEDIUM
+UPHILLWIND | Air current that moves up a mountain slope
+DOWNHILLWIND | Cold air current flowing down a mountain slope
+UPLIFT | Rise of air forced up a mountainside
+WARMWIND | Dry air that warms as it descends a mountain
+BLIZZARD | Severe snowstorm with strong winds
+ALPENGLOW | Reddish light on mountain peaks near sunrise or sunset
+WHITEOUT | Condition in which snow and sky blend together
+SNOWLINE | Elevation above which snow remains through the year
+TREELINE | Highest elevation where trees can grow
+ICECRYSTAL | Thin layer of ice crystals on a cold surface
+SLEET | Frozen rain that falls as small ice pellets
+AVALANCHE | Rapid flow of snow down a steep slope
+CREVASSE | Deep crack in the surface of a glacier
+SNOWPACK | Layers of snow resting on the mountain ground
+HOARFROST | Feathery ice crystals formed on cold exposed surfaces
+DOWNDRAFT | Strong flow of air sinking toward the ground
+UPDRAFT | Rising current of air within a cloud
+BAROMETRIC | Relating to the measurement of air pressure
+SQUALL | Sudden burst of strong wind
+LEEWARD | Facing away from the direction of the wind
+
+=== Bridge Engineering | MEDIUM
+ABUTMENT | Strong support at either end of a bridge
+PIER | Upright support placed beneath a bridge
+SPAN | Distance covered between two bridge supports
+GIRDER | Main horizontal beam carrying a bridge deck
+TRUSS | Framework of connected triangles that supports a bridge
+CABLE | Thick steel line that can carry a bridge deck
+SUSPENSION | Bridge type with a deck hanging from main cables
+DECK | Surface that carries traffic across a bridge
+BEARING | Part that lets a bridge move slightly as temperatures change
+TOWER | Tall structure that holds up a bridge's main cables
+ANCHOR | Heavy fitting that secures the end of a cable
+ARCH | Curved structure that carries weight toward its supports
+PYLON | Tall upright tower that holds bridge cables
+TENSION | Pulling force acting along a structural member
+COMPRESSION | Squeezing force acting through a structure
+FOUNDATION | Base that transfers a bridge's weight into the ground
+PILING | Long post driven into the ground to support a bridge
+EXPANSION | Planned movement as bridge materials warm or cool
+RAIL | Raised barrier that helps keep vehicles on a bridge
+ROADWAY | Surface of a bridge used by cars and trucks
+
+=== Satellite Photos | MEDIUM
+PIXEL | Smallest picture element in a digital image
+IMAGE | Picture made by a camera or other instrument
+ORBIT | Curved path followed by a satellite around a body
+CAMERA | Device that records a view of Earth from above
+LENS | Curved glass that focuses light
+INFRARED | Part of the spectrum just beyond visible red light
+CLOUD | Visible mass of droplets or ice crystals in the sky
+LAND | Solid part of Earth's surface
+OCEAN | Vast body of salt water
+LANDSAT | Name of a long-running series of Earth-observing satellites
+SWATH | Strip of ground covered during one satellite image pass
+CLOUDMASK | Image layer marking pixels hidden by clouds
+FALSECOLOR | Image style that assigns colours to show data
+MAP | Drawing that shows the position of places
+SENSOR | Part that detects light or heat
+SPACE | Region beyond Earth's atmosphere
+ROCKET | Vehicle that carries a satellite into space
+SIGNAL | Message sent from an orbiting device to a ground station
+SCENE | Single recorded view of a region from above
+RESOLUTION | Amount of detail visible in a recorded image

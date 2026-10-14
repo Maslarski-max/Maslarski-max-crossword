@@ -3,6 +3,8 @@ package com.maslarski.crossword.data.local
 import androidx.room.AutoMigration
 import androidx.room.Database
 import androidx.room.RoomDatabase
+import androidx.room.migration.Migration
+import androidx.sqlite.db.SupportSQLiteDatabase
 
 @Database(
     entities = [
@@ -17,7 +19,7 @@ import androidx.room.RoomDatabase
         EntitlementEntity::class,
         PurchaseCreditEntity::class,
     ],
-    version = 6,
+    version = 7,
     exportSchema = true,
     autoMigrations = [AutoMigration(from = 1, to = 2), AutoMigration(from = 2, to = 3), AutoMigration(from = 3, to = 4), AutoMigration(from = 4, to = 5), AutoMigration(from = 5, to = 6)],
 )
@@ -34,5 +36,15 @@ abstract class CrosswordDatabase : RoomDatabase() {
 
     companion object {
         const val NAME = "crossword.db"
+
+        val MIGRATION_6_7 = object : Migration(6, 7) {
+            override fun migrate(db: SupportSQLiteDatabase) {
+                db.execSQL(
+                    "UPDATE level_progress SET completed = 0, bestScore = 0, bestTimeSeconds = NULL, " +
+                        "stars = 0, completedAt = NULL",
+                )
+                db.execSQL("DELETE FROM board_progress WHERE sessionId LIKE 'level:%'")
+            }
+        }
     }
 }

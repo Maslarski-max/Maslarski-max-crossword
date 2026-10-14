@@ -1,36 +1,47 @@
 {
   "id": "level-219",
-  "title": "Houseplant Care",
+  "title": "Family Recipe Book",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "####WINDOW",
-    "####A#####",
-    "###STEM###",
-    "####E#####",
-    "###PRUNER#",
-    "#S#O####O#",
-    "CACTUS##O#",
-    "#U#T#O##T#",
-    "#C#I#I####",
-    "FERN#LEAF#",
-    "#R#G######"
+    "HOP##R#TREE#",
+    "A##STIR##X##",
+    "NONI#B#T#T##",
+    "D##M##FAMILY",
+    "WARMUP#B#N#E",
+    "R##E#O#L#C#A",
+    "INGREDIENT#S",
+    "T###Y##S###T",
+    "I##TEASPOON#",
+    "N####G#O#D#P",
+    "GEL#FAVORITE",
+    "#####R#N#N#G"
   ],
   "clues": {
     "across": {
-      "1": "Opening that lets daylight indoors",
-      "2": "Plant part that supports leaves",
-      "3": "Tool for trimming stems",
-      "6": "Spiny plant adapted to dry places",
-      "8": "Leafy plant that grows from spores",
-      "9": "Flat part that gathers sunlight"
+      "1": "Move with short jumps",
+      "3": "Tall plant with a trunk",
+      "5": "Move a spoon around inside a pot",
+      "6": "Tropical fruit used in food and traditional remedies",
+      "8": "People related to one another",
+      "10": "Gentle activity done before playing in the cold",
+      "12": "One item used to make a meal",
+      "14": "Small spoon used as a cooking measure",
+      "18": "Coloured sheet placed before a stage light",
+      "19": "Most liked of several choices"
     },
     "down": {
-      "1": "Clear liquid needed by a plant",
-      "3": "Placing a plant into a container",
-      "4": "Part that takes up water underground",
-      "5": "Shallow dish beneath a flowerpot",
-      "7": "Loose earth where roots grow"
+      "1": "Letters formed by hand with a pen",
+      "2": "Thin support spreading the fabric",
+      "4": "No longer alive anywhere",
+      "5": "Keep liquid just below a full boil",
+      "7": "Large spoon used as a cooking measure",
+      "9": "Tiny organism that makes bread dough rise",
+      "11": "Social group of dolphins or whales",
+      "13": "Organ that detects light and forms a visual signal",
+      "15": "Gel used as a growth medium",
+      "16": "One-eyed Norse chief god",
+      "17": "Short pin joining two pieces"
     }
   },
   "order": 219

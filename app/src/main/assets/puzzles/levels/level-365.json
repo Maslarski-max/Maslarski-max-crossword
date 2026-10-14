@@ -1,0 +1,61 @@
+{
+  "id": "level-365",
+  "title": "Archaeological Dig",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PAINTBRUSH#CORD",
+    "#U#O####C#####O",
+    "#N#T###ARTIFACT",
+    "#TRENCH#E##E#A#",
+    "A##B##A#E##ACRE",
+    "DEPOSIT#NEST#B#",
+    "D##O####I##U#O#",
+    "R#SKIRT#NEURON#",
+    "E#####R#G##E#D#",
+    "S##HERON#S##YAM",
+    "SITE##W##E#L#T#",
+    "###A##EXCAVATE#",
+    "#BURIAL#O##Y##T",
+    "###T###SIEVE##O",
+    "##SHERD#N##RIFF"
+  ],
+  "clues": {
+    "across": {
+      "1": "Soft tool used to clear loose soil from a find",
+      "5": "Twisted fibre strand used in a record",
+      "7": "Object made or altered by people in the past",
+      "10": "Long narrow cut used to expose buried layers",
+      "13": "Unit used to measure an area of farmland",
+      "14": "Material accumulated in a particular place",
+      "15": "Soft place made for resting",
+      "16": "Garment that hangs from the waist",
+      "18": "Nerve cell",
+      "19": "Long-legged bird that hunts in shallow water",
+      "21": "Tuber grown in warm island gardens",
+      "22": "Place where archaeologists study objects from the past",
+      "24": "Remove earth in a careful, recorded way",
+      "26": "Grave containing human remains",
+      "28": "Mesh frame used to sort soil from small finds",
+      "29": "Broken piece of ancient pottery",
+      "30": "Short phrase repeated by an instrument"
+    },
+    "down": {
+      "2": "Your parent's sister",
+      "3": "Book used to record observations at a dig",
+      "4": "Passing soil through mesh to find tiny objects",
+      "6": "Tiny round mark",
+      "8": "Nonportable trace such as a hearth or posthole",
+      "9": "Estimate the age of organic material by isotope decay",
+      "11": "You wear it on your head",
+      "12": "Location written on the outside for delivery",
+      "17": "Small hand tool used to remove soil carefully",
+      "19": "Fire site that can show how a place was used",
+      "20": "Large body of salt water",
+      "23": "Distinct level of soil containing archaeological finds",
+      "25": "Metal piece that may reveal where an object came from",
+      "27": "Analyzer that separates ions by travel time"
+    }
+  },
+  "order": 365
+}

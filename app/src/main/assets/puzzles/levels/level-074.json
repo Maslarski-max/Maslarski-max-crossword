@@ -1,37 +1,34 @@
 {
   "id": "level-074",
-  "title": "Puzzles and Riddles",
+  "title": "Soccer Practice",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#LOGIC#######",
-    "#####RIDDLE##",
-    "#####O####N#A",
-    "#####SOLUTION",
-    "#C###S####G#A",
-    "JIGSAW####M#G",
-    "#P#U#O##Q#A#R",
-    "#H#D#REBUS##A",
-    "#E#O#D##I###M",
-    "#R#K##MAZE###",
-    "###U#########"
+    "DRIBBLE#P",
+    "R#N###L#I",
+    "Y#J#N#L#C",
+    "B#EROSION",
+    "ARC#S#P#I",
+    "G#TOE#S#C",
+    "##I###O#K",
+    "##OUTLINE",
+    "PEN###D#R"
   ],
   "clues": {
     "across": {
-      "1": "Reasoning skill",
-      "3": "Puzzling question",
-      "6": "Answer to a puzzle",
-      "8": "Picture cut into pieces",
-      "11": "Picture puzzle for words",
-      "12": "Network of paths"
+      "1": "Move the ball with repeated small kicks",
+      "6": "Wearing away of soil by water or wind",
+      "7": "Bright discharge jumping through air between conductors",
+      "8": "Front part of a foot",
+      "9": "Outer edge of a drawn design",
+      "10": "Handheld tool that leaves a line of ink"
     },
     "down": {
-      "2": "Grid of clues and answers",
-      "4": "Mystery",
-      "5": "Word made by rearranging letters",
-      "7": "Secret code",
-      "9": "Number grid puzzle",
-      "10": "Test of knowledge"
+      "1": "Waterproof sack for keeping gear dry",
+      "2": "Transfer of viral genetic material into a host",
+      "3": "Smooth mathematical model of Earth's shape",
+      "4": "Person eating a meal outdoors",
+      "5": "Part used to sniff a treat"
     }
   },
   "order": 74

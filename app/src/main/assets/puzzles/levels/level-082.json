@@ -1,43 +1,34 @@
 {
   "id": "level-082",
-  "title": "Law and Order",
+  "title": "Stage Crew",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#######A######",
-    "##BAILIFF#####",
-    "#######F######",
-    "###A##LIBEL###",
-    "###P#T#D######",
-    "SUBPOENA######",
-    "###E#S#VERDICT",
-    "###A#T#I##E###",
-    "##PLAINTIFF###",
-    "##A##M####E###",
-    "JURY#O####N##J",
-    "##O##N####D##U",
-    "##LAWYER##A##D",
-    "##E#######N##G",
-    "#######STATUTE"
+    "COSTUME##",
+    "U#####D#M",
+    "ROSE#EDGE",
+    "T#E#P#I#C",
+    "ACTOR#C#H",
+    "I###O###A",
+    "N#ROPE##N",
+    "########I",
+    "PRAGMATIC"
   ],
   "clues": {
     "across": {
-      "2": "Court officer",
-      "4": "Written defamation",
-      "6": "Order to appear in court",
-      "7": "Jury's finding",
-      "9": "Person who brings a lawsuit",
-      "10": "Twelve who reach a verdict",
-      "12": "Person who argues a case",
-      "13": "Written law"
+      "1": "Special clothing worn for a performance",
+      "4": "Thorny flower often given on Valentine's Day",
+      "6": "Folded part stitched at the bottom",
+      "8": "Person who performs a role",
+      "9": "Strong cord used to lift scenery",
+      "10": "Dealing with things sensibly and realistically"
     },
     "down": {
-      "1": "Written sworn statement",
-      "3": "Request for a higher court review",
-      "5": "Evidence given under oath",
-      "8": "Person accused in court",
-      "9": "Early conditional release",
-      "11": "Person who presides over a court"
+      "1": "Cloth that hides the stage",
+      "2": "Relating to old Norse mythological or heroic poems",
+      "3": "Person who repairs vehicles",
+      "5": "Painted scenery for a play",
+      "7": "Object handled by an actor"
     }
   },
   "order": 82

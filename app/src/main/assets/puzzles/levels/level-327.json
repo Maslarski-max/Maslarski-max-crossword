@@ -1,0 +1,58 @@
+{
+  "id": "level-327",
+  "title": "Theatre Lighting",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "F####ZODIAC##N",
+    "O#B#####N##C#O",
+    "L#LYMPHOCYTE#D",
+    "L#A###A#U##LYE",
+    "O#CUE#TUBA#L##",
+    "W#K##D##A#LOSS",
+    "SPOTLIGHT#A##U",
+    "P#U##M##O#N##G",
+    "OAT#AMBER#TOGA",
+    "T####E####E##R",
+    "#URN#RIGGER##S",
+    "C#A#G#O#E#N##A",
+    "E#FRESNEL####N",
+    "LOT#M####BRAID"
+  ],
+  "clues": {
+    "across": {
+      "2": "Belt of sky divided into twelve named signs",
+      "7": "White blood cell that includes B and T cells",
+      "9": "Strong ingredient used to turn oils into soap",
+      "10": "Signal for a technical change",
+      "11": "Biggest brass instrument",
+      "13": "Result when a team is defeated",
+      "15": "Narrow beam that follows a performer",
+      "16": "Grain often mixed into cookie dough",
+      "17": "Warm yellow-orange lighting colour",
+      "18": "Loose garment worn by Roman citizens",
+      "19": "Vessel that can hold ashes or other remains",
+      "21": "Worker who hangs equipment above a stage",
+      "26": "Spotlight with a ridged lens",
+      "27": "Single item or group offered for sale",
+      "28": "Hairstyle made by crossing strands over one another"
+    },
+    "down": {
+      "1": "Light directed manually at a moving performer",
+      "3": "Heated box that helps eggs hatch",
+      "4": "Point where lineages split or join",
+      "5": "Sudden removal of all stage lighting",
+      "6": "Big string instrument held between the knees",
+      "8": "You wear it on your head",
+      "12": "Control that changes a lamp's brightness",
+      "13": "Stage-light unit in theatre terminology",
+      "14": "Fine crystals left when syrup cools",
+      "20": "Flat floating platform for a river trip",
+      "22": "Atom or molecule carrying an electric charge",
+      "23": "Coloured sheet placed before a stage light",
+      "24": "Clear sheet used in traditional animation",
+      "25": "Small sparkling stone fixed to a decoration"
+    }
+  },
+  "order": 327
+}

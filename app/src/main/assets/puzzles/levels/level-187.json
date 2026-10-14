@@ -1,34 +1,44 @@
 {
   "id": "level-187",
-  "title": "Pet Grooming",
+  "title": "Pet Bowl",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "COMB#######",
-    "###R#######",
-    "R##U#N##S##",
-    "I##SHAMPOO#",
-    "BATH#I##A#D",
-    "B#O#CLIPPER",
-    "O#W##S#A##Y",
-    "N#E####W##E",
-    "##L####S##R"
+    "SLOBBER#SUN",
+    "T#V###A##R#",
+    "AGAR##RIDE#",
+    "I#L#F#E##T#",
+    "N###O##CHEF",
+    "LEFTOVER#R#",
+    "E#E#D##U##P",
+    "S#E#B##N##U",
+    "SAD#O#SCOOP",
+    "##E#W##H#R#",
+    "##R#LAP#VET"
   ],
   "clues": {
     "across": {
-      "1": "Tool with teeth for untangling hair",
-      "6": "Liquid used to wash fur",
-      "7": "Wash in a tub of water",
-      "10": "Tool that trims fur"
+      "1": "Saliva that drips from an open mouth",
+      "4": "Star that warms our planet",
+      "6": "Gel used as a growth medium",
+      "7": "Trip made in a vehicle",
+      "9": "Person who cooks professionally",
+      "10": "Food remaining after a meal",
+      "13": "Feeling down",
+      "14": "Utensil used to measure dry food",
+      "16": "Take liquid into the mouth with the tongue",
+      "17": "Doctor who treats animals"
     },
     "down": {
-      "2": "Tool that smooths a pet's coat",
-      "3": "Bright strip tied in a pet's fur",
-      "4": "Hard tips trimmed during a pet's care",
-      "5": "Cleaning material that makes suds",
-      "8": "Cloth used to dry a wet animal",
-      "9": "Machine that blows warm air",
-      "11": "Soft feet of a cat or dog"
+      "1": "Rust-resistant steel used for a dish",
+      "2": "Egg shape",
+      "3": "Hard to find in a collection",
+      "5": "Tube that carries urine from a kidney to the bladder",
+      "8": "Dish used for a pet's meal",
+      "9": "Sharp sound made by biting dry food",
+      "11": "Container that holds food for an animal",
+      "12": "Young dog learning to eat solid food",
+      "15": "Rock from which useful metal can be extracted"
     }
   },
   "order": 187

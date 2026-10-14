@@ -1,0 +1,439 @@
+=== French Revolution | MEDIUM
+BASTILLE | Paris fortress stormed on July 14, 1789
+ESTATES | Three social orders of pre-revolutionary France
+JACOBINS | Political club linked to the republicans
+GIRONDINS | Revolutionary faction associated with provincial deputies
+GUILLOTINE | Device used for executions during the Reign of Terror
+MARSEILLAISE | French national song first sung by volunteers from Marseille
+ROBESPIERRE | Committee leader executed in the summer of 1794
+DANTON | Revolutionary speaker executed before Robespierre
+VERSAILLES | Palace where the royal family lived before its capture
+CONVENT | Assembly that governed France during the republic
+DIRECTORY | Five-man government that followed the Terror
+CONSULATE | Government established by Napoleon after the coup
+ARISTOCRAT | Member of France's hereditary upper class
+SANSCOULOTTE | Parisian supporter of the radical revolution
+DECREE | Official order issued by the new government
+CITIZEN | Person with rights and duties in a republic
+MONARCHY | Government led by a king or queen
+TERROR | Violent political period of 1793 and 1794
+PARIS | French capital at the centre of the uprising
+REPUBLIC | State without a hereditary monarch
+
+=== Renaissance Frescoes | MEDIUM
+FRESCO | Wall painting made on fresh plaster
+TEMPERA | Paint made by mixing pigment with egg
+SFUMATO | Soft blending technique associated with Leonardo
+CHIAROSCURO | Strong contrast between light and shadow
+TRIPTYCH | Artwork made from three joined panels
+DIPTYCH | Picture formed from two hinged panels
+ALTARPIECE | Painted work placed behind a church altar
+UNDERDRAWING | Sketch made before the final paint layer
+PERSPECTIVE | Method for showing depth on a flat surface
+GESSO | Chalky ground applied before painting a panel
+PIGMENT | Coloured powder mixed into paint
+CARTOON | Full-size preparatory drawing for a wall painting
+PANEL | Flat wooden surface prepared for paint
+VARNISH | Clear coating that protects a finished picture
+GLAZE | Thin transparent layer of paint
+COMPOSITION | Arrangement of figures and objects in a picture
+MASACCIO | Florentine painter known for early linear depth
+GIOTTO | Italian artist who painted the Scrovegni Chapel
+BRUNELLESCHI | Architect linked to the dome of Florence Cathedral
+DONATELLO | Florentine sculptor who made a bronze David
+
+=== Railway Signals | MEDIUM
+SEMAPHORE | Signal with a movable arm beside the track
+BLOCKSIGNAL | Light that marks the end of a track section
+INTERLOCK | System that prevents conflicting signal settings
+SIGNALBOX | Room where a railway operator controls routes
+SIGNALMAN | Worker who sets trackside signals
+POINTSMAN | Railway worker who operates track switches
+RELAY | Electrical switch used in a signal circuit
+HANDLAMP | Portable light carried by railway staff
+ASPECT | Meaning shown by a signal's colour or position
+CAUTION | Signal instruction to proceed carefully
+DISTANT | Advance signal warning of the next stop signal
+SHUNTING | Moving rail vehicles between tracks in a yard
+YARDMASTER | Person who directs work in a railway yard
+TELEGRAPH | Device once used to send railway messages
+TOKEN | Object giving a train authority to enter a section
+CABOOSE | Crew car formerly attached to the end of a freight train
+SIDING | Short track branching from a main line
+TRESTLE | Framework carrying a rail line across a low area
+WHISTLECODE | Set of sounds used for railway instructions
+TRACKCIRCUIT | Electrical system that detects a train on rails
+
+=== Space Probe | MEDIUM
+TELEMETRY | Sending measurements back from a distant craft
+LANDER | Spacecraft designed to touch down on a world
+ORBITER | Vehicle that circles a planet to study it
+FLYBY | Close passage past a world without landing
+IMPACTOR | Probe sent to strike a small celestial body
+PROPULSION | Force system that moves a spacecraft
+THRUSTER | Small engine used to adjust a craft's position
+SOLARPANEL | Wing-like surface that gathers sunlight for power
+ANTENNA | Part that sends or receives radio signals
+DEEPSPACE | Region far beyond Earth's nearby planets
+SPECTROMETER | Instrument that separates light into measurements
+MAGNETOMETER | Device that measures a world's magnetic field
+SPECTROGRAPH | Tool that records the colours in incoming light
+MICROPROBE | Very small device sent to examine a sample
+DUSTTRAP | Collector used to catch tiny particles in space
+HEATSHIELD | Protective layer that resists high temperatures
+TOUCHDOWN | Moment a lander reaches the surface
+SAMPLE | Small piece collected for scientific study
+IONDRIVE | Engine that accelerates charged particles
+RENDEZVOUS | Planned meeting of two vehicles in space
+
+=== Jazz Ensemble | MEDIUM
+SAXOPHONE | Reed instrument often heard in a jazz solo
+TROMBONE | Brass instrument with a sliding tube
+TRUMPET | Brass horn with three finger valves
+CLARINET | Reed instrument with a straight dark body
+UPRIGHTBASS | Tall string instrument played standing or seated
+CYMBAL | Metal percussion disc struck with a stick
+GROOVE | Pattern of beats in a piece of music
+SYNCOPATION | Stress placed on an unexpected beat
+IMPROVISE | Create a melody while the music is playing
+BLUENOTE | Jazz tone lowered slightly for expressive effect
+SCAT | Vocal jazz style using playful syllables
+SOLO | Part played or sung by one performer
+CHORUS | Repeated section of a song
+RIFF | Short phrase repeated by an instrument
+MUTE | Device placed in a bell to soften its sound
+BRUSHES | Wire-tipped sticks swept across a drum
+WALKINGBASS | Steady low line moving through a chord pattern
+VAMP | Short repeated passage used beneath a solo
+LILT | Bouncy quality created by uneven paired beats
+BANDLEADER | Musician who directs an ensemble
+
+=== Courtroom Procedure | MEDIUM
+BAILIFF | Officer who keeps order in a courtroom
+JUROR | Citizen chosen to decide facts in a trial
+PLAINTIFF | Person who brings a civil case to court
+DEFENDANT | Person accused or sued in a legal case
+TESTIMONY | Evidence given aloud by a witness
+OBJECTION | Formal challenge to a question or statement
+CROSSEXAM | Questioning of a witness by the opposing side
+VERDICT | Jury's decision about guilt or liability
+SUBPOENA | Court order requiring someone to appear
+DEPOSITION | Sworn interview recorded before a trial
+AFFIDAVIT | Written statement made under oath
+APPEAL | Request for a higher court to review a ruling
+PROSECUTOR | Lawyer who brings a criminal case for the state
+ARRAIGNMENT | Court session when a charge is read to an accused
+JURISDICTION | Court's authority to hear a particular case
+REMAND | Return of a case to a lower court for another proceeding
+TRANSCRIPT | Written record of spoken court proceedings
+OATH | Serious promise to tell the truth
+INDICTMENT | Formal charge brought against an accused person
+EXHIBIT | Item presented as evidence during a hearing
+
+=== Wetland Ecology | MEDIUM
+MARSH | Wet ground dominated by grasses and reeds
+BOG | Acidic wetland that accumulates peat
+SEDGE | Grasslike plant common in damp ground
+CATTAIL | Tall wetland plant with a brown seed head
+REEDBED | Dense stand of tall waterside plants
+FEN | Peat-forming wetland fed by mineral-rich water
+WETLAND | Land saturated long enough to support water plants
+ESTUARY | Coastal place where river water meets the sea
+WATERSHED | Land area draining toward a shared outlet
+FLOODPLAIN | Flat ground beside a river that may flood
+MANGROVE | Salt-tolerant tree growing along tropical shores
+BRACKISH | Slightly salty, as some coastal wetland water
+RIPARIAN | Relating to land beside a river or stream
+OXBOW | Curved lake left by a river bend
+HERON | Long-legged bird that hunts in shallow water
+HYDROLOGY | Study of water on and beneath the land
+INUNDATION | Covering of land by a flood
+AQUATIC | Living or growing in water
+PEATLAND | Wet ground built up from partly decayed plants
+SEDIMENT | Material carried and deposited by moving water
+
+=== Olympic Gymnastics | MEDIUM
+VAULT | Event featuring a springboard and padded table
+POMMELHORSE | Men's event with two handles on a narrow body
+UNEVENBARS | Women's event using two rails at different heights
+BALANCEBEAM | Narrow raised surface used for a routine
+FLOORROUTINE | Tumbling and dance performed on a spring floor
+DISMOUNT | Final move used to leave an apparatus
+SPOTTER | Person ready to assist during a risky move
+CHALK | Powder gymnasts use to improve their grip
+GRIPS | Hand coverings worn on some bar events
+LEOTARD | Close-fitting outfit worn for a gymnastics routine
+HANDSPRING | Move in which hands touch down before the feet
+BACKFLIP | Backward rotation ending on the feet
+SCORECARD | Sheet showing judges' marks for an exercise
+QUALIFIER | Early round that selects athletes for a final
+PODIUM | Raised platform for medal presentations
+ROTATION | Turn around an athlete's body axis
+SALTO | Aerial somersault performed during a routine
+LANDING | Moment an athlete returns to the floor
+JURY | Group of judges who evaluate a routine
+APPARATUS | Equipment used for a gymnastics event
+
+=== Ancient Pottery | MEDIUM
+AMPHORA | Two-handled vessel used to carry oil or wine
+KRATER | Wide Greek bowl for mixing wine and water
+OINOCHOE | Ancient Greek jug used for pouring wine
+HYDRIA | Three-handled vessel for carrying water
+KILN | Enclosed oven used to fire clay
+BISQUE | Unglazed pottery fired once before decorating
+SLIP | Liquid clay used to coat or join pottery
+GLAZE | Glassy coating fused onto a fired vessel
+SHERD | Broken fragment of an old ceramic object
+TERRACOTTA | Fired reddish clay used for vessels and figures
+POTTER | Craftsperson who shapes clay into vessels
+TURNTABLE | Spinning platform used to shape a pot
+COIL | Rolled strip of clay used to build a pot
+PINCHPOT | Small vessel shaped by pressing a thumb into clay
+PITFIRING | Heating clay in a simple open-air kiln
+BLACKFIGURE | Greek vase style with dark silhouettes
+REDFIGURE | Greek vase style with red figures on dark ground
+EARTHENWARE | Pottery made from fired natural clay
+GRIP | Part attached to help lift a vessel
+FOOTRING | Raised ring supporting the base of a bowl
+
+=== Tropical Cyclones | MEDIUM
+CYCLONE | Large rotating storm around a low-pressure centre
+HURRICANE | Tropical storm named in the Atlantic region
+TYPHOON | Severe tropical storm in the northwest Pacific
+EYEWALL | Ring of powerful storms around a cyclone's centre
+BAROMETER | Instrument used to measure air pressure
+STORMTIDE | Abnormally high coastal water pushed by a storm
+SURGE | Sudden rise of seawater along a shore
+LANDFALL | Arrival of a storm centre over land
+TRADEWINDS | Steady tropical winds that steer storm systems
+MONSOON | Seasonal wind shift that brings heavy rain
+RAINBAND | Curved line of showers spiralling toward a storm
+EVACUATION | Organized move away from a dangerous area
+FORECAST | Prediction of a storm's future path and strength
+SATELLITE | Spacecraft used to observe clouds and storms
+BAROCLINIC | Relating to pressure systems with tilted temperature layers
+SPIRAL | Curved pattern seen in a rotating storm
+EYECYCLE | Cycle in which a new storm ring forms
+TROPICAL | Relating to warm regions near the equator
+WINDGUST | Brief burst of fast-moving air
+RAINGAUGE | Tool used to measure collected rain
+
+=== Textile Dyeing | MEDIUM
+MORDANT | Substance that helps dye bind to cloth
+INDIGO | Deep blue dye made from certain plants
+MADDER | Root once used to produce a red dye
+WOAD | Plant used in Europe to make blue colour
+COCHINEAL | Red dye made from an insect
+ALUM | Mineral salt used in some dye baths
+BATIK | Cloth decorated by resisting dye with wax
+TIEDYE | Pattern made by tying fabric before colouring it
+SHIBORI | Japanese methods of folding and binding cloth
+RESIST | Material that blocks dye from part of a fabric
+DYELOT | Batch of cloth coloured together in one bath
+FIXATIVE | Treatment that helps colour remain in fabric
+SCOURING | Washing cloth to remove oils before dyeing
+VATDYE | Colourant applied in a reduced, soluble state
+WOOLFIBER | Animal strand that readily absorbs many dyes
+SKEIN | Loose coil of yarn prepared for colouring
+IMMERSION | Placing cloth fully into a dye bath
+RINSE | Washing out loose colour after dyeing
+VALUE | Degree of lightness or darkness in a colour
+COLORFAST | Able to resist fading or running when washed
+
+=== Air Traffic Control | MEDIUM
+TOWER | Building from which controllers watch an airport
+RADAR | System that detects aircraft with radio waves
+TRANSPONDER | Aircraft device that replies to radar signals
+RUNWAY | Long paved strip used for takeoffs and landings
+TAXIWAY | Airport path linking the runway and parking areas
+PARKINGAREA | Paved area where aircraft are parked and serviced
+AIRSPACE | Region of sky managed by a control authority
+HANDOFF | Transfer of an aircraft from one controller to another
+CLEARANCE | Official approval for a planned aircraft movement
+CALLSIGN | Radio name used to identify an aircraft
+ALTIMETER | Instrument showing an aircraft's height
+HEADING | Direction in which an aircraft's nose points
+VECTORING | Giving a pilot directions to guide a route
+SEPARATION | Safe distance maintained between aircraft
+HOLDING | Circular waiting pattern flown near an airport
+APPROACH | Flight path followed while preparing to land
+DEPARTURE | Aircraft movement away from an airport
+EDGEFLARE | Lamp marking the edge or end of a runway
+FLIGHTSTRIP | Paper record showing an aircraft's route details
+FREQUENCY | Radio channel used by pilots and controllers
+
+=== Textile Loom | MEDIUM
+WARP | Lengthwise yarns held tight on a loom
+WEFT | Crosswise yarn passed through lengthwise threads
+SHUTTLE | Tool that carries yarn across the loom
+HEDDLE | Loop that lifts a warp thread
+REED | Comb-like loom part that packs threads together
+BEAM | Roller that holds or winds the cloth
+SELVEDGE | Finished edge running along woven cloth
+TWILL | Weave pattern with diagonal ridges
+SATIN | Smooth weave with a glossy surface
+PLAINWEAVE | Simple pattern alternating over and under
+JACQUARD | Loom attachment for weaving complex patterns
+TAPESTRY | Picture or design woven into a thick cloth
+LENO | Open weave made by crossing warp threads
+THREADCOUNT | Number of threads in a measured fabric space
+LOOMWEIGHT | Heavy part that keeps warp threads under tension
+LOOMFRAME | Loom structure holding rows of lifting loops
+WINDING | Rolling yarn onto a spool or beam
+SELVEGE | Finished edge that keeps cloth from fraying
+MOTIF | Planned arrangement of coloured threads
+WEAVING | Making cloth by crossing threads at right angles
+
+=== Tidal Energy | MEDIUM
+TIDAL | Relating to the regular rise and fall of the sea
+TURBINE | Rotor turned by moving water to make power
+BARRAGE | Barrier across an inlet that holds back the tide
+LAGOON | Shallow body of water enclosed by a barrier
+SLUICE | Gate controlling water through a channel
+ESTUARY | Coastal area where river water meets salt water
+GENERATOR | Machine that changes motion into electricity
+KILOWATT | Unit equal to one thousand watts
+TIDEPOOL | Small water basin left on a shore at low tide
+CURRENT | Flow of water moving in one direction
+AMPLITUDE | Difference between the high and low water level
+PERIOD | Time taken for one complete tidal cycle
+SPRINGTIDE | Especially high tide near a new or full moon
+NEAPTIDE | Tide with a smaller than usual range
+ROTOR | Turning part inside a turbine
+UNDERWATER | Located below the surface of a body of water
+POWERGRID | Network carrying electricity to users
+MARINE | Relating to the sea
+KELP | Large seaweed that grows in coastal water
+PILOTPLANT | Small facility used to test an energy design
+
+=== Inca Empire | MEDIUM
+CUSCO | Andean city that served as the Inca capital
+SAPA | Title used for the Inca ruler
+QUECHUA | Language family spoken across the Andes
+AYLLU | Kinship community central to Andean society
+QUIPU | Knotted cords used to record information
+TAMBO | Roadside storehouse or resting place
+MITA | Labour system requiring service to the state
+INTI | Sun deity honoured by the Inca
+CORICANCHA | Temple of the Sun in the city of Cusco
+SACSAYHUAMAN | Stone fortress above the Inca capital
+MACHUPICCHU | Mountain settlement built by the Inca
+CHASQUI | Runner who carried messages along imperial roads
+LLAMA | Pack animal native to the Andes
+TERRACE | Stepped field cut into a mountainside
+ANDEAN | Relating to the mountain range of western South America
+ROADWAY | Paved route linking distant parts of the empire
+STONEWORK | Carefully fitted blocks used in Inca walls
+SUNSTONE | Sacred stone associated with solar worship
+QUITO | Northern city incorporated into the Inca realm
+EMPIRE | Territory ruled by one central authority
+
+=== Public Transit Planning | MEDIUM
+RIDERSHIP | Number of people using a transit service
+HEADWAY | Time gap between vehicles on the same route
+TRANSFER | Change from one transit line to another
+INTERCHANGE | Station connecting several routes or modes
+FAREBOX | Device that collects a rider's payment
+TURNSTILE | Rotating gate that admits one passenger at a time
+PLATFORM | Raised place where passengers board a train
+TERMINAL | Station at the end of a route
+FREQUENCY | Number of scheduled services in a time period
+CAPACITY | Number of passengers a vehicle can carry
+ACCESSIBLE | Designed for use by riders with disabilities
+STATIONROOF | Covered structure above a passenger boarding area
+ROUTEMAP | Drawing showing the path of a transit line
+EXPRESS | Service that skips some intermediate stops
+LOCAL | Service that stops at each station
+DEPOT | Site where vehicles are stored and maintained
+FOOTFALL | Number of people passing through a station
+FARECARD | Reusable card used to pay for travel
+TIMINGPOINT | Location where a schedule is checked
+FEEDERBUS | Short route connecting riders to a main service
+
+=== Planetarium Show | MEDIUM
+PROJECTOR | Device that casts an image onto a dome
+STARFIELD | Pattern of stars shown on a planetarium ceiling
+STARPATTERN | Recognized arrangement of stars in the sky
+CELESTIAL | Relating to objects in the sky
+ECLIPTIC | Apparent yearly path of the sun across the sky
+ZODIAC | Belt of sky divided into twelve named signs
+PLANETARIUM | Theatre built to display a model of the sky
+SIDEREAL | Measured with respect to distant stars
+EQUINOX | Day when daylight and darkness are nearly equal
+SOLSTICE | Date when the sun reaches its greatest yearly height
+ZENITH | Point in the sky directly overhead
+NADIR | Point in the sky directly beneath an observer
+NEBULA | Cloud of gas and dust in space
+STARCLUSTER | Group of stars held together by gravity
+LIGHTYEAR | Distance light travels in one year
+PARALLAX | Apparent shift caused by a change in viewpoint
+ORRERY | Mechanical model showing the motions of planets
+MILKYWAY | Galaxy containing our solar system
+REDGIANT | Large cool star nearing the end of its life
+SUPERNOVA | Brilliant explosion marking a star's final stage
+
+=== Insect Pollination | MEDIUM
+POLLINATOR | Animal that carries pollen between flowers
+NECTAR | Sweet liquid produced by many blossoms
+ANTHER | Part of a flower that releases pollen
+STIGMA | Sticky flower tip that receives pollen
+POLLEN | Fine grains carrying plant reproductive cells
+SEPAL | Leaflike part that protects a flower bud
+PROBOSCIS | Long feeding tube used by some insects
+BUMBLEBEE | Fuzzy bee able to vibrate a flower
+HOVERFLY | Insect that mimics a bee and visits blossoms
+SWEATBEE | Small bee attracted to salty perspiration
+POLLINIA | Compact pollen masses carried by some orchids
+PETALMARK | Markings that direct insects toward a flower's reward
+FRUITSET | Stage when a pollinated flower begins forming fruit
+STAMEN | Part associated with pollen-producing flowers
+XENOGAMY | Transfer of pollen between separate plants
+SELFING | Pollination using pollen from the same plant
+VISITATION | Insect arrival at a flower to gather food
+VIBRATION | Shaking motion that releases pollen from a blossom
+FORAGER | Insect searching blooms for food and pollen
+FORAGING | Searching for food among flowers
+
+=== Radio Broadcasting | MEDIUM
+BROADCAST | Send a programme to many listeners at once
+TRANSMITTER | Device that sends a signal through the air
+FREQUENCY | Number of wave cycles occurring each second
+ANTENNA | Structure that sends or receives radio waves
+MICROPHONE | Device that turns a voice into an electrical signal
+MIXER | Console that balances several audio sources
+STUDIO | Room designed for making a radio programme
+ANNOUNCER | Person who introduces news or music on air
+NEWSCAST | Scheduled radio report of current events
+PLAYLIST | Ordered selection of songs for a programme
+JINGLE | Short tune used to identify a station
+CARRIERWAVE | Radio energy carrying a voice or music
+RADIOWAVE | Electromagnetic wave used to carry a broadcast
+MODULATION | Changing a carrier wave to encode sound
+TUNER | Device that selects a radio station
+TUNING | Adjusting a receiver to a chosen station
+PODCAST | Recorded programme available for later listening
+CALLSIGN | Letters used to identify a radio station
+AIRTIME | Time reserved for a programme or announcement
+STATIONID | Short message naming a broadcaster
+
+=== Volleyball Match | MEDIUM
+VOLLEYBALL | Team game in which a ball crosses a high net
+ATTACKLINE | Court marking that limits a back-row player's jump
+BACKROW | Three positions farthest from the net
+ROTATION | Clockwise change of player positions after a serve
+SIDEOUT | Change of possession after the receiving team wins
+FLOATSERVE | Serve that moves unpredictably through the air
+UNDERHAND | Serving motion made with an upward swing
+STUFFBLOCK | Block that sends an opponent's hit straight down
+JUMPFLOAT | Serve struck while airborne with little spin
+LINEJUDGE | Official watching whether the ball lands in bounds
+SETTER | Player who places the ball for an attacker
+LIBERO | Back-row specialist wearing a different jersey
+SPIKER | Player who drives the ball toward the floor
+MIDDLEHITTER | Attacker who plays near the centre of the net
+MATCHPOINT | Score that could finish the entire contest
+DIG | Defensive save made on a hard-driven ball
+PASS | First controlled touch after receiving a serve
+NET | Barrier that divides the two sides of the court
+COURT | Marked rectangle where the teams play
+ACE | Serve that lands untouched for a point

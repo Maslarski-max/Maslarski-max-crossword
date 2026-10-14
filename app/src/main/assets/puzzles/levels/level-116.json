@@ -1,34 +1,38 @@
 {
   "id": "level-116",
-  "title": "Tool Shed",
+  "title": "Gift Wrapping",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#####WRENCH",
-    "######A###A",
-    "####N#K###M",
-    "##SPADE#L#M",
-    "##C#I##TAPE",
-    "#DRILL##D#R",
-    "##E#####D##",
-    "SAW##GLUE##",
-    "########R##"
+    "CELLOPHANE",
+    "R#A##O#D#L",
+    "E#B##MEDAL",
+    "AREA#P#E#I",
+    "S#L#FOLD#P",
+    "E####M#T#S",
+    "#L#T##SILO",
+    "#E#A#O#M#I",
+    "#ARROWHEAD",
+    "#F#O#L####"
   ],
   "clues": {
     "across": {
-      "1": "Tool for turning nuts",
-      "5": "Tool for digging",
-      "7": "Sticky roll for measuring or sealing",
-      "8": "Tool that makes holes",
-      "9": "Toothed blade for cutting wood",
-      "10": "Sticky stuff that joins things"
+      "1": "Clear crinkly film around a basket",
+      "6": "Award worn around the neck",
+      "7": "Measure of the surface covered by a shape",
+      "8": "Bend a sheet along a straight line",
+      "11": "Tall farm building for storing grain",
+      "13": "Pointed part of a missile that can lodge in tissue"
     },
     "down": {
-      "2": "Garden tool for gathering leaves",
-      "3": "Tool for banging in nails",
-      "4": "Thin metal spike",
-      "5": "Twisting fastener",
-      "6": "Climb it to reach high places"
+      "1": "Sharp line left in folded paper",
+      "2": "Written marker identifying a package",
+      "3": "Fluffy ball used as a package topper",
+      "4": "Minutes played beyond the scheduled period",
+      "5": "Smooth mathematical model of Earth's shape",
+      "9": "Flat green part of a plant",
+      "10": "Starchy root crop grown in wet tropical fields",
+      "12": "Night bird with large forward-facing eyes"
     }
   },
   "order": 116

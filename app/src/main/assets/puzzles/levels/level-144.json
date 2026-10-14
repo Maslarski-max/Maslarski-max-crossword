@@ -1,37 +1,40 @@
 {
   "id": "level-144",
-  "title": "Fire Station",
+  "title": "Tide Pool",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###FLAME####",
-    "L##I####HOSE",
-    "ALARM#####M#",
-    "D##E######O#",
-    "D##F###S##K#",
-    "EXTINGUISHER",
-    "R##G###R###E",
-    "###HELMET##S",
-    "###T###N###C",
-    "###E#######U",
-    "HYDRANT#POLE"
+    "STARFISH##",
+    "E##N##A###",
+    "ALGAE#N###",
+    "U#Y###D#L#",
+    "R#ROCKPOOL",
+    "CUE#H#I#W#",
+    "H##KELP#T#",
+    "I#A#F#EDIT",
+    "NUT###R#D#",
+    "##POST#VET"
   ],
   "clues": {
     "across": {
-      "1": "Tongue of fire",
-      "3": "Long water pipe",
-      "5": "Smoke ___",
-      "7": "Red canister for small fires",
-      "9": "Protective headgear",
-      "10": "Street water outlet",
-      "11": "Slide down it to the engine"
+      "1": "Spiny sea animal with arms around a central disk",
+      "4": "Simple green growth that lives in water",
+      "7": "British name for a small pool left by the sea",
+      "9": "Signal telling a player when to begin",
+      "10": "Large brown seaweed that grows underwater",
+      "12": "Change a recording by cutting or moving parts",
+      "13": "Six-sided fitting turned by a hydrant wrench",
+      "14": "Upright support set into the ground",
+      "15": "Doctor who treats animals"
     },
     "down": {
-      "1": "Brave hose holder",
-      "2": "Extended to upper windows",
-      "4": "Grey cloud from a fire",
-      "6": "Loud warning wail",
-      "8": "Saving someone in danger"
+      "1": "Spiny round animal found on the ocean floor",
+      "2": "Molecule used to carry or act on genetic information",
+      "3": "Small shore bird that runs along the waterline",
+      "5": "Large circular system of ocean currents",
+      "6": "Time when the sea pulls back from the shore",
+      "8": "Person who cooks professionally",
+      "11": "Cell's main short-term energy-carrying molecule"
     }
   },
   "order": 144

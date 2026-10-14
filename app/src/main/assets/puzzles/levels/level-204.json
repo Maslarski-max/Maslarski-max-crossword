@@ -1,39 +1,46 @@
 {
   "id": "level-204",
-  "title": "Desert Caravan",
+  "title": "Waffle Breakfast",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##O#C######",
-    "##A#A#T####",
-    "##S#MIRAGE#",
-    "GUIDE#A####",
-    "##S#L#D###C",
-    "######E#C#A",
-    "#C#SCORPION",
-    "#A#A####S#V",
-    "#R#D####T#A",
-    "SANDSTONE#S",
-    "#V#L####R##",
-    "WATERSKIN##",
-    "#N#########"
+    "STRAWBERRY#O",
+    "H####L#N#O#L",
+    "I#B##U#ANGLE",
+    "PLATTER##A#I",
+    "Y#N##B#G###C",
+    "A#A#BERRIES#",
+    "R#N##R#I##P#",
+    "DRAWER#D#TOE",
+    "#I#A#Y##O#R#",
+    "#D#I####BAKE",
+    "GEISHA##O###",
+    "###T##DIESEL"
   ],
   "clues": {
     "across": {
-      "4": "Optical effect that can resemble distant water",
-      "5": "Person who leads travellers",
-      "9": "Arachnid with a curved tail",
-      "10": "Rock formed from compressed sand grains",
-      "11": "Flexible container carried by a traveller"
+      "1": "Red fruit with tiny seeds on its outside",
+      "7": "Corner direction that can change a shot",
+      "8": "Large flat dish used to serve a meal",
+      "10": "Small juicy fruits served with breakfast",
+      "12": "Sliding box built into a piece of furniture",
+      "15": "Front part of a foot",
+      "17": "Cook food in an oven",
+      "18": "Skilled entertainer trained in traditional arts",
+      "19": "Fuel commonly used by large farm vehicles"
     },
     "down": {
-      "1": "Fertile spot with water in dry country",
-      "2": "Long-legged animal used to carry loads",
-      "3": "Person who buys and sells goods",
-      "6": "Strong cloth used for a shade shelter",
-      "7": "Tank for storing collected water",
-      "8": "Group travelling together across a region",
-      "9": "Seat placed on an animal's back"
+      "1": "Place where boats or ships are built",
+      "2": "Small round fruit with a deep blue skin",
+      "3": "Molecule used to carry or act on genetic information",
+      "4": "Stretching practice",
+      "5": "Relating to the main fatty acid in olive oil",
+      "6": "Long curved fruit with a yellow peel",
+      "9": "Crossed lines pressed into a waffle",
+      "11": "Eating utensil with both a scoop and prongs",
+      "13": "Journey taken for fun",
+      "14": "Narrow part of the torso used for a garment measure",
+      "16": "Double-reed woodwind"
     }
   },
   "order": 204

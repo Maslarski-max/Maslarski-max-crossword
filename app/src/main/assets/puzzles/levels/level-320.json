@@ -1,0 +1,57 @@
+{
+  "id": "level-320",
+  "title": "Tropical Medicine",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PREVENTION#JAM",
+    "###A####U##I##",
+    "#VECTOR#TAMBO#",
+    "#A#C##O#B#O###",
+    "INUIT#PARASITE",
+    "N##N##E#E#Q#R#",
+    "FEVER###A#U#O#",
+    "E#E##SINK#I#P#",
+    "CLINIC#U##T#I#",
+    "T#L##ART#NONCE",
+    "I####L##P###A#",
+    "OATH#PICOCELL#",
+    "N##O#E##S##Y##",
+    "#TOPOLOGY##E##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Action taken to stop an illness",
+      "4": "Fruit cooked with sugar until thick",
+      "5": "Organism that carries a disease between hosts",
+      "7": "Roadside storehouse or resting place",
+      "9": "People of the Arctic",
+      "10": "Organism living on or in another organism",
+      "12": "Higher-than-normal body temperature",
+      "14": "Basin with a water tap",
+      "16": "Place where people receive medical care",
+      "17": "Work made to express an idea or show beauty",
+      "18": "Number used once",
+      "20": "Serious promise to tell the truth",
+      "22": "Very small site used inside a building",
+      "24": "Pattern of branching relationships in a tree"
+    },
+    "down": {
+      "2": "Preparation that trains the immune system",
+      "3": "Sudden rise in cases of a disease",
+      "4": "Small triangular sail at the front",
+      "5": "Vehicle for deliveries",
+      "6": "Skip with it",
+      "8": "Insect that can transmit malaria",
+      "9": "Growth of harmful microbes in the body",
+      "11": "Relating to the warm regions near the equator",
+      "13": "Mesh covering that protects a beekeeper's face",
+      "14": "Small sharp knife used for precise cutting",
+      "15": "Six-sided fitting turned by a hydrant wrench",
+      "19": "Small bunch of fresh flowers",
+      "21": "Move with short jumps",
+      "23": "Strong ingredient used to turn oils into soap"
+    }
+  },
+  "order": 320
+}

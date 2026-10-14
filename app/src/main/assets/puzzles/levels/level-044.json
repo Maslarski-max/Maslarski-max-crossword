@@ -1,39 +1,31 @@
 {
   "id": "level-044",
-  "title": "Mythology",
+  "title": "Snow Day",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "############T",
-    "############H",
-    "#######P####O",
-    "###N##CENTAUR",
-    "TROY###G##T##",
-    "###M#H#APOLLO",
-    "###P#E#S##A#D",
-    "###HERCULES#I",
-    "#####M#S####N",
-    "##Z##E#######",
-    "#MEDUSA######",
-    "##U##########",
-    "##S##########"
+    "M##S#T#S",
+    "ICICLE#H",
+    "T##A#T#O",
+    "TIER#R#V",
+    "E##FLAKE",
+    "N###I##L",
+    "SNOWMAN#",
+    "####E###"
   ],
   "clues": {
     "across": {
-      "4": "Half man, half horse",
-      "6": "City besieged with a wooden horse",
-      "8": "Greek god of the sun and music",
-      "10": "Hero of the twelve labours",
-      "12": "Gorgon with snakes for hair"
+      "5": "Frozen spike hanging from a roof",
+      "6": "Ordered level of freight boxes in the yard",
+      "7": "Single crystal of snow",
+      "9": "Frosty figure with a carrot nose"
     },
     "down": {
-      "1": "Norse god with a hammer",
-      "2": "Winged horse",
-      "3": "Nature spirit of Greek myth",
-      "5": "Titan who holds up the sky",
-      "7": "Messenger god with winged sandals",
-      "9": "One-eyed Norse chief god",
-      "11": "King of the Greek gods"
+      "1": "Gloves without separate fingers",
+      "2": "Warm strip worn round the neck",
+      "3": "Tiny schooling fish often kept in groups",
+      "4": "Tool to clear the path",
+      "8": "Ingredient that helps glass resist dissolving"
     }
   },
   "order": 44

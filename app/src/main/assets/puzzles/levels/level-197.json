@@ -1,35 +1,45 @@
 {
   "id": "level-197",
-  "title": "Soccer Practice",
+  "title": "Porch Swing",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#######P#W#",
-    "#####COACH#",
-    "##GOAL#S#I#",
-    "#####E#S#S#",
-    "###TEAM##T#",
-    "#F###T#S#L#",
-    "KICK#SOCCER",
-    "#E#####O###",
-    "#L#####R###",
-    "#DRIBBLE###"
+    "COURTYARD#F#",
+    "U#L###L#YOLK",
+    "SITTING#E#E#",
+    "H#R#M#A##MAT",
+    "IPA#M#E#H##R",
+    "O#V#U###O##A",
+    "N#IONIZATION",
+    "##O#E###S##S",
+    "HOLE#LAMP##F",
+    "E#E###R#O##O",
+    "ROTARYCUTTER",
+    "A#####H####M"
   ],
   "clues": {
     "across": {
-      "3": "Person who teaches players",
-      "4": "Target made by two posts and a bar",
-      "5": "Players working together",
-      "8": "Strike a ball with the foot",
-      "9": "Team sport played by kicking a ball",
-      "10": "Move the ball with repeated small kicks"
+      "1": "Outdoor area beside a home",
+      "6": "Yellow centre of an egg",
+      "7": "Resting with weight on a seat",
+      "9": "Woven plant material used for a traditional sail",
+      "11": "Alphabet used to represent speech sounds",
+      "13": "Process that creates charged atoms or molecules",
+      "14": "Opening where fabric has worn away",
+      "15": "Device that makes light using electricity",
+      "17": "Rolling blade used to slice fabric accurately"
     },
     "down": {
-      "1": "Send the ball to a teammate",
-      "2": "Sharp signal blown by a referee",
-      "3": "Shoes with studs for grip",
-      "6": "Grass area where a match is played",
-      "7": "Number of points made by a team"
+      "1": "Soft padded support for sitting",
+      "2": "Light with wavelengths shorter than visible violet",
+      "3": "Simple organisms often growing in water",
+      "4": "Colored material used to make ink",
+      "5": "Small jumping insect that can bother pets",
+      "8": "Describes the body's defence against infection",
+      "10": "Boundary where plates slide past one another",
+      "12": "Area where rising hot rock can feed a volcano",
+      "14": "Goddess of marriage and queen of the gods",
+      "16": "Curved opening made between two supports"
     }
   },
   "order": 197

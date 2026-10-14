@@ -1,36 +1,47 @@
 {
   "id": "level-220",
-  "title": "Sleepover Party",
+  "title": "Family Board Game Night",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###T##Y###G",
-    "###O##A###I",
-    "###R##W###G",
-    "POPCORN#S#G",
-    "A##H####N#L",
-    "J#M##P#GAME",
-    "A#O##I##C##",
-    "M#V#BLANKET",
-    "A#I##L#####",
-    "SLEEPOVER##",
-    "#####W#####"
+    "TURNORDER##O",
+    "I#####I#E##R",
+    "E#P###V#LACE",
+    "BOARDGAME#H#",
+    "R#W##A##ARES",
+    "E#N##M##S#S#",
+    "A##CHECKERS#",
+    "KEY##P######",
+    "E##SPINNER#F",
+    "ROJI#E#U###O",
+    "#A#DICETOWER",
+    "TREE#E#####T"
   ],
   "clues": {
     "across": {
-      "4": "Puffed snack often eaten during a film",
-      "8": "Activity played for fun",
-      "9": "Warm bed covering",
-      "10": "Night spent at a friend's home"
+      "1": "Sequence showing who plays next",
+      "6": "Narrow cord threaded through a shoe",
+      "8": "Tabletop activity played with pieces and rules",
+      "10": "God of war in Greek myth",
+      "11": "Board game with flat discs and diagonal moves",
+      "12": "Small lever that plays a note",
+      "13": "Arrow device that chooses a number or colour",
+      "16": "Garden path leading to a tea house",
+      "18": "Tall device that rolls dice fairly",
+      "19": "Tall plant with a trunk"
     },
     "down": {
-      "1": "Handheld light for a dark room",
-      "2": "Wide opening of the mouth when tired",
-      "3": "Light, happy laugh",
-      "4": "Clothes worn for bed",
-      "5": "Small bite between meals",
-      "6": "Story shown on a screen",
-      "7": "Soft cushion for resting your head"
+      "1": "Extra round used when players finish even",
+      "2": "Celebrated female singer",
+      "3": "Letting the balloon rise into the sky",
+      "4": "Rock from which useful metal can be extracted",
+      "5": "Small game piece that moves across a board",
+      "7": "Strategy game played with kings and knights",
+      "9": "Small object moved during a board game",
+      "13": "Position beside the handler during a walk",
+      "14": "Six-sided fitting turned by a hydrant wrench",
+      "15": "Protected place built for pretend play",
+      "17": "Long pole used to propel a boat by rowing"
     }
   },
   "order": 220

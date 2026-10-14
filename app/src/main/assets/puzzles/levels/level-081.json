@@ -1,43 +1,34 @@
 {
   "id": "level-081",
-  "title": "Astronomy",
+  "title": "Lemonade Stand",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "QUASAR#######N#",
-    "##S#######S##E#",
-    "##T#APHELION#P#",
-    "##E#######L##T#",
-    "##R#######S##U#",
-    "#CONSTELLATION#",
-    "##I#U#C#I#I##E#",
-    "##D#P#L#G#C####",
-    "###ZENITH#E####",
-    "#P##R#P#T######",
-    "#URANUS#Y######",
-    "#L##O#E#EQUINOX",
-    "#S##V###A######",
-    "#A##A#MERCURY##",
-    "#R#############"
+    "SQUEEZE#H",
+    "U#N#X#Q#E",
+    "G#CLOSURE",
+    "A#A#N#A#L",
+    "R#P###L##",
+    "##PUDDING",
+    "L#I###Z#O",
+    "YANGTZE#L",
+    "E#G###R#F"
   ],
   "clues": {
     "across": {
-      "1": "Brilliant distant galactic core",
-      "5": "Farthest point from the Sun",
-      "6": "Pattern of stars such as Orion",
-      "10": "Point directly overhead",
-      "12": "Planet that spins on its side",
-      "13": "Day of equal day and night",
-      "14": "Planet closest to the Sun"
+      "1": "Press fruit to release its juice",
+      "6": "Tight fastening around a balloon's neck",
+      "7": "Soft sweet dish served after a meal",
+      "10": "Longest river in Asia"
     },
     "down": {
-      "2": "Small rocky body",
-      "3": "Eighth planet",
-      "4": "Longest or shortest day",
-      "7": "Exploding star",
-      "8": "When one body hides another",
-      "9": "Distance light travels in a year",
-      "11": "Spinning neutron star"
+      "1": "Sweet crystals stirred into a drink",
+      "2": "Removing the wax seal from stored honey",
+      "3": "Part of a gene retained in a mature RNA molecule",
+      "4": "Control that boosts or reduces selected frequencies",
+      "5": "Raised rear part of a shoe",
+      "8": "Sport with tees and greens",
+      "9": "Strong ingredient used to turn oils into soap"
     }
   },
   "order": 81

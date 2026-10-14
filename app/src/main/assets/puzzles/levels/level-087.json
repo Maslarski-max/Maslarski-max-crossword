@@ -1,42 +1,35 @@
 {
   "id": "level-087",
-  "title": "Ancient Rome",
+  "title": "Autumn Festival",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "##########C####",
-    "##L####G#FORUM#",
-    "##E####L##L###S",
-    "TOGA#CHARIOT##E",
-    "##I##A#D##S###N",
-    "#POMPEII##S#A#A",
-    "##N##S#AQUEDUCT",
-    "#####A#T##U#G#E",
-    "CENTURION#M#U##",
-    "O#E####R####S##",
-    "N#R#########T##",
-    "S#O#########U##",
-    "U###########S##",
-    "L##############"
+    "HARVEST##",
+    "E####C###",
+    "R#LAVA#P#",
+    "B##C#R#A#",
+    "I#BONFIRE",
+    "V##R###K#",
+    "OPENING#F",
+    "R#####U#O",
+    "EDDIC#MIX"
   ],
   "clues": {
     "across": {
-      "4": "Roman public square",
-      "6": "Roman robe",
-      "7": "Two-wheeled racing cart",
-      "8": "City buried by Vesuvius",
-      "10": "Bridge that carried water",
-      "11": "Commander of a hundred"
+      "1": "Gathering of ripe crops",
+      "3": "Molten rock that reaches the surface",
+      "6": "Large outdoor fire for a celebration",
+      "7": "First section designed to introduce a speech",
+      "10": "Relating to old Norse mythological or heroic poems",
+      "11": "Balance several audio sources into one program"
     },
     "down": {
-      "1": "Great Roman amphitheatre",
-      "2": "Roman army unit",
-      "3": "Arena fighter",
-      "5": "Roman governing body",
-      "7": "Dictator stabbed on the Ides of March",
-      "9": "First Roman emperor",
-      "11": "One of two chief magistrates",
-      "12": "Emperor said to fiddle while Rome burned"
+      "1": "Plant eater",
+      "2": "Warm strip worn around the neck",
+      "4": "Nut that grows on an oak",
+      "5": "Outdoor place for a community gathering",
+      "8": "Sticky coating on the back of a stamp",
+      "9": "Sly, bushy-tailed animal"
     }
   },
   "order": 87

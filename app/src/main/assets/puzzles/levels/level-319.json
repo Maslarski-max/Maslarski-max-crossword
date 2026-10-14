@@ -1,0 +1,57 @@
+{
+  "id": "level-319",
+  "title": "Ceramics Studio",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "SCULPT#AMMONIA",
+    "T#N#O###A####W",
+    "O#THROW#S##T#L",
+    "N#I#C###SCRUB#",
+    "E#E#E#O##O#B#B",
+    "W##GLAZE#N#E#A",
+    "APP#A#O#USB##T",
+    "R##KILN##U#I#T",
+    "E###N#EPILOGUE",
+    "#ROD#B##M##L#R",
+    "#O###ETYMOLOGY",
+    "#MAGMA##U##O##",
+    "#A#A#R##NIB###",
+    "#N#SADDLE#####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Shape a solid material into an artwork",
+      "4": "Nitrogen-bearing molecule found in space",
+      "7": "Shape clay on a spinning wheel",
+      "9": "Rub firmly to clean a surface",
+      "13": "Glassy coating fused to pottery",
+      "14": "Phone program used to locate or unlock a bicycle",
+      "15": "Common connector type for small electronics",
+      "16": "Oven that fires clay at high temperature",
+      "18": "Concluding passage that follows the main discussion",
+      "20": "Long flexible pole used for angling",
+      "22": "Study of the history of words",
+      "23": "Molten rock underground",
+      "25": "Small broken piece of roasted cacao seed",
+      "26": "Seat fitted above a bicycle frame"
+    },
+    "down": {
+      "1": "Durable pottery fired at high temperature",
+      "2": "Undo a knot",
+      "3": "Hard ceramic made from refined materials",
+      "5": "Measure of how much matter an object contains",
+      "6": "Pointed hand tool for making a small hole",
+      "8": "Long body that blocks stray light from the lens",
+      "10": "One of two senior officials in the Roman Republic",
+      "11": "Gas made of oxygen atoms in groups of three",
+      "12": "Part that supplies power to a digital device",
+      "17": "Dome shelter traditionally built from snow",
+      "19": "Describes the body's defence against infection",
+      "20": "Relating to ancient Rome",
+      "21": "Hair that grows on the chin",
+      "24": "Matter that expands to fill its container"
+    }
+  },
+  "order": 319
+}

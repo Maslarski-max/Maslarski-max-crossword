@@ -1,43 +1,35 @@
 {
   "id": "level-095",
-  "title": "Computer Science",
+  "title": "Music Box",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#######E#######",
-    "###D#BANDWIDTH#",
-    "###E###C#######",
-    "#D#BINARY######",
-    "#A#U###Y#CACHE#",
-    "#T#G###P#O#####",
-    "#ALGORITHM###K#",
-    "#B#E#E#I#P#S#E#",
-    "#A#R#C#O#I#Y#R#",
-    "#S###U#N#L#N#N#",
-    "SERVER###E#T#E#",
-    "#####S#VARIABLE",
-    "#####I#####X###",
-    "#PROTOCOL######",
-    "#####N#########"
+    "CYLINDER#",
+    "R#I#O###O",
+    "A#D#T#C#X",
+    "N##MELODY",
+    "KEY###M#T",
+    "###T##B#O",
+    "M#WICK##C",
+    "R##L####I",
+    "ISOLATION"
   ],
   "clues": {
     "across": {
-      "3": "Data transfer capacity",
-      "5": "Number system of ones and zeros",
-      "6": "Fast temporary storage",
-      "7": "Step-by-step procedure",
-      "11": "Computer that serves requests",
-      "12": "Named storage for a value",
-      "13": "Rules for communication"
+      "1": "Rotating part with tiny raised pins",
+      "6": "Tune that can be hummed",
+      "7": "Small lever that plays a note",
+      "10": "Fibrous part that draws fuel to a flame",
+      "11": "Separation used to limit spread of infection"
     },
     "down": {
-      "1": "Scrambling data to protect it",
-      "2": "Tool for finding errors",
-      "4": "Organised store of data",
-      "6": "Program that translates code",
-      "8": "Function calling itself",
-      "9": "Core of an operating system",
-      "10": "Rules of a language's structure"
+      "1": "Handle turned to operate a mechanism",
+      "2": "Cover that opens on a box",
+      "3": "Single musical sound",
+      "4": "Hormone involved in birth and milk release",
+      "5": "Metal teeth that vibrate to make notes",
+      "8": "Drawer where a shop keeps cash",
+      "9": "Imaging method using magnets and radio waves"
     }
   },
   "order": 95

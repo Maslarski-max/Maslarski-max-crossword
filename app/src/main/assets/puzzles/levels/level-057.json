@@ -1,37 +1,32 @@
 {
   "id": "level-057",
-  "title": "Dog Breeds",
+  "title": "School Science Fair",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####CORGI###",
-    "HUSKY###R#PUG",
-    "##P#####E#O##",
-    "BEAGLE##Y#O##",
-    "U#N#####H#D#T",
-    "L#I####COLLIE",
-    "L#E#####U#E#R",
-    "DALMATIAN###R",
-    "O#######D###I",
-    "G###########E",
-    "########BOXER"
+    "GUMARABIC",
+    "O#####I#A",
+    "G#####O#L",
+    "G###M#M#L",
+    "LACTOSE#B",
+    "E#H#D#T#O",
+    "SCALE#R#A",
+    "##R#LAYER",
+    "##T#####D"
   ],
   "clues": {
     "across": {
-      "1": "Queen Elizabeth's favourite breed",
-      "3": "Sled dog of the north",
-      "5": "Small dog with a wrinkled face",
-      "6": "Snoopy's breed",
-      "8": "Lassie's breed",
-      "9": "Spotted firehouse dog",
-      "10": "Muscular breed with a square jaw"
+      "1": "Tree resin used to bind watercolour pigments",
+      "5": "Natural sugar found in milk",
+      "7": "Tool for measuring weight",
+      "8": "Thin tissue band visible in an optical image"
     },
     "down": {
-      "2": "Fastest racing dog",
-      "4": "Breed with floppy ears",
-      "5": "Curly-coated breed",
-      "6": "British mascot breed",
-      "7": "Small, feisty digger"
+      "1": "Eye protection for experiments",
+      "2": "Measurement of dimensions in a living body",
+      "3": "Notice board listing company rehearsal information",
+      "4": "Small copy used to explain an idea",
+      "6": "Picture that displays information"
     }
   },
   "order": 57

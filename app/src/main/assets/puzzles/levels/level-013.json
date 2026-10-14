@@ -1,34 +1,28 @@
 {
   "id": "level-013",
-  "title": "Pet Shop",
+  "title": "Toy Box",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#D##H####M",
-    "COLLAR###O",
-    "#G##M##C#U",
-    "####S##A#S",
-    "##P#TURTLE",
-    "##A#E#A#E#",
-    "##R#R#B#A#",
-    "##R###B#S#",
-    "#GOLDFISH#",
-    "##T###T###"
+    "P#######",
+    "U##L#W##",
+    "ZONETIME",
+    "Z##A#T##",
+    "LANDING#",
+    "E##E#E##",
+    "##TRUSS#",
+    "#####S##"
   ],
   "clues": {
     "across": {
-      "4": "Band worn around a pet's neck",
-      "7": "Pet that carries its home on its back",
-      "10": "Orange pet that lives in a bowl"
+      "4": "Duration a team controls play inside an attacking end",
+      "5": "Moment when a model touches the ground",
+      "6": "Framework of connected triangles that supports a bridge"
     },
     "down": {
-      "1": "Man's best friend",
-      "2": "Small pet that runs on a wheel",
-      "3": "Small rodent that loves cheese",
-      "5": "Pet that purrs",
-      "6": "Colourful bird that can talk",
-      "8": "Pet with long ears",
-      "9": "Strap for walking a dog"
+      "1": "Toy made of pieces that fit together",
+      "2": "Blank or marked film used before a feature begins",
+      "3": "Person who saw it happen"
     }
   },
   "order": 13

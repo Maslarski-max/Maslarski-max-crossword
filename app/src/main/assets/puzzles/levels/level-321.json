@@ -1,0 +1,57 @@
+{
+  "id": "level-321",
+  "title": "Concert Hall",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "REHEARSAL####T",
+    "#A##C#U##BLADE",
+    "#RESOUND##O##L",
+    "##N#U#####OBOE",
+    "##S#SOLOIST##S",
+    "CREST##V#I#P#C",
+    "U#M#ISLE#L#O#O",
+    "S#B#C##ROOFTOP",
+    "TILE#T#T##O##E",
+    "O#E#FACULTY###",
+    "M##B#L#R##E##C",
+    "S##ORCHESTRA#T",
+    "###O#######RED",
+    "##SKICROSS#T##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Practice before a performance",
+      "6": "Sharp metal edge inside a razor",
+      "8": "Echo or ring through a space",
+      "10": "Double-reed woodwind",
+      "11": "Musician performing alone",
+      "14": "Emblem above the helmet",
+      "16": "Small island",
+      "17": "Area on a building where panels may be mounted",
+      "19": "Fired clay piece used to cover a floor or wall",
+      "21": "Teachers and researchers at a college",
+      "24": "Large group of instrumental musicians",
+      "26": "Colour of a ripe strawberry",
+      "27": "Race in which several skiers descend the same course"
+    },
+    "down": {
+      "2": "You hear with it",
+      "3": "Relating to how sound behaves in a space",
+      "4": "Star that warms our planet",
+      "5": "Instrument that collects light from distant objects",
+      "7": "Stolen goods",
+      "9": "Group performing together",
+      "12": "Instrumental music that opens an opera",
+      "13": "Tall farm building for storing grain",
+      "14": "Where imported goods are checked",
+      "15": "Vessel made for holding or cooking",
+      "18": "Entrance hall of a theatre",
+      "20": "Fine powder brushed on after a trim",
+      "22": "Novel, for example",
+      "23": "Instrument measuring conductivity, temperature, and depth",
+      "25": "Work made to express an idea or show beauty"
+    }
+  },
+  "order": 321
+}

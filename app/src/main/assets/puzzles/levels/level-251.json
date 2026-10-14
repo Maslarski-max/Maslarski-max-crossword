@@ -1,35 +1,50 @@
 {
   "id": "level-251",
-  "title": "Ski Lodge",
+  "title": "Kitchen Herbs",
   "author": "Crossword Team",
-  "difficulty": "EASY",
+  "difficulty": "MEDIUM",
   "grid": [
-    "###B#######",
-    "#SNOW######",
-    "#K#O#######",
-    "LIFT#P#H###",
-    "O##SLOPE###",
-    "D####L#L#A#",
-    "GOGGLE#M#P#",
-    "E######E#R#",
-    "#####MITTEN",
-    "#########S#"
+    "CHIVES#TRAVEL",
+    "O###M##H####O",
+    "ROSEMARY##T#V",
+    "I#A#A##M##I#E",
+    "ALGA#OREGANO#",
+    "N#E#D###A#P##",
+    "D##GINGER#L#S",
+    "E###L###L#ANT",
+    "R#ISLE#MINT#R",
+    "#C#W##G#C#E#I",
+    "#ANEMONE####K",
+    "#B#L##S#####E",
+    "##GLOWSTICK#R"
   ],
   "clues": {
     "across": {
-      "2": "Frozen flakes falling from clouds",
-      "3": "Cable ride that carries skiers uphill",
-      "6": "Slanted surface for sliding downhill",
-      "8": "Protective eyewear for snowy conditions",
-      "9": "Warm hand covering with one space for fingers"
+      "1": "Onion-flavoured herb",
+      "3": "Journey from one place to another",
+      "5": "Needle-leaved herb for lamb",
+      "8": "Simple photosynthetic organism living in water",
+      "9": "Pizza herb",
+      "12": "Spicy root",
+      "14": "Tiny insect that lives in a colony",
+      "15": "Small island",
+      "17": "Herb for mojitos",
+      "20": "Stinging marine animal that can host a clownfish",
+      "21": "Tube that shines after it is bent"
     },
     "down": {
-      "1": "Sturdy footwear worn with skis",
-      "2": "Long narrow runner worn on snow",
-      "3": "Building where visitors stay",
-      "4": "Long stick used for balance",
-      "5": "Hard covering that protects the head",
-      "7": "Social time after a day of skiing"
+      "1": "Herb also called cilantro",
+      "2": "Austen heroine and matchmaker",
+      "3": "Herb that sounds like time",
+      "4": "Score of zero in tennis",
+      "6": "Herb paired with onion stuffing",
+      "7": "Thin metal used to make sturdy camp dishes",
+      "10": "Pungent bulb for flavouring",
+      "11": "Feathery herb with fish",
+      "13": "Forward whose main task is to score goals",
+      "16": "Long rolling wave that has travelled away from its source",
+      "18": "Enclosed space where the driver sits",
+      "19": "Satellite-based system for finding precise positions"
     }
   },
   "order": 251

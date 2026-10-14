@@ -1,36 +1,47 @@
 {
   "id": "level-217",
-  "title": "Magic Show",
+  "title": "Snow Sled Hill",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#####M###",
-    "###STAGE#",
-    "#####G#S#",
-    "##W##I#C#",
-    "#HAT#CLAP",
-    "R#N####P#",
-    "AUDIENCE#",
-    "B#####A##",
-    "B##SCARF#",
-    "I#####D##",
-    "TRICK####"
+    "SPIN#H##C###",
+    "N#N#PANTHEON",
+    "O#T##R##A##U",
+    "WARMUP#FROST",
+    "S#O#####I#L#",
+    "U##G##SLOPE#",
+    "I##R##C#T#D#",
+    "TOBOGGAN#F##",
+    "#D#O##R##R##",
+    "#O#V#OFFCUT#",
+    "TUBE#I###I##",
+    "#R##ULU#ETNA"
   ],
   "clues": {
     "across": {
-      "2": "Place where a show is performed",
-      "5": "Headwear used in a famous magic trick",
-      "6": "Make a sound by striking the hands",
-      "8": "People watching a performance",
-      "10": "Long strip of cloth used in a trick",
-      "11": "Clever act that surprises an audience"
+      "1": "Turn around quickly",
+      "5": "Roman temple famous for its concrete dome",
+      "7": "Gentle activity done before playing in the cold",
+      "8": "Thin icy layer formed in cold air",
+      "11": "Side of a hill that rises or falls",
+      "12": "Long flat sled with a curled front",
+      "15": "Piece cut from a colony for growing elsewhere",
+      "16": "Inflatable ring used to slide down a slope",
+      "17": "Hawaiian name for breadfruit",
+      "18": "Sicily's active volcano"
     },
     "down": {
-      "1": "Tricks that seem impossible",
-      "3": "Get free from a locked place",
-      "4": "Slender stick used by a magician",
-      "7": "Animal sometimes pulled from a hat",
-      "9": "Playing piece used for a guessing trick"
+      "1": "Warm one-piece outfit for cold weather",
+      "2": "Opening segment that identifies the show",
+      "3": "Plucked strings in a frame",
+      "4": "Two-wheeled racing cart",
+      "6": "Six-sided fitting turned by a hydrant wrench",
+      "9": "Runnered seat that slides over snow",
+      "10": "Mark left by a sled crossing snow",
+      "11": "Long warm cloth worn around the neck",
+      "13": "Smell that may rise from old food scraps",
+      "14": "Sweet plant food packed as a snack",
+      "15": "Liquid ingredient that can soften skin"
     }
   },
   "order": 217

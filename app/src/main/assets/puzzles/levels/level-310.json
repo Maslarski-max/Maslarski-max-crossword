@@ -1,0 +1,56 @@
+{
+  "id": "level-310",
+  "title": "Desert Caravan",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "SANDSTONE#ZETA",
+    "C#E#A#A#X####N",
+    "O#V#DISCONNECT",
+    "RYE#D#I#P##P#S",
+    "P##FLASHLIGHT#",
+    "I#F#E###A##E##",
+    "O#U###P#NUTMEG",
+    "NARRATIVE##E##",
+    "#R##R#G#TWIRL#",
+    "LCM#T#M##E#A##",
+    "#H#REVERSIBLE#",
+    "AWL#M#N##G###O",
+    "#A#DIPTYCH###A",
+    "DYE#S####TALIK"
+  ],
+  "clues": {
+    "across": {
+      "1": "Rock formed from compressed sand grains",
+      "6": "Sixth Greek letter",
+      "8": "Switch that isolates equipment from its power source",
+      "10": "Dark grain for bread",
+      "11": "Portable lamp for seeing in a dark garage",
+      "14": "Warm spice grated into some cookie dough",
+      "15": "Account of events arranged into a story",
+      "18": "Turn around quickly or repeatedly",
+      "20": "Smallest positive common multiple of given integers",
+      "21": "Describes inhibition that can be overcome under some conditions",
+      "22": "Pointed hand tool for making a small hole",
+      "24": "Picture formed from two hinged panels",
+      "25": "Colored material used to make ink",
+      "26": "Unfrozen ground enclosed within permafrost"
+    },
+    "down": {
+      "1": "Arachnid with a curved tail",
+      "2": "Old granular snow that feeds a glacier",
+      "3": "Seat placed on an animal's back",
+      "4": "Fertile spot with water in dry country",
+      "5": "Planet orbiting a star beyond our solar system",
+      "7": "Tiny uninvited guests",
+      "9": "Lasting a very short time",
+      "12": "Soft coat covering an animal",
+      "13": "Material that gives paint its colour",
+      "16": "Curved opening through a wall",
+      "17": "Goddess of the hunt and the moon",
+      "19": "Standard mass used to measure traded goods",
+      "23": "Tree that grows acorns"
+    }
+  },
+  "order": 310
+}

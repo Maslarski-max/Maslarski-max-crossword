@@ -4,29 +4,25 @@
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#C##H#####",
-    "#U##O#S###",
-    "SPOON#U###",
-    "A#V#EGG#P#",
-    "L#E#Y#A#L#",
-    "A#N##BREAD",
-    "D#######T#",
-    "####KNIFE#"
+    "SALAD###",
+    "U###E###",
+    "GAVEL###",
+    "A###E###",
+    "REENTRY#",
+    "####I###",
+    "TECTONIC",
+    "####N###"
   ],
   "clues": {
     "across": {
-      "4": "Utensil for soup",
-      "6": "It's fried, boiled or scrambled",
-      "8": "Loaf you slice for toast",
-      "9": "Utensil with a blade"
+      "1": "Bowl of greens",
+      "3": "Tool whose fall marks the winning offer",
+      "4": "Return through the atmosphere",
+      "5": "Relating to large moving sections of crust"
     },
     "down": {
-      "1": "Mug's smaller cousin",
-      "2": "Sweet stuff made by bees",
-      "3": "Sweetener in a bowl",
-      "4": "Bowl of greens",
-      "5": "Where a cake bakes",
-      "7": "Dinner dish"
+      "1": "Sweetener in a bowl",
+      "2": "Loss of a segment of genetic material"
     }
   },
   "order": 2

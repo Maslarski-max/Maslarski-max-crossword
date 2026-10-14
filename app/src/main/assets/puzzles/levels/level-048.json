@@ -1,36 +1,31 @@
 {
   "id": "level-048",
-  "title": "Rainforest",
+  "title": "Music Class",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##A###P#SLOTH",
-    "##N###I###R##",
-    "#JAGUAR###C##",
-    "##C###A###H##",
-    "#TOUCAN###I##",
-    "L#N#A#HUMID##",
-    "I#D#N#A#A####",
-    "AMAZON##C####",
-    "N###P##TAPIR#",
-    "A###Y###W####"
+    "PAGE####",
+    "I#U#FOB#",
+    "A#I##L#F",
+    "NOTE#Y#L",
+    "O#A##M#U",
+    "#TRUMPET",
+    "#####I#E",
+    "##TITAN#"
   ],
   "clues": {
     "across": {
-      "3": "Very slow tree-dweller",
-      "5": "Spotted big cat of the Americas",
-      "6": "Bird with a huge colourful beak",
-      "9": "Warm and damp",
-      "11": "Largest rainforest on Earth",
-      "12": "Pig-like animal with a short trunk"
+      "1": "One side of a leaf in a book",
+      "3": "Small tag or remote carried with a key",
+      "6": "Single musical sound",
+      "7": "Brass horn with three valves",
+      "8": "Member of the older generation of Greek gods"
     },
     "down": {
-      "1": "Huge snake of South America",
-      "2": "Fish with razor teeth",
-      "4": "Exotic flower",
-      "7": "Top layer of the forest",
-      "8": "Woody climbing vine",
-      "10": "Large colourful parrot"
+      "1": "Black and white keys",
+      "2": "Six-stringed strummer",
+      "4": "Site of the original Games",
+      "5": "Silver pipe blown sideways"
     }
   },
   "order": 48

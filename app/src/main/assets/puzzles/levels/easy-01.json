@@ -4,29 +4,25 @@
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "BEACH#SWIM",
-    "###R###A##",
-    "##SALT#V##",
-    "###B#OCEAN",
-    "#####W####",
-    "###SHELL##",
-    "###U#L####",
-    "#SAND#####"
+    "BLOWPIPE",
+    "E#####I#",
+    "A#S###C#",
+    "CRAB##O#",
+    "H#N###C#",
+    "#ODYSSEY",
+    "######L#",
+    "######L#"
   ],
   "clues": {
     "across": {
-      "1": "Sandy strip beside the sea",
-      "3": "Do the backstroke",
-      "5": "Seawater contains lots of it",
-      "7": "The Pacific, for one",
-      "8": "Seaside souvenir you might hold to your ear",
-      "9": "Stuff a castle is built from at the shore"
+      "1": "Tube used to inflate a gather of molten glass",
+      "4": "Sideways-walking sea creature",
+      "5": "Long adventurous journey"
     },
     "down": {
-      "2": "Sideways-walking sea creature",
-      "4": "Surfer's ride",
-      "6": "You dry off with it after a swim",
-      "8": "Star that gives us daylight"
+      "1": "Sandy strip beside the sea",
+      "2": "Very small site used inside a building",
+      "3": "Stuff a castle is built from at the shore"
     }
   },
   "order": 1

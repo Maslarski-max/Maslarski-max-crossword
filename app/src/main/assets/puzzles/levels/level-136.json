@@ -1,33 +1,39 @@
 {
   "id": "level-136",
-  "title": "Music Class",
+  "title": "Driveway Chalk",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "BAND######",
-    "###R#NOTE#",
-    "#C#U###R#B",
-    "#HUM#FLUTE",
-    "#O##S##M#L",
-    "PIANO##P#L",
-    "#R##N##E##",
-    "####GUITAR"
+    "HOPSCOTCH#",
+    "E#I##Z####",
+    "I#COLOR##P",
+    "R#T##N###O",
+    "#NUMBER##S",
+    "##R#E#APSE",
+    "SCENE#I##I",
+    "K##I#KNEAD",
+    "I##K#####O",
+    "PANELCHAIN"
   ],
   "clues": {
     "across": {
-      "1": "Group of musicians",
-      "3": "Single musical sound",
-      "7": "Sing with your mouth shut",
-      "8": "Silver pipe blown sideways",
-      "10": "Black and white keys",
-      "11": "Six-stringed strummer"
+      "1": "Jumping game marked with numbered squares",
+      "4": "Shade chosen for a drawing",
+      "6": "Symbol used for counting",
+      "9": "Rounded end of a basilica",
+      "10": "Picture showing a place or event",
+      "12": "Work dough by folding and pressing it",
+      "13": "Series of panels wired together"
     },
     "down": {
-      "2": "Instrument you hit with sticks",
-      "4": "Brass horn with three valves",
-      "5": "Group of singers",
-      "6": "It rings with a ding",
-      "9": "Words set to music"
+      "1": "Person next in line for a throne",
+      "2": "Drawing that shows an object or place",
+      "3": "Reactive gas used to disinfect water",
+      "5": "God who ruled the sea with a trident",
+      "7": "Insect that visits flowers",
+      "8": "Water that can wash drawings away",
+      "10": "Move with a light hopping step",
+      "11": "Winged goddess often shown as a figure of victory"
     }
   },
   "order": 136

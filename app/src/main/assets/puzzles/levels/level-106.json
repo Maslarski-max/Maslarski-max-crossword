@@ -1,42 +1,37 @@
 {
   "id": "level-106",
-  "title": "Cryptography",
+  "title": "Fish Tank",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "########KEY####",
-    "#####T###N#####",
-    "P#V##U##CIPHER#",
-    "A#I##R#S#G#A###",
-    "S#G##I#I#M#S###",
-    "STEGANOGRAPHY##",
-    "W#N##G#N##L###C",
-    "O#E###CAESAR##O",
-    "R#R####T##I###D",
-    "D#E####U##NONCE",
-    "####DECRYPT###B",
-    "#######E##E###O",
-    "##########X###O",
-    "##########T###K"
+    "ANGELFISH#",
+    "Q#O#I###O#",
+    "U#LOBE##P#",
+    "A#D#E#B##P",
+    "R#FILTER#E",
+    "I#I###T##B",
+    "U#S#A#T##B",
+    "M#H#GRAVEL",
+    "####A##E#E",
+    "#ALARM#T##"
   ],
   "clues": {
     "across": {
-      "1": "Value that unlocks a code",
-      "6": "Method of encoding",
-      "9": "Hiding a message inside another",
-      "12": "Shift cipher named after an emperor",
-      "13": "Number used once",
-      "14": "Turn ciphertext back into plain text"
+      "1": "Tall-bodied tropical fish with long fins",
+      "5": "Section of the brain",
+      "8": "Device that cleans water as it circulates",
+      "10": "Small stones spread across the tank floor",
+      "12": "Smoke ___"
     },
     "down": {
-      "2": "German wartime cipher machine",
-      "3": "Codebreaker of Bletchley Park",
-      "4": "Secret word for login",
-      "5": "Polyalphabetic cipher",
-      "7": "One-way digest of data",
-      "8": "Proof of who signed a message",
-      "10": "Message before encryption",
-      "11": "List of code words"
+      "1": "Glass home for fish and aquatic plants",
+      "2": "Orange pet fish often kept in a bowl or tank",
+      "3": "Written defamation",
+      "4": "Jump on one foot",
+      "6": "Colorful fish known for flowing fins",
+      "7": "Smooth little stone among the bottom rocks",
+      "9": "Gel used as a growth medium",
+      "11": "Doctor who treats animals"
     }
   },
   "order": 106

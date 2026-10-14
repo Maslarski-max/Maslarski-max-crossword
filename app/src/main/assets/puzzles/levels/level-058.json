@@ -1,39 +1,33 @@
 {
   "id": "level-058",
-  "title": "Desserts",
+  "title": "Puppet Theatre",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##CRUMBLE####",
-    "######R######",
-    "#####SORBET##",
-    "##F###W#####C",
-    "#PUDDING####H",
-    "##D###I#T###E",
-    "##G##MERINGUE",
-    "##E##O##R###S",
-    "####CUSTARD#E",
-    "#####S##M###C",
-    "#####S##I###A",
-    "TRIFLE##S###K",
-    "#######SUNDAE"
+    "PUPPET###",
+    "##R###F#F",
+    "##O#D#O#A",
+    "HAMMING#R",
+    "E#E#S###M",
+    "R#NATSUME",
+    "A#A#A###R",
+    "L#DENIM##",
+    "DYE#T####"
   ],
   "clues": {
     "across": {
-      "1": "Baked fruit with a crumbly top",
-      "3": "Fruity frozen treat without cream",
-      "6": "Sweet course after dinner",
-      "8": "Baked whipped egg white",
-      "9": "Sweet yellow sauce",
-      "10": "Layered British dessert",
-      "11": "Ice cream with toppings"
+      "1": "Figure controlled by a performer",
+      "6": "Surname of a code family that corrects bit errors",
+      "7": "Small container for powdered tea",
+      "8": "Fabric of jeans",
+      "9": "Colored material used to make ink"
     },
     "down": {
-      "2": "Square chocolate bake",
-      "4": "Soft sugary sweet",
-      "5": "Dessert on a biscuit base",
-      "7": "Italian coffee-soaked dessert",
-      "8": "Light whipped dessert"
+      "2": "Broad walkway intended for leisurely strolling",
+      "3": "Cloud near the ground that reduces visibility",
+      "4": "Person cultivating land listed in a register",
+      "5": "Advance signal warning of the next stop signal",
+      "6": "Officer of arms"
     }
   },
   "order": 58

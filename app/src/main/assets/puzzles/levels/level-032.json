@@ -1,35 +1,30 @@
 {
   "id": "level-032",
-  "title": "Feelings",
+  "title": "Days and Months",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "H###S##B#",
-    "A#B#ANGRY",
-    "PROUD##A#",
-    "P#R####V#",
-    "Y#EXCITED",
-    "##D###I##",
-    "######R##",
-    "##SCARED#",
-    "###A##D##",
-    "###L#####",
-    "###M#####"
+    "S#G##F#B",
+    "UPPERAIR",
+    "N#S##U#A",
+    "D##J#L#K",
+    "AUGUST#E",
+    "Y##N###M",
+    "##WEEK#A",
+    "#######N"
   ],
   "clues": {
     "across": {
-      "5": "Feeling mad",
-      "6": "Pleased with what you did",
-      "7": "Can't wait",
-      "9": "Feeling afraid"
+      "5": "High region of the atmosphere",
+      "7": "Eighth month",
+      "8": "Seven days"
     },
     "down": {
-      "1": "Feeling joy",
-      "2": "Feeling down",
-      "3": "Not afraid",
-      "4": "Nothing to do",
-      "8": "Ready for bed",
-      "10": "Feeling peaceful"
+      "1": "Day of rest",
+      "2": "U.S. satellite navigation system",
+      "3": "Fracture in rock where blocks may move",
+      "4": "Crew member who once controlled a train's manual brakes",
+      "6": "Month with the longest days in the north"
     }
   },
   "order": 32

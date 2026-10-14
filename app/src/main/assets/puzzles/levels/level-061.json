@@ -1,39 +1,33 @@
 {
   "id": "level-061",
-  "title": "Bird Watching",
+  "title": "Ballet Class",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "######F####",
-    "######L####",
-    "####SPARROW",
-    "######M###R",
-    "######I###E",
-    "####PENGUIN",
-    "####E#G####",
-    "##FALCON###",
-    "####I###H#E",
-    "####CRANE#A",
-    "####A###R#G",
-    "ROBIN###OWL",
-    "#####SWAN#E"
+    "D####H#S#",
+    "AFFIDAVIT",
+    "N####Y#G#",
+    "CLASS##N#",
+    "E##P#LOAN",
+    "R##I#E#L#",
+    "#XENOGAMY",
+    "#######A#",
+    "SIGHTLINE"
   ],
   "clues": {
     "across": {
-      "2": "Small brown city bird",
-      "4": "Bird that cannot fly but swims",
-      "5": "Fastest diving bird",
-      "8": "Long-necked bird or a building machine",
-      "9": "Red-breasted garden bird",
-      "10": "Night bird that hoots",
-      "11": "Graceful white water bird"
+      "4": "Written sworn statement",
+      "5": "Group learning together",
+      "7": "Money borrowed",
+      "8": "Transfer of pollen between separate plants",
+      "9": "Clear view needed to judge approaching traffic"
     },
     "down": {
-      "1": "Pink bird that stands on one leg",
-      "3": "Tiny brown songbird",
-      "4": "Bird with a pouched bill",
-      "6": "Tall wading bird",
-      "7": "Bird of prey on the US seal"
+      "1": "Person who moves to music",
+      "2": "Dried grass used for animal feed",
+      "3": "Worker who sets trackside signals",
+      "6": "Turn around quickly",
+      "7": "Route segment between two controls"
     }
   },
   "order": 61

@@ -1,35 +1,39 @@
 {
   "id": "level-134",
-  "title": "Ice Cream Parlour",
+  "title": "Pet Carrier",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#S###WAFER",
-    "#C#####U##",
-    "SORBET#D##",
-    "#O#####G##",
-    "SPRINKLES#",
-    "P#######U#",
-    "O###C#MINT",
-    "O###O#E#D#",
-    "N#VANILLA#",
-    "####E#T#E#"
+    "M##PLASTIC",
+    "I##O##T##R",
+    "CARRIER##A",
+    "R##T##AUNT",
+    "O###C#P##E",
+    "COLLAR#E##",
+    "H#A#T##M##",
+    "IOTA#TIBER",
+    "P#C####E#O",
+    "#SHUTTER#D"
   ],
   "clues": {
     "across": {
-      "2": "Thin crisp biscuit",
-      "4": "Fruity ice without cream",
-      "5": "Tiny coloured toppings",
-      "8": "Fresh green flavour",
-      "9": "Plain classic flavour"
+      "2": "Light material used for many carriers",
+      "5": "Portable enclosure used to transport a pet",
+      "6": "Your parent's sister",
+      "8": "Band worn around an animal's neck",
+      "11": "Tiny amount, or a Greek letter",
+      "12": "River through Rome",
+      "14": "Moving part that blocks light between frames"
     },
     "down": {
-      "1": "Round ball of ice cream",
-      "3": "Chewy chocolate sauce",
-      "5": "Little utensil to eat it",
-      "6": "Dessert with sauce and a cherry",
-      "7": "Crunchy holder for a scoop",
-      "8": "What it does in the sun"
+      "1": "Tiny implant that can identify a lost pet",
+      "2": "Opening where a hose or stream connects",
+      "3": "Narrow band used for carrying",
+      "4": "Strong box with openings for air",
+      "7": "Small pet that may ride in a carrier",
+      "9": "Small fastener keeping an opening shut",
+      "10": "Small glowing piece left in a fire",
+      "13": "Long flexible pole used for angling"
     }
   },
   "order": 134

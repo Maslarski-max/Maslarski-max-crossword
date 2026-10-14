@@ -1,42 +1,39 @@
 {
   "id": "level-133",
-  "title": "Orchestra Pit",
+  "title": "Lunch Thermos",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#######C#T#####",
-    "#####VIOLIN##O#",
-    "#######N#M###V#",
-    "#######D#P###E#",
-    "###H###U#A#C#R#",
-    "###A###CONCERTO",
-    "CLARINET#I#L#U#",
-    "###P###O###L#R#",
-    "######TROMBONE#",
-    "##########A####",
-    "##########S####",
-    "##########SCORE",
-    "##########O#B##",
-    "######PICCOLO##",
-    "##########N#E##"
+    "STAINLESS#",
+    "N##C#U####",
+    "O##ETNA###",
+    "WRAP#C#Y##",
+    "###A#H#ORE",
+    "LUNCHBAG#X",
+    "I##K#O#U#P",
+    "DOT##X#R#O",
+    "##I###STIR",
+    "FLEECE###T"
   ],
   "clues": {
     "across": {
-      "3": "Highest bowed string",
-      "7": "Work for soloist and orchestra",
-      "8": "Single-reed woodwind",
-      "9": "Brass with a slide",
-      "11": "Written music for all parts",
-      "13": "Small high flute"
+      "1": "Type of steel that resists rust",
+      "4": "Sicily's active volcano",
+      "5": "Flatbread rolled around a filling",
+      "7": "Rock containing enough metal-bearing minerals to be useful",
+      "9": "Soft carrier that holds a packed midday meal",
+      "10": "Tiny round mark",
+      "12": "Move a spoon around inside a pot",
+      "13": "Soft warm fabric made from synthetic fibres"
     },
     "down": {
-      "1": "Leader with a baton",
-      "2": "Kettle drums",
-      "4": "Opening instrumental piece",
-      "5": "Plucked strings in a frame",
-      "6": "Seated bowed string instrument",
-      "10": "Low double-reed woodwind",
-      "12": "Double-reed woodwind"
+      "1": "Soft frozen precipitation covering much of the continent",
+      "2": "Cold pack tucked beside food",
+      "3": "Small carrier for a midday meal",
+      "6": "Tangy cultured dairy snack",
+      "8": "Goods sent to another country for sale",
+      "9": "Cover that closes the top",
+      "11": "Tightened loop in a cord used to store a numerical value"
     }
   },
   "order": 133

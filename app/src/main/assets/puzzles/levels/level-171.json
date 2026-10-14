@@ -1,39 +1,43 @@
 {
   "id": "level-171",
-  "title": "Boardwalk Arcade",
+  "title": "Skipping Rope",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#######SCORE",
-    "ARCADE##A#A#",
-    "###I####B#C#",
-    "###R##PRIZE#",
-    "###H##I#N#R#",
-    "J#TOKEN#E###",
-    "O##C##BUTTON",
-    "Y##K##A##I##",
-    "SKEEBALL#C##",
-    "T##Y##L##K##",
-    "I########E##",
-    "C########T##",
-    "K###########"
+    "PLAYGROUND#",
+    "A#N##H###O#",
+    "R#K##Y#OPUS",
+    "T#LOOT#A#B#",
+    "N#E##H#TALE",
+    "E##JUMP##E#",
+    "R##U##A#S#I",
+    "#O#DISTAL#N",
+    "#S#G##R#I#U",
+    "CLUE##O#N#I",
+    "#O#SUNLIGHT"
   ],
   "clues": {
     "across": {
-      "1": "Points earned by a player",
-      "4": "Hall of coin-operated games",
-      "6": "Reward won in a game",
-      "8": "Small disc used instead of a coin",
-      "9": "Part pressed to control a game",
-      "11": "Rolling game with numbered target holes"
+      "1": "Outdoor place for children's games",
+      "5": "Latin term used in names for Roman building techniques",
+      "6": "Stolen goods",
+      "7": "Short story",
+      "8": "Push off the ground and lift into the air",
+      "13": "Describes a later convoluted segment of a nephron tubule",
+      "14": "Piece of evidence",
+      "15": "Light that reaches Earth from the sun"
     },
     "down": {
-      "2": "Upright case holding an electronic game",
-      "3": "Driving game played against a clock",
-      "5": "Table game played with a sliding puck",
-      "6": "Game with a silver ball and flippers",
-      "7": "Lever used to steer a game",
-      "10": "Paper slip exchanged for a reward"
+      "1": "Person who joins another in a game",
+      "2": "Joint above the foot",
+      "3": "Repeated beat that guides movement",
+      "4": "Twice the usual amount",
+      "5": "Grain often mixed into cookie dough",
+      "8": "Officials who score a competitive run",
+      "9": "Regular watch along a stretch of water",
+      "10": "Flexible strap used to lift an object",
+      "11": "People of the Arctic",
+      "12": "Norway's capital"
     }
   },
   "order": 171

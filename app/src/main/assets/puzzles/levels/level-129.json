@@ -1,40 +1,39 @@
 {
   "id": "level-129",
-  "title": "Typography",
+  "title": "Dish Rack",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#########T####",
-    "E########Y##A#",
-    "M########P##S#",
-    "D####HELVETICA",
-    "A##L###E#F##E#",
-    "SERIF#GARAMOND",
-    "H##G#K#D#C##D#",
-    "##BASELINE##E#",
-    "###T#R#N####R#",
-    "###U#N#GLYPH##",
-    "###R#I####I###",
-    "###E#N####C###",
-    "#####G##ITALIC"
+    "WARD#GOUDA",
+    "A###P#N##L",
+    "STRAINER#M",
+    "H#U#N#L##O",
+    "COLANDER#N",
+    "L#E#A#G##D",
+    "O###C#####",
+    "TUMBLER#W#",
+    "H#U#E#A#I#",
+    "#EGG#AGING"
   ],
   "clues": {
     "across": {
-      "4": "Famous Swiss sans-serif",
-      "7": "Small stroke on the end of a letter",
-      "8": "Classic old-style font",
-      "10": "Line letters sit on",
-      "11": "Single character shape",
-      "13": "Slanted style"
+      "1": "Hospital room of beds",
+      "2": "Dutch cheese named for a South Holland city",
+      "6": "Mesh tool that separates liquid from food",
+      "8": "Bowl-shaped strainer with many holes",
+      "9": "Straight-sided drinking vessel that can sit on a rack",
+      "13": "Shell-covered beginning of many animal lives",
+      "14": "Keeping food to develop its flavour"
     },
     "down": {
-      "1": "Family of fonts",
-      "2": "Long punctuation mark",
-      "3": "Part of a letter above the x-height",
-      "5": "Space between lines of text",
-      "6": "Two letters joined as one glyph",
-      "9": "Spacing between letter pairs",
-      "12": "Unit of twelve points"
+      "1": "Small fabric square used for scrubbing",
+      "3": "Single limb used to hop on a narrow square",
+      "4": "Nut often sliced over cereal",
+      "5": "Peak of achievement",
+      "7": "Agreed instruction that governs how a game is played",
+      "10": "Sturdy handled cup for a hot drink",
+      "11": "Old piece of fabric used as a cleaning wipe",
+      "12": "Finish a contest with a better result than an opponent"
     }
   },
   "order": 129

@@ -1,41 +1,43 @@
 {
   "id": "level-180",
-  "title": "Ancient China",
+  "title": "Paper Lanterns",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "###W##J########",
-    "##COMPASS#####A",
-    "###O##D#######B",
-    "###D#TERRACOTTA",
-    "###B######A###C",
-    "#SILK###C#L###U",
-    "###O##M#O#L###S",
-    "PORCELAIN#I####",
-    "A##K##N#F#G####",
-    "G#####D#U#R####",
-    "O#BUREAUCRAT###",
-    "D#####R#I#P####",
-    "A#####I#U#H####",
-    "####DYNASTY####"
+    "DECORATE##H",
+    "R#A###A###I",
+    "Y#N#SUSPEND",
+    "GCD#O#S###E",
+    "R#L#CREASE#",
+    "AXE#K#L#T#S",
+    "S##F#E##R#H",
+    "S#ORIGAMI#E",
+    "#D#A#G##N#E",
+    "#N#M##LIGHT",
+    "CAGE#######"
   ],
   "clues": {
     "across": {
-      "3": "Direction-finding tool developed in ancient China",
-      "5": "Fired clay used for the emperor's army figures",
-      "7": "Fine thread made by a larva",
-      "10": "Hard white ceramic fired at high heat",
-      "11": "Official who works in government administration",
-      "12": "Family line that rules for generations"
+      "1": "Add details to make something look festive",
+      "5": "Hang something from above",
+      "6": "Greatest common divisor of two or more integers",
+      "7": "Bend a sheet along a line",
+      "9": "Tool with a sharp metal head for chopping",
+      "13": "Art of making shapes by folding paper",
+      "15": "Brightness that lets people see",
+      "16": "Enclosure with bars for a pet"
     },
     "down": {
-      "1": "Carved block used to print a page",
-      "2": "Hard ornamental stone prized in China",
-      "4": "Bead frame used for arithmetic",
-      "6": "Decorative art of handwriting",
-      "8": "Chinese teacher whose ideas shaped ethics",
-      "9": "Official language based on northern Chinese speech",
-      "10": "Tall tiered tower found in East Asia"
+      "1": "Dried stalks left after grain is harvested",
+      "2": "Wax stick with a wick that can be lit",
+      "3": "Decorative bundle of hanging threads",
+      "4": "Seek's partner in a game",
+      "5": "Soft layer worn between foot and boot",
+      "8": "Thin cord used to hang a decoration",
+      "10": "Flat layer of material cut for a lantern",
+      "11": "Structure that holds paper in shape",
+      "12": "Baby dinosaurs hatched from one",
+      "14": "Molecule that stores hereditary instructions"
     }
   },
   "order": 180

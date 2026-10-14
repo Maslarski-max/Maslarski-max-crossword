@@ -1,41 +1,34 @@
 {
   "id": "level-078",
-  "title": "Chemistry",
+  "title": "Houseplant Care",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "######HELIUM##P",
-    "#######L#S####R",
-    "#######E#O####O",
-    "##N####CATALYST",
-    "#REAGENT#O####O",
-    "##U####R#P##A#N",
-    "##T#P#MOLECULE#",
-    "CARBON#N####K##",
-    "##O#L#######A##",
-    "#ENZYME#####L##",
-    "####M####SODIUM",
-    "#VALENCE#######",
-    "####R##########"
+    "POTTING#P",
+    "R###N###E",
+    "UNCAPPING",
+    "N###U##O#",
+    "E#S#TRUMP",
+    "ROOT###I#",
+    "##I###ANT",
+    "##LEAF#E#",
+    "#######E#"
   ],
   "clues": {
     "across": {
-      "1": "Gas that makes balloons float",
-      "6": "It speeds a reaction unchanged",
-      "7": "Substance used in a reaction",
-      "10": "Group of bonded atoms",
-      "11": "Element in all organic life",
-      "12": "Biological catalyst",
-      "13": "Element with symbol Na",
-      "14": "Combining power of an atom"
+      "1": "Placing a plant into a container",
+      "4": "Removing the wax seal from stored honey",
+      "7": "Suit that beats the others",
+      "8": "Part that takes up water underground",
+      "9": "Tiny insect that lives in a colony",
+      "10": "Flat part that gathers sunlight"
     },
     "down": {
-      "2": "Negative particle",
-      "3": "Atom variant with extra neutrons",
-      "4": "Positive particle in the nucleus",
-      "5": "Uncharged nuclear particle",
-      "8": "Base that dissolves in water",
-      "9": "Long chain of repeating units"
+      "1": "Tool for trimming stems",
+      "2": "Signal supplied to a controlled system",
+      "3": "Small wooden pin used to join planks or frames",
+      "5": "Candidate formally selected by a party",
+      "6": "Loose earth where roots grow"
     }
   },
   "order": 78

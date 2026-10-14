@@ -1,41 +1,35 @@
 {
   "id": "level-094",
-  "title": "Opera House",
+  "title": "Home Repair",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####L####D#B##",
-    "#####I#O#FIGARO",
-    "#####B#R##V#R#V",
-    "#####RECITATIVE",
-    "#####E#H#U##T#R",
-    "#C###T#E#R##O#T",
-    "#A#M#TOSCA##N#U",
-    "ARIA#O#T#N##E#R",
-    "#M#E###R#D####E",
-    "#E#SOPRANO#####",
-    "#N#T#####T#####",
-    "###R###########",
-    "#CHORUS########"
+    "HAMMER##B",
+    "I##I####I",
+    "N##CORNER",
+    "GEAR####T",
+    "E##O#HASH",
+    "#K#F###H#",
+    "#A#IMAGER",
+    "OVAL###E#",
+    "#A#MOZART"
   ],
   "clues": {
     "across": {
-      "5": "Mozart's scheming barber",
-      "7": "Sung dialogue",
-      "11": "Puccini opera set in Rome",
-      "12": "Solo song in an opera",
-      "13": "Highest female voice",
-      "14": "Group singing together"
+      "1": "Tool used to drive nails",
+      "4": "Restart from the arc after a defender sends the ball out",
+      "5": "Toothed wheel that turns another wheel",
+      "6": "One-way digest of data",
+      "9": "Instrument that records pictures",
+      "10": "Egg shape",
+      "11": "Composer of The Magic Flute"
     },
     "down": {
-      "1": "Text of an opera",
-      "2": "Celebrated female singer",
-      "3": "Voice between tenor and bass",
-      "4": "Musicians in the pit",
-      "6": "Instrumental opening",
-      "8": "Puccini's ice princess",
-      "9": "Bizet's fiery heroine",
-      "10": "Distinguished conductor"
+      "1": "Joint that lets a door swing",
+      "2": "Reduced photographic copy stored on a narrow roll",
+      "3": "Arrival of a young animal into the world",
+      "7": "Thin fabric that lets light pass through",
+      "8": "Drink made from the root of a Pacific island plant"
     }
   },
   "order": 94

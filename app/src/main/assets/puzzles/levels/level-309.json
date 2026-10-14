@@ -1,0 +1,56 @@
+{
+  "id": "level-309",
+  "title": "Castle Builders",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "D#CULTURE#EPIC",
+    "R#O##U#######H",
+    "A#U#DRYBAG#M#I",
+    "W#R##R#E#ATOLL",
+    "BATTLEMENT#R#I",
+    "R#Y##T###E#T##",
+    "I#APP#ARCHWAY#",
+    "D#R#E##A#O#R#B",
+    "G#DEN##M#U###A",
+    "E###KEEP#S#POT",
+    "#WREN##ALEPH#O",
+    "#O##I##R###A#N",
+    "#R##FORTRESS##",
+    "#DOME######EMF"
+  ],
+  "clues": {
+    "across": {
+      "2": "Microorganisms added to start fermentation",
+      "4": "Long narrative poem about heroic deeds",
+      "6": "Waterproof sack for keeping gear dry",
+      "10": "Ring-shaped reef surrounding a lagoon",
+      "11": "Defensive wall with gaps for protection",
+      "12": "Phone program used to locate or unlock a bicycle",
+      "14": "Curved opening through a wall",
+      "17": "Small animal shelter",
+      "18": "Strong central tower of a castle",
+      "19": "Deep vessel used for cooking",
+      "20": "Tiny brown songbird",
+      "21": "First letter in the traditional Hebrew alphabet",
+      "22": "Strong building designed for defence",
+      "23": "Rounded roof over a building",
+      "24": "Difference in electrical potential between two points"
+    },
+    "down": {
+      "1": "Bridge that can be raised over a moat",
+      "2": "Open space enclosed by buildings",
+      "3": "Small tower projecting from a wall",
+      "5": "Hot pepper",
+      "7": "Insect that visits flowers",
+      "8": "Guarded entrance building",
+      "9": "Mixture that binds bricks or stones",
+      "13": "Blade once used to trim a quill or scrape writing",
+      "15": "Defensive bank or wall",
+      "16": "Short bar used to support a soft hanging scenic piece",
+      "19": "Position of a wave within its repeating cycle",
+      "20": "One or more spoken or written language units with meaning"
+    }
+  },
+  "order": 309
+}

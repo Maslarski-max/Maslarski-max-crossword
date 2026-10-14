@@ -1,43 +1,35 @@
 {
   "id": "level-092",
-  "title": "Botany",
+  "title": "Home Movie Night",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "############G##",
-    "####C###POLLEN#",
-    "####H###I###R##",
-    "##C#L###S#D#M##",
-    "PHOTOSYNTHESIS#",
-    "E#N#R###I#C#N##",
-    "RHIZOME#L#I#A##",
-    "E#F#P#####D#T##",
-    "N#E#H####TUBER#",
-    "N#R#Y#####O###S",
-    "I###L#SUCCULENT",
-    "A###L#E###S###A",
-    "L#####P#######M",
-    "######A#######E",
-    "######L####FERN"
+    "POPCORN##",
+    "I##R#O#R#",
+    "L#TEST#E#",
+    "L##D#ARMY",
+    "O##I#V#O#",
+    "WEFT#I#T#",
+    "#D#SCREEN",
+    "ODE##U###",
+    "#Y#BASES#"
   ],
   "clues": {
     "across": {
-      "3": "Fine powder from flowers",
-      "6": "How plants make food from light",
-      "7": "Creeping underground stem",
-      "8": "Swollen underground stem like a potato",
-      "10": "Fleshy water-storing plant",
-      "11": "Plant that reproduces by spores"
+      "1": "Puffed snack eaten during a film",
+      "5": "Initial laboratory procedure used to flag possible substances",
+      "6": "Organized force trained to fight",
+      "7": "Crosswise yarn passed through lengthwise threads",
+      "9": "Surface on which a film is shown",
+      "10": "Formal poem of praise or reflection",
+      "11": "Ordered genetic units compared among organisms"
     },
     "down": {
-      "1": "Begin to sprout",
-      "2": "Green pigment in leaves",
-      "3": "Female part of a flower",
-      "4": "Cone-bearing tree",
-      "5": "Losing leaves each autumn",
-      "6": "Plant that lives for years",
-      "9": "Male part of a flower",
-      "10": "Leaf-like part under a petal"
+      "1": "Soft cushion for resting",
+      "2": "Names shown at the end of a film",
+      "3": "Virus that can cause severe diarrhea in young children",
+      "4": "Handheld device for controlling a television",
+      "8": "Circular patch of water behind an obstacle"
     }
   },
   "order": 92

@@ -1,0 +1,61 @@
+{
+  "id": "level-354",
+  "title": "Tidal Energy",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "AMPLITUDE#HUB##",
+    "P#####N#####A##",
+    "PASS##D###R#GAS",
+    "###POWERGRID##H",
+    "SCAR##R###N###E",
+    "#U#I#SWAN#S#K#R",
+    "IRON##A##PERIOD",
+    "#R#G##T#N###L##",
+    "WEFT#GENERATOR#",
+    "#N#I##R#A###W#S",
+    "#TIDAL##P##MAIN",
+    "###E##A#T#K#T#I",
+    "BIN#TURBINE#TIP",
+    "##I###I#D#L####",
+    "##BARRAGE#POST#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Difference between the high and low water level",
+      "3": "Central part joining a turbine's blades",
+      "5": "Send the ball to a teammate",
+      "8": "Matter that expands to fill its container",
+      "10": "Network carrying electricity to users",
+      "11": "Mark painted to look like a healed wound",
+      "13": "Graceful white water bird",
+      "15": "Metal used to make steel",
+      "16": "Time taken for one complete tidal cycle",
+      "18": "Crosswise yarn passed through lengthwise threads",
+      "19": "Machine that changes motion into electricity",
+      "21": "Relating to the regular rise and fall of the sea",
+      "22": "Large supply pipe beneath a street",
+      "25": "Container waiting at the curb",
+      "27": "Rotor turned by moving water to make power",
+      "28": "Small cap at the end of a support",
+      "29": "Barrier across an inlet that holds back the tide",
+      "30": "Upright pole wrapped for a cat to claw"
+    },
+    "down": {
+      "1": "Phone program used to locate or unlock a bicycle",
+      "2": "Located below the surface of a body of water",
+      "4": "Carry your buys in it",
+      "6": "Especially high tide near a new or full moon",
+      "7": "Swish liquid around the mouth",
+      "9": "Broken piece of ancient pottery",
+      "12": "Flow of water moving in one direction",
+      "14": "Unit equal to one thousand watts",
+      "17": "Tide with a smaller than usual range",
+      "20": "Cut a small piece with scissors",
+      "23": "Song for one singer within a larger dramatic work",
+      "24": "Large seaweed that grows in coastal water",
+      "26": "Small broken piece of roasted cacao seed"
+    }
+  },
+  "order": 354
+}

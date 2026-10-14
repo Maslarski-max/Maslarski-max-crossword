@@ -1,0 +1,417 @@
+=== At the Optician | EASY
+EYECHART | Board of letters used to check sight
+EYEWEAR | Items worn to help someone see clearly
+PRESCRIPTION | Written instructions for a lens strength
+OPTOMETRY | Health field focused on checking vision
+OPTICIAN | Shop worker who helps fit glasses
+CORNEA | Clear front covering of the eye
+RETINA | Light-sensitive layer at the back of the eye
+IRIS | Coloured ring around the centre of an eye
+PUPIL | Dark opening that lets light into the eye
+DIOPTER | Unit used to measure lens strength
+ASTIGMATISM | Vision condition caused by an uneven curve
+BIFOCAL | Lens type with two viewing strengths
+CONTACTLENS | Thin lens worn directly on the eye
+EYEDROPS | Liquid medicine placed in the eye
+NOSEPAD | Small rest that sits on either side of a frame
+EARPIECE | Side arm that rests against the head
+TEMPLE | Side section of a glasses frame
+GLARE | Bright light that makes seeing harder
+VISION | Ability to see the world around you
+REFRACTION | Bending of light as it passes through a lens
+
+=== Local Bus Stop | EASY
+BUSSHELTER | Covered place where riders wait for a bus
+STOPPOLE | Tall sign marking where a bus will pause
+BUSFARE | Money paid for a ride
+FAREBOX | Container where riders place their payment
+BUSLANE | Road strip reserved for buses
+ROUTEMAP | Drawing that shows a bus's path
+TIMETABLE | Printed list of planned departure times
+TRANSFER | Ticket used to change to another route
+PASSENGER | Person riding in a vehicle
+DRIVER | Person steering the bus
+TERMINAL | Station where a route begins or ends
+WAITINGSEAT | Long seat for waiting riders
+CURB | Raised edge beside the roadway
+CROSSWALK | Marked place for people to cross the street
+QUEUELINE | Row of people waiting their turn
+BUSPASS | Card that pays for a ride
+TICKET | Paper proof that a fare was paid
+SEATBELT | Strap that helps protect a seated rider
+HANDRAIL | Bar passengers hold while standing
+BUSCARD | Plastic card used to pay a fare
+
+=== Kitchen Compost Pail | EASY
+COMPOSTER | Bin where scraps decay into garden soil
+PEELINGS | Thin outer parts removed from vegetables
+SCRAPS | Small food leftovers saved for a bin
+RINDS | Outer skins from fruit such as oranges
+GROUNDS | Used coffee particles left after brewing
+TEABAGS | Small sachets steeped to make a drink
+FILTER | Paper piece that catches coffee grounds
+BROWNS | Dry leaves and paper added to a compost mix
+GREENS | Fresh plant scraps that break down in a pile
+WORMCAST | Soil-rich droppings made by earthworms
+HUMUS | Dark crumbly soil made from decayed matter
+AERATOR | Tool used to let air reach a compost pile
+COMPOSTDRUM | Rotating barrel that breaks down kitchen scraps
+CADDY | Small counter bin for collecting food waste
+COUNTERTOP | Kitchen surface where the pail may sit
+BINLINER | Bag placed inside a small waste container
+ODOUR | Smell that may rise from old food scraps
+CITRUS | Fruit group that includes lemons and oranges
+SHREDDING | Cutting dry leaves or paper into small pieces
+AIRFLOW | Moving air that helps a compost pile breathe
+
+=== Pet Rabbit Hutch | EASY
+HUTCH | Sheltered home built for a tame rabbit
+HAYRACK | Holder that keeps dry feed off the floor
+PELLETS | Small dry pieces of rabbit feed
+TIMOTHY | Grass commonly dried for rabbit food
+LITTERBOX | Tray set aside for a rabbit's waste
+WATERBOTTLE | Hanging drink container with a metal spout
+CHEWTOY | Safe object a rabbit can gnaw
+BURROW | Hole dug by an animal for shelter
+BUNNY | Child's name for a rabbit
+HOPPER | Rabbit that moves with springing jumps
+PAWPRINT | Mark left by a small foot
+FLOPPYEAR | Rabbit with a long ear that hangs down
+LOP | Rabbit breed known for hanging ears
+DWARF | Very small rabbit breed type
+ALFALFA | Leafy forage often fed to young rabbits
+WHISKERS | Long stiff hairs beside a rabbit's nose
+NIBBLE | Take small bites of food
+CAGE | Enclosure with bars for a pet
+CLOVER | Three-leaf plant rabbits like to eat
+FEEDER | Dish or holder that supplies animal food
+
+=== Flower Shop Bouquet | EASY
+FLORIST | Person who arranges and sells cut flowers
+BOUQUET | Group of flowers tied together
+CORSAGE | Small flower cluster worn on clothing
+POSY | Small bunch of fresh flowers
+SPRIG | Short piece cut from a plant
+PETAL | Coloured part of a flower
+FLOWERSTALK | Upright part that supports a bloom
+THORN | Sharp point growing on some stems
+VASE | Container used to hold cut flowers
+TULIP | Cup-shaped spring bloom with smooth leaves
+DAISY | Flower with a yellow centre and white rays
+LILAC | Spring shrub with fragrant purple clusters
+FREESIA | Fragrant flower often used in arrangements
+PEONY | Large round bloom with many soft petals
+SNAPDRAGON | Tall flower with a jaw-shaped blossom
+BABYBREATH | Tiny white flowers used as bouquet filler
+FLORALFOAM | Soft block that holds stems in an arrangement
+GREENS | Leaves added to fill out a flower display
+CELLOPHANE | Clear wrapping used around a gift bouquet
+PRICECARD | Small sign showing how much an arrangement costs
+
+=== Farm Tractor Ride | EASY
+TRACTOR | Farm vehicle built to pull heavy equipment
+HITCH | Link that joins a tool to a vehicle
+TILLAGE | Work that prepares soil for planting
+FURROW | Long narrow trench made in a field
+HARROW | Farm tool that breaks up clods of soil
+DISC | Round metal blade that cuts into the ground
+DIESEL | Fuel commonly used by large farm vehicles
+TRAILER | Wheeled carrier pulled behind a vehicle
+CAB | Enclosed space where the driver sits
+TREAD | Patterned grip around a large tire
+MUDGUARD | Curved cover that blocks flying dirt
+STEERING | Turning the front wheels to guide a vehicle
+HAYBALE | Tightly packed bundle of dried grass
+WAGON | Open cart that can carry a farm load
+SEEDER | Machine that places seeds in a row
+CULTIVATOR | Tool that loosens soil around growing crops
+PLOW | Blade that turns soil before planting
+ROWCROP | Plant grown in lines across a field
+DRAWBAR | Strong bar connecting a tractor and its load
+GEARBOX | Case holding parts that change wheel speed
+
+=== Shoe Repair Bench | EASY
+COBBLER | Craftsperson who fixes worn shoes
+SHOEHORN | Curved aid that slips a foot into footwear
+INSOLE | Soft inner layer beneath the foot
+OUTSOLE | Tough bottom layer that meets the ground
+UPPER | Part of a shoe covering the top of a foot
+STITCH | Loop of thread joining pieces of leather
+AWL | Pointed hand tool for making a small hole
+LAST | Shaped form used while building footwear
+POLISH | Shiny coating rubbed onto a shoe
+LEATHER | Strong material made from animal hide
+OVERLAY | Small piece used to mend a worn place
+CEMENT | Sticky substance used to bond shoe parts
+GROOVES | Cut lines beneath a shoe that help it grip
+CLASP | Metal fastener on a shoe strap
+GROMMET | Metal ring set into the upper around a cord opening
+BUFFINGPAD | Tool used to smooth polish over a surface
+NEEDLE | Slender tool that carries thread through leather
+LACE | Cord threaded through holes to secure a shoe
+REAR | Raised section beneath the back of a shoe
+VAMP | Front upper section covering the toes
+
+=== Lunchroom Tray | EASY
+CAFETERIA | Room where students buy or eat a meal
+TRAYLINER | Paper sheet placed beneath lunch items
+MILKCARTON | Small folded package holding a drink
+PORTIONCUP | Tiny container for sauce or dressing
+DRESSING | Sauce poured over a bowl of greens
+COMPARTMENT | Separate section that keeps foods apart
+TABLEWARE | Plates and utensils used for serving food
+UTENSIL | Hand tool used while eating or serving
+SAUCEPACK | Small sealed sachet of ketchup or mustard
+FRUITCUP | Single serving of cut fruit in a container
+PUDDING | Soft sweet dish served after a meal
+JUICEBOX | Small drink package with a straw
+BREADSTICK | Long crisp piece served beside a meal
+SANDWICH | Filling placed between two slices of bread
+DINNERROLL | Small round piece of bread
+FOODLINE | Counter path where diners collect a meal
+CASHIER | Worker who takes payment for a meal
+TONGS | Hinged tool used to pick up food
+SPORK | Eating tool combining a scoop and prongs
+LADLE | Deep spoon used to serve soup
+
+=== School Art Show | EASY
+INVITATION | Card asking someone to attend an event
+GALLERY | Room where pictures are displayed
+ARTWORK | Drawing or object made by a student
+CANVAS | Cloth surface stretched for painting
+MATBOARD | Card frame placed around a picture
+TITLECARD | Small sign naming a displayed piece
+MOUNTING | Backing used to attach a picture for display
+FRAMEWIRE | Strong cord fixed behind a picture frame
+HANGING | Positioning a work on a wall
+JUDGE | Person who chooses prize winners
+ROSETTE | Flower-shaped decoration awarded to a winning artist
+PRIZE | Reward given for an excellent entry
+AUDIENCE | Group of people who come to view the work
+OPENING | First public time an exhibit can be seen
+MURAL | Large painting made directly on a wall
+SHOWCASE | Glass cabinet used to display objects
+STUDENT | Young person who made an entry
+CAPTION | Short note explaining a picture
+EASEL | Stand that holds a canvas upright
+ENTRYFORM | Paper used to register a student's work
+
+=== Camp Mess Kit | EASY
+MESSKIT | Portable set of dishes for an outdoor meal
+CANTEEN | Reusable bottle carried on a hike
+COOKPOT | Deep metal vessel used over a camp stove
+FRYINGPAN | Shallow pan used for cooking over heat
+KETTLE | Lidded vessel for heating water
+FUELCAN | Small container for stove fuel
+FIRESTARTER | Tool that helps a campfire catch
+TINDER | Dry material that lights with a small spark
+MATCHES | Small sticks tipped with material that ignites
+BILLYCAN | Metal pot used for outdoor cooking
+GRIDDLE | Flat cooking surface for cakes or eggs
+SCOURER | Rough pad used to clean a cooking vessel
+POTGRIP | Cloth pad that protects a hand from heat
+CAMPSTOVE | Portable burner used for cooking outside
+SAUCEPAN | Small deep pan with a long handle
+MUG | Cup with a handle for a hot drink
+WATERBAG | Flexible container used to carry drinking water
+TINPLATE | Thin metal used to make sturdy camp dishes
+MESSHALL | Shared room where a group eats meals
+STOVEPIPE | Tube that carries smoke away from a burner
+
+=== Hopscotch Court | EASY
+HOPSCOTCH | Sidewalk game played by jumping through squares
+SIDEWALK | Paved path beside a street
+CHALKLINE | Mark drawn on pavement before play
+NUMBERED | Marked with figures in a set order
+SQUARES | Equal-sided spaces drawn on the ground
+THROW | Send a small object toward a target
+SKIP | Move forward with a light bouncing step
+LAND | Come down onto the ground after a jump
+FOOT | Body part used to hop and balance
+BALANCE | Ability to stay steady while standing
+START | Place where a player begins
+FINISH | Final place in a round of play
+PAVEMENT | Hard surface under a sidewalk game
+TARGET | Marked place a player aims for
+ONELEG | Single limb used to hop on a narrow square
+TURNORDER | Sequence showing which player goes next
+BOUNDARY | Line marking the edge of a playing space
+SEQUENCE | Steps followed in a particular order
+SIDESTEP | Short move to one side
+PAVERS | Flat blocks used to make a walking path
+
+=== Ice Pop Cart | EASY
+ICEPOP | Frozen juice treat served on a stick
+POPSICLE | Frozen snack held by a wooden stick
+FREEZER | Cold cabinet that keeps treats solid
+COOLER | Insulated box for keeping food cold
+CART | Small wheeled stand for selling snacks
+STICK | Thin handle held while eating a frozen treat
+FLAVOR | Taste such as orange or cherry
+FRUITPUREE | Smooth mashed fruit used in a frozen snack
+JUICEMIX | Blended drink base poured into a mould
+FREEZECAVITY | Hollow that gives a frozen snack its shape
+FREEZETRAY | Rack holding several frozen treat shapes
+DRIP | Drop that falls from a melting snack
+MELT | Change from solid to liquid in warmth
+WRAPPER | Thin cover removed before eating
+TONGS | Gripping tool used to pick up a cold treat
+PUSHBAR | Bar used to steer the wheeled stand
+LEMONLIME | Pair of citrus flavours often mixed in a drink
+BERRY | Small juicy fruit used for a sweet flavour
+CHERRY | Red fruit with a single hard pit
+ORANGE | Citrus fruit with a bright peel
+
+=== Library Story Hour | EASY
+STORYTIME | Set period for reading aloud to a group
+STORYTELLER | Person who shares a tale with listeners
+PICTUREBOOK | Children's book told through words and art
+READALOUD | Group activity where one person reads to others
+PAGEFLAG | Slip placed between pages to save a spot
+CIRCLE | Shape made when children sit around a reader
+LISTENER | Person paying attention to a story
+NARRATOR | Voice that tells the events in a tale
+FINGERPUPPET | Tiny figure worn over one finger
+RHYME | Words that end with matching sounds
+FOLKTALE | Traditional story shared across generations
+FAIRYTALE | Make-believe story with magic and wonder
+CLAPALONG | Join a song by keeping its beat with hands
+SONGSHEET | Printed page with the words to a tune
+BOOKCART | Wheeled shelf used to move library books
+LIBRARIAN | Worker who helps visitors find books
+GATHERING | Group meeting held for a shared activity
+VOICE | Sound made when someone speaks or sings
+CHORUS | Group singing the same part together
+INVITATION | Note asking families to attend a reading event
+
+=== Potluck Supper | EASY
+POTLUCK | Meal where guests each bring a dish to share
+CASSEROLE | Baked meal cooked and served in one deep pan
+CROCKPOT | Electric cooker that warms food slowly
+SALADBOWL | Large vessel filled with mixed greens
+BAKEDBEANS | Beans cooked slowly in a sweet sauce
+DEVILEDEGG | Halved egg filled with seasoned yolk
+FRUITTRAY | Platter holding cut pieces of fruit
+RECIPE | Instructions for preparing a dish
+HOTPAD | Thick cloth square used to hold a warm pan
+DESSERT | Sweet course served after the main meal
+PUNCHBOWL | Wide bowl used to serve a shared drink
+TABLECLOTH | Fabric covering placed over a meal table
+SERVING | Amount of food prepared for one guest
+LEFTOVERS | Food kept after the meal is finished
+LABELCARD | Small note naming a homemade dish
+FOODJAR | Insulated container for hot or cold food
+PIESLICE | Single piece cut from a round dessert
+FOODTONGS | Hinged tool used to lift shared food
+NAPKINRING | Loop that holds a folded cloth square
+SHAREPLATE | Small dish used to offer food to guests
+
+=== Maple Sugar Shack | EASY
+SAPBUCKET | Pail hung from a tree to catch sweet liquid
+SAPLINE | Tube carrying tree liquid toward a collection tank
+SUGARSHACK | Small building where tree liquid is boiled
+EVAPORATOR | Wide heated pan that removes water from sap
+MAPLETREE | Tree tapped for sweet spring liquid
+SUGARMAPLE | Tree species known for rich sap
+TAPHOLDER | Small fitting that supports a tree spout
+SAPTAP | Short tube carrying liquid from a tree
+BOREHOLE | Small opening drilled through the bark
+BOILDOWN | Process of heating liquid until it thickens
+MAPLEGLAZE | Sweet coating made by reducing tree liquid
+FILTERPRESS | Device that removes tiny bits from boiled syrup
+STEAM | Warm cloud rising above a hot pan
+WOODPILE | Stack of logs ready for the fire
+WOODSMOKE | Scent drifting from a wood-burning stove
+TAPPING | Making a small opening to collect sap
+COLLECTION | Gathering of liquid from many trees
+GRADEA | Quality mark printed on a syrup container
+MAPLECANDY | Sweet treat made from concentrated tree syrup
+SUGARSAND | Fine crystals left when syrup cools
+
+=== Paper Airplane Contest | EASY
+PAPERPLANE | Folded sheet designed to glide through the air
+FOLDLINE | Crease made by pressing paper
+NOSEFOLD | Pointed front section shaped from the sheet
+WINGSPAN | Distance from one outer wingtip to the other
+TAILFIN | Small rear surface that helps guide a flight
+GLIDEPATH | Route followed while moving through the air
+LAUNCHPAD | Place where a contestant starts a throw
+FLIGHTTIME | Duration that a model stays aloft
+DISTANCE | Length measured from launch to landing
+WINDGUST | Brief rush of moving air
+AIRFLOW | Movement of air around a wing
+WEIGHT | How heavy a folded model feels
+GLIDER | Craft designed to travel without an engine
+RANKING | Order of contestants by their results
+SCORECARD | Sheet used to record a contestant's result
+TARGETLINE | Mark that shows where a throw should finish
+LANDING | Moment when a model touches the ground
+FLUTTER | Light shaking movement in the air
+PAPERCLIP | Small metal loop that can weigh down a nose
+ADHESIVE | Sticky substance used to hold a fold in place
+
+=== Bicycle Safety Course | EASY
+HELMET | Hard head covering worn during a ride
+REFLECTOR | Bright surface that shines in a vehicle's lights
+ELBOWPAD | Cushion strapped over an arm joint
+KNEEPAD | Cushion strapped over a leg joint
+HANDLEBAR | Bar turned to steer a bicycle
+BRAKELIGHT | Lamp that warns others when slowing down
+TAILLIGHT | Red lamp mounted at the rear of a bicycle
+HORN | Device that makes a warning sound
+BELL | Small signal that rings when its lever is pressed
+HANDSIGNAL | Arm motion used to show an intended turn
+LOOKBACK | Quick look behind before moving sideways
+ROADRULE | Traffic instruction followed by riders
+CROSSING | Marked place where traffic meets a walking path
+BIKELANE | Road section set aside for bicycle travel
+RIM | Outer circular band supporting a bicycle tire
+SPOKES | Thin rods joining a hub to a rim
+CHAIN | Linked metal loop that turns the rear wheel
+PEDAL | Foot plate pushed to move a bicycle
+GEARSHIFT | Control that changes the effort needed to pedal
+SAFETYVEST | Bright garment worn to be easier to see
+
+=== Weather Balloon | EASY
+SKYSONDE | Instrument package sent aloft to study the air
+RADIOSONDE | Small device that sends readings down by radio
+BAROMETER | Instrument that measures air pressure
+THERMOMETER | Instrument that measures temperature
+ANEMOMETER | Tool that measures wind speed
+HUMIDITY | Amount of moisture in the air
+PRESSURE | Force of air pressing on an area
+ALTITUDE | Height above the ground or sea
+GONDOLA | Small hanging carrier beneath a balloon
+HELIUM | Light gas used to lift a balloon
+LIFTINGGAS | Gas inside the balloon that helps it rise
+TRANSMITTER | Device that sends measurements by radio
+OZONEMONITOR | Device checking ozone levels high above ground
+WINDSTREAM | Flow of air moving in one direction
+UPPERAIR | High region of the atmosphere
+CLOUDLAYER | Broad bank of clouds at a similar height
+RELEASE | Letting the balloon rise into the sky
+INSTRUMENT | Tool used to measure weather conditions
+TELEMETRY | Sending measurements from a distant device
+FLIGHTPATH | Route followed while floating through the sky
+
+=== Playground Zip Line | EASY
+ZIPLINE | Cable ride that carries a person downhill
+SAFETYSTRAP | Straps that hold a rider securely
+CARABINER | Metal clip with a spring-loaded gate
+TROLLEY | Small wheeled carriage that rolls along a cable
+CABLE | Strong twisted wire stretched between supports
+PLATFORM | Raised place where a rider gets ready
+LAUNCH | Start a ride by leaving the platform
+LANDING | Place where a rider reaches the ground
+SAFETYNET | Mesh barrier that catches a falling person
+HEADGUARD | Hard covering worn to protect the head
+GLOVE | Hand covering that helps grip a line
+GATE | Barrier that opens for a rider to pass
+STOPPER | Part that slows a carriage at the end
+ENDSTOP | Fitting that keeps the trolley from passing the landing
+RIDE | Journey taken for fun
+HEIGHT | Distance measured upward from the ground
+CLIP | Fastener that joins two pieces together
+STRAPLOCK | Fastener that keeps a rider's strap closed
+PULLEY | Wheel with a groove that guides a cable
+SWING | Seat hanging from ropes or chains

@@ -1,0 +1,61 @@
+{
+  "id": "level-356",
+  "title": "Public Transit Planning",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "INTERCHANGE#PCR",
+    "R#I#######X##A#",
+    "ARMOR##CAPACITY",
+    "N#I#####C#M###E",
+    "#ANTS#P#C###H#A",
+    "H#G###O#EXPRESS",
+    "APP#FETUS#O#A#T",
+    "N#O#E#A#S#TIDE#",
+    "#RIDERSHIP##W#W",
+    "##N#D#S#B##LAVA",
+    "DOT#E#I#L#W#Y#R",
+    "E###ROUTEMAP##P",
+    "PAD#B#M###V#O##",
+    "O###U#####E#I##",
+    "TURNSTILE#SOLO#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Station connecting several routes or modes",
+      "4": "Method for amplifying genetic material",
+      "6": "Protective metal clothing worn by a warrior",
+      "7": "Number of passengers a vehicle can carry",
+      "10": "Tiny uninvited guests",
+      "14": "Service that skips some intermediate stops",
+      "16": "Phone program used to locate or unlock a bicycle",
+      "17": "Developing young animal before birth",
+      "18": "Rise and fall of the sea",
+      "19": "Number of people using a transit service",
+      "21": "Molten rock that reaches Earth's surface",
+      "22": "Tiny round mark",
+      "24": "Drawing showing the path of a transit line",
+      "25": "Soft layer placed on the floor",
+      "27": "Rotating gate that admits one passenger at a time",
+      "28": "Performance by one"
+    },
+    "down": {
+      "1": "Country in western Asia once ruled by Persian kings",
+      "2": "Location where a schedule is checked",
+      "3": "Test at the end of a term",
+      "5": "Small pet that may ride in a carrier",
+      "8": "Designed for use by riders with disabilities",
+      "9": "Tiny living ingredient that makes dough rise",
+      "11": "Positively charged ion that helps restore resting voltage",
+      "12": "Time gap between vehicles on the same route",
+      "13": "Dynasty that ruled China from 206 BCE to 220 CE",
+      "15": "Container holding a growing plant",
+      "17": "Short route connecting riders to a main service",
+      "20": "Lengthwise yarns held tight on a loom",
+      "22": "Site where vehicles are stored and maintained",
+      "23": "They roll onto the shore",
+      "26": "Liquid ingredient that can soften skin"
+    }
+  },
+  "order": 356
+}

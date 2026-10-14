@@ -1,34 +1,30 @@
 {
   "id": "level-038",
-  "title": "Under the Sea Treasure",
+  "title": "Zoo Visit",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "##S########",
-    "##H########",
-    "##I##M#####",
-    "##PIRATE###",
-    "###S#P##P##",
-    "F##L##C#A##",
-    "L##ANCHOR##",
-    "A##N##E#R##",
-    "GOLD##SWORD",
-    "######T#T##"
+    "GIRAFFE#",
+    "L##I###N",
+    "U##R#S#E",
+    "COLLAPSE",
+    "A##O#I#D",
+    "G#ACETYL",
+    "O##K###E",
+    "NUT#####"
   ],
   "clues": {
     "across": {
-      "3": "Sailor with a hook and an eye patch",
-      "8": "It holds a ship in place",
-      "9": "Shiny yellow metal",
-      "10": "Pirate's weapon"
+      "1": "Tallest animal on land",
+      "5": "Inward fall of gas under its own gravity",
+      "6": "Two-carbon group that enters the citric acid cycle",
+      "7": "Six-sided fitting turned by a hydrant wrench"
     },
     "down": {
-      "1": "Pirate vessel",
-      "2": "X marks the spot on it",
-      "4": "Land surrounded by water",
-      "5": "Bird on a pirate's shoulder",
-      "6": "Skull and crossbones, for one",
-      "7": "Box of treasure"
+      "1": "Hormone that raises blood glucose between meals",
+      "2": "One-way fitting that lets fermentation gas escape",
+      "3": "Slender metal tool with an eye for thread",
+      "4": "Narrow ridge of sand projecting from a coast"
     }
   },
   "order": 38

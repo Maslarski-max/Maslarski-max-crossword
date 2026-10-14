@@ -1,34 +1,29 @@
 {
   "id": "level-025",
-  "title": "Shapes",
+  "title": "Winter Fun",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###C#O#####",
-    "###I#V###H#",
-    "##TRIANGLE#",
-    "###C#L###A#",
-    "###L##STAR#",
-    "CUBE##Q##T#",
-    "######U#C##",
-    "####DIAMOND",
-    "######R#N##",
-    "###SPHERE##"
+    "COCOA##J",
+    "###V#C#O",
+    "###E#L#I",
+    "###R#A#S",
+    "#HOTSPOT",
+    "###I##P#",
+    "RUMMY#U#",
+    "###E##S#"
   ],
   "clues": {
     "across": {
-      "4": "Shape with three sides",
-      "5": "Shape with five points",
-      "6": "Shape of a dice",
-      "8": "Shape of a kite or a playing-card suit",
-      "9": "Shape of a globe"
+      "1": "Hot chocolate drink",
+      "5": "Area where rising hot rock can feed a volcano",
+      "7": "Game of sets and runs"
     },
     "down": {
-      "1": "Perfectly round shape",
-      "2": "Egg shape",
-      "3": "Shape of love",
-      "5": "Shape with four equal sides",
-      "7": "Shape of an ice-cream holder"
+      "2": "Extra play used to decide a tied match",
+      "3": "Horizontal member supporting a floor",
+      "4": "Strike hands together to show approval",
+      "6": "Latin term used in names for Roman building techniques"
     }
   },
   "order": 25

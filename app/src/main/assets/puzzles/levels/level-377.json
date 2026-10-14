@@ -1,0 +1,62 @@
+{
+  "id": "level-377",
+  "title": "Airshow Display",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "BARRELROLL####L",
+    "U#E###O#O#T#W#U",
+    "B#A#Y#W#OMICRON",
+    "BIPLANE#P#E#A#A",
+    "L###W#R###R#P#R",
+    "E##S#W#####S#H#",
+    "COCKPIT##H#P#A#",
+    "A##E#N#S#ACORN#",
+    "N#WINGSPAN#T#D#",
+    "O##N#O#A#G#TILL",
+    "PCR##VINTAGE#E#",
+    "Y##S#E###R#ROBE",
+    "#P#TARMAC#P##A#",
+    "#A#U####A#ADORN",
+    "#RUBBER#BOW####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Manoeuvre in which an aircraft rolls around its path",
+      "9": "Short O in Greek",
+      "10": "Aircraft with two main wings stacked vertically",
+      "15": "Enclosed space where a pilot controls an aircraft",
+      "18": "Nut that grows on an oak",
+      "19": "Distance from one wingtip to the other",
+      "20": "Drawer holding cash at a sales counter",
+      "21": "Method for amplifying genetic material",
+      "22": "Made in an earlier period and valued for its age",
+      "24": "Loose garment worn after a bath",
+      "26": "Paved surface used for aircraft parking and movement",
+      "29": "Add colour or ornament to something",
+      "30": "Material used for many pink erasers",
+      "31": "Looped tie made from ribbon or lace"
+    },
+    "down": {
+      "1": "Rounded clear cover around a pilot's seating area",
+      "2": "Gather a crop that has finished growing",
+      "3": "Person who propels a galley with an oar",
+      "4": "Aerial manoeuvre that takes the plane over the top",
+      "5": "Relating to Earth's natural satellite",
+      "6": "Ordered level of freight boxes in the yard",
+      "7": "Cover a finished bar before giving it away",
+      "8": "Rotation of an aircraft's nose left or right around a vertical axis",
+      "11": "Loose coil of yarn prepared for colouring",
+      "12": "Turn in which a plane climbs and pivots onto a new heading",
+      "13": "Observer who identifies and records aircraft",
+      "14": "Bar used to steer a bicycle",
+      "16": "Large building used to store aircraft",
+      "17": "Distance covered between two bridge supports",
+      "23": "Short piece left after repeated use",
+      "25": "Expected number of strokes for a hole",
+      "27": "Enclosed space where the driver sits",
+      "28": "Foot with soft pads and small claws"
+    }
+  },
+  "order": 377
+}

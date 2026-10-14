@@ -1,39 +1,38 @@
 {
   "id": "level-125",
-  "title": "Tea Time",
+  "title": "Grocery Checkout",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "MILK###O###",
-    "###E###O###",
-    "###T###L###",
-    "###T#SCONE#",
-    "###L#T#N###",
-    "#I#EARLGREY",
-    "#N###A#####",
-    "#F##BISCUIT",
-    "#U#S#N####E",
-    "#SAUCER###A",
-    "#E#G#R####P",
-    "CREAM#####O",
-    "###R######T"
+    "ROPE#B##R#",
+    "E###BAGGER",
+    "G#C##S##C#",
+    "I#H##K#SEA",
+    "SCANNER#I#",
+    "T#N##T##P#",
+    "EGG#S##ATP",
+    "R#EKMAN##I",
+    "####O####E",
+    "CHANGEOVER"
   ],
   "clues": {
     "across": {
-      "1": "Added to make it white",
-      "4": "Baked treat with jam and cream",
-      "6": "Tea flavoured with bergamot",
-      "7": "Something to dunk",
-      "10": "Small plate under a cup",
-      "11": "Clotted topping"
+      "1": "Strong cord used for climbing",
+      "4": "Worker who packs paid-for groceries",
+      "6": "Large body of salt water",
+      "7": "Device that reads a striped product code",
+      "8": "Small case from which a young insect hatches",
+      "10": "Cell's main short-term energy-carrying molecule",
+      "12": "Name attached to a spiral pattern of surface flow",
+      "13": "Switch from one projector to another during a show"
     },
     "down": {
-      "2": "Boils the water",
-      "3": "Partly oxidised Chinese tea",
-      "4": "Catches stray leaves",
-      "5": "Holder for loose leaves",
-      "8": "Vessel for brewing",
-      "9": "Sweetener in lumps"
+      "1": "Machine that records a sale",
+      "2": "Handheld carrier for a few groceries",
+      "3": "Paper showing what was bought and its cost",
+      "5": "Coins or bills returned after payment",
+      "9": "Hazy air pollution",
+      "11": "Walkway built out over the sea"
     }
   },
   "order": 125
