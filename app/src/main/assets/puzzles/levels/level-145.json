@@ -1,37 +1,41 @@
 {
   "id": "level-145",
-  "title": "Board Games",
+  "title": "Alarm Clock",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###SPINNER###",
-    "#M#C#########",
-    "#O#R##LUDO###",
-    "#N#A####R##C#",
-    "GO#BACKGAMMON",
-    "#P#B####U##U#",
-    "#O#L####G##N#",
-    "CLUEDO##H##T#",
-    "#Y##I###TOKEN",
-    "####CHESS##R#",
-    "####E########"
+    "BACKLIGHT#W",
+    "#L###O##I#A",
+    "CAVE#T##M#X",
+    "#R##BATTERY",
+    "#M##U#I#Z##",
+    "##C#Z#CROSS",
+    "A#L#Z#K#N#N",
+    "CHIME#T#E#O",
+    "I#N#ROOK##O",
+    "D#I###C###Z",
+    "##CLOCKFACE"
   ],
   "clues": {
     "across": {
-      "1": "Arrow you flick",
-      "3": "Race home with four pieces",
-      "6": "Japanese stone game",
-      "7": "Ancient race with dice",
-      "8": "Murder mystery game",
-      "10": "Marker on the board",
-      "11": "Game of kings and pawns"
+      "1": "Soft glow that makes numbers visible in darkness",
+      "6": "Hollow space dug into the sand",
+      "7": "Power source that can fit inside a clock",
+      "10": "Shape made when two laces pass over each other",
+      "13": "Short musical sound marking an hour",
+      "14": "Castle piece",
+      "15": "Surface showing a clock's numbers and hands"
     },
     "down": {
-      "1": "Tile word game",
-      "2": "Game of property and hotels",
-      "4": "Game of jumping counters",
-      "5": "Small playing piece",
-      "9": "Cubes you roll"
+      "2": "Loud signal that warns or wakes someone",
+      "3": "Tiny amount, or a Greek letter",
+      "4": "Region that shares the same standard clock time",
+      "5": "Having a surface that helps limit water loss",
+      "7": "Device that makes a sharp vibrating sound",
+      "8": "Paired sounds made by some clocks",
+      "9": "Place where people receive medical care",
+      "11": "Short extra rest after an alarm sounds",
+      "12": "Lemon juice is one"
     }
   },
   "order": 145

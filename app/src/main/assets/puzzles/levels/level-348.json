@@ -1,0 +1,60 @@
+{
+  "id": "level-348",
+  "title": "Olympic Gymnastics",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "UNEVENBARS#VAMP",
+    "S##A###P#C#E###",
+    "E#JURY#SPOTTER#",
+    "D##L###E#R#O###",
+    "#SIT#H###E###L#",
+    "#L##BALANCEBEAM",
+    "TIN##N#P#A#A#N#",
+    "#N#D#D#P#R#CODE",
+    "#GRIPS#A#D#K#I#",
+    "###S#PORE##F#N#",
+    "SIMMER#A##ELEGY",
+    "###O#IOTA##I##A",
+    "SATURN#U#VAPOUR",
+    "###N#G#S#A####N",
+    "SALTO####TYPE##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Women's event using two rails at different heights",
+      "5": "Front upper section covering the toes",
+      "6": "Group of judges who evaluate a routine",
+      "7": "Person ready to assist during a risky move",
+      "8": "Rest on the floor with legs bent",
+      "11": "Narrow raised surface used for a routine",
+      "14": "Metal container that keeps biscuits crisp",
+      "16": "Programmer's instructions",
+      "17": "Hand coverings worn on some bar events",
+      "18": "Small opening through which a substance can pass",
+      "19": "Keep liquid just below a full boil",
+      "20": "Poem of mourning or serious reflection",
+      "22": "Tiny amount, or a Greek letter",
+      "23": "Planet with famous rings",
+      "24": "Gas form of water",
+      "25": "Aerial somersault performed during a routine",
+      "26": "Raised letter used to print a page"
+    },
+    "down": {
+      "1": "Previously owned rather than brand new",
+      "2": "Event featuring a springboard and padded table",
+      "3": "Rounded end of a basilica",
+      "4": "Sheet showing judges' marks for an exercise",
+      "5": "Official rejection of a proposed law",
+      "8": "Flexible strap used to lift an object",
+      "9": "Move in which hands touch down before the feet",
+      "10": "Moment an athlete returns to the floor",
+      "12": "Equipment used for a gymnastics event",
+      "13": "Backward rotation ending on the feet",
+      "15": "Final move used to leave an apparatus",
+      "21": "Soft strand used to decorate a craft",
+      "24": "Large vessel where milk is warmed and set"
+    }
+  },
+  "order": 348
+}

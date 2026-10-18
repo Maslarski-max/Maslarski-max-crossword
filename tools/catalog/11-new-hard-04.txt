@@ -1,0 +1,439 @@
+=== Byzantine Empire | HARD
+PALACE | Grand residence of an emperor or empress
+IMAGE | Sacred picture displayed in many Byzantine churches
+MONK | Religious figure who defended sacred images
+PRAYER | Words spoken to a god or saint in worship
+EDICT | Official order issued by an emperor
+COUNCIL | Assembly that debated matters of church doctrine
+BOSPHORUS | Strait beside the Byzantine capital
+EMPIRE | Large realm ruled by one central authority
+EMPRESS | Woman who ruled an empire in her own right
+JUSTINIAN | Emperor whose legal code shaped later Roman law
+THRONE | Seat that symbolized an emperor's rule
+RESTORATION | Return of religious images to churches
+WALL | Defensive structure that surrounded Constantinople
+MOSAIC | Artwork made from small pieces of stone or glass
+CHURCH | Building used for Christian worship
+SAINT | Person honoured for a holy life in Christian tradition
+MONASTERY | Religious community where monks live and worship
+CROWN | Gold headpiece worn by an emperor
+GOLD | Precious metal used to decorate church mosaics
+CONSTANTINE | Roman emperor who moved the imperial capital east to Constantinople
+
+=== Hellenistic Coinage | HARD
+TETRADRACHM | Silver coin worth four drachmas
+DRACHMA | Greek unit of money used in ancient coinage
+STATER | Ancient coin used as a standard denomination
+HEKTE | Electrum coin valued at one sixth of a stater
+DIOBOL | Coin valued at two obols
+MINA | Ancient weight and accounting unit
+TALENT | Large unit of weight and monetary value
+ALEXANDER | Macedonian king whose image appeared on successor coinage
+PHILIP | Macedonian king who issued famous gold staters
+PHRYGIA | Region of Asia Minor with important Hellenistic mints
+MINT | Workshop where coins were produced
+DIE | Engraved tool used to stamp a coin design
+FLAN | Blank metal disk prepared for striking
+STRIKE | Impress a design onto a coin blank
+LEGEND | Inscription naming a ruler or authority on a coin
+MONOGRAM | Overlapping letters used as a compact mint mark
+SILVER | Metal used for many high-value Greek coins
+GOLD | Metal used for prestigious ancient coin issues
+DEITY | God or goddess shown on a coin
+BUST | Sculpted head and shoulders of a person shown on a coin
+
+=== Ottoman Siegecraft | HARD
+SIEGE | Military effort to capture a defended place
+BOMBARD | Early cannon designed to hurl heavy stone balls
+CULVERIN | Long-barrelled cannon used to fire iron shot
+ORDNANCE | Heavy weapons used in a military campaign
+ENGINEER | Soldier trained to build or destroy fieldworks
+TRENCH | Long ditch used to approach a fortress under cover
+RAMPART | Raised defensive bank surrounding a position
+BREACH | Opening smashed through a defensive wall
+GABION | Basket filled with earth to protect a gun position
+MANTLET | Movable shield placed in front of soldiers or guns
+MINER | Soldier who dug beneath a wall to undermine it
+SAP | Covered trench advanced toward a fortification
+FUSE | Device that ignites an explosive charge
+POWDER | Explosive mixture used to propel a cannonball
+GUNLINE | Row of guns positioned to fire on a target
+PARAPET | Low protective wall along a defensive work
+PONTOON | Floating platform used to carry troops across water
+RUMELI | Ottoman fortress built on the European shore of the Bosporus
+CASTING | Process of forming a cannon by pouring molten metal
+ARTILLERY | Large weapons used to attack a fortress
+
+=== Medieval Palaeography | HARD
+PALEOGRAPHY | Study of old handwriting and scripts
+MINUSCULE | Small-letter script used in many medieval books
+UNCIAL | Rounded script used in early manuscripts
+CAROLINGIAN | Script promoted in Charlemagne's empire
+GOTHIC | Angular style of writing used in later medieval books
+BASTARDA | Mixed cursive script used in late medieval records
+LIGATURE | Joined form made from two or more letters
+RUBRIC | Heading or note written in red ink
+DUCTUS | Order and direction of strokes in a written letter
+QUILL | Feather shaft shaped into a writing point
+PARCHMENT | Prepared animal skin used as a writing surface
+VELLUM | Fine writing material made from calfskin
+SCRIPTORIUM | Room where scribes copied books
+ABBREVIATION | Shortened form used to save writing space
+PUNCTUS | Dot or mark used as a punctuation sign
+CAROLINE | Relating to the script used under Carolingian rulers
+CURSIVE | Handwriting style with joined flowing letters
+MARGINALIA | Notes or drawings written beside a main text
+PALEOTYPE | Early form of a letter found in historic writing
+FOLIO | Leaf or page of a manuscript
+
+=== Early Islamic Astronomy | HARD
+QUADRANT | Instrument for measuring the altitude of a star
+ARMILLARY | Describes a model made from rings representing the sky
+ELEVATION | Angular height of a celestial object above the horizon
+ECLIPTIC | Apparent yearly path of the Sun across the sky
+PRECESSION | Slow change in the direction of Earth's rotational axis
+ALMAGEST | Astronomical work by Ptolemy studied by later scholars
+PTOLEMY | Ancient author whose model influenced medieval astronomy
+MERIDIAN | Imaginary line running from the north to south celestial pole
+SOLSTICE | Date when the Sun reaches its farthest northern or southern point
+EQUATOR | Great circle halfway between Earth's poles
+ZODIAC | Belt of constellations along the ecliptic
+MANSION | One of the Moon's stations along its path
+SIDEREAL | Measured relative to the distant stars
+LUNAR | Relating to Earth's natural satellite
+SOLAR | Relating to the Sun
+STAR | Luminous object studied by astronomers
+PLANET | Body that travels around a star
+TABLE | Numerical record used to predict celestial positions
+OBSERVATION | Careful recording of a celestial event
+TRIGONOMETRY | Mathematics used to calculate angles and distances
+
+=== Roman Military Engineering | HARD
+CASTRUM | Roman military camp or fort
+VALLUM | Defensive rampart or earthwork around a camp
+AGGER | Raised earth bank built by Roman engineers
+TESTUDO | Shield formation used by Roman soldiers
+PONTOON | Floating bridge section used to cross a river
+PILING | Driving pointed timbers into soft ground for support
+CAUSEWAY | Raised road carried across wet or low ground
+ROADBED | Prepared foundation beneath a military road
+MILESTONE | Stone marker recording distance along a Roman road
+BRIDGEHEAD | Fortified position guarding the end of a bridge
+FORTLET | Small fortified post used to guard a frontier
+TURRET | Small projecting watchtower on a fortification
+DITCH | Excavated barrier placed before a rampart
+PALISADE | Defensive fence of closely set stakes
+EMBANKMENT | Raised earthwork used to move equipment toward a wall
+SIEGEWORK | Temporary structure built during an attack on a fort
+SURVEYOR | Specialist who measured and marked out a route
+GROMA | Roman instrument used to lay out straight lines
+CHOROBATES | Level used by Roman engineers to survey gradients
+AQUEDUCT | Channel that carried water to a town or camp
+
+=== Polynesian Ethnobotany | HARD
+TARO | Starchy root crop grown in wet tropical fields
+KAVA | Drink made from the root of a Pacific island plant
+KUKUI | Tree whose nuts supplied oil and light in Hawaii
+NONI | Tropical fruit used in food and traditional remedies
+BREADFRUIT | Starchy fruit baked or roasted as a staple
+PANDANUS | Tree whose leaves are woven into mats and baskets
+TIROOT | Edible root from a plant with broad green leaves
+AWAPUHI | Hawaiian ginger used for its fragrant liquid
+KALO | Hawaiian name for taro
+ULU | Hawaiian name for breadfruit
+TAMANU | Tree whose seeds yield a valued oil
+COCONUT | Palm fruit used for food, drink, and fibre
+MOLASSES | Thick syrup left after sugar is extracted from cane juice
+ARROWROOT | Starch extracted from a tropical plant's roots
+BETEL | Leaf chewed with other ingredients in parts of the Pacific
+PAPAYA | Soft orange fruit from a tropical tree
+YAM | Tuber grown in warm island gardens
+BANANA | Fruit borne by a large tropical herb
+GINGER | Aromatic rhizome used in cooking and remedies
+HIBISCUS | Flowering plant used for fibre or coloured drink
+
+=== Inuit Sea Ice Travel | HARD
+QAYAQ | Small covered boat propelled with a double-bladed paddle
+UMIAK | Open skin boat used to carry people or cargo
+QAMUTIK | Sled designed to travel across snow and sea ice
+SIKU | Inuit word for sea ice
+POLYNYA | Area of open water surrounded by sea ice
+NILAS | Thin, newly formed sea ice
+FASTICE | Sea ice attached to a shore or seabed
+FLOE | Broad sheet of floating ice
+LEAD | Narrow lane of open water through sea ice
+HUMMOCK | Raised mound formed when sea ice blocks pile together
+INUKSHUK | Stone marker built by Inuit people
+SNOWGOGGLE | Narrow-slit eyewear that reduces snow glare
+CARIBOU | Arctic deer hunted by some Inuit communities
+NARWHAL | Arctic whale known for its long spiral tusk
+WALRUS | Large tusked marine mammal of Arctic waters
+HARPOON | Barbed hunting weapon attached to a line
+ICEFOOT | Frozen band that forms along a shore
+SLEDGE | Vehicle that slides over snow or ice
+COMPASS | Instrument that points toward magnetic north
+NORTHSTAR | Bright star used to find direction in the northern sky
+
+=== Ancient Greek Medicine | HARD
+HIPPOCRATES | Physician whose name is linked to an ancient medical oath
+HUMOR | One of four bodily fluids once thought to govern health
+PHLEBOTOMY | Historical practice of drawing blood for treatment
+ASCLEPIUS | Greek god associated with healing
+HYGEIA | Goddess whose name gave rise to the word hygiene
+CAUTERY | Treatment that uses heat to seal or destroy tissue
+POULTICE | Soft moist preparation applied to the skin
+INFUSION | Liquid made by steeping a plant or other material
+MATERIA | Word used in the phrase for substances used in medicine
+REMEDY | Treatment intended to relieve an illness
+BREATH | Air drawn into and released from the lungs
+URINE | Fluid examined by ancient physicians for signs of illness
+DIET | Food and drink prescribed as part of a treatment
+REGIMEN | Planned routine of diet, exercise, or medicine
+PROGNOSIS | Forecast of how an illness may develop
+SYMPTOM | Change in health noticed by a patient
+DIAGNOSIS | Identification of a disease from its signs
+SURGEON | Practitioner who treats injury with manual techniques
+MIDWIFE | Attendant who assists during childbirth
+TEMPLE | Sacred place where the sick might seek healing
+
+=== Copper Isotope Geochemistry | HARD
+ISOTOPE | Form of an element with a different number of neutrons
+SEPARATION | Difference in isotope proportions caused by a chemical or physical process
+RATIO | Comparison of the amounts of two isotope forms
+DELTA | Notation used to express an isotope ratio difference
+STANDARD | Reference material used to compare isotope measurements
+MALACHITE | Green copper mineral often found near the surface
+CHALCOPYRITE | Common copper and iron sulfide mineral
+BORNITE | Copper and iron sulfide with an iridescent surface
+AZURITE | Deep-blue copper mineral
+COVELLITE | Indigo-coloured copper sulfide
+CUPRITE | Red copper oxide mineral
+SULFIDE | Mineral compound containing sulfur and a metal
+OXIDATION | Reaction in which an atom loses electrons
+REDUCTION | Reaction in which an atom gains electrons
+MASS | Amount of matter in a sample
+ALIQUOT | Measured portion taken for laboratory analysis
+TRACE | Very small amount of an element in a specimen
+ORE | Rock containing enough metal-bearing minerals to be useful
+LEACHING | Dissolving minerals from rock with a liquid
+LABORATORY | Facility where isotope ratios are measured
+
+=== Phylogenetic Trees | HARD
+CLADE | Group containing an ancestor and all its descendants
+TAXON | Named group used in biological classification
+OUTGROUP | Related group used to root a phylogenetic tree
+INGROUP | Set of organisms whose relationships are being studied
+BOOTSTRAP | Resampling method used to assess support for a branch
+PARSIMONY | Method that favours the tree with the fewest changes
+LIKELIHOOD | Measure of how well a model explains observed data
+BAYESIAN | Describes inference that combines data with prior probabilities
+ANCESTOR | Organism from which later lineages descend
+MONOPHYLY | Property of a group containing one ancestor and all descendants
+POLYPHYLY | Grouping that excludes the most recent common ancestor
+POLYTOMY | Branch point with more than two descendant lineages
+TOPOLOGY | Pattern of branching relationships in a tree
+LINEAGE | Series of populations linked through descent
+ROOT | Base of a tree representing its oldest lineage
+NODE | Point where lineages split or join
+CHARACTER | Heritable feature compared across organisms
+MUTATION | Change in genetic material that can be inherited
+BASES | Ordered genetic units compared among organisms
+PHYLOGENY | Evolutionary history of a group of organisms
+
+=== Protein Crystallography | HARD
+STRUCTURE | Atomic arrangement inferred from diffraction data
+BRAGG | Physicist whose law relates crystal planes to diffraction
+LATTICE | Repeating three-dimensional arrangement in a crystal
+UNITCELL | Smallest repeating block of a crystal structure
+SPACEGROUP | Set of symmetry operations describing a crystal
+DIFFRACTION | Bending and spreading of waves around ordered planes
+REFLECTION | Diffraction spot recorded from a crystal
+SHARPNESS | Finest detail that can be distinguished in a crystal model
+AMPLITUDE | Strength of a measured diffraction wave
+PHASE | Position in a diffraction wave cycle
+MODEL | Atomic arrangement proposed to fit experimental data
+REFINEMENT | Adjustment of a structural model to better match observations
+RFACTOR | Statistic comparing measured and calculated diffraction data
+CRYOCOOLING | Rapid cooling of a crystal to reduce radiation damage
+BEAMLINE | Facility that directs intense X-rays onto a sample
+SYNCHROTRON | Ring-shaped accelerator that produces intense X-rays
+PROTEIN | Large molecule built from amino-acid chains
+TURN | Tight bend that reverses direction in a protein chain
+HELIX | Spiral structural element found in many proteins
+STRAND | Repeated protein element that can join a beta sheet
+
+=== Renal Histology | HARD
+PODOCYTE | Specialized cell wrapping capillaries in a kidney filter
+MESANGIUM | Support tissue located between glomerular capillaries
+ENDOTHELIUM | Cell layer lining the inside of a blood vessel
+FENESTRA | Small opening in a capillary lining
+PODOCYTIC | Relating to the cells covering a glomerular filter
+GLOMERULAR | Relating to the kidney capillary tuft that filters blood
+CAPSULE | Cup-shaped structure surrounding a kidney glomerulus
+CORPUSCLE | Round filtration unit formed by a glomerulus and its capsule
+PROXIMAL | Describes the first convoluted segment of a nephron tubule
+DISTAL | Describes a later convoluted segment of a nephron tubule
+COLLECTING | Describes a duct that gathers fluid from several nephrons
+INTERCALATED | Describes a cell type that helps regulate acid balance
+PRINCIPAL | Describes a collecting-duct cell that handles sodium and water
+PAPILLA | Tip of a kidney pyramid where urine drains
+PYRAMID | Cone-shaped region of the kidney medulla
+MEDULLARY | Relating to the inner region of the kidney
+CORTICAL | Relating to the outer region of the kidney
+VASCULAR | Describes tissue rich in blood vessels
+PERITUBULAR | Relating to capillaries surrounding kidney tubules
+RENAL | Relating to a kidney
+
+=== Enzyme Kinetics | HARD
+MICHAELIS | Scientist whose name appears in a common enzyme model
+MENTEN | Scientist whose name is paired with Michaelis in enzyme kinetics
+SUBSTRATE | Molecule on which an enzyme acts
+CATALYSIS | Acceleration of a reaction by a substance that is not consumed
+ACTIVE | Describes the region where an enzyme binds its substrate
+SITE | Part of an enzyme where the reaction takes place
+INHIBITOR | Substance that reduces an enzyme's activity
+TURNOVER | Number of substrate molecules processed per enzyme per second
+KCAT | Rate constant for one enzyme molecule at saturation
+AFFINITY | Tendency of an enzyme to bind a particular substrate
+SATURATION | Condition when nearly all enzyme binding sites are occupied
+ACTIVITY | Measured rate of an enzyme-catalysed reaction
+LINEWEAVER | Name of a plot used to analyse enzyme kinetics
+RECIPROCAL | Quantity obtained by dividing one by another
+COMPETITIVE | Describes an inhibitor that competes for the active site
+ALLOSTERIC | Describes regulation through binding away from the active site
+COFACTOR | Nonprotein helper needed by some enzymes
+COENZYME | Organic helper molecule used by an enzyme
+ZYMOGEN | Inactive enzyme precursor activated by cleavage
+REVERSIBLE | Describes inhibition that can be overcome under some conditions
+
+=== Population Genetics | HARD
+ALLELE | One of several versions of a gene
+LOCUS | Position of a gene or marker on a chromosome
+HAPLOTYPE | Set of linked genetic variants inherited together
+GENOTYPE | Genetic makeup at one or more loci
+PHENOTYPE | Observable traits shaped by genes and environment
+FOUNDER | Member of a small group that starts a new population
+BOTTLENECK | Sharp reduction in population size and genetic variation
+MIGRATION | Movement of individuals or genes between populations
+SELECTION | Unequal survival or reproduction linked to inherited traits
+INBREEDING | Mating between genetically related individuals
+HETEROZYGOTE | Individual carrying two different alleles at a locus
+HOMOZYGOTE | Individual carrying two matching alleles at a locus
+PROPORTION | Share of a particular allele in a population
+RANDOMNESS | Chance-driven changes in allele proportions between generations
+GENEPOOL | All gene variants present in a population
+PANMIXIA | Random mating within a population
+ASSORTATIVE | Describes mating that favours similar or dissimilar traits
+WEINBERG | Scientist whose name is paired with Hardy in a population model
+OUTCROSSING | Mating between individuals from less-related lineages
+MUTATION | Heritable change in genetic material
+
+=== Optical Coherence Tomography | HARD
+TOMOGRAPHY | Imaging method that builds a view through thin sections
+COHERENCE | Fixed phase relationship between light waves
+FRINGE | Alternating bright or dark band in an interference pattern
+RETINA | Light-sensitive tissue lining the back of the eye
+MACULA | Central retinal area used for detailed vision
+FOVEA | Small retinal region with the sharpest central vision
+AXIAL | Describes imaging along the depth direction
+SCAN | Pass of a beam across a tissue sample
+DEPTH | Distance from the surface into the tissue
+REFLECTION | Return of light from a tissue boundary
+BACKSCATTER | Light redirected toward its source by tissue structures
+LAYER | Thin tissue band visible in an optical image
+VITREOUS | Clear gel filling much of the eyeball
+CORNEA | Transparent front surface of the eye
+CHOROID | Vascular layer between the retina and sclera
+SCLERA | Tough white outer coat of the eyeball
+SEGMENT | Short section of data collected along a scan
+DETAIL | Smallest feature that an imaging system can distinguish
+WAVELENGTH | Distance between matching points on a light wave
+BIOMETRY | Measurement of dimensions in a living body
+
+=== Fluid Statics | HARD
+BUOYANCY | Upward force exerted by a fluid on an immersed object
+DENSITY | Mass contained in a unit volume
+HYDROSTATIC | Relating to a fluid at rest
+MANOMETER | Instrument that measures pressure using a fluid column
+BAROGRAPH | Instrument that records changes in atmospheric pressure
+PASCAL | SI unit of pressure
+ARCHIMEDES | Ancient scholar whose principle explains buoyant force
+DISPLACEMENT | Volume of fluid pushed aside by an immersed object
+FLOATATION | State of remaining at the surface of a fluid
+SPECIFIC | Describes density compared with a reference substance
+GRAVITY | Force that pulls matter toward a massive body
+DEPTH | Distance below the surface of a fluid
+HEAD | Height of a fluid column used to express pressure
+TRANSDUCER | Device that converts fluid pressure into an electrical signal
+HYDRAULIC | Describes force transmitted through a confined liquid
+COLUMN | Vertical fluid whose height indicates pressure in a manometer
+STRESS | Force exerted by a fluid per unit area
+VISCOSITY | Resistance of a fluid to flowing
+TENSION | Force per unit length at a liquid's boundary
+CAPILLARY | Narrow tube in which liquid can rise against gravity
+
+=== Radiocarbon Dating | HARD
+RADIOCARBON | Radioactive form of carbon used to date once-living material
+NITROGEN | Element formed when radioactive carbon decays
+HALFLIFE | Time needed for half of a radioactive sample to decay
+DECAY | Spontaneous change of an unstable atomic nucleus
+ISOTOPE | Form of an element with a different number of neutrons
+CORRELATION | Matching a measured age to independent calendar records
+BRISTLECONE | Long-lived pine used to build tree-ring dating records
+OXALIC | Acid used as a modern carbon dating standard
+LIBBY | Scientist who developed radiocarbon dating
+AMS | Method that counts individual atoms in a sample
+SCINTILLATOR | Material that flashes when radioactive decay is detected
+COUNT | Number of decay events recorded by an instrument
+BACKGROUND | Signal measured when no sample is present
+CONTAMINANT | Unwanted material that can alter a dating result
+CELLULOSE | Plant material sometimes dated by radiocarbon
+CHARCOAL | Carbon-rich material left after wood is burned
+COLLAGEN | Protein preserved in some archaeological bone
+CALENDAR | System used to express a date in years
+OLDWOOD | Inner wood that can be older than the event being dated
+CALIBRATE | Compare a result with known dates to improve accuracy
+
+=== Earthquake Engineering | HARD
+DUCTILITY | Ability of a structure to deform without sudden collapse
+DAMPER | Device that reduces vibration in a building
+ISOLATOR | Support that separates a structure from ground motion
+RETROFIT | Strengthen an existing building against earthquakes
+PERIOD | Time taken for one complete cycle of structural vibration
+RESPONSE | Movement of a structure during ground shaking
+ACCELERATION | Rate at which ground velocity changes
+DISPLACEMENT | Change in position caused by an earthquake
+SHEAR | Force that makes adjacent layers slide past each other
+BRACE | Diagonal member that stiffens a frame
+DIAPHRAGM | Floor or roof assembly that transfers sideways building forces
+MASONRY | Construction made from stone, brick, or block units
+REINFORCE | Add material to increase strength
+ANCHOR | Secure a structure to its foundation
+BASEPADS | Supports that reduce vibration transferred to a building
+LIQUEFACTION | Loss of soil strength when saturated ground shakes
+FOOTING | Base that transfers a building's load to the ground
+TREMOR | Shaking of the ground caused by an earthquake
+RESILIENCE | Ability of a community or structure to recover after damage
+SEISMIC | Relating to earthquake motion
+
+=== Renaissance Perspective | HARD
+VANISHING | Describes the point where parallel lines appear to meet
+HORIZON | Level line at an observer's eye height in a painting
+FORESHORTEN | Shorten an object in an image to suggest depth
+ORTHOGONAL | Describes lines that converge toward a vanishing point
+PROJECTION | Mapping a three-dimensional scene onto a flat surface
+PERSPECTIVE | Technique for representing depth on a flat surface
+LINEAR | Describes perspective built from converging straight lines
+ATMOSPHERIC | Describes depth suggested by changes in colour and clarity
+TEMPERA | Paint made by mixing pigment with an emulsion
+VANISHPOINT | Location where parallel lines seem to meet in a picture
+EYELEVEL | Height of an artist's eye used to position the horizon
+CANVAS | Surface prepared for painting
+PROPORTION | Relative size of parts in a painted composition
+VITRUVIAN | Relating to a classical ideal of human proportions
+ALBERTI | Writer who described mathematical perspective for artists
+BRUNELLESCHI | Architect associated with early experiments in perspective
+MEET | Seem to join at the point where parallel lines converge
+DEPTH | Apparent distance from the front to the back of a scene
+VIEWPOINT | Position from which a scene is represented
+SIZE | Relative dimensions of an object in a drawing

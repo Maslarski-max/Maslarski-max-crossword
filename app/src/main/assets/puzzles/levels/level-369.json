@@ -1,0 +1,62 @@
+{
+  "id": "level-369",
+  "title": "Postal Sorting",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "POSTALMETER#K##",
+    "#S#O####U#ETNA#",
+    "#LAYUP##N#G#E#S",
+    "#O#S#O#DELIVERY",
+    "##R##S####S###M",
+    "#COUNTER#STOP#P",
+    "##U##M##D#E#A#L",
+    "##T#CARRIERAREA",
+    "CHIT#R##S#E#C#S",
+    "A#N##KEEP#DIE#T",
+    "LOG#B###A###L##",
+    "D##ROCKET#R###G",
+    "E#M#W#C#COURIER",
+    "R#R##NADH#L###A",
+    "ALIEN#T##HERD#B"
+  ],
+  "clues": {
+    "across": {
+      "1": "Machine that prints proof of prepaid mailing",
+      "7": "Sicily's active volcano",
+      "8": "Close shot made near the basket",
+      "11": "Carrying an item to its named recipient",
+      "13": "Service desk where postage and parcels are accepted",
+      "14": "Place where the bus pauses for riders",
+      "17": "Postal area assigned to one mail carrier",
+      "18": "Printed or written record of a customer's order",
+      "19": "Castle's strongest tower",
+      "20": "Shaped tool that gives heated plastic its form",
+      "21": "Trunk section brought in for processing",
+      "23": "It flies into space",
+      "28": "Person or company that transports urgent items",
+      "29": "Electron-carrying molecule formed during metabolism",
+      "30": "Visitor from another world",
+      "31": "Group of plant eaters"
+    },
+    "down": {
+      "2": "Norwegian capital",
+      "3": "Things children play with",
+      "4": "Short sequence of musical notes",
+      "5": "Sent with a record of handling and receipt",
+      "6": "Joint between the thigh and lower leg",
+      "9": "Ink mark showing when and where a letter entered the mail",
+      "10": "Connected cytoplasm through which water can move",
+      "12": "Directing an item through the correct postal offices",
+      "15": "Wrapped package sent through a delivery service",
+      "16": "Sending sorted mail onward to another office",
+      "18": "Collapsed volcanic crater",
+      "22": "Bend forward to greet an audience",
+      "24": "Rate constant for one enzyme molecule at saturation",
+      "25": "Agreed instruction that governs how a game is played",
+      "26": "Hold an edge of the board during a jump",
+      "27": "Imaging method using magnets and radio waves"
+    }
+  },
+  "order": 369
+}

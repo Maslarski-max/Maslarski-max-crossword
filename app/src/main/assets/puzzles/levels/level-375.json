@@ -1,0 +1,62 @@
+{
+  "id": "level-375",
+  "title": "Botanical Garden",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "H#POLLINATOR##S",
+    "O#E#O#R#R##ACRE",
+    "R#R#PLANTTAG##A",
+    "TREE##N##A##LCM",
+    "I#N##I###X#G#O#",
+    "CONSERVATORY#L#",
+    "U#I##R###N#MOLE",
+    "LEAF#I#SHOT##E#",
+    "T#L##G#E#M#SACK",
+    "U###WAVE#Y#P#T#",
+    "R##R#T#D##DENIM",
+    "ECHO#I#B#B#C#O#",
+    "#L#PROPAGATION#",
+    "LIME#N#N#C#E###",
+    "#P#####K#H#SOLE"
+  ],
+  "clues": {
+    "across": {
+      "2": "Animal that transfers pollen between flowers",
+      "8": "Unit used to measure an area of farmland",
+      "9": "Marker identifying a plant and its origin",
+      "11": "Connected graph with no cycles",
+      "12": "Smallest positive common multiple of given integers",
+      "16": "Glass building used to grow delicate plants",
+      "17": "Spy inside an organisation",
+      "18": "Plant part that gathers sunlight",
+      "19": "Throw aimed toward the basket",
+      "20": "Large cloth bag used to form a figure's head",
+      "21": "Surfer's ride",
+      "23": "Fabric of jeans",
+      "24": "Repeated sound caused by a reflection",
+      "27": "Raising new plants from seeds or cuttings",
+      "28": "Small green fruit with sharp juice",
+      "29": "Bottom part of a shoe"
+    },
+    "down": {
+      "1": "Science and practice of growing garden plants",
+      "2": "Plant that lives for more than two growing seasons",
+      "3": "Rabbit breed known for hanging ears",
+      "4": "Country in western Asia once ruled by Persian kings",
+      "5": "Work made to express an idea or show beauty",
+      "6": "Old piece of fabric used as a cleaning wipe",
+      "7": "Line where two pieces of fabric are joined",
+      "10": "Science of naming and classifying living things",
+      "13": "Group of living plants gathered for study or display",
+      "14": "Supplying water to growing plants",
+      "15": "Room where students play indoor sports",
+      "19": "Stored reserve of seeds kept for future use",
+      "20": "Group of similar organisms able to reproduce",
+      "22": "Long braided line used for skipping",
+      "25": "Distortion caused when a signal exceeds its limit",
+      "26": "Composer of the Brandenburg Concertos"
+    }
+  },
+  "order": 375
+}

@@ -1,0 +1,56 @@
+{
+  "id": "level-308",
+  "title": "Space Telescope",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "ULTRAVIOLET###",
+    "P##A###B#X####",
+    "PUDDLE#S#I#H##",
+    "E##I#SPECTRUM#",
+    "R#MOAT#R###B#S",
+    "#M###U#V#ORBIT",
+    "#INFRARED##L#U",
+    "#R#O#R##E##E#B",
+    "#R#C#Y##T#S#G#",
+    "TOPUP##NEBULA#",
+    "#R#S##H#C#D#L#",
+    "R###A#A#T#SCAT",
+    "N###COSMOS##X#",
+    "ADULT#H#R#YOYO"
+  ],
+  "clues": {
+    "across": {
+      "1": "Light with wavelengths shorter than visible violet",
+      "5": "Shallow pool left after a rain",
+      "8": "Spread of light separated by wavelength",
+      "9": "Water-filled ditch around a temple or city",
+      "12": "Curved path around a celestial body",
+      "13": "Light with wavelengths longer than visible red",
+      "18": "Add more solution to an empty cup",
+      "19": "Cloud of gas and dust in space",
+      "23": "Animal droppings examined for clues",
+      "24": "The universe considered as a whole",
+      "25": "Fully grown stage of an animal",
+      "26": "Toy that goes up and down on a string"
+    },
+    "down": {
+      "1": "Part of a shoe covering the top of a foot",
+      "2": "Wireless set used to contact a response crew",
+      "3": "Watch carefully to gather information",
+      "4": "Official passage out of a country",
+      "6": "Where a river meets the sea",
+      "7": "Space telescope named for an astronomer",
+      "10": "Short piece left after repeated use",
+      "11": "Reflective surface that gathers light",
+      "14": "Bring an image into sharp view",
+      "15": "Device that senses incoming light",
+      "16": "Bubbles made by soap",
+      "17": "Vast system of stars and gas",
+      "20": "Fixed-length digest computed from data",
+      "21": "Genetic material used by many viruses",
+      "22": "Major division of a play or opera"
+    }
+  },
+  "order": 308
+}

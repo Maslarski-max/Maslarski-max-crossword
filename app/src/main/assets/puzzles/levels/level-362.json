@@ -1,0 +1,61 @@
+{
+  "id": "level-362",
+  "title": "Coffee Roasting",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "CHAFF#####T###A",
+    "O##L#A###ORIGIN",
+    "OSLO#GOAT#A#R#T",
+    "L##W#A##E#D#I#E",
+    "I###GREENBEAN#N",
+    "N#C###S#S###DEN",
+    "GEAR#SPLIT#M##A",
+    "T#R#S#R#L#TAXI#",
+    "ROASTLEVEL#I#O#",
+    "A#M#U#S###BLEND",
+    "YIELD#S#F##L##E",
+    "##L##ROBUSTA##C",
+    "BOIL#O##R##R##A",
+    "##Z##J###BODY#F",
+    "#RESTING#######"
+  ],
+  "clues": {
+    "across": {
+      "1": "Papery skin released during the heating process",
+      "6": "Farm or region where a coffee crop was grown",
+      "8": "Norway's capital",
+      "9": "Bearded farm animal that will eat almost anything",
+      "11": "Unroasted seed prepared for roasting",
+      "14": "Small animal shelter",
+      "15": "Setting that changes pedalling effort",
+      "16": "Divide one bill among several people",
+      "19": "Car you hail on the street",
+      "21": "Degree of darkness reached by the heated seeds",
+      "22": "Mix of beans from different crops or regions",
+      "24": "Fraction of absorbed photons that produce a chosen outcome",
+      "26": "Coffee species often used in strong blends",
+      "27": "Heat a liquid until bubbles rise throughout it",
+      "28": "Weight or fullness of coffee on the tongue",
+      "29": "Short wait that lets newly roasted beans release gas"
+    },
+    "down": {
+      "1": "Perforated surface used to stop the roast",
+      "2": "Continuous movement of water in one direction",
+      "3": "Buying, selling, or exchanging goods",
+      "4": "Device that receives signals from space",
+      "5": "Gel used as a growth medium",
+      "7": "Crushed coffee prepared for brewing",
+      "10": "Relating to pulling forces",
+      "12": "Concentrated coffee pulled under high pressure",
+      "13": "Turn sugars brown through prolonged heating",
+      "17": "Browning reaction that develops flavour under heat",
+      "18": "Raised connector that lets toy pieces snap together",
+      "20": "Atom or molecule carrying an electric charge",
+      "23": "Coffee treated to remove most of its caffeine",
+      "25": "Soft coat covering an animal",
+      "26": "Garden path leading to a tea house"
+    }
+  },
+  "order": 362
+}

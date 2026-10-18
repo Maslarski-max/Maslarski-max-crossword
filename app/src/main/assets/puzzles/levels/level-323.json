@@ -1,0 +1,57 @@
+{
+  "id": "level-323",
+  "title": "National Parks",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "BACKCOUNTRY##C",
+    "A#A#H##E##E##R",
+    "SUMMIT#STRAW#O",
+    "S#P#T##T##S##W",
+    "##G#####METHOD",
+    "#PRESERVE##Y##",
+    "##O#C#A#ACID##",
+    "#TUNE#N#D##R#I",
+    "##N#N#GLOWWORM",
+    "FUDGE#E#W##M#P",
+    "#P##R#R##SHEAR",
+    "#POSY##OAK#T#I",
+    "#E#U#####I#E#N",
+    "#RENAL#MINARET"
+  ],
+  "clues": {
+    "across": {
+      "1": "Remote area away from roads and towns",
+      "7": "Top of a hill or mountain",
+      "8": "Thin tube used for sipping",
+      "9": "Ordered procedure for solving a problem",
+      "11": "Area protected from development",
+      "14": "Lemon juice is one",
+      "15": "Short sequence of musical notes",
+      "17": "Larva or beetle that gives off light",
+      "18": "Soft sugary sweet",
+      "20": "Force that makes adjacent layers slide past each other",
+      "21": "Small bunch of fresh flowers",
+      "23": "Tree that grows acorns",
+      "24": "Relating to a kidney",
+      "25": "Tall tower beside a mosque, traditionally used for the call to prayer"
+    },
+    "down": {
+      "1": "Lowest vocal range",
+      "2": "Place set aside for tents and campers",
+      "3": "Printed or written record of a customer's order",
+      "4": "Soft place made for resting",
+      "5": "Tiny organism that makes bread dough rise",
+      "6": "Large group gathered to watch an event",
+      "9": "Open grassy area",
+      "10": "Floating instrument that measures liquid density",
+      "12": "Natural features seen in a landscape",
+      "13": "Official who protects a park",
+      "16": "Mark preserved in stone from an older time",
+      "19": "Part of a shoe covering the top of a foot",
+      "20": "Outer covering of the body",
+      "22": "It shines to make a rainbow"
+    }
+  },
+  "order": 323
+}

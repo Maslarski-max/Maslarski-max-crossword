@@ -1,38 +1,43 @@
 {
   "id": "level-172",
-  "title": "Shipyard",
+  "title": "Leaf Pile",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##K###CABIN##",
-    "##E#####L####",
-    "S#E#####U####",
-    "HULL###WELDER",
-    "I#S#D###P#O#I",
-    "PROPELLER#C#V",
-    "W#N#C#A#I#K#E",
-    "R###K#U#N###T",
-    "I###H#N#T####",
-    "G###A#C######",
-    "H##ANCHOR####",
-    "T###D########"
+    "RAKE#PONCHO",
+    "U#A#A###L##",
+    "B#M#R#AXIS#",
+    "BRANCH##N##",
+    "E#######I##",
+    "ROAD#BRACE#",
+    "B#U##L####M",
+    "O#THROW#G#A",
+    "O#U##W#PULP",
+    "TUMBLE##S#L",
+    "##N##RUSTLE"
   ],
   "clues": {
     "across": {
-      "2": "Small room aboard a vessel",
-      "5": "Watertight body of a vessel",
-      "6": "Worker who joins metal with heat",
-      "10": "Spinning blades that push a boat",
-      "12": "Heavy hook lowered to hold a boat"
+      "1": "Garden tool with a row of teeth",
+      "3": "Loose rain garment with an opening for the head",
+      "6": "Straight line organizing a garden's layout",
+      "7": "Woody part growing out from a tree trunk",
+      "8": "Prepared route for travel between places",
+      "10": "Diagonal support that stiffens a wooden frame",
+      "12": "Send forward with an arm motion",
+      "14": "Soft crushed fruit left after pressing",
+      "15": "Fall or roll in a playful heap",
+      "16": "Soft sound made by moving dry leaves"
     },
     "down": {
-      "1": "Strong beam fitted above a ship's keel",
-      "3": "Detailed plan for a vessel",
-      "4": "Builder of wooden vessels",
-      "7": "Structure where a vessel is tied up",
-      "8": "Metal pin joining two plates",
-      "9": "Crew member who works on deck",
-      "11": "Put a newly built vessel into the water"
+      "1": "Waterproof footwear for a wet yard",
+      "2": "Iron kettle used to heat water",
+      "4": "Place where people receive medical care",
+      "5": "Bright discharge jumping through air between conductors",
+      "9": "Season when many trees lose their leaves",
+      "10": "Machine that pushes leaves with air",
+      "11": "Tree with leaves shaped like a pointed hand",
+      "13": "Brief strong rush of wind"
     }
   },
   "order": 172

@@ -1,39 +1,43 @@
 {
   "id": "level-178",
-  "title": "Chocolate Chemistry",
+  "title": "Shoe Laces",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#T#########",
-    "#EMULSION##",
-    "#M###U#####",
-    "#P###G#V###",
-    "MELT#A#I##F",
-    "#R##CRYSTAL",
-    "##G####C##A",
-    "C#A#COCOA#V",
-    "O#N#A##S##O",
-    "N#A#C##I##U",
-    "COCOABUTTER",
-    "H#H#O##Y###",
-    "E#E########"
+    "BOW#CENTAUR",
+    "U######O##A",
+    "N#SLIPON##Z",
+    "N##O#E#LUDO",
+    "Y#TONGUE##R",
+    "E##S##N##B#",
+    "AGLET#T#TOE",
+    "R##N##I##O#",
+    "SIP#EYELET#",
+    "#####A#####",
+    "##SNOWBOARD"
   ],
   "clues": {
     "across": {
-      "2": "Mixture of liquids that do not usually combine",
-      "5": "Change from a solid into a liquid",
-      "7": "Solid with an ordered internal structure",
-      "10": "Powder made from roasted cacao beans",
-      "11": "Fat extracted from cacao beans"
+      "1": "Looped tie made from ribbon or lace",
+      "2": "Half man, half horse",
+      "5": "Shoe put on without tying",
+      "8": "Race home with four pieces",
+      "9": "Padded flap beneath the laces",
+      "12": "Hard tip at the end of a lace",
+      "13": "Front part of a foot",
+      "14": "Small mouthful of a drink",
+      "15": "Small reinforced opening for a lace",
+      "17": "Single board used to descend a snowy slope"
     },
     "down": {
-      "1": "Carefully heat and cool melted chocolate",
-      "3": "Sweet crystals used in chocolate",
-      "4": "Resistance of a fluid to flowing",
-      "6": "Taste and smell quality of a food",
-      "8": "Mixture of chocolate and cream",
-      "9": "Machine used to mix and smooth chocolate",
-      "10": "Seed used to make chocolate"
+      "1": "Two loops made when tying a shoelace bow",
+      "3": "Cambodian river or lake name used for the seasonal water system",
+      "4": "Sharp tool used for a close shave",
+      "6": "Make a tie less tight",
+      "7": "Short pin joining two pieces",
+      "10": "Undo a knot",
+      "11": "Sturdy shoe that covers the ankle",
+      "16": "Rotation of an aircraft about its vertical axis"
     }
   },
   "order": 178

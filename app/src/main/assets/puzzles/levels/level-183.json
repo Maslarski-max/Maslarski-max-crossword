@@ -1,42 +1,43 @@
 {
   "id": "level-183",
-  "title": "Orbital Mechanics",
+  "title": "Basketball Hoop",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####P##P#####",
-    "#S###R##E#I###",
-    "#APOGEE#R#N###",
-    "#T###C##T#C#G#",
-    "PERIGEE#U#L#R#",
-    "#L###S#ORBITAL",
-    "ELLIPSE#B#N#V#",
-    "#I###I##A#A#I#",
-    "#T###O##T#T#T#",
-    "#ECCENTRICITY#",
-    "####S###O#O###",
-    "####C###N#N###",
-    "LAGRANGE######",
-    "####P#########",
-    "###VELOCITY###"
+    "BASKETBALL#",
+    "A#C##I###A#",
+    "CROP#M#C#W#",
+    "K#R#REBOUND",
+    "BEE##O#U##R",
+    "O####U#R##I",
+    "A#SHOT#TOMB",
+    "R#K#D#####B",
+    "D#IRON#FOUL",
+    "####U##E##E",
+    "##SCREWTOP#"
   ],
   "clues": {
     "across": {
-      "5": "Point in an orbit farthest from Earth",
-      "7": "Point in an orbit nearest to Earth",
-      "8": "Relating to a path around a body",
-      "9": "Oval curve followed by many orbiting bodies",
-      "10": "Measure of how stretched an orbit is",
-      "12": "Name for a special point in a two-body system",
-      "13": "Speed together with a direction"
+      "1": "Orange ball bounced into a hoop",
+      "5": "Plant grown for food or another useful product",
+      "7": "Ball collected after a missed shot",
+      "9": "Insect that visits flowers",
+      "10": "Throw aimed toward the basket",
+      "12": "Chamber or structure used for burial",
+      "13": "Heated tool with a grid that cooks batter",
+      "14": "Rule-breaking contact during play",
+      "15": "Twisted cover that closes a jar"
     },
     "down": {
-      "1": "Slow change in the direction of an orbit's axis",
-      "2": "Small change to an object's expected motion",
-      "3": "Object that travels around a larger body",
-      "4": "Tilt of an orbit compared with a reference plane",
-      "6": "Attraction between objects with mass",
-      "11": "Motion that overcomes a body's gravitational pull"
+      "1": "Flat panel behind a basketball rim",
+      "2": "Points earned by a player or team",
+      "3": "Short break requested during a game",
+      "4": "Short grass covering a yard",
+      "6": "Marked floor or outdoor area for a game",
+      "8": "Bounce a ball repeatedly while moving",
+      "10": "Long narrow runner worn on snow",
+      "11": "Smell that may rise from old food scraps",
+      "14": "Transistor controlled by an electric field"
     }
   },
   "order": 183

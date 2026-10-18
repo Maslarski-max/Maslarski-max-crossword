@@ -1,43 +1,34 @@
 {
   "id": "level-076",
-  "title": "Classical Composers",
+  "title": "Magic Show",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####W########",
-    "####BACH######",
-    "#####G########",
-    "PUCCINI#######",
-    "##H##E########",
-    "#MOZART#######",
-    "##P###########",
-    "##I####B######",
-    "HANDEL#RAVEL##",
-    "A##E###A#I####",
-    "Y##BEETHOVEN##",
-    "D##U###M#A####",
-    "N##S###S#LISZT",
-    "###S#####D####",
-    "###Y#VERDI####"
+    "AUDIENCE#",
+    "#R##S#I##",
+    "PUG#C#A##",
+    "#K#RABBIT",
+    "##C#P#A#R",
+    "STAGE#T#I",
+    "H#R###T#C",
+    "O#DAYMARK",
+    "W########"
   ],
   "clues": {
     "across": {
-      "2": "Composer of the Brandenburg Concertos",
-      "3": "Composer of La Boheme",
-      "5": "Composer of The Magic Flute",
-      "7": "Composer of Messiah",
-      "9": "Composer of Bolero",
-      "11": "Deaf composer of the Ninth Symphony",
-      "12": "Hungarian piano virtuoso",
-      "13": "Composer of Aida"
+      "1": "People watching a performance",
+      "5": "Small dog with a wrinkled face",
+      "6": "Animal sometimes pulled from a hat",
+      "9": "Place where a show is performed",
+      "10": "Painted structure that identifies a beacon in daylight"
     },
     "down": {
-      "1": "Composer of the Ring cycle",
-      "4": "Polish master of piano nocturnes",
-      "6": "Composer of a famous lullaby",
-      "7": "Father of the symphony",
-      "8": "Composer of Clair de Lune",
-      "10": "Composer of The Four Seasons"
+      "2": "Sumerian city associated with early urban life",
+      "3": "Get free from a locked place",
+      "4": "Italian bread named for its slipper-like shape",
+      "7": "Clever act that surprises an audience",
+      "8": "Playing piece used for a guessing trick",
+      "9": "Performance for an audience"
     }
   },
   "order": 76

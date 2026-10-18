@@ -1,0 +1,461 @@
+=== Achaemenid Royal Roads | HARD
+ACHAEMENID | Relating to the Persian empire founded by Cyrus
+CYRUS | Persian king who founded the Achaemenid empire
+DARIUS | Achaemenid ruler who organized the empire into provinces
+XERXES | Persian king who invaded Greece in the fifth century BCE
+PERSEPOLIS | Ceremonial capital of the Persian empire
+SUSA | Ancient city used as an Achaemenid royal residence
+SATRAPY | Province governed for the Persian king
+COURIER | Messenger who carried royal orders along the road
+RELAY | System passing a message from one station to another
+WAYMARK | Marker showing distance along an ancient road
+RESTHOUSE | Place where messengers or horses could be changed
+MILEPOST | Stopping place along the royal route
+PROVINCE | Region administered as part of an empire
+REMITTANCE | Payment sent by a subject territory to its ruler
+CARVING | Text cut into a monument or stone
+CUNEIFORM | Wedge-shaped script used in Persian royal records
+BEHISTUN | Cliff bearing Darius's famous multilingual inscription
+ROYAL | Belonging to a king or queen
+ROADWAY | Prepared route for travel between settlements
+MESSENGER | Person carrying news or commands
+
+=== Chinese Porcelain Kilns | HARD
+PORCELAIN | Hard, translucent ceramic fired at high temperature
+KAOLIN | Fine white clay used in porcelain
+FELDSPAR | Mineral added to porcelain clay as a flux
+QUARTZ | Hard mineral used in ceramic bodies and glazes
+KILN | Furnace for firing pottery
+GLAZE | Glassy coating fused to a ceramic surface
+COBALT | Blue pigment used beneath a porcelain glaze
+CELADON | Pale green glaze developed in East Asian ceramics
+BISCUIT | Ceramic body after its first firing
+BLUEWHITE | Famous porcelain style decorated in blue on white
+UNDERPAINT | Decoration applied before the clear glaze is fired
+ENAMEL | Decoration added on top of a fired glaze
+PASTE | Plastic mixture of clay and other ingredients
+TURNTABLE | Rotating tool used to shape a vessel
+SLIP | Thin liquid clay used for coating or joining
+FIRING | Heating pottery until it hardens
+SHARD | Broken piece of a ceramic object
+VESSEL | Container shaped from clay
+SINTERING | Densification of ceramic particles under heat
+TRANSLUCENT | Allowing some light to pass through
+
+=== Gupta Mathematics | HARD
+ARYABHATA | Indian mathematician who wrote the Aryabhatiya
+BRAHMAGUPTA | Mathematician who described rules for zero and negative numbers
+ZERO | Number representing an empty place or quantity
+DECIMAL | Number system based on groups of ten
+PLACEVALUE | Value determined by a digit's position
+NUMERAL | Written symbol representing a number
+SINE | Trigonometric ratio used in astronomical calculations
+SECANT | Trigonometric ratio related to an angle in a triangle
+ALGEBRA | Branch of mathematics using symbols and equations
+THEOREM | Statement proved from accepted rules
+SUMMATION | Sum formed from a sequence of terms
+INFINITY | Idea of a quantity with no finite bound
+SURD | Irrational root written using a radical sign
+FRACTION | Part of a whole written as a ratio
+DIVISOR | Number that divides another without a remainder
+REMAINDER | Amount left after division
+GEOMETRY | Mathematics of shapes, distances, and angles
+ASTRONOMY | Study of the objects and motions in the sky
+EQUATION | Mathematical statement that two expressions are equal
+METHOD | Ordered procedure for solving a problem
+
+=== Icelandic Saga Manuscripts | HARD
+SAGA | Long prose story about families or heroes
+SKALD | Poet who composed verse for Norse courts
+EDDIC | Relating to old Norse mythological or heroic poems
+MANUSCRIPT | Handwritten book or document
+VELLUM | Prepared animal skin used for writing
+ANIMALSKIN | Writing surface made from treated animal skin
+CODEX | Book made of bound pages rather than a scroll
+RUNE | Character from an old Germanic writing system
+STAVE | Rune or carved character in an old inscription
+ICELAND | North Atlantic island where many sagas were written down
+NORSE | Relating to the people and language of medieval Scandinavia
+FEUD | Long-running conflict between families
+ASSEMBLY | Gathering where free people discussed laws and disputes
+ALTHING | Iceland's national assembly, founded in the tenth century
+PROSE | Ordinary written language rather than verse
+VERSE | Language arranged in lines with rhythm or metre
+ORAL | Passed by spoken storytelling rather than writing
+GENEALOGY | Record tracing family descent
+COURTLY | Relating to the elaborate poetry of Norse court poets
+GLOSS | Note written beside a main text
+
+=== Renaissance Anatomy Theatre | HARD
+ANATOMY | Study of the structures of the body
+CADAVER | Dead body used for medical examination
+DISSECTION | Careful cutting apart to examine internal structures
+THEATRE | Room with tiered seating for a public demonstration
+ARENA | Circular or oval venue with rising rows of seats
+VESALIUS | Anatomist who published a landmark illustrated study in 1543
+GALEN | Ancient physician whose ideas shaped European medicine
+MUSCLE | Tissue that contracts to produce movement
+TENDON | Strong tissue joining a muscle to a bone
+ARTERY | Vessel carrying blood away from the heart
+VENULE | Small vessel carrying blood toward the heart
+NERVE | Bundle of fibers transmitting signals in the body
+SKELETON | Framework of bones supporting the body
+ORGAN | Body structure with a particular function
+LIGAMENT | Tough band connecting one bone to another
+SCALPEL | Small sharp knife used for precise cutting
+AUTOPSY | Examination of a body after death
+ATLAS | Book of anatomical drawings or maps
+ENGRAVING | Printed illustration in an anatomy book
+SLICE | Thin tissue sample cut and kept for anatomical study
+
+=== Mughal Garden Design | HARD
+CHARBAGH | Persian-style garden divided into four parts
+AXIS | Straight line organizing a garden's layout
+QUADRANT | One of four sections formed by crossing paths
+PAVILION | Small roofed building set within a garden
+PLINTH | Raised base supporting a garden statue
+WATERJET | Structure that sends water into the air
+WATERCOURSE | Narrow passage carrying water through a garden
+PAVING | Flat surface laid for walking
+PARTERRE | Ornamental level garden bed viewed from above
+CYPRESS | Tall evergreen tree often planted in Persian gardens
+PERSIAN | Relating to the culture and language of Iran
+OCTAGON | Shape with eight sides
+TANK | Shallow pool that collects water
+SYMMETRY | Balanced arrangement of matching parts
+PERGOLA | Garden structure that provides shelter from direct sunlight
+PERFUME | Pleasant scent from flowers or plants
+FRUITGROVE | Place where fruit trees are grown
+PATIO | Paved outdoor area beside a building
+MARBLE | Stone used for paths, pools, or decoration
+POND | Small body of still water
+
+=== Ottoman Census Records | HARD
+DEFTER | Ottoman register used to record land or taxpayers
+TAPU | Ottoman document recording rights to land
+TAHRIR | Survey and register of people, land, and revenue
+KADI | Judge who administered law in an Ottoman district
+HOUSEHOLD | People recorded together as one domestic unit
+FARMER | Person cultivating land listed in a register
+LAND | Property measured and assessed for taxation
+ACRE | Unit used to measure an area of farmland
+CENSUS | Official count of people in a population
+SURVEY | Systematic inspection or measurement of a region
+CADASTRE | Official written record kept by an administrator
+ACCOUNTS | Book recording public revenues
+POPULATION | People living in a particular place
+VILLAGE | Small settlement whose households could be counted
+DISTRICT | Area administered as part of a larger region
+REPOSITORY | Collection of records kept for reference
+ARCHIVIST | Person responsible for preserving historical records
+OTTOMAN | Relating to the empire centered in Anatolia
+REVENUE | Income collected by a government
+PROPERTY | Land or goods owned by a person
+
+=== Greek Shipwreck Archaeology | HARD
+SHIPWRECK | Sunken remains of a vessel
+PITHOS | Large storage jar carried as cargo
+WINDLASS | Ship's device used to raise a heavy anchor
+BALLAST | Heavy material carried to steady a ship
+STRINGER | Longitudinal timber reinforcing a ship's bottom
+KEEL | Long central beam along the bottom of a ship
+TIMBER | Wood prepared for construction
+CARGO | Goods carried aboard a vessel
+POTTERY | Objects made from fired clay
+METALBAR | Cast block of metal carried as cargo
+COINAGE | Money issued in metal pieces
+CERAMIC | Object made from baked clay
+LEAD | Heavy metal used in ancient ship fittings
+DIVING | Going underwater to examine a site
+SONAR | System using sound to detect underwater objects
+WRECKAGE | Broken remains of a damaged vessel
+DECK | Platform forming the floor of a ship
+LADING | Goods loaded aboard a ship
+OAKUM | Fiber used to seal gaps between a ship's planks
+SHIPWORM | Marine animal that bores into sunken timber
+
+=== Minoan Seal Stones | HARD
+CACHET | Carved object pressed into clay or wax
+STEATITE | Soft stone often carved for small ancient objects
+CARNELIAN | Red-orange gemstone used in carved ornaments
+AGATE | Banded stone suitable for fine carving
+SIGNET | Small carved seal used to mark ownership
+GLYPTIC | Relating to engraved gems or seals
+FIGURATION | Repeated image or pattern carved into stone
+GLYPH | Carved or written symbol
+PENDANT | Ornament that hangs from a chain
+PIERCE | Make a hole through a material
+BURIN | Small cutting tool used to carve a seal stone
+MINOAN | Relating to the Bronze Age civilization of Crete
+CRETE | Mediterranean island where Minoan palaces stood
+KNOSSOS | Major Minoan palace site on Crete
+PHAISTOS | Minoan palace site famous for a clay disk
+IMPRINT | Mark left when a seal is pressed into a surface
+CLAY | Fine earth that becomes firm when dried or fired
+BEZEL | Raised rim holding a gem or seal stone
+INTAGLIO | Design cut below the surface of a stone
+CORD | String that could suspend a seal
+
+=== Sanskrit Manuscript Preservation | HARD
+PALM | Tree leaves used as a writing surface in South Asia
+TALAPATRA | Palm leaf used as a writing surface in South Asia
+BIRCH | Tree whose bark supplied a writing surface
+BARK | Protective outer covering of a tree
+BUNDLE | Group of manuscript leaves tied together
+QUIRE | Gathering of manuscript leaves bound together
+INK | Liquid used for writing or drawing
+LAMPBLACK | Soot pigment used for dark manuscript ink
+COPPER | Metal used for durable inscription plates
+EDICT | Formal document recorded on a durable sheet
+LACQUER | Protective glossy coating applied to an object
+BOOKJACKET | Protective paper cover around a manuscript
+STORAGE | Keeping an object safely for future use
+DAMPNESS | Amount of water vapour in the air
+PEST | Insect or animal that can damage a manuscript
+FUNGUS | Organism that may grow on damp materials
+REPAIR | Work done to mend damage
+CONSERVE | Protect an object from further deterioration
+POTHI | Traditional South Asian palm-leaf manuscript
+COLOPHON | Scribe's note that may record a manuscript's completion
+
+=== Fijian Canoe Craft | HARD
+DRUA | Large double-hulled sailing canoe of Fiji
+CAMAKAU | Fijian outrigger canoe used for coastal travel
+TAKIA | Fijian sailing canoe with an outrigger
+OUTRIGGER | Float attached beside a canoe for stability
+HULL | Watertight body of a boat
+SAIL | Sheet of cloth driven by the wind
+MAT | Woven plant material used for a traditional sail
+SENNIT | Plaited cord used to lash canoe parts
+LASHING | Binding that holds pieces together
+COCONUT | Palm fruit whose fiber can make strong cord
+TIMBER | Wood prepared for building
+ADZE | Edge tool used to shape wood
+OAR | Hand-held blade used to propel a small boat
+STERN | Rear end of a vessel
+PROW | Front end of a vessel
+MAST | Upright pole that supports a sail
+TILLER | Handle used to steer a boat
+REEF | Narrow ridge of coral near the surface
+VOYAGE | Long journey by sea
+PIVOT | Point around which a part turns
+
+=== Himalayan Glaciology | HARD
+GLACIER | Large mass of ice that moves slowly over land
+FIRN | Granular snow that has survived one summer
+ICEFALL | Steep broken section of a glacier
+SERAC | Tower of ice separated by deep crevasses
+CREVASSE | Deep crack in glacial ice
+MORAINE | Ridge of rock debris left by a glacier
+CIRQUE | Bowl-shaped hollow carved high on a mountain
+NEVE | Old granular snow that feeds a glacier
+ABLATION | Loss of ice through melting, evaporation, or calving
+ACCUMULATION | Addition of snow to a glacier
+CALVING | Breaking away of ice from a glacier front
+NUNATAK | Rocky peak surrounded by glacial ice
+DEBRIS | Rock fragments carried by moving ice
+BASAL | Located at the bottom of a glacier
+MELTWATER | Water produced when ice or snow melts
+SNOUT | Lowest end of a glacier
+GLACIAL | Relating to glaciers or ice ages
+TERMINUS | End point of a glacier
+OGIVE | Curved band of ice below a glacier's icefall
+RETREAT | Movement of a glacier's end toward higher ground
+
+=== Seagrass Ecology | HARD
+SEAGRASS | Flowering plant that grows beneath shallow seawater
+POSIDONIA | Mediterranean genus of seagrass
+ZOSTERA | Genus of eelgrass found in coastal waters
+THALASSIA | Tropical seagrass genus with ribbon-shaped leaves
+RHIZOME | Horizontal stem that can produce roots and shoots
+SHOOT | New stem or leaf growth from a plant
+SEED | Structure that can grow into a new plant
+POLLINATION | Transfer of reproductive grains to a flower
+THICKET | Dense underwater stand of seagrass
+TURTLE | Marine reptile that grazes on some seagrasses
+MANATEE | Large aquatic mammal that feeds on plants
+DUGONG | Marine mammal that grazes on seagrass
+SEAFLOOR | Surface where seagrass roots anchor
+NURSERY | Habitat where young animals can shelter
+BLUECARBON | Carbon stored in coastal plants and sediments
+EPIPHYTE | Plant or alga growing on another plant's surface
+GRAZER | Animal that feeds on plants or algae
+TIDAL | Relating to the regular rise and fall of the sea
+LAGOON | Shallow coastal body of water
+BIOMASS | Total mass of living material in an area
+
+=== Mammalian Endocrinology | HARD
+HORMONE | Chemical messenger carried through the body
+GLAND | Organ that makes and releases a substance
+PITUITARY | Small gland at the base of the brain
+THYROID | Neck gland that helps regulate metabolism
+ADRENAL | Gland above a kidney that makes stress hormones
+CORTISOL | Hormone released during a stress response
+INSULIN | Pancreatic hormone that lowers blood glucose
+GLUCAGON | Hormone that raises blood glucose
+ESTROGEN | Group of hormones involved in female reproduction
+ANDROGEN | Hormone group associated with male traits
+PROGESTERONE | Hormone that supports pregnancy
+TESTOSTERONE | Hormone important in male reproductive development
+OXYTOCIN | Hormone involved in birth and milk release
+PROLACTIN | Hormone that stimulates milk production
+MELATONIN | Hormone that helps regulate daily sleep timing
+EPINEPHRINE | Hormone also called adrenaline
+BINDER | Cell protein that binds a specific hormone signal
+HOMEOSTASIS | Process by which a result influences its own control
+CORTEX | Outer region of an adrenal gland
+PANCREAS | Organ that releases insulin and digestive enzymes
+
+=== Tectonic Geodesy | HARD
+GEODESY | Science of measuring Earth's shape and size
+GNSS | Satellite-based system for finding precise positions
+ORBITER | Object travelling around a planet
+GPS | U.S. satellite navigation system
+BASELINE | Measured distance between two survey stations
+ELLIPSOID | Smooth mathematical model of Earth's shape
+COORDINATE | Reference used to locate a point on a map
+GEOID | Surface matching mean sea level extended beneath land
+LITHOSPHERE | Large moving section of Earth's outer shell
+RUPTURE | Fracture along which rocks can move
+STRAIN | Change in shape caused by applied force
+DISPLACEMENT | Change in position of a point on Earth's surface
+MOTION | Rate and direction of tectonic movement
+TECTONIC | Relating to movement and deformation of Earth's plates
+DEFORMATION | Change in the shape or size of a rock body
+SURVEY | Careful measurement of land or position
+POSITION | Location specified by coordinates
+TRAJECTORY | Curved path followed by a satellite
+CRUST | Earth's outermost solid layer
+TRENCH | Long, deep depression at a plate boundary
+
+=== Cloud Halo Optics | HARD
+HALO | Ring of light around the sun or moon
+CORONA | Coloured ring close to the sun's disk
+SUBSUN | Bright image of the sun formed by ice crystals below it
+SUNPILLAR | Vertical shaft of light formed by ice crystals
+SUNDOG | Bright patch beside the sun caused by ice crystals
+MIRAGE | Optical effect that makes distant objects appear displaced
+IRIDESCENCE | Shifting colours seen around cloud edges
+SCATTER | Deflect light in many directions
+DIFFRACTION | Spreading of light around an edge or opening
+POLARIZE | Restrict light waves to a particular orientation
+POLARIZATION | Preferred orientation of a light wave's oscillation
+AEROSOL | Tiny solid or liquid particles suspended in air
+CLOUD | Visible mass of droplets or ice crystals in the sky
+CRYSTAL | Solid with atoms arranged in an ordered pattern
+ICE | Frozen water that forms atmospheric crystals
+TANGENTARC | Arc touching the upper edge of a circular halo
+ANTHELION | Bright spot on a parhelic circle opposite the sun
+TWILIGHT | Soft light in the sky after sunset
+AURORA | Coloured sky display caused by charged particles
+DEW | Water droplets that form on cool surfaces
+
+=== Mass Spectrometry | HARD
+IONIZATION | Process that creates charged atoms or molecules
+QUADRUPOLE | Four-rod filter that selects ions by mass and charge
+IONTRAP | Device that confines charged particles for analysis
+MASS | Measure of the amount of matter in a particle
+CHARGE | Electrical property carried by an ion
+ANALYZER | Part of an instrument that separates ions
+COUNTER | Device that registers arriving ions
+SEPARABILITY | Ability to distinguish ions with nearby masses
+ISOBAR | Nuclide sharing a mass number with another element's nuclide
+FRAGMENT | Piece produced when a molecule breaks apart
+PEAK | Raised signal in a measured spectrum
+SPECTROGRAM | Plot showing an instrument's signal across ion masses
+CALIBRANT | Known substance used to check an instrument's scale
+MALDI | Laser-based method for ionizing large molecules
+TOF | Analyzer that separates ions by travel time
+ELECTROSPRAY | Technique that forms ions from a fine liquid spray
+LOWPRESSURE | Low-pressure space inside an instrument
+SOURCE | Instrument section where ions are produced
+TANDEM | Describes mass analysis performed in two stages
+DISSOCIATION | Breaking of a molecule into smaller charged pieces
+
+=== Paleomagnetism | HARD
+GEOMAGNETISM | Study of Earth's magnetic field recorded in ancient rocks
+MAGNETITE | Iron oxide mineral that can preserve magnetic direction
+REMANENCE | Magnetism retained after an external field is removed
+POLARITY | Orientation of a magnetic field
+REVERSAL | Change in Earth's magnetic polarity
+BASALT | Dark volcanic rock that records field direction as it cools
+LAVA | Molten rock that reaches Earth's surface
+CRYSTAL | Solid with atoms arranged in an ordered pattern
+MAGNETOMETER | Instrument that measures Earth's magnetic field
+SAMPLER | Tool used to collect a cylindrical rock sample
+ORIENTATION | Direction of a sample relative to north or level
+INCLINATION | Angle between a magnetic field and the horizontal
+DECLINATION | Angle between magnetic north and geographic north
+STRATA | Layers of rock or sediment
+DETRITUS | Particles accumulated by water, wind, or ice
+ALIGNMENT | Arrangement of magnetic grains in one direction
+RECORD | Evidence preserved in a rock or sediment layer
+FIELD | Region in which magnetic forces can act
+CORE | Deep central part of Earth
+CHRONOLOGY | Ordered account of events through time
+
+=== Membrane Biophysics | HARD
+LIPID | Fat-like molecule that is a major membrane component
+BILAYER | Two sheets of molecules forming a cell membrane
+AMPHIPHILE | Molecule with a water-loving head and oily tails
+BARRIER | Thin boundary surrounding a cell or compartment
+PERMEABILITY | Ease with which a substance crosses a barrier
+DIFFUSION | Movement from a region of high concentration to low
+OSMOSIS | Movement of water through a selective barrier
+PORE | Protein passage that lets selected ions cross a membrane
+CARRIER | Protein that transports a substance across a membrane
+TRANSPORTER | Protein that moves material using cellular energy
+RECEPTOR | Protein that detects a chemical or physical signal
+POLARITY | Sign of the electrical difference across a membrane
+DELTA | Symbol for a change in membrane voltage
+FLUIDITY | Ease with which membrane molecules move
+CURVATURE | Degree to which a membrane bends
+TENSION | Pulling force acting along a membrane
+TETHER | Link that holds a membrane near another structure
+MERGER | Joining of two membranes into one
+VESICLE | Small membrane-bound sac in a cell
+PASSAGE | Movement of substances across a membrane
+
+=== Epigenetic Inheritance | HARD
+EPIGENETIC | Relating to gene activity changes without DNA sequence changes
+TAGGING | Addition of a methyl group to DNA or protein
+ACETYLATION | Addition of an acetyl group to a molecule
+HISTONE | Protein around which DNA is wrapped
+CHROMATIN | DNA and proteins packaged together in a chromosome
+IMPRINTING | Parent-specific pattern of gene activity
+PROMOTER | DNA region where transcription can begin
+SILENCING | Turning down or stopping a gene's activity
+EXPRESSION | Use of genetic information to make a product
+MODIFICATION | Chemical change added to DNA or its associated proteins
+HERITABLE | Able to pass from one generation to the next
+MARK | Chemical feature that can affect gene activity
+INHERITANCE | Passing of traits from parents to offspring
+METHYL | Chemical group containing one carbon and three hydrogens
+ENZYME | Protein that speeds up a chemical reaction
+REGULATOR | Factor that controls the activity of a process
+GENE | DNA segment that contributes to a functional product
+TRANSCRIBING | Process of copying DNA information into RNA
+RNA | Molecule used to carry or act on genetic information
+DNA | Molecule that stores hereditary information
+
+=== Cryptographic Protocols | HARD
+PROTOCOL | Agreed procedure for exchanging protected messages
+ENCODING | Method for transforming readable text into coded text
+PLAINTEXT | Message before it is encrypted
+CIPHERTEXT | Message after it has been encrypted
+ENCRYPT | Convert information into a protected form
+DECRYPT | Restore protected information to readable form
+KEY | Secret value used by a cipher
+PUBLIC | Describes a key that may be shared openly
+PRIVATE | Describes a key kept secret by its owner
+ATTESTATION | Digital proof that a message came from its claimed sender
+HASH | Fixed-length digest computed from data
+NONCE | Number used once to prevent replay
+SESSION | Period during which two parties communicate
+HANDSHAKE | Initial exchange that establishes a secure connection
+CERTIFICATE | Document that binds an identity to a public key
+AUTHENTICATE | Verify the identity of a user or system
+INTEGRITY | Assurance that information was not changed
+CONFIDENTIAL | Intended to be kept secret from outsiders
+ATTACK | Attempt to break or misuse a security system
+REPLAY | Reuse of an earlier valid message by an attacker

@@ -1,33 +1,30 @@
 {
   "id": "level-033",
-  "title": "Family Tree",
+  "title": "Under the Sea Treasure",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#F#########",
-    "#A##AUNT###",
-    "#T###N#####",
-    "#H#M#COUSIN",
-    "#E#O#L##I#E",
-    "BROTHER#S#P",
-    "A##H####T#H",
-    "B##E##NIECE",
-    "Y##R####R#W"
+    "PARROT#C",
+    "#N#####L",
+    "#CHEST#E",
+    "#H###I#A",
+    "GOLD#M#N",
+    "#R#I#I#S",
+    "###V#N#E",
+    "MELANGER"
   ],
   "clues": {
     "across": {
-      "2": "Your parent's sister",
-      "5": "Your aunt's child",
-      "8": "Male sibling",
-      "9": "Your sibling's daughter"
+      "1": "Bird on a pirate's shoulder",
+      "4": "Box of treasure",
+      "6": "Shiny yellow metal",
+      "8": "Stone grinder used to refine chocolate particles"
     },
     "down": {
-      "1": "Dad",
-      "3": "Your parent's brother",
-      "4": "Mum",
-      "6": "Female sibling",
-      "7": "Your sibling's son",
-      "8": "Newest member of the family"
+      "2": "It holds a ship in place",
+      "3": "Gentle cleaning product mixed with water",
+      "5": "Spacing of poses that sets the pace of movement",
+      "7": "Celebrated female singer"
     }
   },
   "order": 33

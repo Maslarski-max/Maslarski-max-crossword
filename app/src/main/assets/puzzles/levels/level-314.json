@@ -1,0 +1,57 @@
+{
+  "id": "level-314",
+  "title": "Animated Films",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "STORYBOARD#SIP",
+    "O###I#D##O#A##",
+    "UVSTERILIZER#D",
+    "N###L#N##E###A",
+    "DNA#D##FEN###L",
+    "T#N##V#R###SKI",
+    "RAIN#O#APPLE##",
+    "A#M##I#M###Q#N",
+    "CHARACTER#CUBA",
+    "K#T##E#####E#C",
+    "##I#MODEL##N#E",
+    "IRON#V#M#G#CEL",
+    "N#N#KEYFRAME#L",
+    "K####R###S###E"
+  ],
+  "clues": {
+    "across": {
+      "1": "Sequence of sketches planning a film",
+      "5": "Small mouthful of a drink",
+      "6": "Lamp that reduces free-floating microbes in flowing water",
+      "8": "Genetic molecule carried by some viruses",
+      "10": "Peat-forming wetland fed by mineral-rich water",
+      "12": "Glide down a mountain on it",
+      "13": "Water falling from clouds",
+      "14": "Crisp fruit that grows on a tree",
+      "16": "Person or creature in a story",
+      "17": "Caribbean island of Havana",
+      "18": "Three-dimensional figure used in stop motion",
+      "20": "Metal abundant in some meteorites",
+      "22": "Clear sheet used in traditional animation",
+      "23": "Main drawing that marks a motion pose"
+    },
+    "down": {
+      "1": "Music and audio for a film",
+      "2": "Fraction of absorbed photons that produce a chosen outcome",
+      "3": "One-eyed Norse chief god",
+      "4": "Group of twelve eggs",
+      "5": "Short name for search and rescue operations",
+      "7": "Surrealist with melting clocks",
+      "9": "Making drawings or models appear to move",
+      "10": "Single image in a moving picture",
+      "11": "Recorded speech heard over images",
+      "12": "Connected series of shots",
+      "15": "Housing that sits atop a turbine tower",
+      "19": "Difference in electrical potential between two points",
+      "20": "Liquid used for writing or drawing",
+      "21": "Matter that expands to fill its container"
+    }
+  },
+  "order": 314
+}

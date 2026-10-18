@@ -1,45 +1,28 @@
 {
   "id": "hard-01",
-  "title": "Wordsmith",
+  "title": "Kitchen Drawer",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "##OBSCURE###L##",
-    "######B##T##A##",
-    "QUIXOTIC#A##C#V",
-    "######Q##CAJOLE",
-    "##P###U##I##N#R",
-    "SERENDIPITY#I#B",
-    "##A###T##U##C#O",
-    "##G#ESOTERIC##S",
-    "##M#L#U##N#A##E",
-    "ZEALOUS####N###",
-    "##T#Q##PARADOX#",
-    "##I#U######O###",
-    "##C#ENIGMA#R###",
-    "####N##########",
-    "#AUSTERE#######"
+    "PLATE##C",
+    "#A###S#A",
+    "#D#K#P#S",
+    "ALMAGEST",
+    "#E#B#C#O",
+    "###U#I#F",
+    "###K#E#F",
+    "###I#S##"
   ],
   "clues": {
     "across": {
-      "1": "Not well known",
-      "5": "Idealistic to an impractical degree",
-      "7": "Coax with flattery",
-      "9": "Happy accident",
-      "10": "Understood by only a select few",
-      "12": "Showing great fervor",
-      "13": "Seemingly self-contradictory statement",
-      "14": "Puzzling person or thing",
-      "15": "Severe or strict in manner"
+      "1": "You serve dinner on it",
+      "6": "Astronomical work by Ptolemy studied by later scholars"
     },
     "down": {
-      "2": "Seemingly everywhere at once",
-      "3": "Using very few words",
-      "4": "Reserved; saying little",
-      "6": "Using more words than needed",
-      "8": "Dealing with things sensibly and realistically",
-      "10": "Fluent and persuasive in speech",
-      "11": "Frankness"
+      "2": "Deep spoon for serving soup",
+      "3": "Scheduled leaving time",
+      "4": "Group of similar living organisms",
+      "5": "Popular Japanese theatre with stylized acting"
     }
   },
   "order": 5

@@ -1,37 +1,33 @@
 {
   "id": "level-062",
-  "title": "Gardening",
+  "title": "Cookie Decorating",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###COMPOST#",
-    "H####U###R#",
-    "E###BLOSSOM",
-    "D##S#C###W#",
-    "GREENHOUSE#",
-    "E##E##R##L#",
-    "###D##C####",
-    "#BULB#H##W#",
-    "###I##A##E#",
-    "PRUNE#RAKE#",
-    "###G##D##D#"
+    "ROLLER#I#",
+    "#V#I###N#",
+    "#E#N###B#",
+    "ENVELOPE#",
+    "Y##J#U#T#",
+    "E#SUIT#W#",
+    "L##D#LEES",
+    "E##G#E#E#",
+    "T#RESTING"
   ],
   "clues": {
     "across": {
-      "1": "Rotting matter used as fertiliser",
-      "5": "Flowers on a fruit tree",
-      "7": "Glass building for plants",
-      "9": "Tulips grow from one",
-      "11": "Trim back a plant",
-      "12": "Tool for gathering leaves"
+      "1": "Tool used to flatten dough",
+      "5": "Outer lipid layer on some viruses",
+      "7": "Special clothing worn outside a spacecraft",
+      "8": "Spent yeast and other solids settled at the bottom of a vessel",
+      "9": "Describes a cell's electrical state before a signal"
     },
     "down": {
-      "2": "Layer spread over soil",
-      "3": "Small hand spade",
-      "4": "Row of bushes",
-      "6": "Young plant",
-      "8": "Field of fruit trees",
-      "10": "Unwanted plant"
+      "2": "Hot box used for baking",
+      "3": "Official watching whether the ball lands in bounds",
+      "4": "Drawing added between two key poses",
+      "5": "Small reinforced opening for a lace",
+      "6": "Wall fitting that supplies electricity"
     }
   },
   "order": 62

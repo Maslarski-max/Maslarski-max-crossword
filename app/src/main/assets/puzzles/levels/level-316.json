@@ -1,0 +1,57 @@
+{
+  "id": "level-316",
+  "title": "Polar Research Camp",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "ROPE#GLACIER##",
+    "E#R##R#X#C#A#F",
+    "SNOWMOBILE#N#I",
+    "E#G##G#O#C#C#R",
+    "ACRE##SMOOTHIE",
+    "R#A######R###B",
+    "COMPASS#TENT#A",
+    "H##I#L#F###H#L",
+    "E#KNEE#L##WELL",
+    "R##N#DRILL#R##",
+    "###I#G#P#A#M#A",
+    "SAMPLE#PARKA#L",
+    "I##E###E#V#LOG",
+    "P#EDITORIAL##A"
+  ],
+  "clues": {
+    "across": {
+      "1": "Skip with it",
+      "3": "Slow-moving mass of ice on land",
+      "8": "Vehicle that travels over snow",
+      "9": "Unit used to measure an area of farmland",
+      "10": "Thick cold drink made by blending fruit",
+      "11": "Tool that shows direction",
+      "14": "Fabric shelter used in the field",
+      "17": "Joint in the middle of your leg",
+      "18": "Village water source",
+      "19": "Tool for making a hole in ice",
+      "22": "Small amount collected for study",
+      "23": "Warm outer coat for cold conditions",
+      "24": "Thick piece of cut wood",
+      "25": "Article giving the paper's view"
+    },
+    "down": {
+      "1": "Person who carries out a scientific study",
+      "2": "Printed list of a concert's works",
+      "3": "Crushed fired clay added to a clay body",
+      "4": "Self-evident starting truth",
+      "5": "Cylinder drilled from a sheet of ice",
+      "6": "Large cattle farm",
+      "7": "Exceptionally bright meteor crossing the night sky",
+      "12": "Seal, sea lion, or walrus",
+      "13": "Runner vehicle pulled over snow",
+      "15": "Designed to retain body heat",
+      "16": "Broad limb used for swimming",
+      "20": "Immature stage that looks different from the adult",
+      "21": "Simple photosynthetic organism living in water",
+      "22": "Small mouthful of a drink"
+    }
+  },
+  "order": 316
+}

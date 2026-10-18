@@ -1,0 +1,60 @@
+{
+  "id": "level-347",
+  "title": "Wetland Ecology",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "I#S##D#S##N#URN",
+    "N#UPRIGHTBASS#O",
+    "U#R##V#E##D#E#U",
+    "N#P#WATERSHED#N",
+    "D#L#E##R#E#S###",
+    "AQUATIC#EDITION",
+    "T#S#L####I#U##A",
+    "I##MARSH#M#A##P",
+    "O###N#E#REAR##K",
+    "N#LED#D##N#Y##I",
+    "##U###G##T####N",
+    "H#G##FEN##USHER",
+    "OVEN#U#ANT####I",
+    "O####S#I######N",
+    "POINTE#LUNCHBAG"
+  ],
+  "clues": {
+    "across": {
+      "6": "Vessel that can hold ashes or other remains",
+      "8": "Tall string instrument played standing or seated",
+      "9": "Land area draining toward a shared outlet",
+      "12": "Living or growing in water",
+      "13": "Copies of a work printed together",
+      "15": "Wet ground dominated by grasses and reeds",
+      "17": "Raised section beneath the back of a shoe",
+      "18": "Tiny bright lamp used in modern devices",
+      "20": "Peat-forming wetland fed by mineral-rich water",
+      "22": "Person who shows you to your seat",
+      "23": "Hot box used for baking",
+      "24": "Tiny insect that lives in a colony",
+      "25": "Tip of a ballet shoe",
+      "26": "Soft carrier that holds a packed midday meal"
+    },
+    "down": {
+      "1": "Covering of land by a flood",
+      "2": "Excess of income",
+      "3": "Celebrated female singer",
+      "4": "Thin fabric that lets light pass through",
+      "5": "Electron-carrying molecule formed during metabolism",
+      "6": "Previously owned rather than brand new",
+      "7": "Word used to name a person, place, thing, or idea",
+      "9": "Land saturated long enough to support water plants",
+      "10": "Material carried and deposited by moving water",
+      "11": "Coastal place where river water meets the sea",
+      "14": "Loop that holds a folded cloth square",
+      "16": "Grasslike plant common in damp ground",
+      "18": "Narrow sled used in a winter racing sport",
+      "19": "Large plastic ring spun around the waist",
+      "20": "Cord that carries flame to a charge",
+      "21": "Thin metal spike"
+    }
+  },
+  "order": 347
+}

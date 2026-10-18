@@ -20,10 +20,25 @@ class BundledPuzzlesTest {
 
     @Test
     fun `levels parse and span every difficulty`() {
-        val levels = load("levels", PuzzleType.LEVEL)
-        assertTrue("expected at least 300 levels, found ${levels.size}", levels.size >= 300)
+        val levels = load("levels", PuzzleType.LEVEL).sortedBy { it.order }
+        assertEquals(720, levels.size)
         assertEquals(Difficulty.entries.toSet(), levels.map { it.difficulty }.toSet())
-        assertEquals(levels.size, levels.map { it.order }.toSet().size)
+        assertEquals((1..720).toList(), levels.map { it.order })
+        levels.forEachIndexed { index, puzzle ->
+            val order = index + 1
+            val expectedWords = 6 + (order - 1) * 51 / 720
+            val expectedSize = 8 + (order - 1) * 15 / 720
+            assertEquals("$order word count", expectedWords, puzzle.orderedWords.size)
+            assertEquals("$order row count", expectedSize, puzzle.rows)
+            assertEquals("$order column count", expectedSize, puzzle.cols)
+            if (order >= 481) assertTrue("$order has fewer than 40 words", puzzle.orderedWords.size >= 40)
+            if (index > 0) {
+                val previous = levels[index - 1]
+                assertTrue(previous.orderedWords.size <= puzzle.orderedWords.size)
+                assertTrue(previous.rows <= puzzle.rows)
+                assertTrue(previous.cols <= puzzle.cols)
+            }
+        }
     }
 
     @Test

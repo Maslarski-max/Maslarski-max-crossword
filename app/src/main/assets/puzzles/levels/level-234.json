@@ -1,36 +1,48 @@
 {
   "id": "level-234",
-  "title": "Antique Clockmakers",
+  "title": "Library Story Hour",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###H###GEAR#",
-    "###A####S###",
-    "#D#N####C##P",
-    "WIND#BALANCE",
-    "#A######P##N",
-    "CLOCKMAKER#D",
-    "A##H####M##U",
-    "SPRING##E##L",
-    "E##M####N##U",
-    "##REGULATE#M"
+    "P##ART#SPIN#",
+    "I#F#E#B#A##O",
+    "CLAPALONG##R",
+    "T#I#D#O#EDGE",
+    "U#RNA#K#F#A#",
+    "RAY#LOCAL#M#",
+    "E#T#O#A#ARES",
+    "B#A#U#RAG#P#",
+    "O#LID#T###I#",
+    "ODE##B#DRYER",
+    "K##MRI####C#",
+    "#####TRIFLE#"
   ],
   "clues": {
     "across": {
-      "2": "Toothed wheel that transfers motion",
-      "6": "Tighten a clock's spring with a key",
-      "7": "Oscillating wheel in some timepieces",
-      "8": "Person who builds or repairs clocks",
-      "10": "Coiled metal source of stored energy",
-      "11": "Adjust a clock to keep accurate time"
+      "2": "Work made to express an idea or show beauty",
+      "4": "Rotate around a central point",
+      "9": "Join a song by keeping its beat with hands",
+      "10": "Folded part stitched at the bottom",
+      "12": "Genetic material used by many viruses",
+      "13": "Idealized straight path followed by light",
+      "14": "Service that stops at each station",
+      "15": "God of war in Greek myth",
+      "16": "Old piece of fabric used as a cleaning wipe",
+      "17": "Cover that fits over a container",
+      "18": "Formal poem of praise or reflection",
+      "20": "Electric tool that blows warm air",
+      "21": "Imaging method using magnets and radio waves",
+      "22": "Layered British dessert"
     },
     "down": {
-      "1": "Pointer on a clock face",
-      "3": "Mechanism controlling release of stored energy in a clock",
-      "4": "Face showing the time",
-      "5": "Swinging weight used to keep time",
-      "8": "Outer container for a clock",
-      "9": "Ringing sound made to mark time"
+      "1": "Children's book told through words and art",
+      "3": "Group activity where one person reads to others",
+      "5": "Slip placed between pages to save a spot",
+      "6": "Make-believe story with magic and wonder",
+      "7": "Wheeled shelf used to move library books",
+      "8": "Rock from which useful metal can be extracted",
+      "11": "Small object moved during a board game",
+      "19": "Unit of information that can have two values"
     }
   },
   "order": 234

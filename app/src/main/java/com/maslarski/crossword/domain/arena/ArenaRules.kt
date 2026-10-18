@@ -26,6 +26,13 @@ object ArenaRules {
     private const val DOUBLE_RATIO = 0.1
     private const val TRIPLE_RATIO = 0.05
 
+    /** Arena pools are chosen by bundled puzzle word count, not the Classic difficulty label. */
+    fun wordCountRange(difficulty: Difficulty): IntRange = when (difficulty) {
+        Difficulty.EASY -> 8..14
+        Difficulty.MEDIUM -> 12..18
+        Difficulty.HARD -> 16..22
+    }
+
     fun newMatch(layout: ArenaLayout, difficulty: Difficulty, seed: Long): ArenaState {
         val random = Random(seed)
         val letters = layout.letterCells.shuffled(random)

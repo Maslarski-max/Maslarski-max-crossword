@@ -1,39 +1,43 @@
 {
   "id": "level-176",
-  "title": "Farmers Market",
+  "title": "Family Photos",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#CHUTNEY####",
-    "##A#########",
-    "TURNIP#BUNCH",
-    "##V##A####R#",
-    "PRESERVE##A#",
-    "##S##S####T#",
-    "#STALLHOLDER",
-    "#####E#R####",
-    "#####Y#G###W",
-    "######HAGGLE",
-    "#######N###I",
-    "####RADISH#G",
-    "#######C###H"
+    "GROUPSHOT##",
+    "R#D###U##D#",
+    "ARES#GESSO#",
+    "N###W####M#",
+    "D#A#E#POSE#",
+    "P#LID#R#I##",
+    "A#B#D#I#BAT",
+    "REUNION#L##",
+    "E#M#N#TRIM#",
+    "N###G###N##",
+    "TILE#LEDGER"
   ],
   "clues": {
     "across": {
-      "1": "Spiced fruit or vegetable relish",
-      "3": "Round root vegetable with a pale top",
-      "5": "Group of vegetables tied together",
-      "7": "Fruit cooked and stored for later",
-      "8": "Person who sells goods at a market",
-      "11": "Bargain over a price",
-      "12": "Crisp root with a peppery taste"
+      "1": "Picture showing several relatives together",
+      "5": "God of war in Greek myth",
+      "6": "Chalky ground applied before a gold leaf",
+      "9": "Position held for a photograph",
+      "11": "Cover that opens on a box",
+      "12": "Flying mammal that may roost in caves",
+      "13": "Gathering of relatives who have not met in a while",
+      "14": "Small cut that tidies the ends",
+      "15": "Fired clay piece used to cover a floor or wall",
+      "16": "Written record of money, goods, or property"
     },
     "down": {
-      "2": "Crops gathered when they are ripe",
-      "4": "Leafy herb used as a garnish",
-      "6": "Open box used to carry produce",
-      "9": "Grown without most synthetic farm chemicals",
-      "10": "Find how heavy something is"
+      "1": "Parent of someone's mother or father",
+      "2": "Formal poem of praise or reflection",
+      "3": "Property of visible light that varies with wavelength",
+      "4": "Rounded roof over a building",
+      "7": "Family celebration often recorded in pictures",
+      "8": "Book that holds printed pictures",
+      "9": "Paper copy of a digital picture",
+      "10": "Brother or sister"
     }
   },
   "order": 176

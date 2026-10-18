@@ -1,0 +1,439 @@
+=== Renaissance Mapmaking | HARD
+PORTOLAN | Coastal chart marked with sailing routes and harbours
+MERCATOR | Cartographer whose projection preserves local compass bearings
+ORTELIUS | Mapmaker who published an early modern world atlas
+GRATICULE | Network of lines marking coordinates on a map
+RHUMBLINE | Line crossing meridians at a constant angle
+HACHURE | Short stroke used to show relief on an old map
+ISOGONIC | Describes a line joining places of equal magnetic variation
+DECLINATION | Angle between magnetic north and true north
+DATUM | Reference surface from which map coordinates are calculated
+GEODESY | Science of measuring Earth's shape and size
+PARALLEL | Circle on a globe running east to west
+MERIDIAN | Great circle connecting the geographic poles
+EQUATOR | Line dividing Earth into northern and southern halves
+PROJECTION | Method for representing a curved surface on a flat map
+CONIC | Describes a map projection made by projecting onto a cone
+ATLAS | Bound collection of maps
+CHART | Map designed for navigation
+LEGEND | Key explaining symbols used on a map
+COMPASS | Instrument that indicates magnetic direction
+COASTLINE | Boundary between land and sea shown on a map
+
+=== Medieval Siege Medicine | HARD
+WOUND | Injury that breaks the skin or damages tissue
+LANCET | Small pointed blade used to open a vein
+CAUTERY | Heat used to seal a wound or stop bleeding
+POULTICE | Soft moist dressing placed over an injury
+LINEN | Cloth used to bind or cover a wound
+BANDAGE | Strip of fabric wrapped around an injury
+SUTURE | Stitch used to close a wound
+ARROWHEAD | Pointed part of a missile that can lodge in tissue
+SPLINT | Support that holds an injured limb still
+AMPUTATE | Remove a badly damaged limb by surgery
+SURGEON | Practitioner who treats injuries by manual methods
+BARBER | Worker who sometimes performed minor operations
+PHYSIC | Historical term for a medicine or medicinal substance
+SALVE | Healing ointment applied to the skin
+HONEY | Sticky substance used on wounds in historical remedies
+WINE | Liquid sometimes used to wash an injury
+FEVER | High body temperature that can follow infection
+INFECTION | Growth of harmful microbes in the body
+PLAGUE | Severe infectious disease that spread during sieges
+HOSPICE | Place providing care for the sick or injured
+
+=== Persian Empire | HARD
+PERSIA | Ancient name for the land now called Iran
+IRAN | Country in western Asia once ruled by Persian kings
+SHAH | Persian title for a king
+KING | Male ruler of a country
+PALACE | Large home used by a king or queen
+COURT | Household and officials surrounding a ruler
+COIN | Metal money used to buy goods
+SILK | Smooth cloth made from fibres produced by silkworms
+TRADE | Buying, selling, or exchanging goods
+TAX | Money collected by a ruler from the people
+BORDER | Line separating neighbouring lands
+ARMY | Organized force trained to fight
+SOLDIER | Person trained to serve in an army
+RULER | Person who governs a country or people
+EMPIRE | Group of lands governed by one authority
+FRONTIER | Edge of a country's settled or guarded land
+ENVOY | Person sent to speak for a ruler
+ENEMY | Person or nation opposed to another
+PEACE | State in which nations are not fighting
+RELIGION | Set of beliefs about the sacred
+
+=== Ancient Tomb Art | HARD
+TOMB | Chamber or structure used for burial
+GRAVE | Place where a dead person is buried
+BURIAL | Placing a dead body in a grave or tomb
+PAINT | Coloured material applied to a surface
+WALL | Upright structure that divides or encloses a space
+ART | Work made to express an idea or show beauty
+COLOR | Quality that distinguishes red, blue, or green
+OCHRE | Earth pigment used in ancient wall painting
+PLASTER | Smooth coating applied to a wall
+FEAST | Large meal held for a special occasion
+DANCE | Rhythmic movement performed to music
+MUSIC | Organized sounds made with voices or instruments
+LYRE | Stringed instrument shown at ancient feasts
+HOUND | Dog used to track game
+LION | Large cat used as a symbol of power
+MASK | Face covering worn in a ceremony or performance
+URN | Vessel that can hold ashes or other remains
+SYMBOL | Sign or image that stands for an idea
+COFFIN | Box used to contain a dead body
+AFTERLIFE | Existence believed to continue after death
+
+=== Decorative Writing | HARD
+CALLIGRAPHY | Art of writing letters with careful, decorative strokes
+ARABIC | Language written from right to left in a flowing script
+LETTERING | Decorative arrangement of written characters
+LETTER | Written sign that represents a speech sound
+INK | Dark liquid used for writing or drawing
+PEN | Tool with a point used to write or draw
+REED | Tall grass with a firm hollow stem
+PAGE | One side of a sheet in a book
+BOOK | Set of written or printed pages bound together
+PAPER | Thin material used for writing and printing
+GOLD | Precious yellow metal used to decorate manuscripts
+COLOR | Quality that distinguishes red, blue, or green
+STROKE | Single mark made by a writing instrument
+CURVE | Smooth bending line
+PATTERN | Repeated design made from shapes or lines
+BORDER | Decorative edge around a page or picture
+SCROLL | Rolled sheet bearing a written text
+PRAYER | Words spoken to God in worship
+POEM | Writing arranged in lines with rhythm or imagery
+MANUSCRIPT | Handwritten book or document
+
+=== Ancient Ballgame | HARD
+BALL | Round or oval object used in many games
+COURT | Marked area where a game is played
+PLAYER | Person who takes part in a game
+TEAM | Group competing together
+GOAL | Scoring target in a game
+SCORE | Number of points earned in a contest
+MATCH | Contest between opposing players or teams
+RULE | Agreed instruction that governs how a game is played
+POINT | Unit added to a team's score
+THROW | Send a ball through the air by hand
+CATCH | Take hold of something moving through the air
+KICK | Strike a ball with the foot
+STRIKE | Hit an object with force
+WIN | Finish a contest with a better result than an opponent
+LOSS | Result when a team is defeated
+CEREMONY | Formal event held for a special purpose
+CROWD | Large group gathered to watch an event
+RITUAL | Formal action performed as part of a ceremony
+RING | Circular shape used as a target or playing space
+ARENA | Venue where a public contest is held
+
+=== Bronze Age Trade | HARD
+TIN | Metal mixed with copper to make bronze
+COPPER | Reddish metal used in early tools and weapons
+ALLOY | Mixture of metals such as copper and tin
+INGOT | Cast bar of metal ready for trade or remelting
+DEPOSIT | Natural concentration of useful minerals in rock
+SMELTING | Extracting metal from ore with heat
+FOUNDRY | Workshop where metal is melted and cast
+SHIPWRECK | Sunken vessel that can preserve traded cargo
+AMPHORA | Two-handled jar used to transport goods
+CYPRUS | Island that supplied copper in the ancient Mediterranean
+PASSAGE | Path used to carry metal from distant mines
+CONVOY | Group of traders travelling together
+CARAVAN | Group of traders travelling together with pack animals
+TOKEN | Small object used to represent value in an exchange
+BRAND | Mark impressed on goods or containers
+LOAD | Quantity of cargo compared against a standard measure
+BEAM | Part of a balance used to compare the mass of goods
+MARKET | Place where goods are exchanged
+EXCHANGE | Giving one commodity to receive another
+MERCHANT | Person who buys and sells goods
+
+=== Indian Temple Art | HARD
+TEMPLE | Building set aside for worship
+SHRINE | Sacred structure or room dedicated to a deity
+TOWER | Tall structure rising above the temple grounds
+GATEWAY | Formal entrance leading into a sacred complex
+PILLAR | Upright support carved from stone
+STONE | Hard natural material used in temple buildings
+GRANITE | Hard rock used in many Indian monuments
+CARVING | Figure or pattern cut into a hard surface
+STATUE | Sculpted figure of a person or deity
+DANCER | Performer shown in a temple carving
+PRIEST | Person who leads a religious service
+ALTAR | Raised place for offerings or worship
+OFFERING | Gift brought to a place of worship
+INCENSE | Fragrant smoke used during worship
+BELL | Metal object rung to make a clear sound
+COURTYARD | Open area enclosed by temple buildings
+PROCESSION | Group moving together in a formal ceremony
+FESTIVAL | Special day marked with public celebrations
+GIFT | Something given freely to another person
+DEITY | God or goddess worshipped in a religion
+
+=== Han China | HARD
+CHINA | Country in East Asia ruled by the Han dynasty
+HAN | Dynasty that ruled China from 206 BCE to 220 CE
+DYNASTY | Series of rulers from the same family
+EMPEROR | Supreme ruler of the Han state
+PALACE | Large residence used by an emperor
+MEMORIAL | Written submission presented to the emperor
+OFFICIAL | Person appointed to serve in a government
+CENSUS | Count of people and households in a territory
+LEDGER | Written record of money, goods, or property
+TAX | Payment collected by the state
+FARMER | Person who grows crops or raises animals
+MILLET | Grain grown and eaten in ancient China
+GRANARY | Building used to store grain
+SEAL | Mark pressed into wax or clay to show authority
+BAMBOO | Plant whose strips were used as early writing slips
+SCROLL | Rolled sheet bearing a written text
+INK | Dark liquid used for writing
+EDICT | Official order issued by the emperor
+SILK | Fine cloth made from silkworm fibres
+SCHOLAR | Person who studies and teaches a subject
+
+=== Age of Sail | HARD
+GALLEY | Oared warship used in the Mediterranean
+GALLEON | Large sailing vessel armed for long voyages
+FLEET | Group of ships under one command
+ADMIRAL | Senior commander of a naval force
+OARSMAN | Rowing crew member on a galley
+MIZZEN | Rear mast on a sailing vessel
+RUDDER | Steering surface fixed at a ship's stern
+KEEL | Main structural beam along a vessel's bottom
+HAWSER | Heavy rope used to hold a ship alongside a dock
+BOARDING | Attempt to capture an enemy vessel by entering it
+BROADSIDE | Simultaneous volley fired from one side of a ship
+CANNON | Heavy gun mounted aboard a warship
+ROUND | Heavy metal ball fired from a cannon
+GUNHOLE | Opening through which a ship's cannon fired
+GUNPOWDER | Explosive material used to fire naval guns
+SAIL | Fabric that catches wind to move a vessel
+RIGGING | Ropes and fittings that support a ship's sails
+ROWER | Person who propels a galley with an oar
+STRAIT | Narrow waterway joining larger bodies of water
+DOCK | Place where ships load or unload their cargo
+
+=== Japanese Tea Ceremony | HARD
+CHANOYU | Japanese practice of preparing and serving powdered tea
+MATCHA | Finely ground green tea used in the ceremony
+CHASEN | Bamboo whisk used to mix powdered tea
+CHAWAN | Bowl used to prepare and drink tea
+CHASHAKU | Bamboo scoop used to measure powdered tea
+NATSUME | Small container for powdered tea
+KAMA | Iron kettle used to heat water
+FURIDASHI | Small vessel used to serve sweets
+KAISEKI | Light meal served before a formal tea gathering
+WAGASHI | Traditional Japanese sweet served with tea
+TATAMI | Woven floor mat used in a tea room
+TOKONOMA | Alcove where a scroll or flower arrangement is displayed
+KAKEMONO | Hanging scroll displayed in a room
+IKEBANA | Japanese art of arranging flowers
+SENCHA | Loose-leaf green tea steeped in hot water
+ROJI | Garden path leading to a tea house
+NIJIRIGUCHI | Low doorway that encourages guests to bow
+HOST | Person who prepares and serves tea
+GUEST | Visitor invited to take part in the ceremony
+ETIQUETTE | Accepted rules of polite behaviour
+
+=== Plant Water Relations | HARD
+XYLEM | Tissue that carries water from roots toward leaves
+PHLOEM | Tissue that transports sugars through a plant
+WATERLOSS | Loss of water vapour from leaves
+STOMATA | Tiny pores that exchange gases and water vapour
+GUARD | Describes cells that open or close a leaf pore
+OSMOSIS | Movement of water through a selectively permeable barrier
+TURGOR | Pressure of cell contents against the cell wall
+WILTING | Drooping caused when plant cells lose water pressure
+POTENTIAL | Measure of the energy state of water
+APOPLAST | Cell-wall pathway for water movement through a plant
+SYMPLAST | Connected cytoplasm through which water can move
+CASPARIAN | Describes a strip that blocks flow through root cell walls
+ROOTHAIR | Fine extension that absorbs water from soil
+ENDODERMIS | Root layer that controls entry into the vascular tissue
+HYDRAULIC | Relating to water movement through a plant
+EMBOLISM | Air blockage that interrupts water flow in xylem
+CAVITATION | Formation of a gas bubble in a water column
+MATRIC | Relating to water held by soil particles
+UPTAKE | Entry of water into a plant or its roots
+EVAPORATION | Change of liquid water into vapour
+
+=== Bacteriophage Genetics | HARD
+VIRUS | Infectious particle that can reproduce inside a bacterium
+CAPSID | Protein shell surrounding a virus's genetic material
+TAILFIBRE | Phage structure that binds to a bacterial surface
+LYSIS | Rupture of a bacterial cell after phage replication
+LYSOGENY | State in which phage DNA persists in a host cell
+PROPHAGE | Phage genome integrated into a bacterial chromosome
+PLAQUE | Clear area where phages have destroyed bacterial cells
+HOST | Organism or cell used by a parasite
+ADSORPTION | Attachment of a phage particle to a cell surface
+INJECTION | Transfer of viral genetic material into a host
+REPLICATION | Copying of genetic material inside a cell
+MUTANT | Organism or virus with a changed genetic sequence
+CROSSOVER | Exchange of genetic material between DNA molecules
+TRANSDUCTION | Transfer of bacterial genes by a bacteriophage
+LYSOGENIC | Describes a phage that can remain dormant in a host
+VIRULENT | Describes a phage that rapidly destroys its host cell
+TEMPERATE | Describes a phage able to enter lysogeny
+GENOME | Complete genetic material of an organism or virus
+INTEGRATION | Joining of viral DNA with a host chromosome
+BURSTSIZE | Number of phage particles released from one infected cell
+
+=== Cellular Electrophysiology | HARD
+ELECTRODE | Conductor that records or delivers electrical signals
+MEMBRANE | Thin boundary surrounding a cell
+EMF | Difference in electrical potential between two points
+CONDUCTION | Flow of electric charge
+ELECTRON | Negatively charged particle that carries current in a wire
+SODIUM | Positively charged ion that enters during many nerve impulses
+POTASSIUM | Positively charged ion that helps restore resting voltage
+CALCIUM | Ion that can trigger release of a cell's stored chemicals
+CHLORIDE | Negatively charged ion that crosses many cell membranes
+CONDUIT | Protein pore that lets selected ions cross a membrane
+TRANSPORTER | Protein that moves ions using cellular energy
+RESTING | Describes a cell's electrical state before a signal
+IMPULSE | Rapid electrical event that travels along a nerve cell
+THRESHOLD | Voltage level that triggers an action potential
+DEPOLARIZE | Make a cell's interior less negative
+REPOLARIZE | Return a cell toward its resting voltage
+PATCHCLAMP | Technique for measuring current through a small membrane area
+SPIKE | Brief change in membrane voltage during an impulse
+SYNAPSE | Junction where one nerve cell signals another
+NEURON | Cell specialized to carry electrical signals
+
+=== Cryosphere Geophysics | HARD
+PERMAFROST | Ground that stays frozen for at least two years
+ACTIVE | Describes the surface layer that thaws each summer
+TALIK | Unfrozen ground enclosed within permafrost
+THERMOKARST | Uneven terrain formed as ground ice melts
+PINGO | Ice-cored mound that rises in permafrost terrain
+ICEWEDGE | Vertical body of ice growing in a ground crack
+MIXING | Movement of soil caused by repeated freezing and thawing
+SOLIFLUCTION | Slow downhill flow of waterlogged soil over frozen ground
+FROSTHEAVE | Upward movement of soil as ice forms beneath it
+DEGRADATION | Thawing and loss of permafrost
+SUBSIDENCE | Sinking of the ground after buried ice melts
+THERMAL | Relating to heat and temperature
+LAPSE | Change in temperature across a distance
+CONDUCTIVITY | Ability of soil or rock to transmit heat
+ISOTHERM | Line joining places with the same temperature
+BOREHOLE | Narrow drilled hole used to measure underground temperature
+CRYOSPHERE | Frozen water on or beneath Earth's surface
+ICECORE | Cylinder of ice drilled from a glacier or ice sheet
+GEOPHYSICS | Study of Earth's physical properties and processes
+LATENT | Describes heat absorbed or released during a phase change
+
+=== Seismic Tomography | HARD
+TOMOGRAPHY | Imaging method that builds a view from many measurements
+SEISMOGRAM | Recorded trace of ground motion from an earthquake
+PWAVE | Compressional seismic wave that travels through solids and liquids
+SWAVE | Shear wave that travels through solids
+SPEED | Rate at which a seismic wave travels
+ONSET | First recorded moment when a seismic wave reaches a station
+TRAVELTIME | Time taken by a wave to move between two points
+INVERSION | Mathematical process that estimates Earth's interior from data
+RAYPATH | Route followed by a seismic wave through the Earth
+MANTLE | Thick rocky layer between crust and core
+SUBDUCTION | Descent of one tectonic plate beneath another
+ANOMALY | Difference from the expected seismic wave speed
+SLOWZONE | Region where seismic waves travel unusually slowly
+FASTZONE | Region where seismic waves travel unusually quickly
+FINENESS | Smallest subsurface feature that an image can distinguish
+RECEIVER | Site where seismic instruments record ground motion
+ARRIVALTIME | Time at which a wave is first recorded
+EPICENTER | Point on Earth's surface above an earthquake's focus
+FOCUS | Underground point where an earthquake begins
+WAVEFORM | Shape of a recorded seismic wave
+
+=== Star Formation Physics | HARD
+NEBULA | Cloud of gas and dust where stars can form
+COLLAPSE | Inward fall of gas under its own gravity
+PROTOSTAR | Young object still gathering mass before stable fusion
+ACCRETION | Growth as matter falls onto a central object
+DISK | Flattened rotating structure around a young star
+OUTFLOW | Stream of gas launched away from a forming star
+JET | Narrow high-speed stream emerging from a protostar
+MOLECULAR | Describes a cold cloud rich in molecules
+HYDROGEN | Most abundant element in the universe
+DEUTERIUM | Heavy form of hydrogen found in star-forming clouds
+FUSION | Joining of light nuclei to release energy
+GRAVITY | Attraction that draws matter together
+BREAKUP | Splitting of a cloud into smaller collapsing regions
+JEANSMASS | Cloud mass above which gravity can overcome pressure
+EDDY | Swirling motion that stirs gas within a cloud
+MAGNETIC | Relating to the fields that shape gas motion
+POLARIZATION | Alignment pattern of light affected by magnetic fields
+EMISSION | Light released by a star or gas cloud
+LUMINOSITY | Total energy emitted by a star each second
+METALLICITY | Abundance of elements heavier than helium
+
+=== Photochemistry | HARD
+PHOTON | Particle of light that carries a packet of energy
+CAPTURE | Taking in light energy by a molecule
+EXCITATION | Raising a molecule to a higher energy state
+FLUORESCENCE | Light emitted promptly after a molecule absorbs energy
+AFTERGLOW | Delayed light emission that continues after excitation
+QUANTUM | Smallest allowed unit of a physical quantity
+YIELD | Fraction of absorbed photons that produce a chosen outcome
+CHROMOPHORE | Part of a molecule that absorbs visible light
+ISOMER | Molecule with the same formula but a different structure
+CONVERSION | Light-driven change of a molecule into a different form
+PHOTOREDOX | Reaction involving light-driven electron transfer
+RADICAL | Atom or molecule with an unpaired electron
+QUENCHING | Reduction of an excited state's lifetime or emission
+LIFETIME | Average time an excited state persists
+TRIPLET | Excited state with two unpaired electron spins
+SINGLET | State in which electron spins are paired
+SENSITIZER | Molecule that transfers absorbed light energy to another
+QUENCHER | Substance that suppresses an excited molecule's emission
+HUE | Property of visible light that varies with wavelength
+SOLAR | Relating to energy supplied by the Sun
+
+=== Information Theory | HARD
+ENTROPY | Measure of uncertainty or average information content
+BIT | Unit of information that can have two values
+BYTE | Group of eight bits
+MEDIUM | Path through which a message is transmitted
+THROUGHPUT | Highest reliable information rate a channel can carry
+NOISE | Unwanted variation that can obscure a message
+CODING | Conversion of information into a signal representation
+DECODER | Device or algorithm that recovers a message from a code
+SOURCE | Origin that produces a sequence of symbols
+SYMBOL | One possible element in a message alphabet
+ALPHABET | Set of symbols used to encode messages
+HUFFMAN | Surname of an inventor of a variable-length code
+SHANNON | Mathematician who founded modern information theory
+REDUNDANCY | Extra information added to help detect or correct errors
+PARITY | Check value used to detect some transmission errors
+HAMMING | Surname of a code family that corrects bit errors
+LATENCY | Delay between sending and receiving information
+COMPRESSION | Reduction in the number of bits needed to represent data
+PROBABILITY | Likelihood assigned to a possible event
+CODEWORD | Bit pattern representing a symbol or instruction
+
+=== Babylonian Mathematics | HARD
+SEXAGESIMAL | Number system based on groups of sixty
+CUNEIFORM | Wedge-shaped writing used on ancient Mesopotamian tablets
+TABLET | Clay surface on which Babylonian calculations were written
+STYLUS | Reed tool pressed into clay to make writing marks
+RECIPROCAL | Number that gives one when multiplied by its partner
+MULTIPLY | Find the product of two numbers
+DIVIDE | Split a quantity into equal parts
+SQUARE | Number multiplied by itself
+RADICAL | Symbol or value used to express a root of a number
+AREA | Measure of the surface covered by a shape
+SPACE | Measure of three-dimensional extent occupied
+RATIO | Comparison between two quantities
+INTEGER | Whole number with no fractional part
+FRACTION | Part of a whole written as a quotient
+COLUMN | Vertical arrangement used in written calculation
+PLIMPTON | Tablet number associated with an ancient right-triangle table
+TRIPLET | Set of three numbers considered together
+LENGTH | Distance from one end of a segment to the other
+CUBIC | Relating to a quantity multiplied by itself three times
+CLAY | Material used to make Mesopotamian writing tablets

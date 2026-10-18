@@ -1,0 +1,57 @@
+{
+  "id": "level-322",
+  "title": "Antique Clockmakers",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "CLOCKMAKER#AXE",
+    "A##O#U##S#D##M",
+    "SPRING##C#I##B",
+    "E##L###BALANCE",
+    "#####B##P#L##R",
+    "#DIANA##E###R#",
+    "##G##CHIME#BEE",
+    "#FLUSH##E###G#",
+    "B#O#O#PENDULUM",
+    "ADORN#H#T###L#",
+    "I###A#Y###GEAR",
+    "LAHAR#S###O#T#",
+    "##U##BIOFILTER",
+    "REMUS#C###F###"
+  ],
+  "clues": {
+    "across": {
+      "1": "Person who builds or repairs clocks",
+      "5": "Tool with a sharp metal head for chopping",
+      "8": "Coiled metal source of stored energy",
+      "9": "Oscillating wheel in some timepieces",
+      "11": "Roman goddess of the hunt",
+      "14": "Ringing sound made to mark time",
+      "15": "Insect that makes honey",
+      "16": "Run water to clear dirt from the pipe",
+      "19": "Swinging weight used to keep time",
+      "20": "Add colour or ornament to something",
+      "21": "Toothed wheel that transfers motion",
+      "22": "Mudflow of volcanic debris and water",
+      "24": "Material that hosts bacteria breaking down waste",
+      "25": "Twin brother of Rome's legendary founder"
+    },
+    "down": {
+      "1": "Outer container for a clock",
+      "2": "Rolled strip of clay used to build a pot",
+      "3": "Cup with a handle for a hot drink",
+      "4": "Mechanism controlling release of stored energy in a clock",
+      "6": "Small glowing piece left in a fire",
+      "7": "Face showing the time",
+      "10": "Composer of the Brandenburg Concertos",
+      "12": "House made of snow blocks",
+      "13": "Adjust a clock to keep accurate time",
+      "17": "System using sound to detect underwater objects",
+      "18": "Curved handle fixed to the top of a lantern",
+      "19": "Historical term for a medicine or medicinal substance",
+      "21": "Sport with tees and greens",
+      "23": "Sing with your mouth shut"
+    }
+  },
+  "order": 322
+}

@@ -1,35 +1,47 @@
 {
   "id": "level-216",
-  "title": "Post Office",
+  "title": "Library Book Cart",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "P#####C####",
-    "A##MAIL#Q##",
-    "R###D#E#U##",
-    "C###D#R#E##",
-    "E###R#K#U##",
-    "LETTER#SEND",
-    "####S##T###",
-    "##POSTCARD#",
-    "##E####M###",
-    "#ENVELOPE##"
+    "LIBRARIAN###",
+    "I#O##N#S#FUR",
+    "BIOGRAPHY##E",
+    "R#K#A#U##LOT",
+    "ARM#CUBBY##U",
+    "R#A#K#L####R",
+    "YARN#FICTION",
+    "C#K#C#S#A#F#",
+    "A###H#H#P#F#",
+    "R##REFERENCE",
+    "D###S#R#R#U#",
+    "#SAUTE###ATP"
   ],
   "clues": {
     "across": {
-      "3": "Letters and parcels delivered to homes",
-      "6": "Written message sent in an envelope",
-      "7": "Arrange for a letter to travel",
-      "8": "Card with a picture and short message",
-      "9": "Paper cover for a letter"
+      "1": "Worker who helps people find books",
+      "5": "Soft coat covering an animal",
+      "7": "Book telling the story of someone's life",
+      "10": "Single item or group offered for sale",
+      "11": "Limb between a shoulder and a hand",
+      "12": "Small open space for storing a book",
+      "13": "Soft strand used to decorate a craft",
+      "14": "Made-up story rather than a true account",
+      "18": "Book consulted for facts rather than read as a story",
+      "19": "Cook quickly in a shallow pan with little fat",
+      "20": "Cell's main short-term energy-carrying molecule"
     },
     "down": {
-      "1": "Wrapped package sent to someone",
-      "2": "Worker who serves customers at a counter",
-      "4": "Details showing where a person lives",
-      "5": "Line of people waiting",
-      "7": "Small label that pays for postage",
-      "8": "Tool used for writing"
+      "1": "Card used to borrow books",
+      "2": "Strip placed between pages to save a spot",
+      "3": "Genetic material used by many viruses",
+      "4": "Fine grey dust from an eruption",
+      "6": "Bring a borrowed book back",
+      "8": "Fixed stand where a shared bicycle is locked",
+      "9": "Company that prepares books for readers",
+      "15": "Long slender candle that narrows toward the top",
+      "16": "Piece cut from a colony for growing elsewhere",
+      "17": "Box of treasure"
     }
   },
   "order": 216

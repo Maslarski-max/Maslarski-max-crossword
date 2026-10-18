@@ -1,0 +1,439 @@
+=== Fire Station Crew | EASY
+FIREPOLE | Sliding pole that lets a firefighter reach the floor below
+HYDRANT | Street fitting that supplies water to a fire hose
+FIREHOSE | Strong tube that carries water toward a flame
+TURNOUT | Protective outfit worn on an emergency call
+HELMET | Hard head covering worn by a firefighter
+DALMATIAN | Spotted dog traditionally linked with firehouses
+SIREN | Loud warning sound heard on an emergency vehicle
+FIREENGINE | Vehicle that carries a fire crew and water pump
+AERIALLADDER | High-reaching ladder raised from an emergency truck
+WATERCANNON | Hose-end fitting that sends a powerful stream
+RESCUE | Safe removal of someone from danger
+STATION | Building where a fire crew waits for calls
+BADGE | Small emblem worn to show a worker's service
+RADIO | Device used to send spoken messages
+SMOKE | Grey cloud that rises from a fire
+FLAME | Bright hot part of a fire
+GLOVE | Protective hand covering
+AXE | Tool with a sharp metal head for chopping
+CREW | Group working together on an emergency
+UNIFORM | Matching clothes worn for a job
+
+=== Museum Fossils | EASY
+FOSSIL | Preserved trace of ancient life in rock
+MAMMOTH | Shaggy ancient elephant with long curved tusks
+AMMONITE | Coiled fossil shell from an extinct sea animal
+STRATA | Layers of rock that may hold ancient remains
+IMPRINT | Mark preserved in stone from an older time
+DIGSITE | Marked place where a fossil is carefully uncovered
+BONE | Hard part that supports a body's shape
+TOOTH | Hard biting part often found as a fossil
+CLAW | Curved nail on an animal's foot
+ROCKHAMMER | Tool used to chip fossils from stone
+SEDIMENT | Material laid down in layers before rock forms
+MUSEUM | Building where objects are kept for visitors
+REPLICA | Copy made for visitors to handle or view
+PLACARD | Printed card beside an object in a museum
+CASE | Glass cabinet that protects a collection
+GUIDE | Person who explains exhibits to visitors
+TICKET | Paper or digital pass for entry
+ANCIENT | From a very long time ago
+EXHIBIT | Object or collection shown to the public
+PALEONTOLOGY | Study of fossils and ancient life
+
+=== Waffle Breakfast | EASY
+WAFFLE | Crisp cake cooked in a patterned iron
+BATTER | Pourable mixture used before baking
+IRON | Heated tool with a grid that cooks batter
+GRID | Crossed lines pressed into a waffle
+SYRUP | Sweet liquid poured over a warm breakfast
+MAPLE | Tree whose sap can be made into syrup
+BUTTER | Soft dairy spread that melts on hot food
+BERRIES | Small juicy fruits served with breakfast
+BLUEBERRY | Small round fruit with a deep blue skin
+STRAWBERRY | Red fruit with tiny seeds on its outside
+BANANA | Long curved fruit with a yellow peel
+PLATTER | Large flat dish used to serve a meal
+SPORK | Eating utensil with both a scoop and prongs
+SERVIETTE | Cloth square laid beside a breakfast plate
+TOASTER | Appliance that browns slices of bread
+JUICE | Drink pressed from fruit
+MORNING | Early part of the day
+CRISP | Firm and pleasantly crunchy
+TOPPING | Food added on top of another dish
+BRUNCH | Meal eaten between breakfast and lunch
+
+=== Rain Gauge Garden | EASY
+RAIN | Water falling from clouds
+GAUGE | Tool that measures how much rain has fallen
+CYLINDER | Tube-shaped container with a round base
+FUNNEL | Wide-mouthed tool that guides liquid into a small opening
+MEASUREMENT | Amount found by using a marked scale
+INCH | Unit marked on some weather instruments
+MILLIMETER | Small metric unit used to measure rainfall
+MARKING | Line showing a measured amount
+OUTDOORS | Outside rather than inside a building
+GARDENER | Person who cares for plants
+FLOWERBED | Patch of soil where flowers are planted
+DOWNPOUR | Heavy shower that can fill a measuring tube
+ROOFTOP | Top surface of a house
+DOWNSPOUT | Pipe carrying rain from a roof to the ground
+BARREL | Large round container for storing liquid
+OVERFLOW | Water spilling beyond a container's edge
+SEEDLING | Young plant just beginning to grow
+POOL | Small collection of rainwater
+WEATHER | Conditions outside at a certain time
+FORECAST | Report predicting future weather
+
+=== Paper Crown Party | EASY
+CROWN | Circular headpiece worn by a king or queen
+TIARA | Small jeweled headpiece worn on the hair
+CARDSTOCK | Thick paper used for sturdy crafts
+SHEARS | Tool with two blades for cutting
+GLITTER | Tiny shiny pieces sprinkled on a craft
+GEM | Small sparkling stone fixed to a decoration
+JEWEL | Precious stone set into a crown
+RULER | Straight tool used to draw a line
+CRAYON | Wax stick used to colour a design
+FELTTIP | Pen with a thick coloured point
+GLUE | Sticky liquid used to join craft pieces
+ELASTIC | Stretchy band that can hold a crown in place
+SEQUIN | Small shiny disc sewn onto a costume
+ADORN | Add colour or ornament to something
+PRINCESS | Royal daughter in a story or kingdom
+HEIR | Person next in line for a throne
+PALACE | Large home where a ruler may live
+PARADE | Public march with music and costumes
+ROYALTY | Kings, queens, princes, and princesses
+HEADBAND | Band worn around the head to hold hair back
+
+=== Cat Scratching Tree | EASY
+SCRATCHING | Raking claws across a surface
+POST | Upright pole wrapped for a cat to claw
+SISAL | Strong plant fibre often wrapped around a pet post
+CARPET | Thick woven floor covering
+PERCH | Raised place where a cat can sit
+PLATFORM | Flat raised surface for a pet to rest on
+HIDEAWAY | Small sheltered space for a cat to curl up
+PAW | Cat's foot with soft pads
+CLAW | Curved nail on a cat's toe
+MUZZLE | Nose and mouth area of an animal
+FELINE | Animal belonging to the cat family
+TOMCAT | Adult male cat
+NAPTIME | Period set aside for a short sleep
+TOY | Object a cat can bat or chase
+FEATHER | Soft plume attached to some teaser toys
+JINGLE | Light ringing sound from a hanging bell
+BRANCH | Woody limb fixed to a climbing structure
+LITTER | Absorbent material used in a cat's tray
+GROOM | Clean fur with the tongue or a brush
+CATNIP | Herb that excites many domestic cats
+
+=== Soap Bubble Wand | EASY
+GLOBULE | Small round film filled with air
+WAND | Slim stick used to dip and blow
+DETERGENT | Cleaning liquid mixed with water
+SOLUTION | Liquid mixture used to make bubbles
+RING | Circular opening that shapes a bubble
+FILM | Thin layer stretched across an opening
+BREATH | Air released from the lungs
+SUSPEND | Remain lightly hanging in the air
+SHIMMER | Shine with a soft changing light
+SPECTRUM | Arc of colours sometimes seen on a bubble
+GIANT | Much larger than usual
+TINY | Very small
+POP | Burst suddenly with a short sound
+DRIFT | Move slowly through the air
+BLOWTUBE | Thin tube used for blowing
+TRAIL | Line left behind as something moves
+IRIDESCENT | Showing shifting rainbow colours
+SUDS | Small foamy bubbles in soapy water
+GUST | Sudden strong movement of air
+TOPUP | Add more solution to an empty cup
+
+=== Toy Space Rover | EASY
+MARSROVER | Small vehicle designed to explore a distant world
+LUNAR | Relating to Earth's natural satellite
+REDPLANET | World visited by robotic explorers
+ORBIT | Path followed by a world as it circles a star
+CRATER | Bowl-shaped hollow left by an impact
+ROBOTARM | Machine part that can collect a sample
+ANTENNA | Rod that sends or receives signals
+CAMERA | Device that takes a picture
+SENSOR | Part that detects a change around a machine
+WHEEL | Round part that rolls across the ground
+SUNPOWER | Energy collected from sunlight
+PANEL | Flat piece that can collect sunlight
+POWERPACK | Device that stores electrical energy
+RADIOCONTROL | System used to operate a rover from afar
+SIGNAL | Message sent from one device to another
+SPACEWALKER | Person who works outside a spacecraft
+ASTRONAUT | Person trained to travel in space
+SUIT | Special clothing worn outside a spacecraft
+ALIEN | Imagined being from another world
+DISCOVERY | Finding something that was not known before
+
+=== Piano Recital | EASY
+KEYBED | Framework supporting the keys of a piano
+RECITAL | Short performance given for an audience
+KEYBOARD | Row of keys played by the fingers
+PIANIST | Person who plays a piano
+MELODY | Tune that can be hummed
+HARMONY | Notes sounded together to support a tune
+RHYTHM | Pattern of long and short sounds
+PEDAL | Foot control that changes a piano's sound
+BENCH | Long seat placed in front of a piano
+SHEETMUSIC | Printed notes for a performer to read
+COMPOSER | Person who writes music
+CONCERT | Performance for an audience
+APPLAUSE | Clapping that shows appreciation
+AUDIENCE | People watching a performance
+PRACTICE | Repeated work to improve a skill
+SCALE | Set of musical notes arranged in order
+OCTAVE | Musical interval spanning eight notes
+CRESCENDO | Music direction to grow gradually louder
+GRANDPIANO | Large piano with a horizontal frame
+LULLABY | Gentle song used to help a child sleep
+
+=== Ferry Terminal | EASY
+FERRY | Boat that carries people across water
+TERMINAL | Building where a journey begins or ends
+DOCK | Platform where a boat ties up
+HARBOR | Sheltered place where boats can anchor
+TICKET | Pass that allows a passenger to travel
+PASSENGER | Person riding in a vehicle or boat
+CAPTAIN | Person in command of a ship
+CREW | Workers who operate a vessel
+SLIPWAY | Sloping path used to launch a small boat
+GANGWAY | Narrow walkway used to board a ship
+LIFEBELT | Floating ring thrown to someone in water
+LIFERAFT | Small floating craft for an emergency
+TIDE | Regular rise and fall of the sea
+DEPARTURE | Time when a boat leaves
+ARRIVAL | Time when a boat reaches its stop
+TIMETABLE | List showing planned travel times
+WHARF | Landing place built beside water
+VEHICLE | Machine used to carry people or goods
+CARDECK | Ferry level where cars are parked
+SEASICK | Feeling unwell from a boat's motion
+
+=== Greenhouse Seed Tray | EASY
+GREENHOUSE | Glass building that keeps plants warm
+SEEDTRAY | Shallow container used to start many seeds
+COMPOST | Decayed plant matter mixed into garden soil
+CUTTINGS | Short pieces clipped from a parent plant to start roots
+SPROUT | Begin to grow from a seed
+ROOTLET | Small young root
+LEAF | Flat green part of a plant
+STEM | Upright part that supports leaves
+WATERING | Giving plants the moisture they need
+MISTER | Tool that sprays a fine cloud of water
+TROWEL | Small hand tool for moving soil
+POTTING | Placing a plant into a container
+PLANTTAG | Small marker naming a planted variety
+GERMINATE | Begin to grow after a seed takes in water
+HEAT | Warmth that helps many seeds grow
+GLAZING | Clear panes fitted into a greenhouse frame
+SKYLIGHT | Roof window that lets light into a greenhouse
+HUMIDITY | Amount of water vapour in the air
+TRANSPLANT | Move a young plant into a larger place
+FERTILIZER | Plant food mixed into soil
+
+=== Sand Art Bottle | EASY
+SANDART | Picture made by layering coloured grains
+BOTTLE | Narrow-necked container for a drink or craft
+FUNNEL | Wide opening that guides grains into a container
+LAYER | One band placed above another
+COLORED | Having a particular hue
+GRAIN | Tiny piece of sand or sugar
+TINT | Small amount of colour
+STRIPE | Long narrow band
+PATTERN | Repeated arrangement of shapes or colours
+SWIRL | Curved line that winds around
+PIGMENT | Coloured powder mixed with sand
+CORK | Stopper pressed into a bottle's neck
+CAP | Cover fitted over an opening
+STOPPER | Plug that closes a bottle's opening
+SANDTAMPER | Slim tool used to press sand into layers
+SHAKE | Move quickly from side to side
+ARTIST | Person who makes pictures or designs
+CRAFT | Activity making something by hand
+DECOR | Objects used to make a room attractive
+SANDSCAPE | Tiny scene formed from coloured grains
+
+=== Dog Training Class | EASY
+TRAINER | Person who teaches a dog new skills
+LEASH | Strap attached to a dog's collar
+COMMAND | Word or signal that asks a dog to act
+SIT | Rest on the floor with legs bent
+STAY | Remain in one place
+SIDE | Position beside the handler during a walk
+FETCH | Bring back an object that was thrown
+REWARD | Small prize given after a good action
+CLICKER | Small tool that makes a sharp training sound
+CUE | Spoken signal asking a dog to come back
+PRAISE | Kind words given for doing something well
+CANINE | Dog learning basic habits
+OBEDIENCE | Following instructions from a handler
+AGILITY | Skill at moving quickly around obstacles
+HURDLE | Low barrier a dog can jump over
+TUNNEL | Tube a dog can run through
+NECKBAND | Band worn around a dog's neck
+CHESTSTRAP | Strap fitted around a dog's body
+PAWPRINT | Mark left by a dog's foot
+RECALL | Call that asks a dog to come back
+
+=== Lunchbox Bento | EASY
+BENTO | Japanese packed meal arranged in a box
+LUNCHBOX | Small container used to carry a midday meal
+RICEBALL | Compact snack shaped from cooked rice
+SUSHI | Japanese dish often made with rice and seaweed
+SEAWEED | Edible ocean plant used to wrap some rice rolls
+TEMPURA | Japanese dish of vegetables or seafood fried in batter
+SOYSAUCE | Salty brown seasoning made from soybeans
+EDAMAME | Young green soybeans served as a snack
+CUCUMBER | Long green vegetable with a crisp inside
+CARROT | Orange root vegetable often cut into sticks
+RADISH | Small crisp root that can have red skin
+PICKLE | Vegetable preserved in a sour brine
+INSULATOR | Bottle that keeps food or drink warm
+WIPE | Soft disposable square for cleaning fingers during a meal
+COMPARTMENT | Separate section inside a lunch container
+COVER | Top piece that fits over a box
+CHOPSTICKS | Pair of slim utensils for picking up food
+PORTION | Amount of food packed for one meal
+SNACK | Small amount of food eaten between meals
+MIDDAY | Middle part of the day
+
+=== Library Book Cart | EASY
+BOOKCART | Wheeled shelf used to move books
+LIBRARIAN | Worker who helps people find books
+CUBBY | Small open space for storing a book
+RETURN | Bring a borrowed book back
+CHECKOUT | Desk where a library loan is recorded
+LIBRARYCARD | Card used to borrow books
+DUEDATE | Day a borrowed item should be returned
+BOOKMARK | Strip placed between pages to save a spot
+SPINE | Narrow outer edge of a closed book
+PAGES | Sheets printed or written in a book
+FICTION | Made-up story rather than a true account
+BIOGRAPHY | Book telling the story of someone's life
+ATLAS | Book of maps
+REFERENCE | Book consulted for facts rather than read as a story
+CATALOG | Organized list of books held by a library
+QUIET | Making very little sound
+READING | Looking at written words to understand them
+STORY | Account of events, real or imagined
+PUBLISHER | Company that prepares books for readers
+BOOKSHELF | Long board where books are arranged
+
+=== Snow Sled Hill | EASY
+SLED | Runnered seat that slides over snow
+HILLTOP | Raised area where a sled run begins
+SLOPE | Side of a hill that rises or falls
+RUNNER | Long strip beneath a sled
+TOBOGGAN | Long flat sled with a curled front
+MITTEN | Warm covering for a hand
+SCARF | Long warm cloth worn around the neck
+GOGGLES | Close-fitting eyewear that shields the eyes
+SNOWSUIT | Warm one-piece outfit for cold weather
+FROST | Thin icy layer formed in cold air
+DOWNHILL | Moving from a higher place to a lower one
+GLIDE | Move smoothly across a surface
+DRAG | Slow a moving sled by pressing it against snow
+GROOVE | Mark left by a sled crossing snow
+LUGE | Narrow sled used in a winter racing sport
+TUBE | Inflatable ring used to slide down a slope
+SPIN | Turn around quickly
+PILEUP | Heap made when sleds or riders bump together
+LAUGHTER | Sound made when people find something funny
+WARMUP | Gentle activity done before playing in the cold
+
+=== Garden Scarecrow | EASY
+SCARECROW | Figure in a field meant to frighten birds
+DRYGRASS | Dried stalks left after grain is harvested
+OVERALLS | Loose work trousers with shoulder straps
+FLANNEL | Soft woven fabric used for an old shirt
+PATCH | Piece of cloth sewn over a worn place
+HAT | Head covering with a brim or crown
+HAY | Dried grass used for animal feed
+SLEEVE | Part of a shirt that covers an arm
+FASTENER | Small closure attached to clothing
+PITCHFORK | Farm tool with long sharp tines
+STUFFING | Material packed inside a soft figure
+POLE | Long upright support fixed in the ground
+FIELD | Open area used for crops
+BURLAP | Rough cloth often used to cover a stuffed head
+STREAMER | Long narrow strip fluttering in the wind
+FLUTTER | Move lightly back and forth in a breeze
+GRAIN | Seed harvested from cereal plants
+FARMER | Person who grows crops or raises animals
+ORCHARD | Ground where fruit trees are grown
+SACK | Large cloth bag used to form a figure's head
+
+=== Family Recipe Book | EASY
+RECIPE | Instructions for preparing a dish
+INGREDIENT | One item used to make a meal
+MEASURE | Find an amount using a cup or scale
+TABLESPOON | Large spoon used as a cooking measure
+TEASPOON | Small spoon used as a cooking measure
+MIXINGBOWL | Deep dish used for combining ingredients
+WHISK | Wire tool used to beat ingredients
+STIR | Move a spoon around inside a pot
+CHOP | Cut food into small pieces
+BAKE | Cook food in an oven
+SIMMER | Keep liquid just below a full boil
+KNEAD | Press and fold dough by hand
+YEAST | Tiny organism that makes bread dough rise
+DOUGH | Soft mixture used before bread is baked
+SERVING | Amount of food given to one person
+FAMILY | People related to one another
+HANDWRITING | Letters formed by hand with a pen
+SPILLOVER | Liquid or mixture that runs over a bowl
+SPICE | Dried plant part that adds flavour to food
+FAVORITE | Most liked of several choices
+
+=== Family Board Game Night | EASY
+BOARDGAME | Tabletop activity played with pieces and rules
+RULEBOOK | Printed guide explaining how a game works
+DICETOWER | Tall device that rolls dice fairly
+PAWN | Small game piece that moves across a board
+CARDDECK | Complete set of playing cards
+SCOREPAD | Paper used to keep track of points
+GAMEPIECE | Small object moved during a board game
+SPINNER | Arrow device that chooses a number or colour
+DOMINO | Rectangular tile marked with dots
+CHESS | Strategy game played with kings and knights
+CHECKERS | Board game with flat discs and diagonal moves
+BACKGAMMON | Board game using dice and triangular spaces
+SCRABBLE | Word game played with letter tiles
+MONOPOLY | Property game with streets and play money
+JENGA | Stacking game played by removing wooden blocks
+BOGGLE | Word game played by finding letters in a grid
+CONNECTFOUR | Game won by lining up four coloured discs
+STRATEGY | Plan used to improve a player's chances
+TURNORDER | Sequence showing who plays next
+TIEBREAKER | Extra round used when players finish even
+
+=== Farm Egg Basket | EASY
+EGGCARTON | Cardboard holder with separate egg spaces
+NESTBOX | Small sheltered place where a hen can lay
+BROODER | Warm enclosure for newly hatched chicks
+INCUBATOR | Heated box that helps eggs hatch
+HATCHLING | Young bird that has just come out of its egg
+PULLET | Young hen that has not yet begun laying
+ROOSTER | Male chicken with a comb and tail feathers
+HENHOUSE | Shelter where laying hens spend the night
+CHICK | Newly hatched young chicken
+RUNG | Crossbar on a ladder inside a chicken coop
+COOP | Small shelter built for chickens
+YOLK | Yellow centre of an egg
+ALBUMEN | Clear part surrounding an egg's centre
+MEMBRANE | Thin layer just inside an egg's outer casing
+CRACK | Break an egg's shell before cooking
+BOIL | Cook an egg in bubbling water
+POACH | Cook an egg gently in hot water
+FRY | Cook an egg in a shallow pan
+OMELET | Egg dish folded around a filling
+DOZEN | Group of twelve eggs

@@ -1,34 +1,29 @@
 {
   "id": "level-016",
-  "title": "At School",
+  "title": "Transport",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "##D#######",
-    "#TEACHER#R",
-    "##S####E#U",
-    "##K#PENCIL",
-    "#####X#E#E",
-    "###CLASS#R",
-    "###H#M#S##",
-    "###A######",
-    "###LESSON#",
-    "BOOK######"
+    "PLANE###",
+    "#A#####A",
+    "AMUNDSEN",
+    "#P#####C",
+    "#W#HATCH",
+    "#I#E###O",
+    "#CHARTER",
+    "#K#T####"
   ],
   "clues": {
     "across": {
-      "2": "Person who runs a classroom",
-      "5": "Writing tool with an eraser",
-      "7": "Group of pupils taught together",
-      "8": "A period of teaching",
-      "9": "You read it"
+      "1": "It flies passengers through the sky",
+      "4": "First to reach the South Pole",
+      "5": "Emerge from an egg",
+      "6": "Written grant that records a town's rights"
     },
     "down": {
-      "1": "Pupil's table",
-      "3": "Break time in the playground",
-      "4": "Tool for measuring straight lines",
-      "6": "Test at the end of a term",
-      "7": "Writing stick for a blackboard"
+      "2": "Fibre that draws fuel toward a flame",
+      "3": "Heavy hook dropped to the seabed",
+      "5": "Warmth that helps many seeds grow"
     }
   },
   "order": 16

@@ -1,0 +1,60 @@
+{
+  "id": "level-342",
+  "title": "Renaissance Frescoes",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "BRUNELLESCHI##D",
+    "##N######O##KEY",
+    "#EDGER###M##I#E",
+    "S#E###TRIPTYCH#",
+    "I#R#DNA##O##K##",
+    "GCD#I#M##S#M#A#",
+    "N#R#P#B#MINA#L#",
+    "#CARTOON#T#SET#",
+    "P#W#Y####I#A#A#",
+    "U#I#CHIAROSCURO",
+    "L#N#H#M##N#C#P#",
+    "PUG###A#P##IRIS",
+    "#R####GIOTTO#E#",
+    "DUSK##E#D#I##C#",
+    "#K##FORK##PANEL"
+  ],
+  "clues": {
+    "across": {
+      "1": "Architect linked to the dome of Florence Cathedral",
+      "5": "Value that unlocks a code",
+      "6": "Machine that trims rough edges from a board",
+      "8": "Artwork made from three joined panels",
+      "9": "Molecule that stores hereditary information",
+      "10": "Greatest common divisor of two or more integers",
+      "13": "Ancient weight and accounting unit",
+      "14": "Full-size preparatory drawing for a wall painting",
+      "15": "Painted scenery for a play",
+      "17": "Strong contrast between light and shadow",
+      "19": "Small dog with a wrinkled face",
+      "22": "Coloured ring around the centre of an eye",
+      "23": "Italian artist who painted the Scrovegni Chapel",
+      "25": "Time when daylight is fading",
+      "26": "Eating tool with several tines",
+      "27": "Flat wooden surface prepared for paint"
+    },
+    "down": {
+      "2": "Sketch made before the final paint layer",
+      "3": "Arrangement of figures and objects in a picture",
+      "4": "Color added to wax",
+      "5": "Move the legs to push through water",
+      "7": "Written notice showing a shop message",
+      "8": "Roadside storehouse or resting place",
+      "9": "Picture formed from two hinged panels",
+      "11": "Florentine painter known for early linear depth",
+      "12": "Painted work placed behind a church altar",
+      "16": "Soft crushed fruit left after pressing",
+      "18": "Instrument that records pictures",
+      "20": "Sumerian city associated with early urban life",
+      "21": "Social group of dolphins or whales",
+      "24": "Extra money given for good service"
+    }
+  },
+  "order": 342
+}

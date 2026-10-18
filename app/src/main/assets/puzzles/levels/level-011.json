@@ -1,33 +1,28 @@
 {
   "id": "level-011",
-  "title": "Weather Report",
+  "title": "At School",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "FOG#######",
-    "R#########",
-    "O######W##",
-    "STORM##I##",
-    "T##A#SUNNY",
-    "#H#I#N#D##",
-    "RAINBOW###",
-    "#I###W####",
-    "CLOUD#####"
+    "RULER###",
+    "E#E###M#",
+    "C#S###A#",
+    "E#S#PEST",
+    "S#O###O#",
+    "SUNBURN#",
+    "######R#",
+    "######Y#"
   ],
   "clues": {
     "across": {
-      "1": "Thick low cloud that makes driving hard",
-      "3": "Bad weather with thunder",
-      "5": "Bright and clear, weather-wise",
-      "7": "Arc of colours after a shower",
-      "8": "Fluffy white shape in the sky"
+      "1": "Tool for measuring straight lines",
+      "4": "Insect or animal that can damage a manuscript",
+      "5": "Red skin caused by too much sun"
     },
     "down": {
-      "1": "Icy coating on a cold morning",
-      "2": "Moving air",
-      "4": "Water falling from clouds",
-      "5": "White flakes in winter",
-      "6": "Small balls of ice from the sky"
+      "1": "Break time in the playground",
+      "2": "A period of teaching",
+      "3": "Construction made from stone, brick, or block units"
     }
   },
   "order": 11

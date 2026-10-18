@@ -1,40 +1,37 @@
 {
   "id": "level-105",
-  "title": "Ecology",
+  "title": "Key Ring",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "H###ECOSYSTEM##",
-    "E###X##########",
-    "R###T##P###S###",
-    "BIODIVERSITY###",
-    "I###N##E###M#P#",
-    "V#F#C##D#M#B#O#",
-    "O#O#T##A#I#I#L#",
-    "R#O#I##T#G#O#L#",
-    "E#D#O##O#R#S#I#",
-    "##CONSERVATION#",
-    "##H######T#S#A#",
-    "#HABITAT#I###T#",
-    "##I######O###O#",
-    "##N###CARNIVORE"
+    "DEADBOLT#P",
+    "U###O#A##E",
+    "PADLOCK##N",
+    "L#I#K#E##I",
+    "I#E#S##ARC",
+    "CUTTER###I",
+    "A###L##CEL",
+    "TUMBLER##L",
+    "E#R#E####I",
+    "#VITRUVIAN"
   ],
   "clues": {
     "across": {
-      "2": "Community and its environment",
-      "5": "Variety of life",
-      "9": "Protection of nature",
-      "10": "Natural home of an organism",
-      "11": "Meat eater"
+      "1": "Thick locking bar moved by a key or thumb turn",
+      "5": "Portable lock with a hinged shackle",
+      "7": "Curved shape of a rainbow",
+      "8": "Shop tool used to shape a spare key",
+      "9": "Clear sheet used in traditional animation",
+      "10": "Small moving part inside some locks",
+      "12": "Relating to a classical ideal of human proportions"
     },
     "down": {
-      "1": "Plant eater",
-      "2": "Dying out of a species",
-      "3": "Animal that hunts",
-      "4": "Mutually beneficial relationship",
-      "6": "Bee, for one",
-      "7": "Who eats whom",
-      "8": "Seasonal movement of animals"
+      "1": "Second copy cut from an original",
+      "2": "Worker who helps customers choose a book",
+      "3": "Body of fresh water",
+      "4": "Fleming's discovery",
+      "6": "Food and drink prescribed as part of a treatment",
+      "11": "Imaging method using magnets and radio waves"
     }
   },
   "order": 105

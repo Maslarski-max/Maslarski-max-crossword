@@ -1,42 +1,41 @@
 {
   "id": "level-154",
-  "title": "Neuroscience",
+  "title": "Garage Tools",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#SYNAPSE#####",
-    "#####L#######",
-    "#####A#CORTEX",
-    "#####S#E#E###",
-    "#S###T#R#F###",
-    "DENDRITE#LOBE",
-    "#R###C#B#E###",
-    "DOPAMINE#X###",
-    "#T###T#L#####",
-    "#O##MYELIN###",
-    "#N#####U#E###",
-    "HIPPOCAMPUS##",
-    "#N#######R###",
-    "#########O###",
-    "######AXON###"
+    "FISH##P#G##",
+    "L#T#DRILL#W",
+    "A#A#O#E#O#O",
+    "SCREWDRIVER",
+    "H###E#C#E#K",
+    "L##PLIERS#B",
+    "I#I##C####E",
+    "GOGGLES#H#N",
+    "H#L####DISC",
+    "TOOLBOX#K#H",
+    "##O#####E##"
   ],
   "clues": {
     "across": {
-      "1": "Gap between nerve cells",
-      "3": "Outer layer of the brain",
-      "6": "Branch receiving signals",
-      "7": "Section of the brain",
-      "8": "Reward chemical",
-      "9": "Fatty insulating sheath",
-      "11": "Memory structure",
-      "12": "Fibre carrying signals away"
+      "1": "Animal with gills and fins",
+      "5": "Tool that bores a round hole",
+      "7": "Hand tool used to turn a screw",
+      "8": "Tool with two handles for gripping objects",
+      "11": "Protective glasses used while drilling",
+      "13": "Round metal blade that cuts into the ground",
+      "14": "Sturdy case for carrying hand tools"
     },
     "down": {
-      "2": "Brain's ability to rewire",
-      "3": "Balance centre of the brain",
-      "4": "Automatic response",
-      "5": "Mood-regulating chemical",
-      "10": "Nerve cell"
+      "1": "Portable lamp for seeing in a dark garage",
+      "2": "It twinkles at night",
+      "3": "Make a hole through a material",
+      "4": "Hand coverings that protect skin",
+      "5": "Wooden peg used to join two pieces",
+      "6": "Strong table used for repairs",
+      "9": "Frozen water beneath a skater",
+      "10": "Dome shelter traditionally built from snow",
+      "12": "Long walk in nature"
     }
   },
   "order": 154

@@ -1,38 +1,43 @@
 {
   "id": "level-177",
-  "title": "Sound Recording Studio",
+  "title": "Painted Rocks",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##LEVEL#####",
-    "###C#D#####T",
-    "###H#I#MIXER",
-    "##BOOTH####A",
-    "#S####E##C#C",
-    "#T##PLAYBACK",
-    "#U####D##B##",
-    "#D####P##L##",
-    "MICROPHONE##",
-    "#O####O#####",
-    "######N#####",
-    "###WAVEFORM#"
+    "PATTERN#BUR",
+    "A####A####O",
+    "L#MOTIF#A#M",
+    "L##M#N#ACRE",
+    "EDGE#B##R##",
+    "T##GLOSSY#S",
+    "TUBA#W##LYE",
+    "E#######I#A",
+    "##M#STENCIL",
+    "ULU#######E",
+    "##DECKCHAIR"
   ],
   "clues": {
     "across": {
-      "1": "Strength of a recorded signal",
-      "5": "Console for balancing several audio sources",
-      "6": "Small enclosed room for recording",
-      "10": "Listening to an existing recording",
-      "11": "Device that turns sound waves into an electrical signal",
-      "12": "Visual representation of a sound signal"
+      "1": "Repeated arrangement of shapes or colours",
+      "3": "Small rotating cutting tip fitted into a dental drill",
+      "5": "Small design repeated in a picture",
+      "8": "Unit used to measure an area of farmland",
+      "9": "Connection between two points",
+      "10": "Shiny after a coating dries",
+      "12": "Biggest brass instrument",
+      "13": "Strong ingredient used to turn oils into soap",
+      "15": "Cutout sheet used to guide a painted design",
+      "16": "Hawaiian name for breadfruit",
+      "17": "Folding seat for the beach"
     },
     "down": {
-      "2": "Repeated sound caused by reflection",
-      "3": "Change a recording by cutting or moving parts",
-      "4": "Separate recorded part in a song",
-      "7": "Device worn over the ears to hear audio",
-      "8": "Room designed for recording",
-      "9": "Insulated wire linking audio equipment"
+      "1": "Board used for mixing paint",
+      "2": "Curved band with several colours",
+      "4": "The Eternal City",
+      "6": "Last Greek letter",
+      "7": "Quick-drying paint often used for crafts",
+      "11": "Clear coat that protects a painted rock",
+      "14": "Wet earth at the bottom"
     }
   },
   "order": 177

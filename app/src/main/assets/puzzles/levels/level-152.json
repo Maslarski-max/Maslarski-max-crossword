@@ -1,42 +1,41 @@
 {
   "id": "level-152",
-  "title": "Particle Physics",
+  "title": "Cupcake Party",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#########C###",
-    "#######PHOTON",
-    "#########L###",
-    "#########L###",
-    "##N#F#N#HIGGS",
-    "Q#E#E#E##D#L#",
-    "U#U#R#U##E#U#",
-    "ANTIMATTER#O#",
-    "R#R#I#R#L##N#",
-    "K#ISOTOPE####",
-    "##N#N#N#C##M#",
-    "##O#####T##U#",
-    "########R##O#",
-    "######PROTON#",
-    "########N####"
+    "S#D###P####",
+    "PARTYHAT###",
+    "R#Y#O#P#L##",
+    "ICING#AGENT",
+    "N#N#A#L#M#I",
+    "K#G##M##M#M",
+    "L#C#CUPCAKE",
+    "E#L##F####R",
+    "SPOONFUL#S#",
+    "##T##I#A#K#",
+    "MOHS#NAPKIN"
   ],
   "clues": {
     "across": {
-      "2": "Particle of light",
-      "6": "Boson behind mass",
-      "9": "Opposite of ordinary matter",
-      "11": "Variant with different neutrons",
-      "13": "Positive particle in a nucleus"
+      "4": "Pointed paper hat worn at a celebration",
+      "7": "Smooth sugary coating for a cake",
+      "8": "Secret operative",
+      "11": "Small cake baked in a paper cup",
+      "12": "Amount carried by one spoon",
+      "15": "Name of the scale that ranks mineral hardness",
+      "16": "Paper square for wiping sticky fingers"
     },
     "down": {
-      "1": "Machine that smashes particles",
-      "3": "Ghostly near-massless particle",
-      "4": "Particle obeying exclusion",
-      "5": "Neutral nuclear particle",
-      "7": "Carrier of the strong force",
-      "8": "Building block of protons",
-      "10": "Negatively charged particle",
-      "12": "Heavy cousin of the electron"
+      "1": "Tiny coloured sweets scattered over icing",
+      "2": "Cloth used to dry off after leaving the water",
+      "3": "Relating to the pope or the office of the pope",
+      "5": "Stretching practice",
+      "6": "Proven result used to establish a larger theorem",
+      "9": "Device that counts down baking minutes",
+      "10": "Small baked cake that may be sweet or savoury",
+      "13": "One length across the pool and back",
+      "14": "Glide down a mountain on it"
     }
   },
   "order": 152

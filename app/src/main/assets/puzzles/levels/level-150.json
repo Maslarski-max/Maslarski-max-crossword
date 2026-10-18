@@ -1,40 +1,41 @@
 {
   "id": "level-150",
-  "title": "Sculpture",
+  "title": "Package Delivery",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#######P###P###",
-    "###MARBLE##A##R",
-    "#######I###T##E",
-    "##A#M##N#CHISEL",
-    "TERRACOTTA#N##I",
-    "##M#Q##H#STATUE",
-    "##A#U####T####F",
-    "##T#E####I#####",
-    "#BUST#BRONZE###",
-    "##R#T##O#G#####",
-    "##E#E##D#######",
-    "#######I#######",
-    "#######N#######"
+    "WRAPPING###",
+    "###O####BOX",
+    "###S##P#A#R",
+    "POSTAGE#RNA",
+    "I##B##A#C#Y",
+    "C#MAILSLOT#",
+    "K##G#A##D##",
+    "U#C#ADDRESS",
+    "PLUM#I###K#",
+    "##B##N###I#",
+    "#BACKGROUND"
   ],
   "clues": {
     "across": {
-      "3": "Classic white stone",
-      "7": "Carving tool",
-      "8": "Fired clay",
-      "9": "Full figure carving",
-      "10": "Head-and-shoulders sculpture",
-      "11": "Cast metal alloy"
+      "1": "Paper or material covering a gift or parcel",
+      "3": "Stiff container with flat sides",
+      "6": "Payment for sending a letter or package",
+      "7": "Genetic material used by many viruses",
+      "8": "Narrow opening through which post can be dropped",
+      "11": "Details naming the place for a delivery",
+      "13": "Purple fruit that dries into a prune",
+      "14": "Signal measured when no sample is present"
     },
     "down": {
-      "1": "Base for a statue",
-      "2": "Surface sheen from age",
-      "4": "Carving raised from a flat surface",
-      "5": "Inner frame for clay",
-      "6": "Small preliminary model",
-      "7": "Pouring metal into a mould",
-      "12": "Sculptor of The Thinker"
+      "2": "Sturdy shoulder bag for letters and small parcels",
+      "3": "Printed pattern scanned to identify a parcel",
+      "4": "Picture of the bones",
+      "5": "Small green balls in a pod",
+      "6": "Collection of an item from a chosen place",
+      "9": "Goods loaded aboard a ship",
+      "10": "Caribbean island of Havana",
+      "12": "Outer covering of the body"
     }
   },
   "order": 150

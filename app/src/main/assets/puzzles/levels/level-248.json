@@ -1,33 +1,50 @@
 {
   "id": "level-248",
-  "title": "Farmhouse Kitchen",
+  "title": "Olympic Games",
   "author": "Crossword Team",
-  "difficulty": "EASY",
+  "difficulty": "MEDIUM",
   "grid": [
-    "#####S#K##",
-    "S###MIXER#",
-    "P##P#N#T##",
-    "O##A#K#TAP",
-    "OVEN###L#L",
-    "N##TABLE#A",
-    "#JAR#####T",
-    "###Y#STOVE"
+    "FENCING###W##",
+    "O#####O##PAWS",
+    "Y#JAVELIN#V#I",
+    "E#U###D##GERM",
+    "R#D#D#######C",
+    "#BOXING#SEPIA",
+    "H###V#####O#R",
+    "U#S#I##EUCLID",
+    "ROWING#D##L##",
+    "D#A#G##I##B#S",
+    "LAND#P#THROAT",
+    "E####I#O##O#U",
+    "SECONDCRACK#D"
   ],
   "clues": {
     "across": {
-      "4": "Appliance that beats ingredients",
-      "6": "Fitting that releases water",
-      "8": "Enclosed chamber for baking",
-      "9": "Furniture where people eat",
-      "10": "Glass container for storing food",
-      "11": "Appliance used to cook food"
+      "1": "Sport with foils and masks",
+      "4": "Soft feet of a cat or dog",
+      "6": "Spear thrown for distance",
+      "7": "Microbe that can cause an illness",
+      "9": "Sport in a ring with gloves",
+      "10": "Brown tone often seen in old photographs",
+      "14": "Mathematician whose name is given to an ancient algorithm",
+      "15": "Sport with oars and a boat",
+      "17": "Come down onto the ground after a jump",
+      "19": "Narrow section that speeds up a stream of air",
+      "20": "Later popping stage during a darker roast"
     },
     "down": {
-      "1": "Basin with a water tap",
-      "2": "Vessel that heats water",
-      "3": "Utensil with a small curved bowl",
-      "5": "Small room for keeping food",
-      "7": "Flat dish for serving food"
+      "1": "Entrance hall of a theatre",
+      "2": "First-place medal",
+      "3": "Disturbance that can carry energy through space or matter",
+      "5": "Removable chip identifying a phone on a network",
+      "6": "Japanese martial art at the Games",
+      "8": "Sport off a springboard",
+      "11": "Official list used to check in voters",
+      "12": "Barriers to jump in a race",
+      "13": "Graceful white water bird",
+      "14": "Person who selects and arranges recorded material",
+      "16": "Raised connector that lets toy pieces snap together",
+      "18": "Controller using proportional, integral, and derivative terms"
     }
   },
   "order": 248

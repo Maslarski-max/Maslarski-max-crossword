@@ -1,36 +1,45 @@
 {
   "id": "level-193",
-  "title": "Watercolor Class",
+  "title": "Firefly Jar",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "####SKY##",
-    "#WASH####",
-    "####A####",
-    "B###DRIP#",
-    "RINSE##A#",
-    "U####W#L#",
-    "S#P#PAPER",
-    "H#A##T#T#",
-    "#PIGMENT#",
-    "##N##R#E#",
-    "##T##Y###"
+    "LIGHTNINGBUG",
+    "O#L#W####E#L",
+    "C#O#INSOLE#O",
+    "K#W#L####T#W",
+    "A#BLINK##L#S",
+    "G#U#G##SCENT",
+    "EGG#H#E#U##I",
+    "###ATOM#P##C",
+    "T#C###B#C##K",
+    "A#UNDERPASS#",
+    "PCR###Y#K#A#",
+    "U#EPISODE#W#"
   ],
   "clues": {
     "across": {
-      "1": "Blue expanse above the land",
-      "2": "Thin layer of watery paint",
-      "4": "Small drop falling from a brush",
-      "6": "Clean a brush in water",
-      "9": "Flat sheet used as a painting surface",
-      "10": "Material that gives paint its colour"
+      "1": "Another name for a glowing beetle",
+      "6": "Removable layer resting inside a shoe",
+      "7": "Shine briefly and then go dark",
+      "8": "Smell added to a bath product",
+      "10": "It can be scrambled or fried",
+      "12": "Smallest unit of an element",
+      "15": "Route passing beneath another road or railway",
+      "17": "Method for amplifying genetic material",
+      "18": "One installment of a continuing program"
     },
     "down": {
-      "1": "Darker or lighter version of a colour",
-      "3": "Tool with bristles for applying paint",
-      "5": "Surface for mixing paint",
-      "7": "Paint consistency after adding plenty of water",
-      "8": "Coloured liquid used to make pictures"
+      "1": "Passage of a boat through a lock",
+      "2": "Another common name for a firefly",
+      "3": "Time when daylight fades after sunset",
+      "4": "Insect with a hard pair of wing covers",
+      "5": "Tube that shines after it is bent",
+      "9": "Small cake baked in a paper cup",
+      "11": "Early developing animal before birth or hatching",
+      "13": "Ottoman document recording rights to land",
+      "14": "Rest soap until it becomes firm enough to use",
+      "16": "Toothed blade for cutting wood"
     }
   },
   "order": 193

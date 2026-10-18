@@ -1,37 +1,41 @@
 {
   "id": "level-149",
-  "title": "Jungle River",
+  "title": "Tent Stakes",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#######P#####",
-    "#######I####C",
-    "#######R#L##A",
-    "S#J####A#I##I",
-    "L#ANACONDA##M",
-    "O#G##A#H#N##A",
-    "TOUCAN#AMAZON",
-    "H#A##O##A##T#",
-    "##R##P##C##T#",
-    "#####Y#CANOE#",
-    "########W##R#"
+    "FOOTPRINT##",
+    "U#C#I######",
+    "J#ENTRANCE#",
+    "IPA#C###A#G",
+    "##N#H#M#M#L",
+    "C####TARP#Y",
+    "A#R#N#L#S#C",
+    "R#A#A#L#I#E",
+    "RED#SHELTER",
+    "O#A#A#T#E#I",
+    "TURTLE####N"
   ],
   "clues": {
     "across": {
-      "6": "Huge water snake",
-      "8": "Bird with a big bright beak",
-      "9": "Great South American river",
-      "12": "Narrow paddled boat"
+      "1": "Groundsheet that fits under a tent",
+      "4": "Opening used to go in or out",
+      "6": "Alphabet used to represent speech sounds",
+      "10": "Waterproof sheet stretched over a camp area",
+      "13": "Colour of a ripe strawberry",
+      "14": "Cover that protects people from weather",
+      "15": "Marine reptile that grazes on some seagrasses"
     },
     "down": {
-      "1": "Sharp-toothed fish",
-      "2": "Small crocodilian",
-      "3": "Woody climbing vine",
-      "4": "Slow hanging mammal",
-      "5": "Spotted big cat",
-      "7": "Treetop layer",
-      "10": "Colourful parrot",
-      "11": "Playful swimmer"
+      "1": "Japan's sacred volcano",
+      "2": "Large body of salt water",
+      "3": "Put a tent up at a campsite",
+      "5": "Place where campers set up tents",
+      "7": "Clear ingredient that helps soap hold moisture",
+      "8": "Small hammer used to tap in a peg",
+      "9": "Orange root vegetable",
+      "11": "System that detects aircraft with radio waves",
+      "12": "Sound produced with air through the nose"
     }
   },
   "order": 149

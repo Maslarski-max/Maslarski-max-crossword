@@ -1,0 +1,58 @@
+{
+  "id": "level-328",
+  "title": "Orchard Science",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "POLLINATION###",
+    "O##E###A######",
+    "LIFE#MARK##D#S",
+    "L##S###N#BLOOM",
+    "INK#H#G##A#R#O",
+    "N##VARIETY#M#R",
+    "A#C#R#M####AXE",
+    "TEA#V#POLLEN##",
+    "O#N#E##R###C##",
+    "ROOTSTOCK#DYE#",
+    "##P#T##H#A##X#",
+    "MAYA#GRAFT#SAD",
+    "#R#####R#O##M#",
+    "#TOY#ABDOMEN##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Transfer of pollen to a flower's receptive part",
+      "4": "Period of growth and change from egg to adult",
+      "5": "Chemical feature that can affect gene activity",
+      "8": "Flowering period of a fruit tree",
+      "9": "Dark liquid used for writing or drawing",
+      "12": "Distinct cultivated kind of a plant",
+      "14": "Tool with a sharp metal head for chopping",
+      "15": "Drink brewed from leaves",
+      "16": "Fine grains involved in plant reproduction",
+      "18": "Plant base onto which a fruit variety is grafted",
+      "19": "Colored material used to make ink",
+      "22": "People whose civilization flourished in Mesoamerica",
+      "24": "Join parts of two plants so they grow together",
+      "25": "Feeling down",
+      "26": "Object a cat can bat or chase",
+      "27": "Rear body region behind an insect's thorax"
+    },
+    "down": {
+      "1": "Animal that carries pollen between flowers",
+      "2": "Spent yeast and other solids settled at the bottom of a vessel",
+      "3": "Mountain lake formed in a glacial basin",
+      "6": "Period when growth slows or stops",
+      "7": "Campfire treat with chocolate between crackers",
+      "8": "Marked space where a vehicle can be left",
+      "10": "Picking mature fruit",
+      "11": "Narrow decorative braid along an upholstered edge",
+      "13": "Upper spread of branches and leaves",
+      "17": "Area planted with fruit trees",
+      "20": "Test at the end of a term",
+      "21": "Smallest unit of an element",
+      "23": "Work made to express an idea or show beauty"
+    }
+  },
+  "order": 328
+}

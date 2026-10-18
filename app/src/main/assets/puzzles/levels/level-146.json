@@ -1,40 +1,41 @@
 {
   "id": "level-146",
-  "title": "Photography",
+  "title": "Pizza Delivery",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#Z##T########",
-    "PORTRAIT#####",
-    "#O##I########",
-    "#M##P#F######",
-    "##C#O#O#A##S#",
-    "#LANDSCAPE#E#",
-    "##M###U#E##L#",
-    "##EXPOSURE#F#",
-    "##R#####T##I#",
-    "FLASH#SHUTTER",
-    "#E######R####",
-    "#NEGATIVE####",
-    "#S###########"
+    "M#F####ROJI",
+    "OREGANO###N",
+    "Z#T#####N#H",
+    "Z#####BLADE",
+    "ANCHOVY#I#R",
+    "R#R#L#T#L#I",
+    "E#URINE#SET",
+    "L#S#V##P##A",
+    "L#THERMAL#N",
+    "A######T##C",
+    "##SAXOPHONE"
   ],
   "clues": {
     "across": {
-      "3": "Photo of a person",
-      "8": "Wide scenic shot",
-      "9": "Amount of light captured",
-      "10": "Sudden burst of light",
-      "12": "Opens to expose the sensor",
-      "13": "Reversed film image"
+      "3": "Garden path leading to a tea house",
+      "5": "Leafy herb sprinkled on some pizzas",
+      "7": "Sharp metal edge inside a razor",
+      "8": "Small salty fish sometimes added as a topping",
+      "11": "Fluid examined by ancient physicians for signs of illness",
+      "12": "Painted scenery for a play",
+      "14": "Relating to heat and temperature",
+      "15": "Reed instrument often heard in a jazz solo"
     },
     "down": {
-      "1": "Lens that brings things closer",
-      "2": "Three-legged stand",
-      "4": "Make it sharp",
-      "5": "Device that takes pictures",
-      "6": "Size of the lens opening",
-      "7": "Picture of yourself",
-      "11": "Glass that focuses light"
+      "1": "Soft white cheese that melts well",
+      "2": "Transistor controlled by an electric field",
+      "4": "Passing of traits from parents to offspring",
+      "6": "Hard tips trimmed during a pet's care",
+      "7": "Group of eight bits",
+      "9": "Baked outer edge of a pizza",
+      "10": "Small fruit often sliced onto a pizza",
+      "13": "Sequence of connected edges"
     }
   },
   "order": 146

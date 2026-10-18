@@ -1,35 +1,50 @@
 {
   "id": "level-245",
-  "title": "At the Tailor",
+  "title": "Mythology",
   "author": "Crossword Team",
-  "difficulty": "EASY",
+  "difficulty": "MEDIUM",
   "grid": [
-    "##FITTING##",
-    "#####A#####",
-    "###H#POCKET",
-    "SLEEVE####H",
-    "E##M##F#B#R",
-    "W###MEASURE",
-    "######B#T#A",
-    "######R#T#D",
-    "####TAILOR#",
-    "######C#N##"
+    "HERCULES#RISE",
+    "E##E##A##I###",
+    "R##N#TRAFFIC#",
+    "MEET#H#T#F#A#",
+    "E##APOLLO#FRY",
+    "S##U#R#A#P#R#",
+    "#LORD##STUDIO",
+    "V#T###F##S#E#",
+    "EXTINGUISHER#",
+    "L#E###J#H##A#",
+    "L#R#ITINERARY",
+    "U#######R##E#",
+    "MITOCHONDRIA#"
   ],
   "clues": {
     "across": {
-      "1": "Try-on to check how a garment sits",
-      "4": "Small pouch sewn into clothing",
-      "6": "Part of a shirt covering an arm",
-      "9": "Find the size of something",
-      "10": "Person who makes or alters clothes"
+      "1": "Hero of the twelve labours",
+      "4": "Grow larger as yeast makes gas in a dough",
+      "5": "Vehicles moving along a road",
+      "8": "Seem to join at the point where parallel lines converge",
+      "9": "Greek god of the sun and music",
+      "10": "Cook an egg in a shallow pan",
+      "12": "Noble who controlled land and owed duties to a king",
+      "14": "Room designed for recording or broadcasting a program",
+      "17": "Red canister for small fires",
+      "19": "Planned way between a home and a school",
+      "20": "Cell structures where much aerobic respiration occurs"
     },
     "down": {
-      "2": "Flexible strip used for measuring",
-      "3": "Folded edge at the bottom of a garment",
-      "5": "Fine strand used for stitching",
-      "6": "Join cloth with stitches",
-      "7": "Cloth used to make a garment",
-      "8": "Small fastener sewn onto a garment"
+      "1": "Messenger god with winged sandals",
+      "2": "Half man, half horse",
+      "3": "You hear with it",
+      "4": "Short phrase repeated by an instrument",
+      "5": "Norse god with a hammer",
+      "6": "Titan who holds up the sky",
+      "7": "Postal area assigned to one mail carrier",
+      "11": "Force directed away from the person applying it",
+      "13": "River mammal that floats on its back",
+      "15": "Prepared animal skin used for writing",
+      "16": "Japan's sacred volcano",
+      "18": "Broken fragment of an old ceramic object"
     }
   },
   "order": 245

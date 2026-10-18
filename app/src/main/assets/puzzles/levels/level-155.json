@@ -1,41 +1,41 @@
 {
   "id": "level-155",
-  "title": "Navigation",
+  "title": "School Bus Ride",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "###COMPASS####",
-    "#######S######",
-    "#SEXTANT#L####",
-    "#######R#O####",
-    "###WAYPOINT###",
-    "#M#####L#G###B",
-    "#E####LATITUDE",
-    "#R#####B#T###A",
-    "#I#####EQUATOR",
-    "#D###C###D#R#I",
-    "LIGHTHOUSE#O#N",
-    "#A###A#####P#G",
-    "#N###R#####I##",
-    "##KNOT#####C##"
+    "RECESS#A#A#",
+    "A######CAST",
+    "I##AISLE#H#",
+    "N#####U####",
+    "CROSSING##T",
+    "O##T##C#S#R",
+    "V#TORCH#C#A",
+    "E##P##B#H#F",
+    "RAY#DROPOFF",
+    "####O#X#O#I",
+    "DOSAGE##L#C"
   ],
   "clues": {
     "across": {
-      "1": "Magnetic direction finder",
-      "3": "Instrument for measuring star angles",
-      "5": "Stop on a planned route",
-      "8": "Distance north or south",
-      "9": "Zero degrees latitude",
-      "12": "Coastal warning tower",
-      "13": "Nautical mile per hour"
+      "1": "Break between lessons for play",
+      "4": "Shape made by pouring material into a mould",
+      "5": "Clear path between rows of seats",
+      "7": "Place where people can walk across a street",
+      "11": "It carries the Olympic flame",
+      "12": "Idealized straight path followed by light",
+      "13": "Let a passenger leave at a chosen place",
+      "14": "Amount of medicine given at one time"
     },
     "down": {
-      "2": "Ancient star instrument",
-      "4": "Distance east or west",
-      "6": "Line of longitude",
-      "7": "Direction to a point",
-      "10": "Line of Cancer or Capricorn",
-      "11": "Sea map"
+      "1": "Waterproof layer protecting a school bag",
+      "2": "Serve the opponent cannot return",
+      "3": "Fine powder left after burning",
+      "6": "Small case holding a packed meal",
+      "8": "Place where the bus pauses for riders",
+      "9": "Vehicles moving along a road",
+      "10": "Place where children learn",
+      "13": "Man's best friend"
     }
   },
   "order": 155

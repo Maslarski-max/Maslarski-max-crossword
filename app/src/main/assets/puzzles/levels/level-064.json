@@ -1,38 +1,33 @@
 {
   "id": "level-064",
-  "title": "Castles and Knights",
+  "title": "Pet Grooming",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#######M###J#",
-    "#######O###O#",
-    "#####D#ARMOUR",
-    "##TURRET###S#",
-    "##H##A###S#T#",
-    "##R##W###Q###",
-    "##O##B###U###",
-    "BANNER#SHIELD",
-    "##E##I###R#A#",
-    "#####DUNGEON#",
-    "#####G#####C#",
-    "###KEEP####E#"
+    "SHAMPOO#L",
+    "I###A#P#I",
+    "G#R#W#U#G",
+    "NAILS#S#H",
+    "A#B##T##T",
+    "T#BATH##B",
+    "U#O##A##U",
+    "R#NARWHAL",
+    "E#######B"
   ],
   "clues": {
     "across": {
-      "4": "Knight's metal suit",
-      "5": "Small tower",
-      "7": "Flag carried into battle",
-      "8": "Knight's protective plate",
-      "10": "Prison beneath a castle",
-      "11": "Castle's strongest tower"
+      "1": "Liquid used to wash fur",
+      "6": "Hard tips trimmed during a pet's care",
+      "8": "Wash in a tub of water",
+      "9": "Arctic whale known for its long spiral tusk"
     },
     "down": {
-      "1": "Water ditch around a castle",
-      "2": "Contest on horseback",
-      "3": "Bridge that lifts up",
-      "5": "Royal seat",
-      "6": "Knight's young helper",
-      "9": "Long spear for jousting"
+      "1": "Person's name written by hand",
+      "2": "Soft feet of a cat or dog",
+      "3": "Latin term used in names for Roman building techniques",
+      "4": "Edison's glowing invention",
+      "5": "Bright strip tied in a pet's fur",
+      "7": "Change from solid ice into liquid water"
     }
   },
   "order": 64

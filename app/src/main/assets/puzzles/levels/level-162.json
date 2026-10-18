@@ -1,36 +1,42 @@
 {
   "id": "level-162",
-  "title": "Puppet Theatre",
+  "title": "Soda Fountain",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "####C#V#",
-    "M###U#O#",
-    "ACTOR#I#",
-    "S###T#C#",
-    "K#STAGE#",
-    "##C#I##P",
-    "STRING#U",
-    "H#I##L#P",
-    "O#P##O#P",
-    "W#T##V#E",
-    "####FELT"
+    "BACKWATER##",
+    "A##C##O##S#",
+    "NOMAD#MENU#",
+    "A##T##B##N#",
+    "N#C####SODA",
+    "A#O##G###A#",
+    "S#A#COUNTER",
+    "PEST#B#O##I",
+    "L#T##L#ROOF",
+    "ICECREAM##T",
+    "T#R##T#ATP#"
   ],
   "clues": {
     "across": {
-      "4": "Person who performs a role",
-      "5": "Raised place for a show",
-      "7": "Thin cord used to move a figure",
-      "9": "Soft cloth used to make a figure"
+      "1": "Slow-moving water away from a river's main current",
+      "5": "Wandering herder",
+      "6": "List of foods and drinks for sale",
+      "8": "Sweet bubbly drink served cold",
+      "10": "Long surface where customers place an order",
+      "13": "Insect or animal that can damage a manuscript",
+      "14": "Top covering placed over a little building",
+      "15": "Frozen sweet treat served in a cup or cone",
+      "16": "Cell's main short-term energy-carrying molecule"
     },
     "down": {
-      "1": "Cloth that opens before a play",
-      "2": "Sound made by a performer",
-      "3": "Face covering worn by a character",
-      "5": "Written words for a show",
-      "6": "Figure controlled by a performer",
-      "7": "Performance for an audience",
-      "8": "Hand covering used to operate a puppet"
+      "1": "Dessert with fruit, ice cream, and sweet toppings",
+      "2": "Rate constant for one enzyme molecule at saturation",
+      "3": "Chamber or structure used for burial",
+      "4": "Ice cream topped with sauce and fruit",
+      "7": "Small pad placed under a soda glass",
+      "9": "Stemmed drinking vessel for a special soda",
+      "11": "Bellini's druid priestess",
+      "12": "Long crack where crust pulls apart"
     }
   },
   "order": 162

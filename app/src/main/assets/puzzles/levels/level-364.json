@@ -1,0 +1,61 @@
+{
+  "id": "level-364",
+  "title": "City Park Design",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PLAYGROUND#LAWN",
+    "L#M#Y#A##I#A#A#",
+    "APP#M#T#JACKET#",
+    "Y#H##G#J#L#E#E#",
+    "FLOWERBED##S#R#",
+    "I#R##E#A##KIOSK",
+    "E#A##E#N###D#K#",
+    "L##LANDSCAPE#I#",
+    "DOG##W##Y#R##N#",
+    "####PAVILION##M",
+    "SPOT#Y##I#S#SEA",
+    "#O#A###INVEST#T",
+    "#ENROBE#D###A#C",
+    "#T###O##E##WISH",
+    "###TEXTAREA#N#A"
+  ],
+  "clues": {
+    "across": {
+      "1": "Outdoor area with equipment for children's games",
+      "6": "Open area of grass in a park",
+      "8": "Phone program used to locate or unlock a bicycle",
+      "9": "Removable sleeve protecting a hardbound book",
+      "12": "Plot of soil planted with blossoms",
+      "13": "Small booth selling refreshments or park maps",
+      "14": "Arrangement of plants, paths, and open spaces",
+      "17": "Animal often waiting at a shelter for a new home",
+      "18": "Large covered space used for gatherings or events",
+      "20": "Small mark on a painted surface",
+      "23": "Large body of salt water",
+      "24": "Put money in to make more",
+      "25": "Cover a sweet with a thin chocolate layer",
+      "27": "Hope for someone's happiness",
+      "28": "Space occupied by the lines of writing"
+    },
+    "down": {
+      "1": "Open ground set aside for recreation",
+      "2": "Ancient two-handled storage jar",
+      "3": "Room where students play indoor sports",
+      "4": "Grain often mixed into cookie dough",
+      "5": "Round numbered part turned to enter a code",
+      "6": "Area of a park along the edge of a lake",
+      "7": "Flexible container carried by a traveller",
+      "10": "Long planted route for walking or cycling",
+      "11": "Blue denim trousers",
+      "15": "Chamber in which a piston moves",
+      "16": "Ordinary written language rather than verse",
+      "19": "Finely ground green tea used in the ceremony",
+      "21": "Writer of verses",
+      "22": "Sticky substance used to protect seams and rope",
+      "23": "Mark left by a spill",
+      "26": "Container holding a group of items"
+    }
+  },
+  "order": 364
+}

@@ -1,35 +1,44 @@
 {
   "id": "level-190",
-  "title": "At the Dentist",
+  "title": "Birdbath",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###F###B#",
-    "DRILL##R#",
-    "###O#XRAY",
-    "GUMS###C#",
-    "###SMILE#",
-    "#T##I##S#",
-    "MOLAR####",
-    "#O##RINSE",
-    "#T##O####",
-    "CHAIR####"
+    "SONGBIRD##B",
+    "O###U#U###R",
+    "N#BASIN#DNA",
+    "G#I##P#S##C",
+    "BIRDBATH##E",
+    "A#D#A##ARES",
+    "T#WET##L###",
+    "H#A#H##L#W#",
+    "##T#I#ROBIN",
+    "ARC#N##W#N#",
+    "##HIGGS#EGG"
   ],
   "clues": {
     "across": {
-      "3": "Dentist's tool for removing decay",
-      "4": "Image that can show a hidden cavity",
-      "5": "Soft tissue around the teeth",
-      "6": "Happy expression showing the teeth",
-      "9": "Broad back tooth for chewing",
-      "10": "Swish liquid around the mouth",
-      "11": "Seat that tilts for a checkup"
+      "1": "Small bird known for a musical call",
+      "5": "Wide shallow bowl that holds water",
+      "7": "Molecule that stores hereditary instructions",
+      "9": "Shallow basin where birds can bathe",
+      "11": "God of war in Greek myth",
+      "12": "Covered with water",
+      "14": "Bird with a red-orange breast",
+      "15": "Bright discharge jumping through air between conductors",
+      "16": "Boson behind mass",
+      "17": "Shell-covered beginning of many animal lives"
     },
     "down": {
-      "1": "Thin thread for cleaning between teeth",
-      "2": "Wires that help straighten teeth",
-      "7": "Small tool used to see inside the mouth",
-      "8": "Hard part used for biting food"
+      "1": "Shallow pool where a bird can clean its feathers",
+      "2": "Large vehicle for many passengers",
+      "3": "One timed or judged trip down the course",
+      "4": "Wires that help straighten teeth",
+      "5": "Activity of observing birds outdoors",
+      "6": "Alphabet used to represent speech sounds",
+      "8": "Not very deep",
+      "10": "Cleaning feathers by moving in shallow water",
+      "13": "Body part that helps a bird fly"
     }
   },
   "order": 190

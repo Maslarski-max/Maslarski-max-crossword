@@ -1,41 +1,41 @@
 {
   "id": "level-156",
-  "title": "Opera Heroines",
+  "title": "Garden Hose",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####V####",
-    "##MIMI####",
-    "#####O####",
-    "##L##L####",
-    "#BUTTERFLY",
-    "##C##T####",
-    "##I##TOSCA",
-    "##AIDA#O##",
-    "#I##I##P#C",
-    "#S##V#ARIA",
-    "NORMA##A#R",
-    "#L#####N#M",
-    "#D##SALOME",
-    "#E#######N"
+    "WATERING##G",
+    "#####R#RACE",
+    "#H#I#R#O##R",
+    "COUPLING##M",
+    "#S#A#G##R##",
+    "#E##FAUCET#",
+    "S##S#T##E##",
+    "U#SPRINKLER",
+    "P##R#O####E",
+    "E##A#NOZZLE",
+    "RUBY######F"
   ],
   "clues": {
     "across": {
-      "2": "Seamstress of La Boheme",
-      "4": "Madama of Nagasaki",
-      "5": "Puccini's singer who leaps",
-      "7": "Ethiopian princess of Verdi",
-      "11": "Solo song",
-      "12": "Bellini's druid priestess",
-      "13": "Strauss heroine of the seven veils"
+      "1": "Giving plants the moisture they need",
+      "5": "Contest of speed",
+      "8": "Fitting that joins two hose sections",
+      "10": "Tap that supplies water",
+      "13": "Device that sends water across a lawn",
+      "15": "Fitting that shapes the water stream",
+      "16": "Red gemstone"
     },
     "down": {
-      "1": "Heroine of La Traviata",
-      "3": "Mad bride of Lammermoor",
-      "6": "Highest female voice",
-      "8": "Celebrated female singer",
-      "9": "Wagner's Irish princess",
-      "10": "Bizet's gypsy"
+      "2": "System that carries water to growing plants",
+      "3": "Crushed fired clay added to a clay body",
+      "4": "Microbe that can cause an illness",
+      "6": "Flexible tube that carries water outdoors",
+      "7": "Alphabet used to represent speech sounds",
+      "9": "Spool used to wind a long hose",
+      "11": "Extra hive box where surplus honey is stored",
+      "12": "Fine stream scattered into droplets",
+      "14": "Structure built over time by coral skeletons"
     }
   },
   "order": 156

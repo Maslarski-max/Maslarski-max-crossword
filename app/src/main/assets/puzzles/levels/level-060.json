@@ -1,37 +1,33 @@
 {
   "id": "level-060",
-  "title": "Islands",
+  "title": "Nature Walk",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####J#######",
-    "#####A#######",
-    "#####MALTA###",
-    "##CUBA#######",
-    "#####I#SICILY",
-    "#H#T#C###O###",
-    "MADAGASCAR###",
-    "#W#H###R#S###",
-    "BALI###E#I###",
-    "#I#T###T#C###",
-    "FIJI#ICELAND#"
+    "PINECONE#",
+    "E#####U#A",
+    "BOOTS#T#I",
+    "B##W##R#R",
+    "LYSIS#I#H",
+    "E##G##T#O",
+    "#O##U#I#L",
+    "HAILSTONE",
+    "#K##B#N##"
   ],
   "clues": {
     "across": {
-      "2": "Mediterranean island nation",
-      "3": "Caribbean island of Havana",
-      "4": "Island off Italy's toe",
-      "8": "Island home of lemurs",
-      "10": "Indonesian holiday island",
-      "11": "Pacific nation of over three hundred islands",
-      "12": "Nordic land of fire and ice"
+      "1": "Seed case from a pine tree",
+      "4": "Sturdy footwear for a walk",
+      "6": "Rupture of a bacterial cell after phage replication",
+      "9": "Ball of ice falling from a cloud"
     },
     "down": {
-      "1": "Island home of reggae",
-      "5": "Napoleon's birthplace",
-      "6": "US state made of islands",
-      "7": "Island of French Polynesia",
-      "9": "Largest Greek island"
+      "1": "Small smooth stone",
+      "2": "Study or process of nourishing the body",
+      "3": "Small opening that lets fresh air through",
+      "5": "Small thin branch",
+      "7": "Tree that grows acorns",
+      "8": "Common connector type for small electronics"
     }
   },
   "order": 60

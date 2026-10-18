@@ -1,38 +1,32 @@
 {
   "id": "level-054",
-  "title": "Gemstones",
+  "title": "Library Day",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####T###A#",
-    "#####O#D#M#",
-    "##SAPPHIRE#",
-    "#G###A#A#T#",
-    "JADE#Z#M#H#",
-    "#R#####ONYX",
-    "#N#P###N#S#",
-    "#EMERALD#T#",
-    "#T#A#M#####",
-    "###RUBY####",
-    "OPAL#E#####",
-    "#####R#####"
+    "A####T#G#",
+    "U#QUARTER",
+    "T#U##I#N#",
+    "HAILCORE#",
+    "O#E#A##R#",
+    "RETURN#A#",
+    "####D##T#",
+    "#######O#",
+    "DESIGNER#"
   ],
   "clues": {
     "across": {
-      "4": "Blue gemstone",
-      "6": "Green stone prized in China",
-      "7": "Banded black gem",
-      "9": "Green gemstone",
-      "11": "Red gemstone",
-      "12": "Gem with shifting colours"
+      "4": "Twenty-five-cent coin used in the United States",
+      "5": "Storm region where large frozen drops are most likely",
+      "7": "Take a borrowed book back",
+      "8": "Person who creates clothes"
     },
     "down": {
-      "1": "Golden-yellow gem",
-      "2": "Purple quartz",
-      "3": "Hardest natural gem",
-      "5": "January's deep red birthstone",
-      "8": "Gem made by an oyster",
-      "10": "Fossilised tree resin"
+      "1": "Person who writes a book",
+      "2": "Ensemble of three performers or voices",
+      "3": "Device that converts motion into electricity",
+      "4": "How a library should sound",
+      "6": "Small slip used to borrow a book"
     }
   },
   "order": 54

@@ -1,33 +1,45 @@
 {
   "id": "level-196",
-  "title": "Pottery for Kids",
+  "title": "Balloon Animal",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#MUG###POT#",
-    "###L###I###",
-    "###APRON#H#",
-    "###Z###CLAY",
-    "VASE###H#N#",
-    "##P######D#",
-    "#KILN####L#",
-    "##N###WHEEL"
+    "INFLATOR####",
+    "####R#####S#",
+    "HEART#EJECTA",
+    "####I#A###A#",
+    "#CLOSURE##T#",
+    "E#A#T###HEIR",
+    "DECORATE##O#",
+    "A#T#Y#W#TENT",
+    "MOON#AIDA#R#",
+    "A#S#I#S#ICON",
+    "M#E#PETAL#O#",
+    "E###A#####F#"
   ],
   "clues": {
     "across": {
-      "1": "Cup with a handle",
-      "3": "Vessel made for holding or cooking",
-      "4": "Cloth worn to protect clothes",
-      "6": "Soft earth shaped before firing",
-      "7": "Container for holding flowers",
-      "9": "Hot oven for hardening pottery",
-      "10": "Spinning platform for forming a pot"
+      "1": "Tool that pushes air into a balloon",
+      "4": "Shape often made for a balloon gift",
+      "5": "Material thrown outward during a solar eruption",
+      "6": "Tight fastening around a balloon's neck",
+      "9": "Person next in line for a throne",
+      "10": "Add colourful details to a room or object",
+      "12": "Shelter you pitch outdoors",
+      "13": "Earth's natural satellite",
+      "14": "Ethiopian princess of Verdi",
+      "16": "Painted devotional image",
+      "17": "Coloured part of a flower"
     },
     "down": {
-      "2": "Glassy coating on fired pottery",
-      "3": "Shape a small pot using finger pressure",
-      "5": "Part gripped to lift a cup",
-      "8": "Turn around quickly"
+      "2": "Skill used to shape an inflated tube into an animal",
+      "3": "Covered structure above a passenger boarding area",
+      "5": "Part on the side of a head used for hearing",
+      "7": "Natural sugar found in milk",
+      "8": "Young green soybeans served as a snack",
+      "11": "Turn one section around another",
+      "12": "Long thin part behind an animal",
+      "15": "Alphabet used to represent speech sounds"
     }
   },
   "order": 196

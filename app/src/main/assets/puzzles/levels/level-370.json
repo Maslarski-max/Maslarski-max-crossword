@@ -1,0 +1,62 @@
+{
+  "id": "level-370",
+  "title": "Mineral Collection",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "MAGNETITE#T####",
+    "I#Y#####X#E#H#A",
+    "C#P##CLEAVAGE#M",
+    "APSE#R##M###M#P",
+    "##U##YAW#ESCAPE",
+    "A#MOHS##O#T#T#R",
+    "N####T##L#R#I#A",
+    "G###CALCITE#T#G",
+    "ICON#L##V#ARETE",
+    "O#L#H#BLINK##R#",
+    "SOY#A#U#N##MOAT",
+    "P#M#LUSTER#U#C#",
+    "E#P#I##R##CREEP",
+    "R#U#T##A###A###",
+    "M#SPECIMEN#LEAF"
+  ],
+  "clues": {
+    "across": {
+      "1": "Iron ore that can attract a magnet",
+      "7": "Tendency of a mineral to break along flat planes",
+      "8": "Rounded end of a basilica",
+      "9": "Rotation of an aircraft's nose left or right around a vertical axis",
+      "10": "Motion that overcomes a body's gravitational pull",
+      "13": "Name of the scale that ranks mineral hardness",
+      "15": "Common mineral that fizzes in weak acid",
+      "16": "Painted devotional image",
+      "18": "Sharp ridge carved between glacial valleys",
+      "21": "Shine briefly and then go dark",
+      "22": "Plant source for some candle wax",
+      "23": "Deep ditch surrounding a fortification",
+      "24": "Way a mineral surface reflects light",
+      "26": "Slow change in a reading as instrument components age",
+      "27": "Individual sample kept for study or display",
+      "28": "Flat green part of many plants"
+    },
+    "down": {
+      "1": "Mineral that splits into thin flexible sheets",
+      "2": "Soft mineral used to make plaster",
+      "3": "Test at the end of a term",
+      "4": "Drink brewed from leaves",
+      "5": "Iron-rich mineral with a reddish streak",
+      "6": "Measure of electric current flowing through a circuit",
+      "7": "Solid with atoms arranged in a repeating pattern",
+      "11": "Colour left when a mineral is rubbed on porcelain",
+      "12": "Flowering plant",
+      "14": "Green mineral found in some volcanic rocks",
+      "17": "Mountain regarded as home of Greek gods",
+      "19": "Very small amount of an element in a specimen",
+      "20": "Cubic mineral form of ordinary table salt",
+      "21": "Large road vehicle that carries many riders",
+      "23": "Large painting made directly on a wall",
+      "25": "Electric street train"
+    }
+  },
+  "order": 370
+}

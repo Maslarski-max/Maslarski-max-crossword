@@ -1,0 +1,439 @@
+=== Metal Foundry Casting | MEDIUM
+FOUNDRY | Workshop where metal is melted and shaped
+MOLTEN | Describes metal heated until it becomes liquid
+FURNACE | Enclosed chamber used to heat metal intensely
+LADLE | Vessel used to carry and pour molten metal
+INGOT | Block formed by pouring metal into a mold
+CRUCIBLE | Heatproof pot used to melt a small amount of metal
+CASTING | Object made by pouring liquid material into a form
+MASTER | Model used to create a hollow in a sand mold
+RISER | Reservoir that feeds liquid metal as a casting cools
+SPRUE | Channel through which molten metal enters a mold
+FLASH | Thin extra metal left along a mold joint
+DRAFT | Slight taper that helps a pattern leave the sand
+ALLOY | Mixture made by combining a metal with another element
+TAPPING | Releasing liquid metal from a furnace
+SHAKEOUT | Breaking away sand after a casting has cooled
+SANDCAST | Shape made in a mold packed with sand
+GATING | Network of channels that directs metal into a mold
+DEBURR | Remove sharp edges left after casting
+PATTERNMAKER | Worker who builds models for the molding process
+POURING | Filling a prepared mold with liquid metal
+
+=== Emergency Room Triage | MEDIUM
+TRIAGE | Sorting patients by how urgently they need care
+STRETCHER | Wheeled bed used to move a patient
+MONITOR | Screen that displays a patient's vital signs
+VITALS | Basic measures such as pulse and breathing rate
+AIRWAY | Passage through which a person breathes
+RESUSCITATE | Restore breathing or circulation after collapse
+IVLINE | Tube that delivers fluid into a vein
+SPLINT | Rigid support that protects an injured limb
+GURNEY | Wheeled bed used to transport a patient
+NURSE | Clinician who monitors and cares for patients
+DOCTOR | Medical professional who diagnoses and treats illness
+DISPATCH | Send an ambulance or crew to an emergency
+ARRIVAL | Time when a patient reaches the department
+OXYGEN | Gas supplied to help a patient breathe
+PULSEOX | Clip-on instrument that estimates blood oxygen
+INTAKE | Initial collection of a patient's details
+ISOLATION | Separation used to limit spread of infection
+STABILIZE | Bring a patient's condition under control
+LACERATION | Deep cut in the skin
+CONCUSSION | Brain injury caused by a blow or sudden jolt
+
+=== Coast Guard Rescue Boat | MEDIUM
+COASTGUARD | Service that protects people and vessels near shore
+LIFEBOAT | Sturdy craft sent to aid people in danger at sea
+MAYDAY | International radio call for grave distress
+FLARE | Bright signal used to mark an emergency
+SEAMARK | Floating marker that shows a position or hazard
+CREW | People operating a vessel together
+RECOVERY | Bringing someone out of danger
+SQUALL | Sudden burst of strong wind with rain
+FLOTATION | Support that helps a person remain on the water
+VESSEL | Craft built to travel on water
+HELM | Steering position or wheel of a boat
+SAFETYBELT | Strap system worn to secure a person
+HOIST | Raise a person or object with a lifting device
+TOWLINE | Strong rope used to pull a disabled craft
+RADAR | System that detects objects using reflected radio waves
+LOCATOR | Signal light that helps rescuers find a location
+CHANNEL | Marked route through navigable water
+SEARCHLIGHT | Powerful lamp used to scan the water at night
+JACKSTAY | Strong line used to secure people or gear
+SAR | Short name for search and rescue operations
+
+=== Biodiversity Field Survey | MEDIUM
+BIODIVERSITY | Variety of living things in a place
+TRANSECT | Line along which plants or animals are recorded
+QUADRAT | Frame marking a small area for sampling
+SPECIES | Group of similar organisms able to reproduce
+HABITAT | Natural place where an organism lives
+TREECROWN | Upper layer formed by the crowns of trees
+UNDERSTORY | Vegetation growing beneath the forest canopy
+RICHNESS | Number of different kinds recorded in a sample
+ABUNDANCE | Count of individuals found in a survey
+SAMPLE | Small part examined to represent a larger area
+OBSERVER | Person who records wildlife during a survey
+PITFALL | Container trap used to sample ground-dwelling animals
+CAMERA | Device that records an animal without a human nearby
+FLORA | Plant life found in a region
+FAUNA | Animal life found in a region
+INDICATOR | Organism whose presence reveals environmental conditions
+INVENTORY | Organized list of species found at a site
+NEST | Structure where some animals lay eggs or raise young
+MIGRATION | Seasonal movement from one area to another
+ECOREGION | Large area sharing similar climate and natural communities
+
+=== Antique Bookbinding | MEDIUM
+SECTION | Folded group of pages sewn into a book
+FOLIO | Book made by folding each sheet once
+QUARTO | Book size created by folding each sheet twice
+OCTAVO | Book size created by folding each sheet three times
+GATHERING | Group of folded sheets prepared for binding
+ENDLEAF | Sheet joining a book's cover to its text block
+HEADBAND | Decorative band attached at the top of a spine
+SPINE | Narrow outer edge where a book's pages are joined
+COVER | Outer boards and material protecting a book
+GILT | Thin layer of gold applied to a book's edge
+LEATHER | Animal hide used as a durable book covering
+PASTE | Thick adhesive used in traditional binding
+SEWING | Joining folded pages with thread
+SCREWTHREAD | Spiral ridge that lets a fastener grip a surface
+DECKLE | Rough edge left where handmade paper was formed
+JOINT | Flexible connection between a cover and the spine
+MILLBOARD | Dense board used for rigid book covers
+TOOLING | Decorative marks pressed into a leather cover
+CAPITAL | End fitting that protects a book's spine
+BOOKBLOCK | Pages assembled together before the covers are attached
+
+=== Restaurant Kitchen Brigade | MEDIUM
+BRIGADE | Organized team working in a professional kitchen
+SAUCIER | Cook responsible for sauces and sautéed dishes
+PATISSIER | Cook who prepares pastries and desserts
+POISSONNIER | Cook responsible for fish dishes
+ROTISSEUR | Cook in charge of roasted meats
+ENTREMETIER | Cook who prepares vegetables, soups, and eggs
+COMMIS | Junior cook learning a station
+EXPEDITOR | Worker who checks dishes before they leave the kitchen
+PASS | Counter where finished plates are collected
+PLATING | Arranging food neatly on a serving dish
+STATION | Work area assigned to one kitchen role
+CHIT | Printed or written record of a customer's order
+PREP | Chopping and measuring ingredients before service
+SERVICE | Period when the kitchen prepares meals for diners
+GARNISH | Small finishing item added to a dish
+SAUTE | Cook quickly in a shallow pan with little fat
+BRAISE | Cook slowly with a little liquid in a covered pot
+REDUCE | Simmer a liquid until its volume decreases
+JULIENNE | Cut vegetables into thin matchstick strips
+MISEENPLACE | Ingredients and tools arranged before cooking begins
+
+=== Ice Sculpture Festival | MEDIUM
+ICEBLOCK | Large piece of clear ice used as a starting form
+CHAINSAW | Powered cutting tool used to rough out a sculpture
+CHISEL | Steel tool struck to chip or shape ice
+MALLET | Hand tool used to drive a chisel
+SHARD | Small sharp piece broken from a larger block
+ICICLE | Pointed piece of ice formed by dripping water
+FREEZE | Turn liquid water into solid ice
+TEMPLATE | Outline used to guide the first cuts
+STAND | Platform that holds a sculpture upright
+GAUNTLET | Long cuffed glove used to protect hands from cold
+SCULPT | Shape material into a figure or design
+RELIEF | Image that projects from a flat background
+DRILL | Tool used to bore a hole through ice
+VOTIVE | Hollow ice form designed to hold a light
+CHIPPER | Small tool used to remove fine bits of ice
+FROST | Thin coating of ice crystals
+CLEAR | Describes ice with few visible bubbles
+CLOUDY | Describes ice that scatters light through trapped bubbles
+CARVE | Cut away material to reveal a design
+THAW | Change from solid ice into liquid water
+
+=== Wind Tunnel Testing | MEDIUM
+AIRDUCT | Enclosed passage through which test air flows
+AIRFLOW | Movement of air around a test object
+MODEL | Smaller object used to study a full-size design
+SMOKE | Visible trail used to show how air moves
+PITOT | Tube that measures air pressure in a moving stream
+DRAG | Force that resists motion through air
+LIFT | Force that acts upward on a wing
+STALL | Loss of lift when airflow separates from a wing
+VORTEX | Spinning region of moving air
+STREAMLINE | Smooth path followed by air around an object
+SURFACELOAD | Force exerted by air on a surface
+VELOCITY | Speed and direction of the moving air
+BALANCE | Instrument that measures forces on a model
+FAN | Rotating device that drives air through the passage
+THROAT | Narrow section that speeds up a stream of air
+DIFFUSER | Expanding section that slows air after a test area
+BOUNDARY | Thin region of air next to a solid surface
+REYNOLDS | Number comparing inertial and viscous flow effects
+TURBULENCE | Irregular swirling motion within a moving fluid
+CALIBRATE | Compare an instrument with a known standard
+
+=== Fire Hydrant Inspection | MEDIUM
+HYDRANT | Street fixture that firefighters connect hoses to
+VALVE | Part that starts or stops water flow
+BONNET | Top cover protecting a hydrant's operating parts
+SPINDLE | Rod that turns the water valve
+PORT | Opening where a hose or stream connects
+COUPLING | Fitting that joins a hose to a hydrant
+SCREWTHREAD | Spiral ridge that lets two fittings join securely
+OUTLETPLUG | Removable cover over a hydrant outlet
+WRENCH | Tool used to open the hydrant's operating nut
+WATERHEAD | Force that pushes water through the outlet
+FLUSH | Run water to clear dirt from the pipe
+PAINT | Protective coating that helps identify the fixture
+INSPECT | Examine the hydrant for damage or leaks
+DRAIN | Opening that empties water from the barrel
+MAIN | Large supply pipe beneath a street
+BARREL | Upright body containing a hydrant's water passage
+LANYARD | Short strap that keeps an outlet cover attached
+NUT | Six-sided fitting turned by a hydrant wrench
+LEAK | Unwanted escape of water from a joint
+FLOWTEST | Check that measures how much water the hydrant can deliver
+
+=== Passport Photo Studio | MEDIUM
+HEADSHOT | Picture showing a person's face and shoulders
+BACKDROP | Plain surface behind the person being photographed
+EXPOSURE | Amount of light recorded by the camera
+FSTOP | Number that indicates the lens opening
+LIGHTING | Arrangement of lamps used to brighten the subject
+LIGHTMETER | Instrument used to measure a scene's light before shooting
+TRIPOD | Three-legged support that steadies a camera
+SHUTTER | Camera part that controls how long light enters
+APERTURE | Adjustable opening that admits light into a lens
+FOCALLENGTH | Setting that affects the lens's magnification and field of view
+BORDER | Edge defining the area captured in a picture
+CROP | Remove unwanted edges from an image
+PIXEL | Small picture element in a digital photograph
+PRINTER | Machine that puts the finished image on paper
+PROOF | Trial print checked before the final photograph
+MATTE | Non-glossy finish that reduces reflections
+GLARE | Harsh reflected light that can obscure facial detail
+FRONTAL | View showing a person's face straight on
+BACKGROUND | Area behind the subject in a photograph
+CATCHLIGHT | Small reflected highlight visible in a subject's eyes
+
+=== Public Speaking Contest | MEDIUM
+ORATOR | Person skilled at giving formal speeches
+PODIUM | Raised stand where a speaker addresses an audience
+AUDIENCE | People gathered to listen
+OPENING | First section designed to introduce a speech
+THESIS | Main claim that a speech seeks to support
+EVIDENCE | Facts or examples used to support an argument
+CADENCE | Pattern of stressed and unstressed speech
+PAUSE | Brief silence used to add emphasis
+GESTURE | Movement of the hands or body while speaking
+EYELEVEL | Height at which a speaker looks toward listeners
+EMPHASIS | Extra stress placed on an important word or idea
+CONCLUSION | Closing section that sums up the main point
+REBUTTAL | Reply that challenges an opposing argument
+TIMER | Device used to track a speaker's allotted minutes
+PROMPT | Topic or question a contestant must address
+PRESENTATION | Manner in which a speech is presented
+ARTICULATE | Speak words clearly
+INFLECTION | Rise or fall in the pitch of a voice
+VOLUME | Loudness of a speaker's voice
+CLARITY | Quality of being easy to understand
+
+=== Timber Sawmill | MEDIUM
+SAWMILL | Building where logs are cut into lumber
+LOG | Trunk section brought in for processing
+DEBARK | Remove the rough outer covering from a trunk
+HEADRIG | Main saw that cuts a log into slabs
+EDGER | Machine that trims rough edges from a board
+RESAW | Saw a thick piece of wood into thinner boards
+KERF | Width of material removed by a saw blade
+LUMBER | Wood prepared for construction and other uses
+VENEER | Thin sheet sliced from a log
+SLAB | Outer piece cut from a log before it is squared
+WOODGRAIN | Direction and pattern of fibres in wood
+BRANCHSCAR | Dense mark where a branch grew from the trunk
+SAWDUST | Fine wood particles produced by cutting
+CHIPPER | Machine that reduces scraps to small pieces
+STACK | Neat pile of boards awaiting storage or drying
+KILN | Heated chamber used to dry cut lumber
+MOISTURE | Water content remaining inside a board
+GRADE | Quality category assigned to a piece of lumber
+PALLET | Low platform used to move stacked boards
+RESIN | Sticky substance naturally produced by some trees
+
+=== Postal Stamp Design | MEDIUM
+ENGRAVER | Artist who cuts a design into a printing plate
+VIGNETTE | Small central picture on a stamp
+DENOMINATION | Face value printed on a stamp
+PERFORATION | Row of tiny holes that helps stamps separate
+GUM | Adhesive coating on the back of a stamp
+PANE | Sheet section holding several stamps
+MARGIN | Blank border around a printed design
+INSCRIPTION | Words printed as part of a stamp's artwork
+COUNTRY | Nation named on a stamp
+SERIES | Group of stamps issued around one subject
+PROOF | Trial print used to check a design
+ENGRAVING | Image cut into a plate for printing
+WATERMARK | Pattern pressed into paper during its manufacture
+OVERPRINT | Extra text or value added to an existing stamp
+COLOURWAY | Particular combination of inks used in a design
+MATRIX | Surface carrying the image for printing
+ISSUE | Set of stamps released for postal use
+PHILATELY | Study and collection of postage stamps
+CANCELLATION | Ink mark showing a letter's mailing location or date
+SETENANT | Two or more stamps printed together without a perforation
+
+=== Podcast Recording Booth | MEDIUM
+HOST | Person who introduces and leads a recorded program
+GUEST | Invited speaker interviewed on a program
+MICROPHONE | Device that converts sound into an electrical signal
+HEADPHONE | Earpiece used to monitor a recording
+POPFILTER | Screen that softens bursts of air from speech
+BOOTH | Small enclosed room used for recording
+ACOUSTIC | Relating to sound and how it behaves in a room
+ABSORBER | Panel that reduces reflected sound
+REFLECTION | Return of sound after it strikes a hard surface
+ECHO | Repeated sound caused by a reflection
+LAYER | Separate recorded stream of audio
+MIX | Balance several audio sources into one program
+GAIN | Amount of amplification applied to a signal
+CLIP | Distortion caused when a signal exceeds its limit
+NOISE | Unwanted sound recorded along with a voice
+EDIT | Remove or rearrange parts of an audio program
+INTRO | Opening segment that identifies the show
+OUTRO | Closing segment at the end of an episode
+EPISODE | One installment of a continuing program
+TRANSCRIPT | Written version of spoken words
+
+=== Open Water Lifeguard | MEDIUM
+LIFEGUARD | Person trained to watch swimmers and respond to danger
+BUOY | Floating marker that can show a safe swimming area
+EXTRACTION | Act of bringing someone out of danger
+SWIMMER | Person moving through water using strokes
+FLOW | Strong movement of water that can carry a swimmer away
+RIPCURRENT | Narrow, powerful flow that can pull swimmers away from shore
+LIFERING | Buoyant circular aid that helps a swimmer stay up
+RESCUEBOARD | Long buoyant board used to reach a person quickly
+FIN | Footwear that increases a swimmer's kick
+WETSUIT | Close-fitting garment that slows heat loss in water
+ALARM | Small device used to give a sharp warning
+CHAIR | Raised seat giving a guard a clear view
+ROSTER | Scheduled change between watching and resting
+SIGHTING | Looking up to check direction while swimming
+SHORELINE | Edge where land meets the water
+FLAG | Colored marker that warns swimmers about conditions
+PATROL | Regular watch along a stretch of water
+DRYINGCLOTH | Cloth used to dry off after leaving the water
+SUNSCREEN | Lotion that helps protect skin from sunlight
+FIRSTAID | Immediate basic care given after an injury
+
+=== Container Terminal Operations | MEDIUM
+CONTAINER | Standard metal box used to move freight
+CRANE | Tall machine that lifts heavy cargo
+GANTRY | Overhead frame supporting a travelling lifting machine
+SPREADER | Frame that locks onto a container's corner fittings
+CHASSIS | Wheeled frame carrying a container on a road
+TIER | Ordered level of freight boxes in the yard
+STORAGE | Open area where containers are stored
+MANIFEST | Record listing cargo carried by a vessel
+TAMPERTAG | Numbered device showing whether a container was opened
+SLOT | Assigned position for one container in the yard
+REEFER | Insulated container with its own cooling unit
+TALLY | Count of cargo units loaded or unloaded
+STOWAGE | Arrangement of freight inside a vessel
+LASHING | Securing cargo so it does not shift
+DOCKSIDE | Area beside a vessel where cargo is handled
+GATEWAY | Controlled entrance to a freight terminal
+WEIGHBRIDGE | Platform that measures a loaded vehicle's weight
+HAULIER | Company or person that carries goods by road
+TRACKING | Following a shipment's location through its journey
+DEMURRAGE | Charge for keeping equipment beyond its free-use period
+
+=== Solar Panel Installation | MEDIUM
+PHOTOVOLTAIC | Relating to making electricity from light
+MODULE | Single packaged unit of solar cells
+ARRAY | Group of panels connected together
+INVERTER | Device that changes panel output into usable alternating current
+ROOFTOP | Area on a building where panels may be mounted
+RACKING | Metal supports holding panels in position
+FLASHING | Weatherproof strip around a roof attachment
+CONDUIT | Protective tube for electrical wires
+JUNCTION | Box where several electrical wires meet
+DISCONNECT | Switch that isolates equipment from its power source
+GROUNDING | Safe connection that carries fault current into earth
+PANELCHAIN | Series of panels wired together
+OBSTRUCTION | Blocking of sunlight by a nearby object
+AZIMUTH | Compass direction that a panel faces
+TILT | Angle at which a panel is set
+INCLINE | Upward slope of a mounted panel
+WATTAGE | Rate at which electrical power is produced
+METER | Instrument that measures electricity use or output
+PANELUNIT | Small converter attached to an individual panel
+SUNLIGHT | Natural light arriving from the Sun
+
+=== Pharmacy Compounding Lab | MEDIUM
+COMPOUND | Prepare a medicine by combining its ingredients
+FORMULA | Exact list of ingredients in a preparation
+INGREDIENT | One substance used to make a medicine
+POWDER | Dry finely ground form of a medicine
+CAPSULE | Small shell containing a measured dose
+OINTMENT | Thick medicine spread on the skin
+CREAM | Soft preparation rubbed onto the body
+SUSPENSION | Liquid with fine particles distributed through it
+ELIXIR | Sweet liquid form used to deliver medicine
+PRESERVATIVE | Ingredient that slows spoilage in a preparation
+MORTAR | Bowl used with a pestle to crush ingredients
+PESTLE | Hand tool used to grind material in a mortar
+SCRAPER | Flat utensil for mixing or transferring a small amount
+BALANCE | Instrument used to weigh ingredients accurately
+MILLILITER | Metric unit used to measure liquid volume
+DECIMAL | Number form used for precise measurements
+DRUGLABEL | Printed information attached to a medicine container
+BEAKER | Straight-sided vessel used to hold or mix liquid
+STIRRER | Tool used to mix a liquid preparation
+STERILE | Free from living microbes
+
+=== Construction Crane Lift Plan | MEDIUM
+CRANE | Machine that raises and moves heavy loads
+BOOM | Long angled arm that supports a lifting line
+JIB | Short arm attached to the end of a crane boom
+HOIST | Device that raises a load with a cable or chain
+SLING | Flexible strap used to lift an object
+SHACKLE | U-shaped metal connector secured by a pin
+RIGGING | Equipment arranged to attach a load to a crane
+BALLAST | Heavy mass that balances the load on a crane
+OUTRIGGER | Extendable support leg that steadies a crane
+LOAD | Object being raised or moved
+LIFTINGLIMIT | Maximum weight a machine can safely lift
+RADIUS | Horizontal distance from the crane's centre to its load
+SIGNALER | Person who guides a crane operator with agreed signs
+SPOTTER | Worker watching for hazards around the lifting area
+TAGLINE | Rope used to control a suspended load
+ELEVATE | Move a load from the ground to a higher point
+OVERHEAD | Describes a load positioned above the work area
+CLEARANCE | Safe space between equipment and an obstruction
+PICKPOINT | Location where rigging attaches to the load
+SETDOWN | Surface where a suspended item is set down
+
+=== Electric Utility Substation | MEDIUM
+SUBSTATION | Facility that changes voltage and routes electric power
+TRANSFORMER | Device that raises or lowers electrical voltage
+BREAKER | Switch that interrupts current during a fault
+BUSBAR | Metal conductor connecting several electrical circuits
+INSULATOR | Material that resists the flow of electric current
+RELAY | Device that detects a fault and commands a breaker
+DISCONNECT | Switch used to isolate a circuit for service
+GROUNDING | Safe path that carries fault current into the earth
+VOLTAGE | Electrical force that drives current through a circuit
+CURRENT | Flow of electric charge
+TRANSMISSION | Network that carries electricity between power sources and users
+OUTGOINGLINE | Line carrying electricity from a substation toward users
+LOAD | Amount of power being used by connected equipment
+FAULT | Unintended electrical path or breakdown
+ARC | Bright discharge jumping through air between conductors
+SURGE | Brief rise in voltage above its usual level
+PROTECTION | Equipment that limits damage during an electrical fault
+CONTROL | System used to operate and monitor equipment
+SWITCHYARD | Outdoor area containing high-voltage switching equipment
+INSPECTION | Careful check for wear, damage, or unsafe conditions

@@ -1,36 +1,42 @@
 {
   "id": "level-163",
-  "title": "Construction Site",
+  "title": "Piggy Bank",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###PLANS#",
-    "####E####",
-    "##H#VEST#",
-    "CRANE#I##",
-    "E#R#L#T##",
-    "M#D##BEAM",
-    "E#H##R###",
-    "N#A##I###",
-    "T#TRUCK##",
-    "#####K###",
-    "#NAILS###"
+    "POCKETMONEY",
+    "I#A##R####A",
+    "GNSS#E##P#W",
+    "G#H#WALLET#",
+    "Y#B##S##N##",
+    "B#OAKUM#N#S",
+    "A#X##R#TILL",
+    "N##R#E##E#O",
+    "KNEE##ONSET",
+    "#U#N##A####",
+    "STATISTICAL"
   ],
   "clues": {
     "across": {
-      "1": "Drawings that guide a building project",
-      "4": "Bright clothing that helps workers be seen",
-      "6": "Tall machine that lifts heavy loads",
-      "7": "Long strong piece that supports a roof",
-      "8": "Vehicle that carries building supplies",
-      "9": "Metal pins used to join wood"
+      "1": "Small amount given to a child to spend",
+      "5": "Satellite-based system for finding precise positions",
+      "7": "Folded case that holds cash and cards",
+      "8": "Fiber used to seal gaps between a ship's planks",
+      "10": "Drawer where a shop keeps cash",
+      "12": "Joint in the middle of your leg",
+      "14": "First recorded moment when a seismic wave reaches a station",
+      "15": "Relating to probability and data"
     },
     "down": {
-      "2": "Tool that checks if a surface is flat",
-      "3": "Protective cap worn at work",
-      "5": "Place where a building is being made",
-      "6": "Powder mixed with water for building",
-      "7": "Blocks used to build a wall"
+      "1": "Small container that stores saved coins",
+      "2": "Small container used to keep money safe",
+      "3": "Valuable things kept for the future",
+      "4": "Rotation that turns a turbine toward the wind",
+      "6": "Copper-coloured coins worth one cent each",
+      "9": "Narrow opening where a coin can be dropped",
+      "11": "Payment made for the use of a home or land",
+      "13": "Six-sided fitting turned by a hydrant wrench",
+      "14": "Grain often mixed into cookie dough"
     }
   },
   "order": 163

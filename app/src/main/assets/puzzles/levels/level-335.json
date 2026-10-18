@@ -1,0 +1,58 @@
+{
+  "id": "level-335",
+  "title": "Fossil Forests",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PETRIFIED#EDDY",
+    "R#O###O####O##",
+    "EARTH#N#HEAT#W",
+    "S#S##F###L###I",
+    "EROSION#TENDON",
+    "R##T#R###G###N",
+    "V##U#ENEMY#A#O",
+    "EXAM#S##I#CLAW",
+    "###P#TRUNK#P##",
+    "##S###E#E##HOP",
+    "F#T###FERN#A#A",
+    "LEAP##I#A##B#R",
+    "A#M###L#LAYER#",
+    "POPSICLE###T##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Turned to stone through mineral replacement",
+      "4": "Swirling motion that stirs gas within a cloud",
+      "6": "Our home planet",
+      "7": "Warmth that helps many seeds grow",
+      "11": "Wearing away of rock or soil",
+      "13": "It ties muscle to bone",
+      "14": "Person or nation opposed to another",
+      "17": "Test at the end of a term",
+      "18": "Curved nail on a cat's toe",
+      "19": "Main woody stem of a tree",
+      "22": "Move with short jumps",
+      "25": "Plant with divided fronds",
+      "26": "Jump high into the air",
+      "27": "One sheet of material in a sequence",
+      "28": "Frozen snack held by a wooden stick"
+    },
+    "down": {
+      "1": "Keep safe from decay or damage",
+      "2": "Trunk of a body without the head or limbs",
+      "3": "Atom or molecule carrying an electric charge",
+      "5": "Tiny round mark",
+      "8": "Poem of mourning or serious reflection",
+      "9": "Remove the papery husk from roasted pieces",
+      "10": "Large area dominated by trees",
+      "12": "Base left after a tree is cut or broken",
+      "15": "Naturally occurring solid substance",
+      "16": "Ordered set of symbols used to write a language",
+      "20": "Add more water to an empty container",
+      "21": "Mark showing when a book is due",
+      "23": "Expected number of strokes for a hole",
+      "24": "Hinged panel that closes a travel crate"
+    }
+  },
+  "order": 335
+}

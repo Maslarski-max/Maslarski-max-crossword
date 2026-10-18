@@ -1,43 +1,35 @@
 {
   "id": "level-096",
-  "title": "Exploration History",
+  "title": "Seedling Nursery",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "###COOK########",
-    "###A###########",
-    "###R#####P#####",
-    "#S#ARMSTRONG###",
-    "#H#V#####L#####",
-    "#A#E#A###O#####",
-    "#COLUMBUS#F####",
-    "#K###U####R###S",
-    "#L###N##H#O###E",
-    "#EXPEDITION###X",
-    "#T###S##L#T#A#T",
-    "VOYAGE##L#I#T#A",
-    "#N###N#MAGELLAN",
-    "########R#R#A#T",
-    "########Y###S##"
+    "SUNLIGHT#",
+    "E###N##R#",
+    "E##SKYMAP",
+    "D##T###Y#",
+    "LABEL#E#S",
+    "I##M##LAP",
+    "N#B###I#I",
+    "GROUNDS#L",
+    "##G###A#L"
   ],
   "clues": {
     "across": {
-      "1": "Captain who charted New Zealand",
-      "4": "First man on the Moon",
-      "6": "Sailed in 1492",
-      "10": "Organised journey of discovery",
-      "12": "Long journey by sea",
-      "13": "His expedition first circled the globe"
+      "1": "Light that reaches Earth from the sun",
+      "4": "Chart used to identify stars and constellations",
+      "5": "Tag showing a plant's name",
+      "8": "Take liquid into the mouth with the tongue",
+      "10": "Used coffee particles left after brewing"
     },
     "down": {
-      "1": "Small Portuguese sailing ship",
-      "2": "Venetian who travelled to China",
-      "3": "Leader of the Endurance expedition",
-      "5": "First to reach the South Pole",
-      "7": "Edge of settled land",
-      "8": "Navigator's angle tool",
-      "9": "First up Everest with Tenzing",
-      "11": "Book of maps"
+      "1": "Young plant grown from a seed",
+      "2": "Liquid used for writing or drawing",
+      "3": "Flat container holding several small pots",
+      "4": "Upright plant part holding leaves",
+      "6": "Plate-based test that can detect antibodies or antigens",
+      "7": "Small amount of liquid dropped on fabric",
+      "9": "Acidic wetland that accumulates peat"
     }
   },
   "order": 96

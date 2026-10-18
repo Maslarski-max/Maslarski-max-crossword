@@ -1,34 +1,47 @@
 {
   "id": "level-218",
-  "title": "At the Laundromat",
+  "title": "Garden Scarecrow",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "##T#SOCK###",
-    "#SOAP#O####",
-    "##W#I#I####",
-    "##E#N#N#B#S",
-    "FOLD###WASH",
-    "###R####S#I",
-    "###Y####K#R",
-    "##DETERGENT",
-    "###R####T##"
+    "POLE###H####",
+    "I#E#AGGER###",
+    "TRAY#R#M#P##",
+    "C#D#HAY#CALF",
+    "H##S#I#D#T#L",
+    "FASTENER#C#U",
+    "O##U###Y#HAT",
+    "ROOF#YOGA##T",
+    "K##F###R###E",
+    "#FLIP#FARMER",
+    "###N###S####",
+    "#PAGES#SACK#"
   ],
   "clues": {
     "across": {
-      "2": "Garment worn on a foot",
-      "4": "Cleaner that makes bubbles",
-      "7": "Bend cloth over itself",
-      "9": "Clean clothes with water",
-      "10": "Cleaning powder or liquid for clothes"
+      "1": "Long upright support fixed in the ground",
+      "4": "Raised earth bank built by Roman engineers",
+      "6": "Flat container holding several small pots",
+      "8": "Dried grass used for animal feed",
+      "9": "Young whale or dolphin",
+      "13": "Small closure attached to clothing",
+      "14": "Head covering with a brim or crown",
+      "15": "Top that shelters the space below",
+      "16": "Stretching practice",
+      "17": "Rotation that carries the rider head over heels",
+      "18": "Person who grows crops or raises animals",
+      "19": "Sheets printed or written in a book",
+      "20": "Large cloth bag used to form a figure's head"
     },
     "down": {
-      "1": "Cloth used to dry the body",
-      "2": "Turn quickly around an axis",
-      "3": "Small metal money used to start a machine",
-      "5": "Container for carrying laundry",
-      "6": "Garment covering the upper body",
-      "8": "Machine that removes water from clothes"
+      "1": "Farm tool with long sharp tines",
+      "2": "Narrow lane of open water through sea ice",
+      "3": "Folded edge stitched at the bottom",
+      "5": "Seed harvested from cereal plants",
+      "7": "Piece of cloth sewn over a worn place",
+      "10": "Move lightly back and forth in a breeze",
+      "11": "Material packed inside a soft figure",
+      "12": "Dried stalks left after grain is harvested"
     }
   },
   "order": 218

@@ -1,36 +1,37 @@
 {
   "id": "level-109",
-  "title": "Zoo Visit",
+  "title": "Hairbrush Kit",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "H#L########",
-    "I#I###M###T",
-    "P#O###OWL#I",
-    "PENGUIN###G",
-    "O##I##K###E",
-    "#Z#R#KEEPER",
-    "#E#A##Y#A##",
-    "#B#F####N##",
-    "#R#F####D##",
-    "CAMEL#SEAL#"
+    "BARRETTE##",
+    "O#I####L##",
+    "BABY#D#A##",
+    "B#B#BRUSH#",
+    "Y#O##Y#T##",
+    "P#N##EPIC#",
+    "I##I#R#C#T",
+    "NOTCH#M##R",
+    "###O##R##I",
+    "GRANDPIANO"
   ],
   "clues": {
     "across": {
-      "5": "Night bird that hoots",
-      "6": "Bird in a tuxedo that cannot fly",
-      "9": "Person who feeds the zoo animals",
-      "11": "Desert animal with humps",
-      "12": "Flippered animal that claps"
+      "1": "Clasp used to hold hair in place",
+      "4": "Very young human or animal",
+      "6": "Handheld tool with rows of stiff fibers",
+      "7": "Long poem about heroic deeds",
+      "10": "Small mark used to match sewing pieces",
+      "12": "Large piano with a horizontal frame"
     },
     "down": {
-      "1": "Huge river animal with a wide mouth",
-      "2": "King of the jungle",
-      "3": "Banana-loving climber",
-      "4": "Big cat with orange stripes",
-      "7": "Tallest animal on land",
-      "8": "Striped horse of Africa",
-      "10": "Black-and-white bamboo eater"
+      "1": "Small metal clip with wavy sides",
+      "2": "Narrow strip tied into a hair bow",
+      "3": "Stretchy band used to tie a ponytail",
+      "5": "Electric tool that blows warm air",
+      "8": "Painted devotional image",
+      "9": "Ensemble of three performers or voices",
+      "11": "Imaging method using magnets and radio waves"
     }
   },
   "order": 109

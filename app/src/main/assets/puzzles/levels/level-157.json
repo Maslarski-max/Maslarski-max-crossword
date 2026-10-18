@@ -1,40 +1,42 @@
 {
   "id": "level-157",
-  "title": "Cartography",
+  "title": "Hot Chocolate",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "########M#A####",
-    "####PROJECTION#",
-    "########R#L####",
-    "########C#A#T#L",
-    "####COMPASSROSE",
-    "########T###P#G",
-    "##S#I###O#GLOBE",
-    "##CONTOUR###G#N",
-    "##A#S######GRID",
-    "RELIEF######A##",
-    "##E#T#######P##",
-    "############H##",
-    "#######SURVEYOR"
+    "M######POP#",
+    "A#KETTLE##C",
+    "R###H##NERO",
+    "SAUCEPAN##A",
+    "H###R##Y##S",
+    "MIX#MUG###T",
+    "A#E#O#R#F#E",
+    "L#N#STIRRER",
+    "LOOP##P#O##",
+    "O#N#####TOF",
+    "W##WARMTH##"
   ],
   "clues": {
     "across": {
-      "3": "Way of flattening the globe",
-      "6": "Direction star on a map",
-      "9": "Spherical map",
-      "10": "Line joining equal heights",
-      "11": "Squares for references",
-      "12": "Shading of hills",
-      "13": "Measurer of land"
+      "2": "Burst suddenly with a short sound",
+      "3": "Appliance that heats water",
+      "6": "Emperor said to fiddle while Rome burned",
+      "7": "Small pot used to heat milk",
+      "8": "Combine ingredients by moving a utensil around",
+      "10": "Large cup with a handle",
+      "13": "Small utensil used to mix a warm drink",
+      "14": "Aerial manoeuvre that takes the plane over the top",
+      "15": "Analyzer that separates ions by travel time",
+      "16": "Gentle heat on a cold day"
     },
     "down": {
-      "1": "Famous projection with big poles",
-      "2": "Book of maps",
-      "4": "Shape of the land",
-      "5": "Key to map symbols",
-      "7": "Ratio of map to ground",
-      "8": "Small extra map in a corner"
+      "1": "Soft sweet often floated on a warm drink",
+      "2": "One-cent coin used in the United States",
+      "4": "Insulated container that keeps a drink warm",
+      "5": "Small mat that protects a table from a mug",
+      "9": "Gas used in a powerful projection lamp",
+      "11": "Part held firmly while lifting a container",
+      "12": "Bubbly layer formed on a warm drink"
     }
   },
   "order": 157

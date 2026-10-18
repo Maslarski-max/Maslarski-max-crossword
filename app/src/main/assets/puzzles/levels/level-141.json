@@ -1,34 +1,39 @@
 {
   "id": "level-141",
-  "title": "Shopping Mall",
+  "title": "Plant Watering Can",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "###C#######",
-    "##LIFT#####",
-    "#T#N#######",
-    "MONEY##SHOP",
-    "#Y#M#B#H##R",
-    "ESCALATOR#I",
-    "##A##G#E##C",
-    "##F####SALE",
-    "##E########"
+    "ROUNDABOUT",
+    "A###O##N#O",
+    "INLET##S#P",
+    "N####RYE#O",
+    "BATIK##T#L",
+    "A#R##D###O",
+    "ROOT#W#P#G",
+    "R#W#RATIFY",
+    "EYE##R#T##",
+    "L#LEAF####"
   ],
   "clues": {
     "across": {
-      "2": "It goes up and down floors",
-      "4": "What you pay with",
-      "5": "Place that sells things",
-      "8": "Moving staircase",
-      "10": "Time of cheap prices"
+      "1": "Circular junction where vehicles move around a centre",
+      "5": "Opening that lets street water enter a drain",
+      "6": "Dark grain for bread",
+      "7": "Cloth decorated by resisting dye with wax",
+      "10": "Part that takes in water from the ground",
+      "12": "Formally approve an agreement or amendment",
+      "13": "Organ that detects light and forms a visual signal",
+      "14": "Flat green part that catches sunlight"
     },
     "down": {
-      "1": "Place to watch films",
-      "3": "Things children play with",
-      "5": "Footwear store item",
-      "6": "Cost on the label",
-      "7": "Carry your buys in it",
-      "9": "Place for a coffee break"
+      "1": "Container that stores water collected outdoors",
+      "2": "Tiny round mark",
+      "3": "First recorded moment when a seismic wave reaches a station",
+      "4": "Pattern of branching relationships in a tree",
+      "8": "Small hand tool for moving soil",
+      "9": "Very small rabbit breed type",
+      "11": "Sunken area where the orchestra plays"
     }
   },
   "order": 141

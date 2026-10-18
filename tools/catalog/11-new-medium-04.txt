@@ -1,0 +1,439 @@
+=== Cell Tower Network | MEDIUM
+CELLTOWER | Structure carrying aerials for mobile-phone service
+HANDOFF | Transfer of an active call between nearby sites
+ROAMING | Using a mobile service outside its home network
+COVERAGE | Area where a network signal can be received
+BASESTATION | Radio equipment serving a local group of phones
+UPLINK | Signal sent from a phone toward the network
+DOWNLINK | Signal sent from a network site to a phone
+BANDWIDTH | Range of frequencies available for communication
+MICROCELL | Small radio site serving a limited urban area
+PICOCELL | Very small site used inside a building
+SECTOR | Directional portion of a site’s service area
+LATENCY | Delay between sending and receiving information
+REPEATER | Device that receives and retransmits a weak signal
+SIMCARD | Removable chip identifying a phone on a network
+CELLULAR | System dividing a region into radio service areas
+BACKHAUL | Link carrying site traffic toward the core network
+RADIOARRAY | Set of aerials arranged to serve a mobile site
+TRANSMITTER | Equipment that sends a radio signal
+CELLID | Code identifying one radio coverage area
+PAGING | Network alert that locates a phone for an incoming call
+
+=== Theatre Sound Mixing | MEDIUM
+CONSOLE | Desk of controls used to balance stage sound
+SLIDER | Sliding control that changes one channel's level
+GAIN | Input adjustment that sets a microphone's signal strength
+BUS | Shared path carrying several audio channels
+AUXILIARY | Extra console output used for a separate mix
+MONITOR | Speaker that lets performers hear themselves
+FOLDBACK | Sound sent from the stage mix back to performers
+STAGEBOX | Unit connecting stage microphones to the mixing desk
+PATCHBAY | Panel where audio routes can be connected
+EQUALIZER | Control that boosts or reduces selected frequencies
+COMPRESSOR | Device that reduces excessive changes in loudness
+GATE | Processor that lowers sound below a set level
+REVERB | Effect that adds the feel of a reflective room
+FEEDBACK | Whistle caused when a microphone picks up its own speaker
+PREFADER | Taken from a channel before its level control
+POSTFADER | Taken from a channel after its level control
+PANPOT | Control that moves a sound across the stereo field
+CHANNELSTRIP | Row of controls for one input on a mixing desk
+SCENE | Saved group of console settings for one stage moment
+SOUNDCHECK | Test used to balance microphones before a performance
+
+=== Chess Tournament | MEDIUM
+CASTLING | King and rook move together in a special turn
+ENPASSANT | Pawn capture allowed immediately after a double step
+GAMBIT | Opening that offers material for a positional gain
+STALEMATE | Draw when a player has no legal move but is not checked
+CHECKMATE | Attack from which the king cannot escape
+DOUBLEATTACK | Move threatening two or more pieces at once
+PIN | Attack that makes a piece unable to move safely
+SKEWER | Attack that drives a valuable piece away from a line
+PROMOTION | Pawn reaching the far side becomes a stronger piece
+TEMPO | Gain of time used to develop pieces or seize initiative
+ENDGAME | Final phase with few pieces left on the board
+OPENING | Early moves that develop pieces and control the centre
+NOTATION | Written system for recording moves in a game
+TIEBREAK | Extra method used to rank players on equal scores
+PAIRING | Assignment of opponents for a tournament round
+BLITZ | Fast chess played with only a few minutes each
+RAPID | Chess played with a short but longer clock than blitz
+CLOCK | Device measuring each player's remaining thinking time
+RATING | Number used to estimate a player's playing strength
+ARBITER | Official who enforces rules during a chess event
+
+=== Marine Navigation Lights | MEDIUM
+PORTSIDE | Left side of a vessel when facing its bow
+STARBOARD | Right side of a vessel when facing its bow
+MASTHEAD | White light carried high near the front of a vessel
+SIDELIGHT | Coloured lamp showing a vessel's direction
+STERNLIGHT | White light visible from the back of a vessel
+ALLROUND | Light visible through a full circle
+SECTOR | Part of the sea marked by a light's colour
+RANGE | Distance at which a light can be seen
+FLASHING | Repeatedly turning a navigation light on and off
+OCCULTING | Light pattern with longer bright periods than dark ones
+ISOPHASE | Light pattern with equal bright and dark intervals
+GROUPFLASH | Repeating sequence of several quick flashes
+DAYMARK | Painted structure that identifies a beacon in daylight
+LIGHTSHIP | Vessel carrying a navigation light offshore
+BEACON | Fixed signal light marking a route or hazard
+BUOY | Floating marker showing a channel or obstruction
+FAIRWAY | Main clear passage through a harbour or channel
+SEAWARD | Directed toward the open sea
+LANDWARD | Directed toward the shore
+LIGHTLIST | Official record describing navigation lights
+
+=== Civil Aviation Weather | MEDIUM
+METAR | Routine coded report of current airport weather
+TAF | Coded forecast issued for an airport
+CEILING | Height of the lowest broken or overcast cloud layer
+VISIBILITY | Distance at which a pilot can see objects clearly
+DEWPOINT | Temperature at which air becomes saturated with moisture
+CROSSWIND | Wind blowing across an aircraft's direction of travel
+HEADWIND | Wind blowing toward the front of an aircraft
+TAILWIND | Wind blowing in the same direction as an aircraft
+WINDSHEAR | Sudden change in wind speed or direction
+AIRFRAMEICE | Ice forming on an aircraft during flight
+TURBULENCE | Irregular air motion that shakes an aircraft
+ALTIMETER | Instrument showing an aircraft's height
+BAROMETER | Instrument used to measure air pressure
+RUNWAY | Long paved strip used for takeoffs and landings
+VISUAL | Flight conducted with outside references in clear conditions
+INSTRUMENT | Flight guided by onboard readings and procedures
+TEMPERATURE | Measure of how hot or cold the air is
+FOG | Cloud near the ground that reduces visibility
+GUST | Brief increase in wind speed
+OUTLOOK | Prediction of weather expected later
+
+=== River Flood Forecast | MEDIUM
+HYDROGRAPH | Graph showing river flow or water level over time
+GAUGE | Instrument that records a river's height
+CREST | Highest point reached by a flood wave
+STAGE | Measured height of a river at a gauge
+RUNOFF | Water flowing over land into a stream
+WATERSHED | Land area draining toward a common river outlet
+DISCHARGE | Volume of water flowing past a point each second
+FLOODWAVE | Rising surge of water moving down a river
+RAINWATER | Water collected after a storm
+SNOWMELT | Water released as a snowpack warms
+RIVERBASIN | Region drained by a river and its tributaries
+RAINFALL | Water measured as it falls from clouds
+WARNING | Official notice that dangerous high water is expected
+EVACUATION | Organized move away from a threatened area
+LEVEE | Raised embankment built to keep floodwater back
+INUNDATION | Covering of normally dry land with water
+RIVEROUTLOOK | Prediction of future river conditions
+FLOODPLAIN | Low flat ground beside a river
+RESERVOIR | Stored water body that can reduce downstream flow
+HYDROLOGY | Study of water and its movement on Earth
+
+=== Insect Museum | MEDIUM
+ENTOMOLOGY | Scientific study of insects
+PINNING | Fixing a specimen with a fine metal point
+SPECIMEN | Individual animal kept for study or display
+THORAX | Middle body region bearing an insect's legs
+ABDOMEN | Rear body region behind an insect's thorax
+FEELER | Paired appendage on an insect's head used to sense surroundings
+ELYTRON | Hardened forewing covering a beetle's hindwing
+LARVA | Immature stage that looks different from the adult
+PUPA | Resting stage between larva and adult
+IMAGO | Fully developed adult insect
+EXOSKELETON | Hard outer covering that supports an insect's body
+MOUNTING | Attaching a specimen to a display support
+COLLECTION | Group of preserved specimens gathered for study
+ACCESSION | Catalog number assigned to an individual specimen
+TAXONOMY | System for naming and grouping living things
+WINGCASE | Hardened cover protecting a beetle's flight wing
+PROBOSCIS | Long feeding tube used by some insects
+COMPOUND | Type of eye made from many small visual units
+LEPIDOPTERA | Insect order that includes butterflies and moths
+COLEOPTERA | Insect order that includes beetles
+
+=== Renewable Wind Farm | MEDIUM
+NACELLE | Housing that sits atop a turbine tower
+HUB | Central part joining a turbine's blades
+PITCH | Angle of a turbine blade relative to the wind
+YAW | Rotation that turns a turbine toward the wind
+GEARBOX | Assembly that increases the rotor's turning speed
+ANEMOMETER | Instrument that measures wind speed
+WINDWARD | Facing the direction from which wind is blowing
+LEEWARD | Facing away from the wind
+ROTOR | Turning assembly made of a hub and blades
+BLADES | Airfoils that capture energy from moving air
+MAST | Tall steel support carrying a turbine's nacelle and rotor
+GENERATOR | Machine that changes motion into electricity
+SUBSTATION | Facility that adjusts voltage before power is sent onward
+GRIDLINE | Line carrying electricity from a site toward the grid
+WAKE | Slower, turbulent air behind a turbine
+CURTAILMENT | Deliberate reduction of turbine output
+FOOTING | Base transferring the structure's load into the ground
+OFFSHORE | Located at sea, away from the coast
+ONSHORE | Located on land rather than at sea
+CAPACITY | Maximum electrical output a plant is designed to deliver
+
+=== Alpine Ski Racing | MEDIUM
+SKICROSS | Race in which several skiers descend the same course
+GIANTSLALOM | Event with wider turns than the standard slalom
+DOWNHILL | Fast race following a long marked mountain route
+SUPERG | Speed event combining turns and long glides
+COURSEFLAG | Marker that shows a required passage on the route
+SKIPASS | Ticket allowing access to ski lifts
+EDGECONTROL | Skill of setting a ski on its side to turn
+CARVING | Turning on the curved edge of a ski
+BINDING | Device that attaches a boot to a ski
+BOOTCANT | Side-to-side angle built into a ski boot setup
+RACEBIB | Numbered cloth worn by a competitor
+STARTGATE | Barrier released to begin a timed run
+FINISHLINE | Mark where a timed run ends
+COURSESETTER | Person who chooses the route and gate positions
+SPLITTIME | Elapsed time recorded at an intermediate point
+SKIPOLE | Long hand-held shaft used for balance and push-off
+TUCK | Low aerodynamic posture used on a fast descent
+GROOMER | Machine that smooths snow on a ski trail
+CARABINER | Metal clip used to connect a safety rope
+PENALTY | Added time or sanction for breaking a race rule
+
+=== Medical Imaging | MEDIUM
+RADIOGRAPH | Image made by passing X-rays through the body
+CONTRAST | Substance that makes selected tissues easier to see
+ULTRASOUND | Picture made from echoes of high-frequency sound
+SONOGRAM | Image produced during an ultrasound examination
+TOMOGRAPHY | Imaging that builds views from sections through the body
+SCANNER | Machine that records images inside a patient's body
+MAGNETIC | Relating to the field used in an MRI examination
+MRI | Imaging method using magnets and radio waves
+FLUOROSCOPY | Moving X-ray view used to watch internal motion
+MAMMOGRAM | X-ray image used to examine breast tissue
+ANGIOGRAM | Image showing blood vessels after contrast is added
+RADIOLOGY | Medical field that interprets diagnostic images
+DETECTOR | Part of an imaging machine that receives a signal
+DOSE | Amount of radiation used during an examination
+SHIELDING | Protective material that blocks unwanted radiation
+ARTIFACT | False feature introduced into a medical image
+RESOLUTION | Amount of fine detail visible in a picture
+PIXEL | Smallest addressable element in a digital image
+SLICE | Single cross-sectional view through scanned tissue
+CALIBRATION | Adjustment that keeps an imaging system accurate
+
+=== Greenhouse Climate Control | MEDIUM
+THERMOSTAT | Control that switches heating around a chosen temperature
+VENTILATION | Exchange of indoor air with outside air
+LOUVER | Adjustable panel that directs incoming air
+SHADECURTAIN | Screen that limits strong sunlight inside a glasshouse
+MISTING | Fine spray used to raise humidity
+HUMIDITY | Amount of water vapour in the air
+THERMOMETER | Instrument that measures air temperature
+HYGROMETER | Instrument that measures moisture in the air
+FANJET | Directed stream of air from a circulation fan
+EXHAUST | Air drawn out of a growing house
+HEATER | Device that warms the indoor growing space
+BOILER | Vessel that heats water for a greenhouse system
+IRRIGATION | Supplying water to plants under cover
+DRIPLINE | Tube delivering water beside a plant's roots
+DAYLENGTH | Number of light hours received in one day
+PHOTOPERIOD | Pattern of light and dark that affects plant growth
+ENRICHMENT | Increasing a growing space's carbon dioxide level
+CONTROLLER | Unit that adjusts climate equipment automatically
+GREENHOUSE | Structure with transparent walls for growing plants
+MICROCLIMATE | Local air conditions within a small growing area
+
+=== Horse Stable Management | MEDIUM
+STALLION | Adult male horse used for breeding
+MARE | Adult female horse
+GELDING | Male horse that has been castrated
+FOAL | Young horse in its first year
+HALTER | Headgear used to lead or tie a horse
+MUCKING | Cleaning used bedding and manure from a stall
+BEDDING | Straw or shavings placed on a stall floor
+HAYRACK | Frame that holds feed off the ground
+GROOMING | Brushing and cleaning a horse's coat
+CURRYCOMB | Grooming tool used in a circular motion
+HOOFPICK | Tool that removes debris from a hoof
+FARRIER | Specialist who trims hooves and fits horseshoes
+TACKROOM | Place where saddles and bridles are stored
+LUNGE | Exercise a horse by moving it on a long line
+COOLER | Light cover used to help a horse cool after exercise
+WATERBUCKET | Container filled for a horse to drink
+FEEDBIN | Box holding measured grain or pellets
+MANE | Long hair along the top of a horse's neck
+GIRTH | Strap securing a saddle beneath the horse
+LEADROPE | Line attached to a halter for guiding a horse
+
+=== Space Weather Forecast | MEDIUM
+SOLARWIND | Stream of charged particles flowing from the sun
+SUNSPOT | Dark cooler patch on the sun's visible surface
+SOLARFLARE | Sudden burst of energy from the sun's atmosphere
+CORONAL | Relating to the sun's outer atmosphere
+MAGNETOPAUSE | Boundary between Earth's magnetic field and solar wind
+AURORA | Colourful glow produced high in a planet's atmosphere
+GEOMAGNETIC | Relating to a planet's magnetic field
+PROTON | Positively charged particle from the solar environment
+PLASMA | Gas of charged particles
+EJECTA | Material thrown outward during a solar eruption
+CORONAGRAPH | Instrument that blocks the sun's bright disk
+HELIOPHYSICS | Study of the sun and its influence through space
+RADIOBURST | Sudden increase in radio emission from the sun
+IONOSPHERE | Upper atmospheric layer containing charged particles
+SUBSTORM | Brief disturbance in a planet's magnetic environment
+SPACECRAFT | Vehicle designed to travel beyond Earth's atmosphere
+RADIATION | Energy carried by particles or electromagnetic waves
+SATELLITE | Object placed in orbit to collect or relay information
+SPACEOUTLOOK | Prediction of conditions expected later
+CHARGED | Carrying a positive or negative electric property
+
+=== City Waste Recycling | MEDIUM
+SORTING | Separating discarded materials by type
+DIGESTATE | Residue from organic waste processing used to enrich soil
+LANDFILL | Site where rubbish is buried under layers of earth
+TRANSFER | Movement of collected waste to a larger facility
+RECYCLING | Processing used material so it can be made into products
+MATERIAL | Substance recovered for another use
+DROPPOINT | Local site where sorted items are collected
+COMPACTOR | Machine that presses rubbish into a smaller volume
+BALE | Compressed bundle of paper, plastic, or metal
+SHREDDER | Machine that cuts material into small pieces
+MULCH | Layer of plant matter spread over soil
+BIOGAS | Fuel gas produced as organic waste breaks down
+ANAEROBIC | Occurring without oxygen, as in some digesters
+REUSE | Use an object again instead of throwing it away
+SALVAGE | Recover useful items from unwanted material
+HAULER | Company that transports collected rubbish
+INCINERATOR | Furnace that burns refuse under controlled conditions
+SORTLINE | Moving belt where recyclable items are separated
+COMPOSTER | Vessel or site where food scraps turn into soil material
+ECOFEE | Charge used to fund waste handling and recovery
+
+=== Earthquake Monitoring | MEDIUM
+SEISMOMETER | Instrument that records ground motion
+SEISMOGRAPH | Device that makes a written or digital quake trace
+EPICENTRE | Surface point above an earthquake's origin
+HYPOCENTRE | Point underground where a quake begins
+FAULT | Fracture in rock along which movement occurs
+AFTERSHOCK | Smaller quake following a larger event
+FORESHOCK | Smaller quake that occurs before a larger event
+MAGNITUDE | Number describing the size of an earthquake
+INTENSITY | Measure of shaking and damage at a location
+SHEARWAVE | Seismic wave that moves rock side to side
+PWAVE | Fastest seismic wave, travelling through solids and liquids
+SURFACEWAVE | Wave that travels along the outer layer of the ground
+STRONGMOTION | Sensor type that measures intense ground shaking
+LOCALIZATION | Finding an event's position from several station readings
+SEISMICITY | Frequency and distribution of earthquakes in a region
+TREMOR | Small or weak shaking of the ground
+PICKING | Marking the arrival time of a wave on a trace
+WAVEFORM | Recorded shape of ground movement over time
+NETWORK | Connected group of monitoring stations
+AFTERSLIP | Slow fault movement that follows a major earthquake
+
+=== Olive Oil Production | MEDIUM
+OLIVE | Small fruit pressed to produce cooking oil
+ORCHARD | Field planted with trees that bear olives
+HARVEST | Gathering fruit when it is ready to be pressed
+MILLSTONE | Heavy wheel that crushes fruit into a paste
+MALAXATION | Slow stirring that gathers tiny oil droplets together
+CENTRIFUGE | Spinning machine that separates oil from water and solids
+PRESSCAKE | Solid material left after oil has been pressed out
+POMACE | Pulp and skins remaining after the first pressing
+DECANTER | Vessel used to separate oil from settled liquid
+FILTER | Material that removes fine particles from fresh oil
+ACIDITY | Chemical measure used to classify some olive oils
+VIRGIN | Oil produced without chemical refining
+EXTRACTION | Process of separating oil from crushed fruit
+MONOVARIETAL | Made from one olive variety
+BLEND | Mix of oils from different varieties or harvests
+ARBEQUINA | Small Spanish olive variety used for oil
+PICUAL | Spanish olive variety known for a robust flavour
+TASTING | Judging an oil's aroma and flavour
+PICKDATE | Day the fruit was gathered from the trees
+OLEIC | Relating to the main fatty acid in olive oil
+
+=== Crop Rotation Planning | MEDIUM
+LEGUME | Crop that can add nitrogen to soil with root bacteria
+FALLOW | Field left uncropped for a period
+COVERCROP | Plant grown mainly to protect or enrich the soil
+ROTATION | Planned sequence of crops on the same field
+MONOCULTURE | Growing a single crop repeatedly on the same land
+INTERCROP | Growing two or more crops together in one field
+GREENMANURE | Crop grown and turned into soil for fertility
+NITROGEN | Plant nutrient needed for healthy leaf growth
+PHOSPHORUS | Nutrient important for roots and seed formation
+POTASH | Fertilizer material rich in potassium
+RESIDUE | Plant material left after a crop is harvested
+ROOTCROP | Crop grown mainly for its edible underground part
+CEREAL | Grain crop such as wheat or barley
+BRASSICA | Plant family including cabbage and mustard crops
+PULSE | Dry edible seed from a legume crop
+PESTCYCLE | Repeating life pattern of an agricultural pest
+BREAKCROP | Crop inserted to interrupt a pest or disease cycle
+SOILTEST | Analysis showing nutrient levels and soil conditions
+NUTRIENT | Substance required for plant growth
+PLANNING | Choosing which crop follows another in a field
+
+=== Water Treatment Plant | MEDIUM
+COAGULANT | Chemical added to make fine particles clump together
+FLOCCULATION | Clumping of small particles into larger removable masses
+CLARIFIER | Tank where suspended matter settles out of water
+PARTICULATE | Fine material that sinks to the bottom of a basin
+TURBIDITY | Cloudiness caused by particles suspended in water
+AERATION | Mixing air into water to improve its quality
+CHLORINATION | Adding chlorine to destroy harmful microorganisms
+FLUORIDATION | Adjusting water with fluoride to help protect teeth
+DISINFECTION | Treatment that reduces disease-causing organisms
+FILTRATION | Passing water through a material that traps particles
+BACKWASH | Reverse flow used to clean a filter bed
+RESIDUAL | Small amount of disinfectant remaining after treatment
+POTABLE | Safe to drink
+OZONE | Reactive gas used to disinfect water
+UVLAMP | Source of ultraviolet light used to treat flowing water
+SCREENING | Removing large objects with a mesh barrier
+SLUDGE | Settled waste material removed from a treatment basin
+INTAKE | Structure that draws raw water into a plant
+COLIFORM | Bacteria group tested for in drinking water
+DECANTER | Vessel that separates liquid from settled solids
+
+=== Hydroponic Garden | MEDIUM
+GROWBED | Tray or channel where plants are supported
+NUTRIENTFILM | Thin stream of fertilized water flowing past roots
+RESERVOIR | Tank that stores nutrient solution for the plants
+ROOTZONE | Soil-free area where a plant's roots take in water
+PERLITE | Lightweight white mineral used in a growing mix
+VERMICULITE | Expanded mineral used to hold water near roots
+CLAYPEBBLE | Porous ball that supports roots in a net pot
+WICK | Strip that draws liquid toward a plant's roots
+DRAIN | Opening that lets excess solution leave a growing tray
+RAFT | Floating board that holds plants above a nutrient bath
+AEROPONIC | Growing method that sprays roots with a fine mist
+ECMETER | Instrument that measures a solution's electrical conductivity
+AIRPUMP | Small motor that pushes air into a reservoir
+NETPOT | Perforated holder that supports a plant above water
+GROWLIGHT | Lamp used to replace or extend natural sunlight
+SUBSTRATE | Material that supports roots without acting as soil
+OXYGEN | Gas supplied to keep submerged roots healthy
+HYDROPONIC | Grown with mineral nutrients in water rather than soil
+DOSING | Adding a measured amount of nutrient solution
+ROOTMAT | Fibrous pad that supports a young plant's roots
+
+=== Urban Traffic Flow | MEDIUM
+TRAFFICFLOW | Movement of vehicles along a street network
+ROUNDABOUT | Circular junction where vehicles move around a centre
+MERGE | Joining of two lanes into one
+WEAVE | Crossing movement where entering and exiting streams overlap
+QUEUE | Line of vehicles waiting to move
+BOTTLENECK | Narrow point that limits the flow of traffic
+THROUGHPUT | Maximum number of vehicles a road can carry
+LOOPCOIL | Wire sensor buried in a road to detect vehicles
+PEAKHOUR | Busiest part of the daily travel period
+GREENWAVE | Timed signals that let traffic progress through several junctions
+BUSPRIORITY | Signal timing that helps transit vehicles move first
+LANE | Marked strip carrying one line of traffic
+SLIPROAD | Sloped road connecting streets at different heights
+UNDERPASS | Route passing beneath another road or railway
+SYNCHRONIZE | Set nearby traffic signals to work in a coordinated rhythm
+CORRIDOR | Connected route carrying traffic through a city
+TRAVELTIME | Duration needed to reach a destination
+CONGESTION | Heavy traffic that slows movement
+DETECTOR | Device that senses vehicles approaching an intersection
+SIGNALPHASE | One part of a traffic light's repeating sequence

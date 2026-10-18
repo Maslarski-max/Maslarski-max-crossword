@@ -1,35 +1,37 @@
 {
   "id": "level-111",
-  "title": "Rainbow Colours",
+  "title": "Baby Stroller",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "P#R#R######",
-    "R#A#E######",
-    "I#INDIGO###",
-    "SUN###R#B##",
-    "M##V#YELLOW",
-    "###I##E#U##",
-    "###ORANGE##",
-    "###L#R#####",
-    "###E#C#####",
-    "###T#######"
+    "PACIFIER#S",
+    "R#A#O##ASH",
+    "A#R#O##K#I",
+    "M#RATTLE#P",
+    "##I#R####W",
+    "DIAPER#BUR",
+    "R#G#S####I",
+    "E#E#TOY##G",
+    "A########H",
+    "MOUTHCHART"
   ],
   "clues": {
     "across": {
-      "4": "Deep colour between blue and violet",
-      "6": "It shines to make a rainbow",
-      "9": "Colour of a canary",
-      "10": "Colour of a pumpkin"
+      "1": "Soft item a baby may suck for comfort",
+      "6": "Fine grey dust from an eruption",
+      "7": "Noisemaking toy shaken by a child",
+      "8": "Absorbent garment changed by a caregiver",
+      "9": "Small rotating cutting tip fitted into a dental drill",
+      "10": "Plaything carried along for a ride",
+      "11": "Guide showing shapes used for spoken sounds"
     },
     "down": {
-      "1": "Glass that splits light into colours",
-      "2": "Water falling from clouds",
-      "3": "Colour of a ripe strawberry",
-      "5": "Colour of fresh grass",
-      "7": "Colour of a clear sky",
-      "8": "Purple flower and colour",
-      "11": "Curved shape of a rainbow"
+      "1": "Baby carriage with a deep bed",
+      "2": "Wheeled frame used to take an infant outdoors",
+      "3": "Support where a child's feet can rest",
+      "4": "Garden tool for gathering leaves",
+      "5": "Builder of wooden vessels",
+      "8": "What you see while asleep"
     }
   },
   "order": 111

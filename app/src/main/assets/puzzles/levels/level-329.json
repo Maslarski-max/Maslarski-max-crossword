@@ -1,0 +1,58 @@
+{
+  "id": "level-329",
+  "title": "Printing Press",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "IMPRESSION###A",
+    "N#A##A#N#E#CAR",
+    "TYPE#RADAR#L#T",
+    "I#E##O#U#ORAL#",
+    "#PRESS#S###M#V",
+    "#R####M#B#APSE",
+    "COMPOSITOR###S",
+    "#O#L##T#O##I#T",
+    "#F#ATTACKLINE#",
+    "S##T#A##B##H##",
+    "POSE#PLAINTIFF",
+    "O##N#U##N##B#O",
+    "O######EDITION",
+    "NORSE######T#T"
+  ],
+  "clues": {
+    "across": {
+      "1": "Mark made by pressing one surface onto another",
+      "7": "Vehicle with four wheels",
+      "8": "Raised letter used to print a page",
+      "9": "System that detects aircraft with radio waves",
+      "10": "Passed by spoken storytelling rather than writing",
+      "11": "Machine that transfers ink to a surface",
+      "15": "Rounded end of a basilica",
+      "16": "Worker who arranges type for printing",
+      "19": "Court marking that limits a back-row player's jump",
+      "22": "Position held by a drawn or modeled character",
+      "23": "Person who brings a lawsuit",
+      "25": "Copies of a work printed together",
+      "26": "Relating to the people and language of medieval Scandinavia"
+    },
+    "down": {
+      "1": "Sun deity honoured by the Inca",
+      "2": "Thin sheet used for printing",
+      "3": "Cycle used to predict repeating eclipses",
+      "4": "River whose valley supported ancient urban settlements",
+      "5": "Emperor said to fiddle while Rome burned",
+      "6": "Work made to express an idea or show beauty",
+      "7": "Mechanism that holds two mold halves together",
+      "11": "Trial print checked for errors",
+      "12": "Bright clothing that helps workers be seen",
+      "13": "Labour system requiring service to the state",
+      "14": "Join pages together to form a book",
+      "17": "Flat plate that presses paper against type",
+      "18": "Reduce or stop an activity",
+      "20": "Ottoman document recording rights to land",
+      "21": "Utensil with a small rounded bowl",
+      "24": "Set of letters in a particular design"
+    }
+  },
+  "order": 329
+}

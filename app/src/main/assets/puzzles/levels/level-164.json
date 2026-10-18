@@ -1,36 +1,42 @@
 {
   "id": "level-164",
-  "title": "Nature Walk",
+  "title": "Mini Golf",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#####P#####",
-    "##TRAIL####",
-    "##W##N#S###",
-    "##I##E#T##B",
-    "##G#ACORN#O",
-    "#####O#E##O",
-    "#L###N#A##T",
-    "PEBBLE#MOSS",
-    "#A#A#######",
-    "#FERN######",
-    "###K#######"
+    "STROKE#LOAF",
+    "C######Y##U",
+    "OBSTACLE##E",
+    "R##E####GEL",
+    "EDGE##A#R##",
+    "C##BOUNCE#T",
+    "A##O##G#E#U",
+    "R##X#PLANAR",
+    "DYE###E###G",
+    "#A########O",
+    "#M#DIFFUSER"
   ],
   "clues": {
     "across": {
-      "2": "Path through the countryside",
-      "5": "Nut that grows on an oak",
-      "7": "Small smooth stone",
-      "9": "Soft green growth on damp ground",
-      "10": "Plant with divided leafy fronds"
+      "1": "One swing counted in a player's score",
+      "2": "Shaped mass of bread for slicing",
+      "4": "Object that makes the course harder",
+      "6": "Coloured sheet placed before a stage light",
+      "7": "Folded part stitched at the bottom",
+      "9": "Rebound after hitting a surface",
+      "11": "Drawable without crossing edges",
+      "12": "Color added to wax",
+      "14": "Expanding section that slows air after a test area"
     },
     "down": {
-      "1": "Seed case from a pine tree",
-      "2": "Small thin branch",
-      "3": "Small flowing body of water",
-      "4": "Sturdy footwear for a walk",
-      "6": "Flat green part of many plants",
-      "8": "Rough outer covering of a tree"
+      "1": "Small sheet for recording each stroke",
+      "2": "Strong ingredient used to turn oils into soap",
+      "3": "What the rocket burns",
+      "5": "Starting area for a golf hole",
+      "6": "Smooth playing area around the hole",
+      "8": "Corner direction that can change a shot",
+      "10": "Pressure of cell contents against the cell wall",
+      "13": "Tuber grown in warm island gardens"
     }
   },
   "order": 164

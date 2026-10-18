@@ -1,34 +1,29 @@
 {
   "id": "level-023",
-  "title": "Sports Day",
+  "title": "Space Trip",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#J#######",
-    "#U#WINNER",
-    "#M#H####E",
-    "SPRINT##L",
-    "###S####A",
-    "#C#TEAM#Y",
-    "GOAL##E##",
-    "#A#E##D##",
-    "#C###RACE",
-    "#H####L##"
+    "RICHNESS",
+    "O#####L#",
+    "COMET#I#",
+    "K#A#A#D#",
+    "EARTH#E#",
+    "T#S#R###",
+    "####I###",
+    "####R###"
   ],
   "clues": {
     "across": {
-      "2": "Person who comes first",
-      "4": "Short fast run",
-      "6": "Players on the same side",
-      "8": "Score in football",
-      "9": "Contest of speed"
+      "1": "Number of different kinds recorded in a sample",
+      "3": "Icy body with a glowing tail",
+      "6": "Our home planet"
     },
     "down": {
-      "1": "Leap into the air",
-      "2": "Referee blows it",
-      "3": "Race where runners pass a baton",
-      "5": "Person who trains athletes",
-      "7": "Award for first place"
+      "1": "It launches astronauts",
+      "2": "Smooth slope you whoosh down",
+      "4": "The Red Planet",
+      "5": "Survey and register of people, land, and revenue"
     }
   },
   "order": 23

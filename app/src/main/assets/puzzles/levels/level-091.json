@@ -1,39 +1,35 @@
 {
   "id": "level-091",
-  "title": "Greek Alphabet",
+  "title": "Ski Lodge",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "########U######",
-    "#####B#EPSILON#",
-    "#####E##S######",
-    "#####T##IOTA###",
-    "#DELTA##L#H#K##",
-    "###A####OMEGA##",
-    "##OMICRON#T#P#G",
-    "###B######ALPHA",
-    "###D########A#M",
-    "ZETA##########M",
-    "##########SIGMA"
+    "HELMET##S",
+    "U##I##D#H",
+    "BOOTS#I#A",
+    "###T#LEAR",
+    "APRES###P",
+    "#O#N##F#E",
+    "#L##G#R#N",
+    "MEGAPHONE",
+    "####S#G#R"
   ],
   "clues": {
     "across": {
-      "3": "Fifth Greek letter",
-      "4": "Tiny amount, or a Greek letter",
-      "6": "Triangular Greek letter, also a river mouth",
-      "9": "Last Greek letter",
-      "10": "Short O in Greek",
-      "12": "First Greek letter",
-      "13": "Sixth Greek letter",
-      "14": "Letter used for sum"
+      "1": "Hard covering that protects the head",
+      "5": "Sturdy footwear worn with skis",
+      "6": "King with three daughters",
+      "7": "Social time after a day of skiing",
+      "11": "Handheld device that makes a voice louder"
     },
     "down": {
-      "1": "Twentieth Greek letter",
-      "2": "Second Greek letter",
-      "5": "Letter often used for angles",
-      "7": "Letter used for wavelength",
-      "8": "Tenth Greek letter",
-      "11": "Third Greek letter, also a ray"
+      "1": "Central part joining a turbine's blades",
+      "2": "Warm hand covering with one space for fingers",
+      "3": "Tool that trims wood to expose a point",
+      "4": "Shaped tool that gives heated plastic its form",
+      "8": "Long stick used for balance",
+      "9": "Green jumper that croaks",
+      "10": "U.S. satellite navigation system"
     }
   },
   "order": 91

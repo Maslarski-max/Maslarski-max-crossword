@@ -1,0 +1,58 @@
+{
+  "id": "level-333",
+  "title": "Antarctic Ocean",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "ANTARCTIC##J##",
+    "D###E####CLASP",
+    "Z#S#S#R##A#M#L",
+    "E#EXECUTIVE##A",
+    "##A#A#N##E#CAN",
+    "POLAR##I##K##K",
+    "A###C##CURRENT",
+    "C##WHALE##I##O",
+    "KAVA###B#GLUON",
+    "I##VESSEL#L#R#",
+    "CLUE#L#R#K##R#",
+    "E#S#PENGUIN#E#",
+    "##E##D###N##R#",
+    "CODE##BANGS#Y#"
+  ],
+  "clues": {
+    "across": {
+      "1": "Relating to the region around the South Pole",
+      "4": "Metal fastener on a shoe strap",
+      "8": "Branch that carries out public laws and policy",
+      "9": "Metal container often collected for reuse",
+      "10": "Relating to the Earth's cold regions",
+      "13": "Flow of ocean water",
+      "14": "Very large marine mammal",
+      "15": "Drink made from the root of a Pacific island plant",
+      "16": "Carrier of the strong force",
+      "18": "Ship used for travel or work",
+      "20": "Piece of evidence",
+      "23": "Flightless seabird of the southern hemisphere",
+      "24": "Programmer's instructions",
+      "25": "Short front section falling over the forehead"
+    },
+    "down": {
+      "1": "Edge tool used to shape wood",
+      "2": "Careful study to learn new facts",
+      "3": "Fruit spread for toast",
+      "4": "Hollow in a hillside",
+      "5": "Tiny drifting organisms in water",
+      "6": "Marine mammal with flippers",
+      "7": "One timed or judged trip down the course",
+      "10": "Sea ice gathered into a broad sheet",
+      "11": "Large floating mass of freshwater ice",
+      "12": "Small crustacean eaten by whales",
+      "14": "Surfer's ride",
+      "17": "Mechanical model showing the motions of planets",
+      "19": "Ride it down a snowy hill",
+      "21": "Previously owned rather than brand new",
+      "22": "Piece you must protect"
+    }
+  },
+  "order": 333
+}

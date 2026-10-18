@@ -1,0 +1,62 @@
+{
+  "id": "level-372",
+  "title": "Farm Irrigation",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "WATERWAY##LEAP#",
+    "A###O###I##P#L#",
+    "T#BITT##N#SISAL",
+    "E#U#O#B#T##C#S#",
+    "RESERVOIR####M#",
+    "T##M##X#O##FOAM",
+    "A##I##E##W#L##O",
+    "B##TERRACE#O##I",
+    "LIFT#A###LOOP#S",
+    "E##E#Z#OIL#D##T",
+    "#FURROW##HEIR#U",
+    "#L###R#C#E#N##R",
+    "#A##N##HEADGATE",
+    "SKEWER#O#D###O#",
+    "#E##T#APP#DRIFT"
+  ],
+  "clues": {
+    "across": {
+      "1": "Route used to carry water across farmland",
+      "3": "Jump high into the air",
+      "7": "Strong post used to secure a line",
+      "8": "Strong plant fibre often wrapped around a pet post",
+      "10": "Stored supply of water held for later use",
+      "12": "Frothy top on a cappuccino",
+      "15": "Step cut into a slope to hold soil and water",
+      "17": "Cable ride that carries skiers uphill",
+      "18": "Aerial manoeuvre that takes the plane over the top",
+      "19": "Liquid ingredient that can soften skin",
+      "20": "Shallow channel guiding water between crop rows",
+      "21": "Person next in line for a throne",
+      "24": "Gate controlling water entering a farm channel",
+      "26": "Long thin stick used to hold food over heat",
+      "27": "Phone program used to locate or unlock a bicycle",
+      "28": "Random change in a population's gene frequencies"
+    },
+    "down": {
+      "1": "Underground level below which soil stays saturated",
+      "2": "Turning part inside a turbine",
+      "4": "Long poem about heroic deeds",
+      "5": "Liquid part of blood that carries cells and dissolved substances",
+      "6": "Opening segment that identifies the show",
+      "7": "Large road vehicle that carries many riders",
+      "9": "Muscular breed with a square jaw",
+      "11": "Small outlet that releases water from a drip tube",
+      "12": "Spreading water over fields to soak the soil",
+      "13": "Water held within the soil",
+      "14": "Top structure surrounding a water well",
+      "16": "Sharp tool used for a close shave",
+      "20": "Single crystal of snow",
+      "22": "Cut food into small pieces",
+      "23": "Corded bag hanging beneath a hoop",
+      "25": "Analyzer that separates ions by travel time"
+    }
+  },
+  "order": 372
+}

@@ -1,0 +1,439 @@
+=== Weather Radar | MEDIUM
+DOPPLER | Effect used to estimate how fast rain is moving
+AZIMUTH | Compass direction from which a radar beam is sent
+SWEEP | One pass of a rotating beam around the horizon
+CLUTTER | Echo from ground objects that is not caused by weather
+RADOME | Protective cover over a radar antenna
+BEAMWIDTH | Angle covered by a radar's narrow energy beam
+RAINFALL | Water measured after clouds release precipitation
+HAILCORE | Storm region where large frozen drops are most likely
+ECHO | Returned radio energy shown on a weather display
+VELOCITY | Speed and direction of moving rain particles
+REFLECTIVITY | Strength of the energy returned from precipitation
+DUALPOL | Method comparing horizontal and vertical radar pulses
+RANGEFOLD | Error that places a distant echo at the wrong range
+RADARGRAM | Picture made from radar observations
+SCANRATE | Speed at which the radar completes a rotation
+STORMCELL | Compact region of intense rising air and rain
+MELTINGLAYER | Height band where falling ice turns into rain
+RAINBAND | Narrow area of showers within a larger storm
+RADARLOOP | Animated sequence showing echoes over several scans
+NOWCAST | Very short-term forecast based on current conditions
+
+=== Quilt Construction | MEDIUM
+PIECING | Joining fabric shapes to build a quilt top
+SASHING | Narrow fabric strips separating blocks
+BATTING | Soft middle layer that gives a quilt warmth
+BACKING | Fabric layer placed behind the quilt top
+BINDING | Folded strip that finishes the outer edge
+APPLIQUE | Fabric shape stitched onto a larger piece
+PATCHWORK | Design assembled from smaller pieces of cloth
+THIMBLE | Small cap that protects a finger while sewing
+TEMPLATE | Reusable guide for cutting a fabric shape
+ROTARYCUTTER | Rolling blade used to slice fabric accurately
+QUILTBLOCK | Repeated section that forms part of a quilt top
+LOGCABIN | Block pattern built from strips around a centre
+FLYINGGEESE | Triangular block pattern arranged in a row
+LONGARM | Large machine used to stitch a full quilt
+STIPPLING | Dense quilting stitches forming a meandering pattern
+FOUNDATION | Stable base fabric used in paper piecing
+MUSLIN | Plain cotton cloth often used as a backing
+BASTING | Temporary stitches or pins holding layers in place
+SEAMRIPPER | Small tool for undoing unwanted stitches
+QUILTING | Stitching that joins the top, filling, and backing
+
+=== Ocean Current Survey | MEDIUM
+GYRE | Large circular system of ocean currents
+UPWELLING | Rise of deep, cold water toward the surface
+DOWNWELLING | Sinking of surface water into the deep ocean
+THERMOCLINE | Layer where water temperature changes rapidly with depth
+SALINITY | Amount of dissolved salt in seawater
+CORIOLIS | Apparent deflection caused by Earth's rotation
+EKMAN | Name attached to a spiral pattern of surface flow
+CURRENTMETER | Instrument that measures the speed of moving water
+DRIFTER | Floating device that follows and records a current
+MOORING | Anchored line holding ocean instruments in place
+TRANSECT | Planned line along which observations are collected
+CTD | Instrument measuring conductivity, temperature, and depth
+ISOTHERM | Line joining places with the same temperature
+FRONTAL | Relating to a boundary between different water masses
+WATERMASS | Large body of seawater with shared properties
+ADVECTION | Horizontal movement of heat or material by a flow
+VORTICITY | Measure of local spinning in a moving fluid
+LAGRANGIAN | Describing motion tracked from the moving water itself
+EULERIAN | Describing observations made at a fixed location
+FLOATDRIFT | Movement of a surface instrument with the current
+
+=== Book Illumination | MEDIUM
+ILLUMINATOR | Artist who decorates a manuscript by hand
+VELLUM | Fine prepared animal skin used for writing
+PARCHMENT | Treated animal skin used as a writing surface
+GILDED | Covered with a thin layer of gold
+INITIAL | Enlarged first letter that begins a section
+MINIATURE | Small detailed picture in a decorated book
+RUBRIC | Red heading or instruction written in a manuscript
+QUIRE | Folded sheets gathered for binding into a book
+FOLIO | One leaf of a manuscript, front and back
+TEXTAREA | Space occupied by the lines of writing
+PIGMENT | Coloured powder mixed into an artist's paint
+GUMARABIC | Tree resin used to bind watercolour pigments
+GESSO | Chalky ground applied before a gold leaf
+INKHORN | Small container carried by a writer for ink
+PENKNIFE | Blade once used to trim a quill or scrape writing
+SCRIBAL | Relating to a professional writer or copyist
+GILT | Thin gold layer applied to a surface
+COLOPHON | Closing note naming a book's maker or place
+MARGINALIA | Notes or drawings placed beside the main text
+PALEOGRAPHY | Study of old handwriting and scripts
+
+=== Timber Framing | MEDIUM
+MORTISE | Socket cut into a timber joint
+TENON | Projecting piece shaped to fit a timber joint
+PEGGED | Fastened with wooden pins instead of metal nails
+RAFTER | Sloping roof member running from ridge to wall
+JOIST | Horizontal member supporting a floor
+PLUMB | Exactly vertical, as checked with a weighted line
+BRACE | Diagonal support that stiffens a wooden frame
+SILL | Horizontal timber resting along the base of a wall
+WALLPLATE | Horizontal member that receives the ends of rafters
+TRUSS | Frame of connected members that spans an open space
+DOVETAIL | Interlocking joint with a flared wedge shape
+SPLICE | Joint that joins two lengths of timber end to end
+RIDGE | Highest line where two roof slopes meet
+POST | Upright structural member carrying a load
+TIMBERFRAME | Building structure assembled from large joined timbers
+BATTEN | Narrow strip fixed across boards or over a joint
+GABLE | Triangular wall beneath the sloping roof ends
+CORBEL | Projecting support built into a wall
+SQUARE | Tool used to check a right angle
+MALLET | Wooden-headed tool used to tap joints together
+
+=== Honey Extraction | MEDIUM
+UNCAPPING | Removing the wax seal from stored honey
+EXTRACTOR | Spinning machine that separates honey from comb
+HONEYFLOW | Period when abundant blossoms provide nectar
+SUPER | Extra hive box where surplus honey is stored
+SMOKER | Tool that calms bees with a gentle plume
+VEIL | Mesh covering that protects a beekeeper's face
+APIARY | Yard where managed bee colonies are kept
+BROOD | Developing young bees inside the colony
+QUEENCELL | Special large cell where a new queen develops
+HIVEBODY | Main box that houses the brood nest
+FOUNDATION | Wax sheet embossed to guide comb building
+WAXSEAL | Wax cover bees place over a filled cell
+DRIZZLE | Pour honey in a thin stream
+STRAINER | Mesh that removes wax pieces from collected honey
+CREAMED | Whipped until smooth and spreadable, as honey can be
+CRYSTALLIZE | Form sugar crystals during storage
+HONEYCOMB | Beeswax structure containing rows of cells
+NECTAR | Sweet liquid collected from flowers by bees
+POLLEN | Fine grains gathered by bees as food
+SPIGOT | Tap that lets honey drain from an extractor
+
+=== Electric Motors | MEDIUM
+ARMATURE | Rotating part that carries conductors in some motors
+COMMUTATOR | Segmented switch that reverses current in a winding
+STATOR | Stationary section surrounding a motor's moving parts
+ROTOR | Turning part of an electric machine
+WINDING | Coils of wire wrapped around a motor core
+SHAFT | Rod that carries the motor's turning force
+BEARING | Part that supports a turning shaft with low friction
+TORQUE | Turning force delivered by a motor
+INDUCTION | Motor principle using a changing magnetic field
+SOLENOID | Coil that creates a magnetic field when energized
+SLIPRING | Ring that transfers current to a rotating part
+LAMINATION | Thin insulated steel layer in a motor core
+STARTER | Device that limits current during motor startup
+CAPACITOR | Component that stores electric charge
+MAGNET | Object that creates a field which can turn a motor
+VOLTAGE | Electrical push that can drive current through a motor
+SPARK | Brief flash of electricity between two conductors
+BRUSH | Contact that carries current to a rotating part
+SYNCHRONOUS | Running at a speed locked to the supply frequency
+SPEED | Rate at which a motor's shaft turns
+
+=== City Zoning | MEDIUM
+ZONING | Rules that divide a city into land-use districts
+TRACT | One legally defined piece of land
+LOTLINE | Boundary separating one property from another
+EASEMENT | Legal right to use a strip of someone else's land
+SETBACK | Required distance between a building and a boundary
+OVERLAY | Extra rules applied on top of a base district
+MIXEDUSE | Development combining homes, shops, or workplaces
+DENSITY | Number of homes or people in a given area
+VARIANCE | Official permission to depart from a zoning rule
+HEARING | Public meeting where a proposal is considered
+RECLASSIFY | Change a property's planning category by official decision
+LANDUSE | Activity allowed or planned for a specific site
+DISTRICT | Area governed by one set of planning rules
+FRONTAGE | Length of a property edge along a public street
+RIGHTOFWAY | Strip reserved for a road or public passage
+CORRIDOR | Planned route linking neighbourhoods or services
+PERMIT | Official approval to begin a regulated project
+BUILDINGCODE | Rules setting safety standards for construction
+PLATMAP | Drawing that records property divisions and boundaries
+DENSIFY | Allow more homes or activity on a property
+
+=== Seed Saving | MEDIUM
+VIABILITY | Ability of a seed to sprout and grow
+DORMANCY | Period when a living seed does not yet germinate
+GERMINATION | Beginning of growth from a seed
+DESICCANT | Material used to absorb moisture during storage
+SEEDPACKET | Paper packet used to keep one seed variety separate
+THRESHING | Removing seeds from harvested stems or pods
+WINNOWING | Using moving air to separate seed from chaff
+DRYINGRACK | Frame that lets harvested seed dry evenly
+SEEDLOT | Quantity of seed kept from one harvest
+ISOLATION | Keeping varieties apart to limit unwanted cross-pollination
+ROGUING | Removing plants that do not match the desired crop
+LOCAL | Describes a variety adapted to the place where it is grown
+HEIRLOOM | Old open-pollinated variety passed down over time
+PARENT | Plant that supplies seed for the next generation
+CROSSING | Combining pollen from one plant with another
+SPROUTTEST | Trial that checks how many seeds will sprout
+SEALED | Closed to keep moisture away from stored seeds
+LABELING | Marking a packet with its crop and harvest details
+SEEDBANK | Stored reserve of seeds kept for future planting
+GROWING | Raising saved seed into a new crop
+
+=== Aquarium Filtration | MEDIUM
+CANISTER | Sealed filter vessel placed outside an aquarium
+BIOFILTER | Material that hosts bacteria breaking down waste
+CERAMICRING | Porous cylinder offering surface for helpful bacteria
+NITRITE | Toxic compound formed during the aquarium nitrogen cycle
+NITRATE | Dissolved compound reduced by water changes or plants
+AMMONIA | Waste chemical released by fish and decaying food
+BIOLOAD | Total waste-producing demand created by tank animals
+SUMP | Lower tank that holds equipment and extra water
+SKIMMER | Device that removes floating organic material
+AIRSTONE | Porous piece that releases bubbles into the tank
+IMPELLER | Spinning part that moves water through a pump
+PRIMER | Mechanism used to fill a filter before it starts
+BAFFLE | Divider that slows water as it passes through a sump
+MEDIA | Material that traps debris or supports bacteria
+TURBIDITY | Cloudiness caused by particles suspended in water
+UVSTERILIZER | Lamp that reduces free-floating microbes in flowing water
+SEALRING | Gasket that keeps an external filter vessel closed
+INTAKE | Pipe that draws aquarium water into a filter
+OUTLET | Opening that returns cleaned water to the tank
+BACKWASH | Reverse flow used to clean a filter bed
+
+=== Mountain Railway | MEDIUM
+TRACK | Rails and supports on which a train travels
+STATION | Place where passengers board or leave a train
+SWITCHBACK | Reversing track used to climb a steep hillside
+TRESTLE | Framework carrying rails across a valley or ravine
+VIADUCT | Long bridge that carries a railway over low ground
+TUNNEL | Passage cut through a mountain for a railway
+GRADIENT | Rate at which a railway track rises or falls
+LOCOMOTIVE | Powered rail vehicle that pulls a train
+BRAKEVAN | Vehicle carrying braking equipment at a train's end
+SNOWSHED | Roofed structure protecting track from avalanches
+FUNICULAR | Mountain railway pulled uphill by a cable
+PANTOGRAPH | Roof-mounted frame collecting current from overhead wires
+RAILHEAD | Top surface that supports a train wheel
+SWITCHPOINT | Movable rail end that guides a train onto another track
+RAILBED | Layer of support beneath the track
+GEARTRAIN | Connected wheels that transfer a locomotive's turning force
+TRACTION | Pulling force that moves the train along the rails
+BRAKEMAN | Crew member who once controlled a train's manual brakes
+PASSLOOP | Short second track where trains can pass each other
+SNOWPLOW | Front attachment that clears snow from the rails
+
+=== Ice Hockey Match | MEDIUM
+PUCK | Flat black disc struck across the ice
+ICING | Violation for sending the disc too far down the rink
+FACEOFF | Restart in which players contest a dropped disc
+POWERPLAY | Advantage while the other team has a player penalized
+PENALTYKILL | Defending while a teammate serves a penalty
+GOALIE | Player who guards the net
+GOALARC | Curved marked area directly in front of the goal
+BOARDS | Wall surrounding the playing surface
+LINECHANGE | Quick replacement of players during live play
+HATTRICK | Three goals scored by one player in a game
+SLAPSHOT | Hard strike made with a full backswing
+WRISTER | Quick shot made mainly with a flick of the wrists
+WINGER | Forward who usually attacks from a side lane
+DEFENSEMAN | Player assigned to protect the team's own end
+CENTRE | Forward who takes many faceoffs
+BLUELINE | Mark that divides the neutral zone from an end zone
+ZONETIME | Duration a team controls play inside an attacking end
+OVERTIME | Extra play used to decide a tied match
+SHOOTOUT | One-on-one attempts used to break a deadlock
+STICKBLADE | Flat lower part of a player's hockey stick
+
+=== Groundwater Survey | MEDIUM
+AQUIFER | Underground layer that can store and transmit water
+WATERLEVEL | Height of groundwater measured in a well
+PUMPTEST | Trial measuring how a well responds to water removal
+BOREHOLE | Narrow drilled opening used to reach underground layers
+PIEZOMETER | Tube used to measure pressure in groundwater
+WELLLOG | Record of the layers encountered during drilling
+DRAWDOWN | Fall in water level caused by pumping
+RECHARGE | Water entering an underground storage layer
+SEEPAGE | Slow movement of water through soil or rock
+POROSITY | Share of a material made up of open spaces
+PERMEABILITY | Ease with which water flows through a material
+WELLFIELD | Area containing several water-supply wells
+PUMPINGRATE | Volume of water removed during a set time
+STATICHEAD | Water pressure measured before pumping begins
+FLOWMETER | Instrument that measures the volume moving through a pipe
+SANDPACK | Filter layer placed around a well screen
+WELLSCREEN | Slotted section that lets groundwater enter a well
+WATERBEARING | Able to store and transmit underground water
+TESTWELL | Temporary opening used to study a groundwater supply
+GROUNDWATER | Water held beneath the land surface
+
+=== Piano Tuning | MEDIUM
+PINBLOCK | Dense wooden block that holds the tuning pins
+TUNINGPIN | Steel peg that changes the tension of a piano string
+UNISON | Two strings sounding at the same pitch
+TEMPERAMENT | Planned arrangement of intervals within an octave
+OCTAVE | Interval between two notes with the same letter name
+HARMONIC | Overtone that helps reveal a string's pitch
+PARTIAL | One component frequency within a musical tone
+MUTING | Silencing neighbouring strings while one is adjusted
+WEDGE | Soft tool used to quiet selected strings
+HAMMER | Felt-covered part that strikes a piano string
+SOUNDBOARD | Wooden panel that amplifies vibrating strings
+DAMPER | Felt part that stops a string from ringing
+STRING | Stretched wire that vibrates to create a piano note
+LEVER | Hand tool that turns a piano's tuning pins
+STRETCH | Slight widening of tuning across the keyboard
+BEATS | Pulses heard when nearby pitches interfere
+FOURTH | Interval spanning four scale steps
+FIFTH | Interval spanning five scale steps
+MIDDLEC | Central reference note near the piano's keyboard centre
+CONCERTPITCH | Standard tuning reference set to four hundred forty hertz
+
+=== Orchard Pruning | MEDIUM
+SPUR | Short woody shoot that may carry fruit buds
+CORDON | Branch trained horizontally along a support
+ESPALIER | Tree trained flat against a wall or frame
+LATERAL | Side shoot growing from a main branch
+HEADINGCUT | Shortening cut made across a branch
+THINNING | Removal of selected shoots or fruit to reduce crowding
+DORMANT | Resting through the cold part of the growing season
+BUDWOOD | Young branch material used for grafting
+ROOTSTOCK | Root system onto which a fruit variety is joined
+SCION | Cutting joined to another plant during grafting
+GRAFT | Join two plant pieces so they grow together
+SECATEUR | Hand tool with one curved cutting blade
+FRUITPICKER | Tool used to reach fruit on upper branches
+CANKER | Sunken area of dead or damaged bark
+WATERSPROUT | Fast upright shoot growing from a mature branch
+CROTCH | Angle where a branch joins the trunk
+FRUITINGWOOD | Branch growth that bears blossoms and fruit
+PRUNINGS | Cut branches removed from a cultivated tree
+WOUNDWOOD | New tissue that forms around a cut or injury
+TREEFORM | Planned shape produced by guiding and trimming branches
+
+=== Stage Rigging | MEDIUM
+FLYRAIL | Rail holding ropes that raise and lower scenery
+TRIMWEIGHT | Mass added to offset a suspended stage load
+BATTEN | Horizontal bar from which scenery can hang
+LINESET | Rope system that moves one bar above the stage
+HEADBLOCK | Pulley assembly at the top of a rigging system
+ARBOR | Frame that carries balancing weights
+GRIDIRON | Overhead framework supporting stage equipment
+CLEW | Ring or fitting where several ropes meet
+FOOTLIGHT | Row of lamps placed along the front of a stage
+TRAVELER | Curtain that opens by moving horizontally
+CYCLORAMA | Large plain cloth used as a background
+BOOM | Vertical pipe that can carry side lighting
+SHACKLE | U-shaped metal connector closed by a pin
+HOIST | Machine used to lift a suspended load
+PULLEY | Grooved wheel that redirects a rope
+UPSTAGE | Part of the stage farther from the audience
+DOWNSTAGE | Part of the stage nearest the audience
+LOADLIMIT | Maximum weight a rigging part may safely carry
+TIEOFF | Securing a rope to a fixed point
+BATON | Short bar used to support a soft hanging scenic piece
+
+=== Lighthouse Optics | MEDIUM
+FRESNEL | Lens made of stepped rings to focus a powerful beam
+LANTERNROOM | Glass enclosure around a lighthouse's lamp and lens
+LAMPWICK | Fibre that draws fuel toward a flame
+KEEPER | Worker who maintains a lighthouse and its equipment
+FOGHORN | Loud warning signal heard in poor visibility
+BEACON | Fixed light that marks a coast or hazard
+FLASHER | Mechanism that makes a lamp blink in a pattern
+ROTATOR | Device that turns the light assembly
+PRISMATIC | Made with surfaces that bend or divide light
+FOCALPLANE | Position where a lens brings rays to focus
+RANGE | Distance over which a navigation light is visible
+SECTOR | Coloured portion of a beam marking a safe or dangerous bearing
+OCCULTING | Describes a light that stays bright longer than it stays dark
+ISOPHASE | Describes a light with equal bright and dark intervals
+GROUPFLASH | Repeating pattern of several quick flashes
+LENSRING | Circular glass element used in a stepped optical lens
+LAMPLIGHT | Illumination produced by the station's main lamp
+VISIBILITY | Distance at which an object can be seen
+SIGNALFLAG | Cloth marker used to send a visual message
+DAYMARK | Painted structure that identifies a beacon in daylight
+
+=== Meteor Shower | MEDIUM
+RADIANT | Point in the sky from which streaks seem to spread
+FALLINGSTAR | Common name for a glowing object crossing the night sky
+PERSEID | Annual shower that peaks during warm northern nights
+LEONID | Shower known for occasional spectacular meteor storms
+GEMINID | December shower linked to an unusual rocky parent body
+FIREBALL | Exceptionally bright meteor crossing the night sky
+BOLIDE | Brilliant meteor that may break apart with a flash
+METEOROID | Small rocky or metallic body travelling through space
+TRAIL | Glowing path left briefly behind a meteor
+MAGNITUDE | Number used to describe an object's apparent brightness
+ZENITH | Point in the sky directly overhead
+ORBITALPLANE | Plane along which a debris stream travels around the sun
+SKYSECTOR | Region watched while counting meteors
+SHOWERPEAK | Night when the hourly meteor rate is highest
+PARENTBODY | Comet or asteroid that supplies shower debris
+DUSTSTREAM | Stream of particles left along an object's orbit
+COUNTING | Recording each visible streak during an observing session
+SKYMAP | Chart used to identify stars and constellations
+NIGHTVISION | Ability to see faint objects after the eyes adapt
+OBSERVING | Watching the sky and recording what appears
+
+=== Canoe Slalom | MEDIUM
+PORTAGE | Carrying a boat over land between waterways
+PADDLE | Blade and shaft used to propel a canoe
+FEATHER | Angle between the two blades of a double paddle
+GUNWALE | Upper edge running along the side of a canoe
+THWART | Crosspiece that braces the sides of a small boat
+COCKPIT | Opening where a paddler sits in a covered canoe
+SPRAYDECK | Flexible cover that keeps water out of a cockpit
+SLALOM | Race through a marked course of water gates
+GATE | Pair of hanging poles a racer must pass through
+DOWNSTREAM | Moving in the direction of the current
+UPSTREAM | Moving against the direction of the current
+EDDY | Circular patch of water behind an obstacle
+FERRYGLIDE | Angled crossing that uses the current to move sideways
+STROKE | Single planned movement of a paddle
+SWEEP | Wide turning stroke made along the boat's side
+BRACE | Paddle movement used to prevent a capsize
+BOOFR | Buoyant aid worn by a paddler
+HULL | Watertight body of a canoe
+STERN | Rear end of the boat
+FINISHLINE | Line crossed to complete a slalom race
+
+=== River Delta Mapping | MEDIUM
+DISTRIBUTARY | Branch that carries river water away from the main channel
+LEVEE | Raised bank that helps contain floodwater
+LAGOON | Shallow coastal water partly separated from the sea
+ALLUVIUM | Soil or sediment deposited by flowing water
+DELTAIC | Relating to land built where a river meets a larger body
+AVULSION | Sudden change in a river's main course
+MEANDER | Broad bend formed as a river moves across level land
+BRAIDED | Divided into many shallow channels around sediment bars
+TIDALFLAT | Low coastal area exposed when the tide falls
+ESTUARY | Coastal reach where river water mixes with seawater
+LIDAR | Laser method used to measure land surface elevation
+ELEVATION | Height of a point above a chosen reference level
+FLOODPLAIN | Flat land that may be covered during high water
+SANDSPIT | Narrow sandy landform projecting from a shore into water
+MOUTH | Place where a river enters a sea or lake
+SPLAY | Fan of sediment spread by floodwater beyond a bank
+CHANNEL | Narrow path followed by a moving river
+SEDIMENT | Particles carried and left behind by flowing water
+BACKWATER | Slow-moving water away from a river's main current
+FLOODMARK | Trace showing how high water once reached

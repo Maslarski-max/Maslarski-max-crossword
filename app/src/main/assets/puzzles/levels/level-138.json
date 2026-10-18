@@ -1,36 +1,39 @@
 {
   "id": "level-138",
-  "title": "Wild West",
+  "title": "Bookshop Window",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "######H#C#",
-    "#B###WAGON",
-    "#O##D#T#W#",
-    "HORSE###B#",
-    "#T##SALOON",
-    "#S##E#A#Y#",
-    "##R#R#S###",
-    "#CACTUS###",
-    "##N###O###",
-    "##C#######",
-    "#SHERIFF##"
+    "BOOKSTORE#",
+    "O####I##A#",
+    "O##AUTHOR#",
+    "KCAT#L##L#",
+    "S##POETRY#",
+    "E###D##E#R",
+    "L#C#I#PAGE",
+    "L#O#N##D#E",
+    "E#R##SHELF",
+    "RANCH##R##"
   ],
   "clues": {
     "across": {
-      "4": "Covered cart for pioneers",
-      "6": "Animal ridden on the range",
-      "7": "Bar with swinging doors",
-      "10": "Prickly desert plant",
-      "11": "Law officer with a star"
+      "1": "Shop that sells printed stories and guides",
+      "4": "Person who writes a book",
+      "5": "Rate constant for one enzyme molecule at saturation",
+      "6": "Writing arranged in lines and verses",
+      "11": "One side of a sheet inside a book",
+      "12": "Flat ledge displaying books",
+      "13": "Large cattle farm"
     },
     "down": {
-      "1": "Stetson",
-      "2": "Ranch rider in a hat",
-      "3": "Footwear with spurs",
-      "5": "Dry sandy land",
-      "8": "Rope loop for catching cattle",
-      "9": "Large cattle farm"
+      "1": "Worker who helps customers choose a book",
+      "2": "Name printed on the cover",
+      "3": "Running before the published time",
+      "4": "Cell's main short-term energy-carrying molecule",
+      "7": "One-eyed Norse chief god",
+      "8": "Person enjoying a book",
+      "9": "Structure built over time by coral skeletons",
+      "10": "Yellow cobs"
     }
   },
   "order": 138

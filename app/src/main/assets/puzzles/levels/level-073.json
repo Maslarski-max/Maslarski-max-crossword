@@ -1,39 +1,34 @@
 {
   "id": "level-073",
-  "title": "Railway Journey",
+  "title": "Pottery for Kids",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##SLEEPER#F##",
-    "##I#######R##",
-    "E#G###TICKET#",
-    "X#N##L####I#C",
-    "PLATFORM##G#A",
-    "R#L##C####H#R",
-    "E###CONDUCTOR",
-    "S####M######I",
-    "STATION#####A",
-    "#####T######G",
-    "####TIMETABLE",
-    "#####V#######",
-    "#TUNNEL######"
+    "GLAZE##V#",
+    "##P####O#",
+    "#ORE#DOLL",
+    "W#O#C##U#",
+    "HANDLE#N#",
+    "E###A##T#",
+    "ECOSYSTEM",
+    "L#A####E#",
+    "##REDCARD"
   ],
   "clues": {
     "across": {
-      "1": "Train with beds",
-      "4": "You need one to board",
-      "7": "You wait on it for a train",
-      "8": "Person who checks tickets",
-      "9": "Where trains stop",
-      "10": "Schedule of departures",
-      "11": "Railway through a hill"
+      "1": "Glassy coating on fired pottery",
+      "4": "Rock from which useful metal can be extracted",
+      "5": "Toy that looks like a person",
+      "8": "Part gripped to lift a cup",
+      "9": "Community and its environment",
+      "11": "Dismissal shown for serious misconduct"
     },
     "down": {
-      "1": "Light telling a train to stop or go",
-      "2": "Goods carried by train",
-      "3": "Fast train with few stops",
-      "5": "Engine that pulls a train",
-      "6": "Passenger car of a train"
+      "2": "Cloth worn to protect clothes",
+      "3": "Person who gives time without pay",
+      "6": "Spinning platform for forming a pot",
+      "7": "Soft earth shaped before firing",
+      "10": "Long pole used to propel a boat by rowing"
     }
   },
   "order": 73

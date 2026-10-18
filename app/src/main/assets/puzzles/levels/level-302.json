@@ -1,0 +1,56 @@
+{
+  "id": "level-302",
+  "title": "Sound Recording Studio",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "H###CROSSBAR##",
+    "EDIT###U#O#A##",
+    "A###STUDIO#Y#O",
+    "D#C##R#O#TOPIC",
+    "PLAYBACK#H#A#E",
+    "H#B##C#U##ETNA",
+    "O#L##K###F#H#N",
+    "NIECE##R#A###O",
+    "E##A#Z#ETCHING",
+    "#FORCE#C#I#A#R",
+    "##T##T#A#N#G#A",
+    "VAT#HAPLOGROUP",
+    "##E#U##L#####H",
+    "CURLER##VALLEY"
+  ],
+  "clues": {
+    "across": {
+      "2": "Horizontal bar joining the goalposts",
+      "6": "Change a recording by cutting or moving parts",
+      "7": "Room designed for recording",
+      "11": "Subject assigned for the round",
+      "12": "Listening to an existing recording",
+      "13": "Sicily's active volcano",
+      "15": "Your sibling's daughter",
+      "19": "Removal of material to form a circuit pattern",
+      "21": "Push or pull that can change an object's motion",
+      "23": "Large vessel where milk is warmed and set",
+      "24": "Set of related genetic lineages",
+      "25": "Rod or clip used to shape a lock",
+      "26": "Low land between hills"
+    },
+    "down": {
+      "1": "Device worn over the ears to hear audio",
+      "3": "Number grid puzzle",
+      "4": "Small enclosed room for recording",
+      "5": "Route followed by a seismic wave through the Earth",
+      "8": "Separate recorded part in a song",
+      "9": "Scientific study of the sea",
+      "10": "Insulated wire linking audio equipment",
+      "14": "Fabric piece that finishes an opening or edge",
+      "16": "Vehicle with four wheels",
+      "17": "Call that asks a dog to come back",
+      "18": "Sixth Greek letter",
+      "20": "Othello's treacherous ensign",
+      "22": "Playful swimmer",
+      "24": "Property of visible light that varies with wavelength"
+    }
+  },
+  "order": 302
+}

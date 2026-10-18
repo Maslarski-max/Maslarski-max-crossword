@@ -1,36 +1,42 @@
 {
   "id": "level-166",
-  "title": "Cookie Decorating",
+  "title": "Market Stall",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "##F######O",
-    "##L#I#R##V",
-    "##O#COOKIE",
-    "##U#I#L##N",
-    "SPRINKLE##",
-    "U###G#E###",
-    "G##D#TRAY#",
-    "A##O###P##",
-    "R#CUTTER##",
-    "###G###O##",
-    "###H###N##"
+    "CARROTS###G",
+    "O####O##E#I",
+    "I##LANE#M#A",
+    "N#H##L#SPIN",
+    "PEACHES#H#T",
+    "U#R#A#H#A#S",
+    "R#V#GLASS#L",
+    "S#EGG#D#I#A",
+    "E#S#L#EASEL",
+    "#STEEL#W##O",
+    "######CLAIM"
   ],
   "clues": {
     "across": {
-      "5": "Small baked sweet",
-      "6": "Tiny sweet topping",
-      "8": "Flat pan for holding treats",
-      "10": "Shape used to trim dough"
+      "1": "Orange roots often sold with leafy tops",
+      "5": "Marked path leading to a register",
+      "7": "Turn quickly around an axis",
+      "8": "Soft sweet fruit with fuzzy skin",
+      "11": "Clear material used in most windows",
+      "12": "Shell-covered beginning of many animal lives",
+      "13": "Painter's stand",
+      "15": "Strong metal used in many insulated containers",
+      "16": "Point a speaker asks the audience to accept"
     },
     "down": {
-      "1": "Powder made by grinding grain",
-      "2": "Hot box used for baking",
-      "3": "Sweet coating spread over a biscuit",
-      "4": "Tool used to flatten dough",
-      "6": "Sweet crystals used in baking",
-      "7": "Mixture shaped before baking",
-      "9": "Cloth worn to keep clothes clean"
+      "1": "Small pouch for carrying change",
+      "2": "Cambodian river or lake name used for the seasonal water system",
+      "3": "Event with wider turns than the standard slalom",
+      "4": "Extra stress placed on an important word or idea",
+      "6": "Gather crops when they are ready",
+      "9": "Discuss a price before buying",
+      "10": "Fabric cover that keeps a stall out of the sun",
+      "14": "Pointed hand tool for making a small hole"
     }
   },
   "order": 166

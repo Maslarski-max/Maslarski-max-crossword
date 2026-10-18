@@ -1,0 +1,61 @@
+{
+  "id": "level-360",
+  "title": "Volleyball Match",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "MIDDLEHITTER##T",
+    "A#I#I#I#E##O##O",
+    "TAG#N#PLAINTIFF",
+    "C##LENS####A#L#",
+    "H###J##COURT#O#",
+    "PICTURE##N#I#A#",
+    "O#A#D##SIDEOUT#",
+    "I#RAG##E#E#N#S#",
+    "NET#E#STORY#DEN",
+    "T####S#T#H###R#",
+    "#####A#E#A###V#",
+    "P#SPIKER#NOISE#",
+    "U##A#O###D##A##",
+    "PEAS#K######COW",
+    "A##STUFFBLOCK##"
+  ],
+  "clues": {
+    "across": {
+      "1": "Attacker who plays near the centre of the net",
+      "8": "Small label bearing a recipient's name",
+      "9": "Person who brings a civil case to court",
+      "11": "Glass that focuses light",
+      "12": "Marked rectangle where the teams play",
+      "14": "Drawing that shows an object or place",
+      "16": "Change of possession after the receiving team wins",
+      "17": "Cloth used for wiping",
+      "18": "Barrier that divides the two sides of the court",
+      "19": "Account of events, real or imagined",
+      "20": "Small animal shelter",
+      "23": "Player who drives the ball toward the floor",
+      "25": "Unwanted variation that can obscure a message",
+      "27": "Small green balls in a pod",
+      "28": "Farm animal that gives milk",
+      "29": "Block that sends an opponent's hit straight down"
+    },
+    "down": {
+      "1": "Score that could finish the entire contest",
+      "2": "Defensive save made on a hard-driven ball",
+      "3": "Official watching whether the ball lands in bounds",
+      "4": "Body parts beside the waist",
+      "5": "Drink brewed from leaves",
+      "6": "Clockwise change of player positions after a serve",
+      "7": "Analyzer that separates ions by travel time",
+      "10": "Serve that moves unpredictably through the air",
+      "13": "Serving motion made with an upward swing",
+      "15": "Small vehicle used to carry rock from a mine",
+      "16": "Player who places the ball for an attacker",
+      "21": "Term for Japan's restricted foreign relations policy",
+      "22": "Resting stage between larva and adult",
+      "24": "First controlled touch after receiving a serve",
+      "26": "Large cloth bag used to form a figure's head"
+    }
+  },
+  "order": 360
+}

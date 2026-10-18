@@ -1,43 +1,35 @@
 {
   "id": "level-093",
-  "title": "World Religions",
+  "title": "Town Parade",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####S#MOSQUE#",
-    "#####Y#A#C####",
-    "##C##N#NIRVANA",
-    "#KARMA#T#I####",
-    "##T##G#R#P#P##",
-    "##H#MONASTERY#",
-    "##E##G###U#A##",
-    "##D##U###R#Y##",
-    "SHRINE###E#E##",
-    "A#A########R##",
-    "B#L#PILGRIM###",
-    "B###S#########",
-    "A###A#########",
-    "TEMPLE########",
-    "H###M#########"
+    "FLOAT#CTD",
+    "L##N#M#O#",
+    "A#STRATA#",
+    "G##H#G#D#",
+    "#RYE#NEST",
+    "#N#L#E#T#",
+    "RADIATION",
+    "###O###O#",
+    "#WINDMILL"
   ],
   "clues": {
     "across": {
-      "2": "Muslim place of worship",
-      "5": "State of perfect peace in Buddhism",
-      "6": "Effect of one's actions",
-      "8": "Home of monks",
-      "9": "Holy place",
-      "10": "Person on a holy journey",
-      "11": "House of worship"
+      "1": "Decorated platform moving along a route",
+      "3": "Instrument measuring conductivity, temperature, and depth",
+      "6": "Layers of rock that may hold ancient remains",
+      "7": "Dark grain for bread",
+      "8": "Snug place where an animal rests",
+      "9": "Energy carried by particles or electromagnetic waves",
+      "10": "Machine with sails driven by the wind"
     },
     "down": {
-      "1": "Jewish house of worship",
-      "2": "Repeated sacred phrase",
-      "3": "Sacred writing",
-      "4": "Principal church of a diocese",
-      "7": "Words to a deity",
-      "9": "Day of rest",
-      "10": "Sacred song"
+      "1": "Cloth emblem on a pole",
+      "2": "Bright spot on a parhelic circle opposite the sun",
+      "4": "Mushroom with a cap and a stalk",
+      "5": "Object that attracts iron and creates a magnetic field",
+      "7": "Genetic material used by many viruses"
     }
   },
   "order": 93

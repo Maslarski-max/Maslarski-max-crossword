@@ -1,0 +1,58 @@
+{
+  "id": "level-331",
+  "title": "Wildlife Tracking",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "MIGRATION##F#V",
+    "#N#A#A#A##POSE",
+    "#DEN#G#T#B#L#I",
+    "#U#G#G##WALDEN",
+    "#SPECIES#L#B##",
+    "S#O##N#COLLAR#",
+    "TIME#G#A###C##",
+    "A#P####TRACK#J",
+    "R#E#E#####A##A",
+    "#WINDSTREAM##M",
+    "H#I#I#R#S#ETNA",
+    "A###TRACKER##I",
+    "N#####I#E#A##C",
+    "DETANGLER##TEA"
+  ],
+  "clues": {
+    "across": {
+      "1": "Seasonal movement between habitats",
+      "8": "Still position held by a performer",
+      "9": "Small animal shelter",
+      "11": "Thoreau's book of life by a pond",
+      "12": "Group of similar organisms",
+      "16": "Band fitted around an animal's neck",
+      "17": "Measure used to order events and duration",
+      "18": "Mark left by an animal passing by",
+      "22": "Flow of air moving in one direction",
+      "26": "Sicily's active volcano",
+      "27": "Person who follows signs left by animals",
+      "28": "Product that makes knots easier to comb out",
+      "29": "Drink brewed from leaves"
+    },
+    "down": {
+      "2": "River whose valley supported ancient urban settlements",
+      "3": "Area where an animal normally lives",
+      "4": "Attaching a marker to an animal for study",
+      "5": "Grain often mixed into cookie dough",
+      "6": "Sound sent from the stage mix back to performers",
+      "7": "Narrow band of minerals within rock",
+      "10": "Small round object rolled toward the target",
+      "13": "City buried by Vesuvius",
+      "14": "Animal droppings examined for clues",
+      "15": "It twinkles at night",
+      "19": "Device that records images of wildlife",
+      "20": "Island home of reggae",
+      "21": "Change a recording by cutting or moving parts",
+      "23": "Path followed by an animal",
+      "24": "Winding ridge of sand and gravel deposited by meltwater",
+      "25": "It has five fingers"
+    }
+  },
+  "order": 331
+}

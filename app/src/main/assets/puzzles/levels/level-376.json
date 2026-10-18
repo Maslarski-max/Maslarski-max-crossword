@@ -1,0 +1,62 @@
+{
+  "id": "level-376",
+  "title": "World Cup Stadium",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "SUBSTITUTION###",
+    "T###O###O#N#F##",
+    "A##TUBE#U#I#I#D",
+    "DRY#C#X#R#OUNCE",
+    "I###H#TENON#A#F",
+    "U#D#L#R#A###L#E",
+    "MRI#I#ADMISSION",
+    "##S#N#T#E#E#S#D",
+    "ACCRETION#M#TOE",
+    "#U####M#TRIO##R",
+    "REFEREE###F#B##",
+    "O##L###STRIKER#",
+    "WAVE##F#E#N#Z#P",
+    "E##GROUPSTAGE#I",
+    "RUBY##R#T#L#LEG"
+  ],
+  "clues": {
+    "across": {
+      "1": "Replacement of one player by another during play",
+      "6": "Narrow passage that carries liquid",
+      "9": "Free from moisture",
+      "10": "Unit often used for a small amount of food",
+      "11": "Projecting piece fitted into a matching opening",
+      "13": "Imaging method using magnets and radio waves",
+      "14": "Pass that lets a spectator enter the ground",
+      "16": "Growth as matter falls onto a central object",
+      "18": "Front part of a foot",
+      "19": "Ensemble of three performers or voices",
+      "20": "Official who applies the rules on the field",
+      "23": "Forward whose main task is to score goals",
+      "25": "Disturbance that can carry energy through space or matter",
+      "28": "Early round in which teams play within pools",
+      "29": "Red gemstone",
+      "30": "Route segment between two controls"
+    },
+    "down": {
+      "1": "Large venue with seating around the field",
+      "2": "Long boundary marking either side of a football pitch",
+      "3": "Series of matches that decides a champion",
+      "4": "Vegetable that makes you cry",
+      "5": "Team that reaches the last match",
+      "7": "Added period played when a knockout match is level",
+      "8": "Player whose role is to prevent scoring chances",
+      "12": "Round metal blade that cuts into the ground",
+      "15": "Match that decides a place in the championship game",
+      "17": "Signal for a technical change",
+      "20": "Person who propels a galley with an oar",
+      "21": "Poem of mourning or serious reflection",
+      "22": "Raised rim holding a gem or seal stone",
+      "24": "Initial laboratory procedure used to flag possible substances",
+      "26": "Soft coat covering an animal",
+      "27": "Pink farm animal that loves mud"
+    }
+  },
+  "order": 376
+}

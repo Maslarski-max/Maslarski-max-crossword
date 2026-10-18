@@ -1,38 +1,31 @@
 {
   "id": "level-046",
-  "title": "Inventions",
+  "title": "Ice Cream Parlour",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####CLOCK###",
-    "######I######",
-    "######G######",
-    "#####WHEEL###",
-    "####B#T######",
-    "#C##A#B#P####",
-    "ROBOT#U#A##E#",
-    "#M##TELEPHONE",
-    "#P##E#B#E##G#",
-    "CAMERA##RADIO",
-    "#S##Y######N#",
-    "#S####PRINTER"
+    "VANILLA#",
+    "#Q#N#I#T",
+    "#U#T#B#U",
+    "PAVEMENT",
+    "#T#R#R#U",
+    "#I#ICON#",
+    "ECHO####",
+    "###RILLE"
   ],
   "clues": {
     "across": {
-      "1": "It tells the time",
-      "3": "Ancient invention that rolls",
-      "7": "Programmable machine helper",
-      "9": "Bell's famous invention",
-      "10": "Device that takes photos",
-      "11": "It brings broadcasts through the air",
-      "12": "Machine that puts ink on paper"
+      "1": "Plain classic flavour",
+      "6": "Hard surface under a sidewalk game",
+      "7": "Painted devotional image",
+      "8": "Repeated sound caused by reflection",
+      "9": "Long narrow valley on the moon"
     },
     "down": {
-      "2": "Edison's glowing invention",
-      "4": "Portable store of electricity",
-      "5": "It points north",
-      "6": "Ancient Chinese invention for writing",
-      "8": "It powers a car"
+      "2": "Living or growing in water",
+      "3": "Fluid-filled space inside a mitochondrion",
+      "4": "Back-row specialist wearing a different jersey",
+      "5": "Short skirt worn by many classical dancers"
     }
   },
   "order": 46

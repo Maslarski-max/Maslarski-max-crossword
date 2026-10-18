@@ -1,0 +1,61 @@
+{
+  "id": "level-368",
+  "title": "Orchestra Rehearsal",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "A##F#####CHOPIN",
+    "REHEARSAL#Y#U#I",
+    "T##N#####SPAN#B",
+    "I#E#C##D##H#CUB",
+    "CONDUCTOR#ACT#L",
+    "U#T#E##W####U#E",
+    "LORD#DYNAMICS##",
+    "A#A##I#B#R#A###",
+    "TUNING#E#I#D###",
+    "I#C####A##TEMPO",
+    "OVEN#PITCH#N#H#",
+    "N####O##H##Z#R#",
+    "##POOL#FERMATA#",
+    "##I##O##F####S#",
+    "PITOT####SCORE#"
+  ],
+  "clues": {
+    "across": {
+      "3": "Polish master of piano nocturnes",
+      "7": "Practice session before a public performance",
+      "8": "Distance covered between two bridge supports",
+      "12": "Young bear, lion, or fox",
+      "13": "Musician who directs an ensemble's performance",
+      "14": "Major division of a play or opera",
+      "15": "Noble who controlled land and owed duties to a king",
+      "16": "Instructions for changes in musical loudness",
+      "19": "Adjustment that brings instruments to the right pitch",
+      "20": "Speed at which a passage should be played",
+      "22": "Heated box used for baking",
+      "23": "Highness or lowness of a musical tone",
+      "25": "Place filled with water for swimming",
+      "26": "Mark telling a player to hold a note longer",
+      "27": "Tube that measures air pressure in a moving stream",
+      "28": "Written music showing the parts of a composition"
+    },
+    "down": {
+      "1": "Manner in which notes are started and connected",
+      "2": "Peat-forming wetland fed by mineral-rich water",
+      "4": "Threadlike strand that makes up a fungal body",
+      "5": "Dot or mark used as a punctuation sign",
+      "6": "Take small bites from food",
+      "9": "Point where a player or section starts",
+      "10": "Signal telling a player when to begin",
+      "11": "First beat of a measure, marked by the director",
+      "16": "Defensive save made on a hard-driven ball",
+      "17": "Imaging method using magnets and radio waves",
+      "18": "Solo passage that displays a performer's skill",
+      "21": "Short musical idea played as one expressive unit",
+      "23": "Venetian who travelled to China",
+      "24": "Person who cooks professionally",
+      "25": "Sunken area where the orchestra plays"
+    }
+  },
+  "order": 368
+}

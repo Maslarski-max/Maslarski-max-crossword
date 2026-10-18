@@ -1,40 +1,39 @@
 {
   "id": "level-132",
-  "title": "Heraldry",
+  "title": "Phone Charger",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#######L#####M",
-    "#######I##G##O",
-    "#######O#CREST",
-    "##RAMPANT#I##T",
-    "######Z###F##O",
-    "######U###F###",
-    "######R#A#I###",
-    "####CHEVRON###",
-    "G##S#E##G#####",
-    "U##A#R##E#####",
-    "L##BLAZON#####",
-    "E##L#L##T#####",
-    "SHIELD########"
+    "POWERBANK#",
+    "L#O#O#D###",
+    "U#VOLTAGE#",
+    "G#E#L#P###",
+    "##N##STARS",
+    "B###P#E##C",
+    "O##CHARGER",
+    "NUT#O##R#E",
+    "E###N#WIRE",
+    "SOCKET#T#N"
   ],
   "clues": {
     "across": {
-      "4": "Emblem above the helmet",
-      "5": "Rearing on hind legs",
-      "8": "Inverted V band",
-      "12": "Formal description of arms",
-      "13": "Main surface of a coat of arms"
+      "1": "Portable pack used to charge a device away from home",
+      "5": "Electrical force supplied by a charger",
+      "6": "They shine above the campsite",
+      "10": "Device that refills a phone's battery",
+      "12": "Six-sided fitting turned by a hydrant wrench",
+      "13": "Thin metal strand carrying electricity",
+      "14": "Recess that accepts an electrical plug"
     },
     "down": {
-      "1": "Common royal beast",
-      "2": "Phrase on a scroll",
-      "3": "Eagle-lion creature",
-      "6": "Heraldic blue",
-      "7": "Heraldic silver",
-      "9": "Officer of arms",
-      "10": "Heraldic red",
-      "11": "Heraldic black"
+      "1": "End pushed into an outlet",
+      "2": "Made by crossing strands over and under",
+      "3": "Rotation about the aircraft's nose-to-tail axis",
+      "4": "Small piece connecting a plug to a different socket",
+      "7": "Glass display showing text and pictures",
+      "8": "Skeleton parts dug up",
+      "9": "Handheld device used for calls and messages",
+      "11": "Small hard particles washed off streets"
     }
   },
   "order": 132

@@ -1,36 +1,47 @@
 {
   "id": "level-221",
-  "title": "Bicycle Repair",
+  "title": "Farm Egg Basket",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#G#CHAIN#",
-    "#E##E####",
-    "HANDLEBAR",
-    "#R##M#R##",
-    "###PEDAL#",
-    "####T#K##",
-    "#####SEAT",
-    "##PUMP##I",
-    "#####O##R",
-    "#####K##E",
-    "##WHEEL##"
+    "H##D###M#N#R",
+    "E#MEMBRANE#A",
+    "N##W#R#I#SUN",
+    "H###BOIL#T#G",
+    "O#R##O##OBOE",
+    "URUK#D#R#O#F",
+    "S#N##E#O#X#O",
+    "EGGCARTON##L",
+    "#E#H###S#W#D",
+    "FLAIR##T#H##",
+    "R##C#OMELET#",
+    "YOLK###R#Y##"
   ],
   "clues": {
     "across": {
-      "2": "Linked metal loop that drives the rear wheel",
-      "4": "Bar used to steer a bicycle",
-      "6": "Footrest turned to move a bicycle",
-      "7": "Place where a rider sits",
-      "9": "Tool that pushes air into a tube",
-      "10": "Round part that rolls along the ground"
+      "6": "Thin layer just inside an egg's outer casing",
+      "8": "Star that warms Earth's surface",
+      "9": "Cook an egg in bubbling water",
+      "11": "Double-reed woodwind",
+      "12": "Sumerian city associated with early urban life",
+      "14": "Cardboard holder with separate egg spaces",
+      "18": "Stylish way of doing a movement",
+      "19": "Egg dish folded around a filling",
+      "20": "Yellow centre of an egg"
     },
     "down": {
-      "1": "Setting that changes pedalling effort",
-      "3": "Protective head covering",
-      "5": "Device that slows a bicycle",
-      "7": "Thin rod connecting a hub to a rim",
-      "8": "Rubber ring around a wheel"
+      "1": "Shelter where laying hens spend the night",
+      "2": "Water droplets that form on cool surfaces",
+      "3": "Letters and parcels delivered to homes",
+      "4": "Small sheltered place where a hen can lay",
+      "5": "Error that places a distant echo at the wrong range",
+      "7": "Warm enclosure for newly hatched chicks",
+      "10": "Crossbar on a ladder inside a chicken coop",
+      "13": "Male chicken with a comb and tail feathers",
+      "15": "Coloured sheet placed before a stage light",
+      "16": "Newly hatched young chicken",
+      "17": "Liquid left after curds are separated",
+      "18": "Cook an egg in a shallow pan"
     }
   },
   "order": 221

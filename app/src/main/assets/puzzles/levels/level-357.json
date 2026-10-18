@@ -1,0 +1,61 @@
+{
+  "id": "level-357",
+  "title": "Planetarium Show",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PLANETARIUM##Z#",
+    "R###Q##I###BOOK",
+    "OAR#U##F###E#D#",
+    "J##LIGHTYEAR#I#",
+    "E#A#N####C#A#A#",
+    "COCOON#SOLSTICE",
+    "T#O#X####I##N#N",
+    "O#R##P#SAPTAP#V",
+    "RUN##A#Y#T##U#E",
+    "###M#REDGIANT#L",
+    "NEBULA#N#C#U##O",
+    "A##M#L#E###T##P",
+    "D##MILKYWAY#TOE",
+    "I##Y#A###R###I#",
+    "RED##XYLEM#POLO"
+  ],
+  "clues": {
+    "across": {
+      "1": "Theatre built to display a model of the sky",
+      "5": "You read it",
+      "6": "Hand-held blade used to propel a small boat",
+      "7": "Distance light travels in one year",
+      "10": "Protective covering made by some developing insects",
+      "11": "Date when the sun reaches its greatest yearly height",
+      "15": "Short tube carrying liquid from a tree",
+      "16": "One timed or judged trip down the course",
+      "18": "Large cool star nearing the end of its life",
+      "20": "Cloud of gas and dust in space",
+      "21": "Galaxy containing our solar system",
+      "23": "Front part of a foot",
+      "25": "Colour of a stop sign",
+      "26": "Plant tissue that carries water upward",
+      "27": "Venetian who travelled to China"
+    },
+    "down": {
+      "1": "Device that casts an image onto a dome",
+      "2": "Day when daylight and darkness are nearly equal",
+      "3": "Long crack where crust pulls apart",
+      "4": "Belt of sky divided into twelve named signs",
+      "5": "Charter confirming an office or privilege",
+      "8": "Apparent yearly path of the sun across the sky",
+      "9": "Nut that grows on an oak",
+      "12": "Signal supplied to a controlled system",
+      "13": "Flat paper sleeve for a letter",
+      "14": "Apparent shift caused by a change in viewpoint",
+      "15": "Australian city with a famous opera house",
+      "17": "Wrapped preserved body",
+      "19": "Six-sided fitting turned by a hydrant wrench",
+      "20": "Point in the sky directly beneath an observer",
+      "22": "Jointed part that reaches out",
+      "24": "Liquid ingredient that can soften skin"
+    }
+  },
+  "order": 357
+}

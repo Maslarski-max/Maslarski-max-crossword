@@ -1,33 +1,30 @@
 {
   "id": "level-030",
-  "title": "Winter Fun",
+  "title": "Bugs and Beasties",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "##SLED###",
-    "##K#####S",
-    "SCARF###N",
-    "K#T#IGLOO",
-    "ICE#R###W",
-    "#O##E###M",
-    "#C######A",
-    "#O#MITTEN",
-    "#A#######"
+    "LADYBIRD",
+    "#N##E##I",
+    "STONE##S",
+    "A###T##C",
+    "P##FLY#O",
+    "T###E##U",
+    "A######N",
+    "PRECINCT"
   ],
   "clues": {
     "across": {
-      "1": "Ride it down a snowy hill",
-      "3": "Woolly neck warmer",
-      "5": "House made of snow blocks",
-      "6": "Frozen water",
-      "8": "Glove without separate fingers"
+      "1": "Red beetle with black spots",
+      "5": "Hard deposit that can form in a kidney or bladder",
+      "6": "Buzzing insect",
+      "7": "Small local area used to organize voting"
     },
     "down": {
-      "1": "Glide on ice",
-      "2": "Figure with a carrot nose",
-      "3": "Glide down a mountain on it",
-      "4": "Warm yourself by it",
-      "7": "Hot chocolate drink"
+      "2": "Tiny insect that lives in a colony",
+      "3": "Insect with a hard shell",
+      "4": "Price reduction",
+      "5": "Short tube carrying liquid from a tree"
     }
   },
   "order": 30

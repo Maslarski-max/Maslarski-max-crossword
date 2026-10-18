@@ -1,0 +1,60 @@
+{
+  "id": "level-343",
+  "title": "Railway Signals",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "W#####M#INFERNO",
+    "H#S#T#A#####A#L",
+    "I#EQUITY#SPECIE",
+    "S#M#C##A##O#E#I",
+    "TRACKCIRCUIT##C",
+    "L#P##A#D##N####",
+    "ECHO#B#M##T#T##",
+    "C#O##O#A#ASPECT",
+    "OAR#JOIST#M#L#O",
+    "D#E##S#T#SALE#K",
+    "E##CLEVER#N#G#E",
+    "###R###R#P#BRAN",
+    "DEBIT#B##I##A##",
+    "I##S#HANDLAMP##",
+    "GIMP##R##E##HAT"
+  ],
+  "clues": {
+    "across": {
+      "3": "First part of Dante's Divine Comedy",
+      "8": "Ownership value in an asset",
+      "10": "Coins made from precious metal",
+      "12": "Electrical system that detects a train on rails",
+      "14": "Repeated sound caused by reflection",
+      "16": "Meaning shown by a signal's colour or position",
+      "18": "Hand-held blade used to propel a small boat",
+      "19": "Horizontal member supporting a floor",
+      "20": "Time of cheap prices",
+      "21": "Quick to learn",
+      "23": "Outer layer of a grain kernel",
+      "24": "Type of payment taken from a bank account",
+      "26": "Portable light carried by railway staff",
+      "27": "Narrow decorative braid along an upholstered edge",
+      "28": "Head covering with a brim or crown"
+    },
+    "down": {
+      "1": "Set of sounds used for railway instructions",
+      "2": "Flat pad placed under a feeding dish",
+      "4": "Contest of speed",
+      "5": "Relating to the main fatty acid in olive oil",
+      "6": "Signal with a movable arm beside the track",
+      "7": "Low aerodynamic posture used on a fast descent",
+      "9": "Person who directs work in a railway yard",
+      "11": "Railway worker who operates track switches",
+      "13": "Crew car formerly attached to the end of a freight train",
+      "15": "Device once used to send railway messages",
+      "17": "Object giving a train authority to enter a section",
+      "21": "Firm and pleasantly crunchy",
+      "22": "Heap made by gathering loose things",
+      "24": "Defensive save made on a hard-driven ball",
+      "25": "Solid block used for washing"
+    }
+  },
+  "order": 343
+}

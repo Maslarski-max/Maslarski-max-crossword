@@ -1,30 +1,28 @@
 {
   "id": "level-010",
-  "title": "Kitchen Drawer",
+  "title": "Breakfast Table",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#########B#",
-    "W#######POT",
-    "H###P#P##W#",
-    "I#F#A#LADLE",
-    "SPOON#A####",
-    "K#R###T####",
-    "##KNIFE####"
+    "COMMUTER",
+    "E####R##",
+    "R#A##A##",
+    "EGG##C##",
+    "A#E##K##",
+    "LENSRING",
+    "##D##N##",
+    "##A##G##"
   ],
   "clues": {
     "across": {
-      "3": "Deep vessel for boiling pasta",
-      "7": "Deep spoon for serving soup",
-      "8": "Utensil for eating soup",
-      "9": "Utensil for cutting"
+      "1": "Person who travels regularly to work",
+      "4": "It can be scrambled or fried",
+      "5": "Circular glass element used in a stepped optical lens"
     },
     "down": {
-      "1": "Dish for cereal",
-      "2": "Tool for beating eggs",
-      "4": "Flat cooking vessel with a handle",
-      "5": "You serve dinner on it",
-      "6": "Pronged eating utensil"
+      "1": "Breakfast food eaten with milk",
+      "2": "Updates showing where a parcel is on its route",
+      "3": "Party's published statement of its policies"
     }
   },
   "order": 10

@@ -1,40 +1,41 @@
 {
   "id": "level-153",
-  "title": "Silk Road",
+  "title": "Rain Boots",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#K######P#####",
-    "#A######O#####",
-    "#S#S####R####N",
-    "#H#A#MARCOPOLO",
-    "#G#M#E##E####M",
-    "BAZAAR##L#J##A",
-    "#R#R#CARAVAN#D",
-    "###K#H##I#D###",
-    "##CARAVANSERAI",
-    "###N#N###P####",
-    "###D#T##SILK##",
-    "#########C####",
-    "######CAMEL###"
+    "WELLINGTON#",
+    "##I#####V##",
+    "##N#RUBBER#",
+    "HEEL####R##",
+    "E#R#SPLASH#",
+    "A###C#A#H#C",
+    "DRY#O#N#O#O",
+    "G##PUDDLE#D",
+    "ART#R#I###I",
+    "T#O#E#N###N",
+    "EYE#ROGUING"
   ],
   "clues": {
     "across": {
-      "5": "Venetian who reached China",
-      "6": "Market in the Middle East",
-      "8": "Travelling group of traders",
-      "9": "Roadside inn for traders",
-      "11": "Fabric that named the route",
-      "12": "Beast of burden in the desert"
+      "1": "Tall waterproof boot named for a British duke",
+      "4": "Stretchy material used to make many boots",
+      "5": "Back part of a shoe beneath the foot",
+      "6": "Scatter water by stepping into it",
+      "9": "Free from moisture",
+      "10": "Small pool of rainwater on the ground",
+      "11": "Work made to express an idea or show beauty",
+      "13": "You see with it",
+      "14": "Removing plants that do not match the desired crop"
     },
     "down": {
-      "1": "Oasis city in western China",
-      "2": "Fine white ceramic",
-      "3": "Uzbek trading city",
-      "4": "Wandering herder",
-      "5": "Trader",
-      "7": "Prized green stone",
-      "10": "Valuable seasoning traded west"
+      "2": "Removable warm layer inside a boot",
+      "3": "Waterproof covering worn over a shoe",
+      "5": "Gate controlling water entering a farm channel",
+      "6": "Rough pad used to clean a cooking vessel",
+      "7": "Place where a rider reaches the ground",
+      "8": "Conversion of information into a signal representation",
+      "12": "Front part of a foot"
     }
   },
   "order": 153

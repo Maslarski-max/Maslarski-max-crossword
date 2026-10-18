@@ -1,42 +1,43 @@
 {
   "id": "level-179",
-  "title": "Rainforest River",
+  "title": "Curtain Shop",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "######C########",
-    "TRIBUTARY######",
-    "######N########",
-    "######O####B###",
-    "M#####P#E##I###",
-    "ESTUARY#VAPOUR#",
-    "A###L###A##D###",
-    "N##FLOODPLAIN#R",
-    "D###U#X#O##V##A",
-    "E###V#B#R##E##P",
-    "R###I#O#A##R##I",
-    "####U#WATERSHED",
-    "####M###I##I##S",
-    "########O##T###",
-    "##SEDIMENT#Y###"
+    "SUNLIGHT#F#",
+    "H######ICON",
+    "E##ROD#E#X#",
+    "E#T##R#B##M",
+    "R#O#VALANCE",
+    "#ATP#P#C##A",
+    "A#I#WEEK##S",
+    "STELA#T#B#U",
+    "S#N#X#H#A#R",
+    "A#THYROXINE",
+    "Y#####S#T##"
   ],
   "clues": {
     "across": {
-      "2": "Smaller stream that flows into a larger river",
-      "6": "Coastal waterway where river water meets the sea",
-      "8": "Gas form of water",
-      "9": "Flat land beside a river that may flood",
-      "12": "Land area drained by a river system",
-      "13": "Particles carried and deposited by water"
+      "1": "Bright light that comes from the sun",
+      "4": "Painted devotional image",
+      "5": "Bar that holds up a curtain",
+      "9": "Short decorative cloth across a window's top",
+      "10": "Cell's main short-term energy-carrying molecule",
+      "12": "Seven days",
+      "14": "Upright carved stone monument",
+      "16": "Thyroid hormone that affects energy use and growth"
     },
     "down": {
-      "1": "Upper leafy layer of a forest",
-      "3": "Variety of living things in an area",
-      "4": "Bend in the course of a river",
-      "5": "Change from liquid water into gas",
-      "7": "Soil deposited by flowing water",
-      "10": "Curved lake cut off from a river bend",
-      "11": "Fast turbulent stretches of a river"
+      "1": "Thin fabric that lets light pass through",
+      "2": "Strip used to hold a curtain open",
+      "3": "Sly, bushy-tailed animal",
+      "6": "Hang fabric in soft folds",
+      "7": "Count of positive integers coprime to a given number",
+      "8": "Find the size of a window",
+      "11": "Laboratory test used to detect or measure a target",
+      "12": "Having a surface that helps limit water loss",
+      "13": "Appeal based on a speaker's credibility",
+      "15": "Food attached to a hook to attract fish"
     }
   },
   "order": 179

@@ -1,35 +1,50 @@
 {
   "id": "level-246",
-  "title": "Swimming Pool",
+  "title": "Coffee House",
   "author": "Crossword Team",
-  "difficulty": "EASY",
+  "difficulty": "MEDIUM",
   "grid": [
-    "##S##T##F##",
-    "##H#GOGGLES",
-    "##A##W##O##",
-    "##LIFEGUARD",
-    "S#L##L##T#I",
-    "POOL##K###V",
-    "L#W#WHISTLE",
-    "A#####C##A#",
-    "S#####K##N#",
-    "H########E#"
+    "ENPASSANT#S##",
+    "S#####C#E#K#H",
+    "P####NEGATIVE",
+    "RHYME###C#P#X",
+    "E##O#G##H###K",
+    "SAUCER##E###E",
+    "S##H#I##RUGBY",
+    "ORCA#N#S###A#",
+    "##I##D#U#L#R#",
+    "W#RICE#G#AXIS",
+    "A#R##ROAST#S#",
+    "ROUND##R#T#T#",
+    "M#S#####DECAF"
   ],
   "clues": {
     "across": {
-      "4": "Eye covering used underwater",
-      "5": "Person who watches swimmers for safety",
-      "8": "Place filled with water for swimming",
-      "10": "Sharp sound used to get attention"
+      "1": "Pawn capture allowed immediately after a double step",
+      "6": "Reversed film image",
+      "7": "Words that end with matching sounds",
+      "10": "Small plate under a cup",
+      "11": "Sport with scrums and tries",
+      "13": "Killer whale",
+      "18": "Grain eaten all over Asia",
+      "19": "Straight line organizing a garden's layout",
+      "20": "Dark or light, for coffee beans",
+      "21": "Heavy metal ball fired from a cannon",
+      "22": "Coffee without the buzz"
     },
     "down": {
-      "1": "Not very deep",
-      "2": "Cloth used to dry off",
-      "3": "Stay on the surface of water",
-      "6": "Enter the water head first",
-      "7": "Scatter drops of water",
-      "9": "Move the legs to push through water",
-      "11": "Marked strip for one swimmer"
+      "1": "Short, strong coffee",
+      "2": "Serve the opponent cannot return",
+      "3": "Person who runs a classroom",
+      "4": "Hop lightly from foot to foot",
+      "5": "L-shaped tool for turning a hexagonal screw",
+      "8": "Coffee with chocolate",
+      "9": "Machine that crushes beans",
+      "12": "Person who makes your coffee",
+      "14": "Thin high cloud made of ice crystals",
+      "15": "Sweet cube for tea",
+      "16": "Coffee with lots of steamed milk",
+      "17": "Comfortably hot but not too hot"
     }
   },
   "order": 246

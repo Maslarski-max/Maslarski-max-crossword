@@ -1,38 +1,34 @@
 {
   "id": "level-072",
-  "title": "Healthy Habits",
+  "title": "Car Wash",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "#####P#######",
-    "####YOGA#####",
-    "#####S######F",
-    "#####T######I",
-    "###S#U######B",
-    "#WATER##B#V#R",
-    "#A#R#EXERCISE",
-    "SLEEP###E#T##",
-    "#K#T###SALAD#",
-    "#I#C####T#M##",
-    "#N#H####H#I##",
-    "#G##PROTEIN##"
+    "SOAP####V",
+    "P##O#C##E",
+    "OVERSHOOT",
+    "N##C#A#T#",
+    "G##E#R#H#",
+    "E#PLAGUE#",
+    "#A#A#E#L#",
+    "#S#I#DILL",
+    "SHINE##O#"
   ],
   "clues": {
     "across": {
-      "2": "Stretching practice",
-      "5": "Drink plenty of it",
-      "8": "Physical activity",
-      "9": "Rest at night",
-      "10": "Bowl of greens",
-      "11": "Nutrient in eggs and beans"
+      "1": "Cleaner that makes foamy suds",
+      "5": "Amount a response exceeds its target",
+      "7": "Severe infectious disease that spread during sieges",
+      "9": "Feathery herb with fish",
+      "10": "Bright reflection from a clean surface"
     },
     "down": {
-      "1": "How you hold your body",
-      "3": "It aids digestion",
-      "4": "Loosen your muscles",
-      "5": "Gentle daily exercise",
-      "6": "Inhale and exhale",
-      "7": "Nutrient such as C or D"
+      "1": "Soft block that soaks up water",
+      "2": "Fine white ceramic",
+      "3": "Doctor who treats animals",
+      "4": "Describes a molecule that has gained or lost electrons",
+      "6": "Moor of Venice",
+      "8": "Fine grey dust from an eruption"
     }
   },
   "order": 72

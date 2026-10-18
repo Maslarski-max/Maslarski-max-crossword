@@ -1,38 +1,33 @@
 {
   "id": "level-070",
-  "title": "Chess Board",
+  "title": "Watercolor Class",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###S##K#####",
-    "CASTLING####",
-    "H##A##I###B#",
-    "E##L##GAMBIT",
-    "C##E##H###S#",
-    "K##M##T###H#",
-    "M#PAWN####O#",
-    "A##T##Q###P#",
-    "TIMER#U#####",
-    "E###OPENING#",
-    "####O#E#####",
-    "####KING####"
+    "PIGMENT##",
+    "A##A#A##F",
+    "L#OGIVE#R",
+    "E##N#I##I",
+    "TUNINGPIN",
+    "T##F#A##G",
+    "EDDY#TARE",
+    "#####O###",
+    "#FLUORITE"
   ],
   "clues": {
     "across": {
-      "3": "Special move with king and rook",
-      "5": "Opening that sacrifices a pawn",
-      "6": "Smallest piece",
-      "8": "Clock for each player",
-      "10": "First moves of a game",
-      "11": "Piece you must protect"
+      "1": "Material that gives paint its colour",
+      "5": "Curved band of ice below a glacier's icefall",
+      "6": "Steel peg that changes the tension of a piano string",
+      "7": "Swirling motion that stirs gas within a cloud",
+      "8": "Set a scale back to zero with a bowl on it",
+      "9": "Colourful mineral that can glow under ultraviolet light"
     },
     "down": {
-      "1": "Draw with no legal move",
-      "2": "Piece that moves in an L",
-      "3": "Game-ending move",
-      "4": "Piece that moves diagonally",
-      "7": "Most powerful piece",
-      "9": "Castle piece"
+      "1": "Surface for mixing paint",
+      "2": "Make a distant object appear larger",
+      "3": "Person who determines a vessel's route",
+      "4": "Loose threads hanging from an edge"
     }
   },
   "order": 70

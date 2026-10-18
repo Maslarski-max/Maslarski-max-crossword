@@ -1,42 +1,43 @@
 {
   "id": "level-182",
-  "title": "Arctic Ecosystems",
+  "title": "Backyard Sprinkler",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#K########T####",
-    "#R########U####",
-    "#I##H#POLYNYA##",
-    "#L##A#E#I#D#L##",
-    "BLUBBER#CARIBOU",
-    "####I#M#H#A#E##",
-    "#MELTWATER##D##",
-    "#I##A#F#N#I#O##",
-    "#G##T#R###C####",
-    "#R###FOODWEB###",
-    "#A####S###B####",
-    "#T####T###E####",
-    "#I########R####",
-    "#O########G####",
-    "#N#############"
+    "SPRINKLER##",
+    "P##C##E####",
+    "E##E##A#A##",
+    "C#W##DRENCH",
+    "T#E##R##C#O",
+    "ROTATOR#I#S",
+    "U#P##P##EYE",
+    "M#A##LAWN##",
+    "#STOVE##TAX",
+    "##C##TAP#W#",
+    "ECHO####FLY"
   ],
   "clues": {
     "across": {
-      "4": "Open water surrounded by sea ice",
-      "7": "Thick fat layer that insulates some sea mammals",
-      "8": "Northern deer known as reindeer in Eurasia",
-      "9": "Water released as snow or ice melts",
-      "11": "Network of feeding relationships in an ecosystem"
+      "1": "Garden device that sends water across a lawn",
+      "6": "Soak a lawn with water from spinning jets",
+      "8": "Part that turns as water flows through a sprinkler",
+      "9": "You see with it",
+      "10": "Short grass covering a yard",
+      "11": "Appliance used for heating food",
+      "12": "Money paid to the government",
+      "14": "Handle that turns water on or off",
+      "15": "Repeated sound caused by a reflection",
+      "16": "Buzzing insect"
     },
     "down": {
-      "1": "Small drifting crustacean eaten by whales",
-      "2": "Treeless region with a cold climate",
-      "3": "Natural home of a plant or animal",
-      "4": "Ground that stays frozen for at least two years",
-      "5": "Partnership of fungus and algae growing on rock",
-      "6": "Fraction of sunlight a surface reflects",
-      "9": "Seasonal movement from one region to another",
-      "10": "Large piece of floating freshwater ice"
+      "1": "Band of colours seen in fine water spray",
+      "2": "Frozen water beneath a skater",
+      "3": "King with three daughters",
+      "4": "From a very long time ago",
+      "5": "Damp spot left on the lawn by a sprinkler",
+      "6": "Tiny bead of water sent through the air",
+      "7": "Flexible tube that brings water from a tap",
+      "13": "Pointed hand tool for making a small hole"
     }
   },
   "order": 182

@@ -1,0 +1,56 @@
+{
+  "id": "level-306",
+  "title": "Underground Railway",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "V###P#S#TUNNEL",
+    "ESCALATOR####Y",
+    "N#O#A#O#ANGKOR",
+    "T#N#TYPEC####E",
+    "I#D#F###K##P##",
+    "L#U#O#T##CHEF#",
+    "A#CAROUSEL#T#T",
+    "T#T#M#R##OLIVE",
+    "E#O###N##W#O#M",
+    "#FRY##SIGNAL#P",
+    "D###T#T#E##E#L",
+    "I#STATION#F##A",
+    "S#U#P#L#E#U##T",
+    "COMMUTER#PRUNE"
+  ],
+  "clues": {
+    "across": {
+      "4": "Passage dug beneath the ground",
+      "6": "Moving stairway inside a station",
+      "8": "Khmer city known for monumental temples",
+      "9": "Reversible plug style found on many newer devices",
+      "12": "Person who cooks professionally",
+      "13": "Circular display for signs or luggage",
+      "15": "Small fruit often sliced onto a pizza",
+      "16": "Cook an egg in a shallow pan",
+      "17": "Device that tells a train when to proceed",
+      "21": "Place where a train stops for riders",
+      "23": "Person who travels regularly to work",
+      "24": "Trim back a plant"
+    },
+    "down": {
+      "1": "Circulate fresh air through an enclosed space",
+      "2": "Raised area where riders board a train",
+      "3": "Place where the bus pauses for riders",
+      "4": "Rails that guide a train",
+      "5": "Stringed instrument shown at ancient feasts",
+      "7": "Railway worker who checks fares or helps riders",
+      "10": "Stalk connecting a leaf blade to its stem",
+      "11": "Rotating gate that admits one rider at a time",
+      "12": "Red-nosed funny performer",
+      "14": "Reusable guide for cutting a fabric shape",
+      "18": "Part of DNA that carries instructions for a product",
+      "19": "Round metal blade that cuts into the ground",
+      "20": "Ottoman document recording rights to land",
+      "21": "Result found by adding numbers",
+      "22": "Soft coat covering an animal"
+    }
+  },
+  "order": 306
+}

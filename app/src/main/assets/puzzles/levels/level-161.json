@@ -1,36 +1,42 @@
 {
   "id": "level-161",
-  "title": "School Science Fair",
+  "title": "Water Balloon Fight",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "######S#F#",
-    "PRISM#CELL",
-    "####A#A#A#",
-    "##GOGGLES#",
-    "####N#E#K#",
-    "BEAKER####",
-    "##T#T#####",
-    "##O##T####",
-    "##MODEL###",
-    "#####S####",
-    "#CHART####"
+    "WATERBOMB##",
+    "A#####R#U#A",
+    "TOWEL#C#CAN",
+    "E#####A#K#I",
+    "R#B#D##TEAM",
+    "SQUIRT##T#A",
+    "O#R#U#W###L",
+    "A#SUMMER##S",
+    "K#T#S#T#OAK",
+    "E#######R#I",
+    "REFILL#BEAN"
   ],
   "clues": {
     "across": {
-      "3": "Glass shape that splits white light",
-      "5": "Smallest living unit",
-      "6": "Eye protection for experiments",
-      "7": "Glass cup used in a lab",
-      "10": "Small copy used to explain an idea",
-      "11": "Picture that displays information"
+      "1": "Water-filled object thrown in a playful fight",
+      "5": "Absorbent cloth for drying off",
+      "6": "Metal container often collected for reuse",
+      "9": "Group working or playing together",
+      "10": "Short burst of liquid from a small opening",
+      "12": "Warm season for outdoor games",
+      "13": "Tree that grows acorns",
+      "14": "Fill a container again",
+      "15": "Jack's magic seed"
     },
     "down": {
-      "1": "Tool for measuring weight",
-      "2": "Narrow-necked lab vessel",
-      "4": "Object that attracts iron",
-      "8": "Tiny building block of matter",
-      "9": "Check to learn how something works"
+      "1": "Toy that sprays water during an outdoor game",
+      "2": "Killer whale",
+      "3": "Open pail used to carry balloons",
+      "4": "Writing surface made from treated animal skin",
+      "7": "Break open suddenly with a pop",
+      "8": "Instrument you hit with sticks",
+      "11": "Covered with water",
+      "13": "Rock containing a useful mineral or metal"
     }
   },
   "order": 161

@@ -1,34 +1,29 @@
 {
   "id": "level-020",
-  "title": "Ocean Life",
+  "title": "Shapes",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "OCTOPUS###",
-    "#R####T###",
-    "#A##SHARK#",
-    "#B#D##R###",
-    "###O##F###",
-    "JELLYFISH#",
-    "###P##S##S",
-    "###H#WHALE",
-    "SQUID####A",
-    "###N#CORAL"
+    "TEXTBOOK",
+    "R#E##U#I",
+    "I#R##T#N",
+    "A#X##L#D",
+    "N#E##E#N",
+    "GUSSET#E",
+    "L######S",
+    "ERASER#S"
   ],
   "clues": {
     "across": {
-      "1": "Sea creature with eight arms",
-      "4": "Fish with sharp teeth and a fin",
-      "6": "Sea creature that can sting",
-      "8": "Largest animal in the sea",
-      "9": "Sea creature that squirts ink",
-      "10": "Reef builder"
+      "1": "School volume used during a lesson",
+      "5": "Inserted piece that adds room or strength",
+      "6": "Soft block that removes pencil marks"
     },
     "down": {
-      "2": "Sea creature that walks sideways",
-      "3": "Star-shaped sea creature",
-      "5": "Clever sea mammal that leaps",
-      "7": "Sea mammal that barks"
+      "1": "Shape with three sides",
+      "2": "Persian king who invaded Greece in the fifth century BCE",
+      "3": "Wall fitting that supplies electricity",
+      "4": "Caring action toward another person"
     }
   },
   "order": 20

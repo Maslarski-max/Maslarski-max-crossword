@@ -1,39 +1,46 @@
 {
   "id": "level-200",
-  "title": "Underground Railway",
+  "title": "Kitchen Apron",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "##TUNNEL#####",
-    "#S####S###C##",
-    "#T#TRACK##A#C",
-    "#A####A###R#O",
-    "#T###PLATFORM",
-    "#I##S#A#U#U#M",
-    "CONDUCTOR#S#U",
-    "#N##B#O#N#E#T",
-    "####W#R#S#L#E",
-    "SIGNAL##T###R",
-    "####Y###I####",
-    "########L####",
-    "VENTILATE####"
+    "WASHABLE####",
+    "##W####X#S##",
+    "OVEN#CLASP##",
+    "A#E##H#M#I#R",
+    "KITCHEN##L#A",
+    "##E##F###L#C",
+    "#SNAP#B#I##E",
+    "W#E#ACOUSTIC",
+    "APRON#I#O##A",
+    "I####CLIMBER",
+    "STAIN###E###",
+    "T####FIBRE##"
   ],
   "clues": {
     "across": {
-      "1": "Passage dug beneath the ground",
-      "5": "Rails that guide a train",
-      "7": "Raised area where riders board a train",
-      "10": "Railway worker who checks fares or helps riders",
-      "11": "Device that tells a train when to proceed",
-      "12": "Circulate fresh air through an enclosed space"
+      "1": "Able to be cleaned in water",
+      "5": "Heated appliance used for baking",
+      "6": "Small fastener that closes a garment",
+      "8": "Room where food is prepared",
+      "9": "Shout it when cards match",
+      "14": "Relating to sound and how it behaves in a room",
+      "15": "Cloth worn over clothes while cooking",
+      "16": "Rider suited to steep uphill sections",
+      "17": "Mark left by a spill",
+      "18": "Threadlike material used to make cords"
     },
     "down": {
-      "2": "Moving stairway inside a station",
-      "3": "Place where a train stops for riders",
-      "4": "Circular display for signs or luggage",
-      "6": "Person who travels regularly to work",
-      "8": "Rotating gate that admits one rider at a time",
-      "9": "City railway running mostly below ground"
+      "2": "Ingredient that gives food a sweet taste",
+      "3": "Test at the end of a term",
+      "4": "Small amount of liquid dropped on fabric",
+      "5": "Tree that grows acorns",
+      "6": "Person who cooks professionally",
+      "7": "Fast vehicle built for competition",
+      "10": "Shallow metal vessel used for cooking",
+      "11": "Heat liquid until bubbles rise throughout",
+      "12": "Molecule with the same formula but a different structure",
+      "13": "Narrow middle part of the body"
     }
   },
   "order": 200

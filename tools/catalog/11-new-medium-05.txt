@@ -1,0 +1,439 @@
+=== National Election Campaign | MEDIUM
+BALLOT | Paper or screen used to record a choice
+CANDIDATE | Person seeking an elected office
+NOMINEE | Candidate formally selected by a party
+POLLING | Act of casting votes in an election
+PRECINCT | Small local area used to organize voting
+CANVASS | Official review and count of election returns
+REFERENDUM | Public vote on a specific proposal
+TALLY | Final count of votes received
+ABSENTEE | Vote submitted by someone away from the polling place
+TURNOUT | Share of eligible voters who cast a ballot
+ELECTOR | Member of a body that formally chooses a leader
+AGENDA | Party's published statement of its policies
+DEBATE | Public discussion between competing candidates
+PRIMARY | Election used to choose a party's nominee
+PETITION | Signed request asking officials to take action
+CAMPAIGN | Organized effort to win an election
+VOTER | Person eligible to cast a ballot
+REGISTER | Record a person's eligibility before election day
+SWINGSTATE | State where either major party could win
+POLLBOOK | Official list used to check in voters
+
+=== Solar Eclipse Expedition | MEDIUM
+SHADOWCORE | Dark central part of a shadow
+PENUMBRA | Outer, partly shaded region of a shadow
+CORONA | Sun's glowing outer atmosphere
+TOTALITY | Brief stage when the Moon fully covers the Sun
+DIAMONDRING | Bright spot seen just before or after totality
+BAILEYSBEADS | Sunlight shining through lunar valleys near totality
+CHROMOSPHERE | Reddish layer of the Sun's atmosphere
+SAROS | Cycle used to predict repeating eclipses
+ANNULAR | Describes an eclipse that leaves a bright ring
+SYZYGY | Alignment of three celestial bodies
+OCCULTATION | One object passing in front of a more distant one
+SHADOWBAND | Faint moving stripe sometimes seen near totality
+SOLARVIEWER | Dark viewing aid that protects the eyes
+PINHOLE | Tiny opening that projects a solar image
+HYBRID | Eclipse that appears total from some places and annular from others
+CONTACT | One of the timed stages of an eclipse
+PATH | Narrow strip where a total eclipse can be seen
+MAGNITUDE | Fraction of the Sun's diameter covered
+SUNSPOT | Dark-looking region on the solar surface
+LUNAR | Relating to Earth's natural satellite
+
+=== Animated Film Studio | MEDIUM
+STORYBOARD | Sequence of sketches mapping a film's scenes
+KEYFRAME | Drawing that marks an important pose or moment
+INBETWEEN | Drawing added between two key poses
+ONIONSKIN | Faint view of nearby drawings used to guide movement
+ANIMATIC | Rough timed version of a film made from still images
+VOICECAST | Group of performers recording character dialogue
+LIPSYNC | Matching a character's mouth shapes to recorded speech
+COMPOSITE | Combine separate visual layers into one image
+TEXTURE | Surface detail added to a digital model
+RENDER | Produce the final image from a computer scene
+POSE | Position held by a drawn or modeled character
+MOUTHCHART | Guide showing shapes used for spoken sounds
+SEQUENCE | Group of shots forming one continuous part of the story
+MODEL | Three-dimensional digital character or object
+SKELETON | Hidden joint structure that controls a character
+LAYOUT | Plan showing where characters and scenery appear
+TIMING | Spacing of poses that sets the pace of movement
+BACKGROUND | Painted setting behind the animated action
+EXPOSURE | Number of frames a drawing remains on screen
+PALETTE | Selected set of colors used in a scene
+
+=== Cheese Making Dairy | MEDIUM
+CURD | Solid part formed when milk coagulates
+WHEY | Liquid left after curds are separated
+RENNET | Enzyme used to set milk into curds
+CULTURE | Helpful microbes added to develop flavor
+STARTER | Small dose of bacteria used to begin fermentation
+BRINE | Saltwater bath that seasons and preserves cheese
+RIND | Outer layer that forms around a cheese
+VAT | Large vessel where milk is warmed and set
+CHEDDAR | Firm cheese first made in an English village
+GOUDA | Dutch cheese named for a South Holland city
+PARMESAN | Hard Italian cheese often grated over pasta
+MOZZARELLA | Soft cheese traditionally used on pizza
+RICOTTA | Mild whey cheese used in lasagna and desserts
+AGING | Controlled resting that develops a cheese's flavor
+PRESS | Device that squeezes moisture from curds
+PENICILLIUM | Fuzzy culture used to ripen some cheeses
+WAXING | Sealing a cheese with a protective coating
+PASTEURIZE | Heat milk to reduce harmful microbes
+LACTOSE | Natural sugar found in milk
+WASHING | Rinsing curds to soften flavor and texture
+
+=== Civic Art Auction | MEDIUM
+ESTIMATE | Auction house's suggested value before a sale
+BIDDER | Person offering money for an item
+GAVEL | Tool whose fall marks the winning offer
+LOT | Single item or group offered for sale
+RESERVE | Minimum price accepted by the seller
+CATALOG | Booklet describing the works for sale
+APPRAISAL | Professional opinion of an object's value
+PROVENANCE | Record of who owned a work in the past
+CONSIGNOR | Owner who entrusts an object to be sold
+AUCTIONEER | Person who leads the bidding
+PREVIEW | Public viewing held before the sale
+COMMISSION | Fee charged by the house after a sale
+ABSENTEE | Bid placed by someone not in the room
+PADDLE | Numbered sign raised to make an offer
+HAMMERPRICE | Winning amount before the buyer's fees
+GALLERY | Room where works are displayed
+AUTHENTICITY | Confirmation that an artwork is genuine
+CONDITION | State of an object before it is sold
+WITHDRAWAL | Removal of an item from the sale
+PAYMENT | Money transferred after a successful bid
+
+=== Soccer Referee Course | MEDIUM
+OFFSIDE | Position that can make an attacker ineligible for a pass
+THROWIN | Restart awarded when the ball leaves a touchline
+GOALKICK | Restart taken by the defending side after a missed attack
+CORNER | Restart from the arc after a defender sends the ball out
+PENALTY | Direct kick awarded for a foul in the box
+ADVANTAGE | Decision to let play continue after a foul
+YELLOWCARD | Caution shown by the referee
+REDCARD | Dismissal shown for serious misconduct
+WHISTLE | Small instrument blown by a referee to stop play
+ASSISTANT | Official who helps monitor the touchlines
+HANDBALL | Illegal use of an arm or hand by a field player
+FREEKICK | Restart awarded after an offence
+KICKOFF | Centre-field restart at the beginning of a period
+SUBSTITUTION | Replacement of one player by another
+GOALAREA | Small marked box in front of the goal
+HALFTIME | Interval between the two periods
+CROSSBAR | Horizontal bar joining the goalposts
+DROPPEDBALL | Restart used after play is stopped without a foul
+ADDEDTIME | Minutes played beyond the scheduled period
+TOUCHLINE | Boundary running along the long side of the pitch
+
+=== Electric Car Charging | MEDIUM
+BATTERYPACK | Group of cells that stores a vehicle's energy
+CHARGER | Equipment that supplies electricity to a vehicle
+SOCKET | Opening that accepts a charging connector
+CONNECTOR | Plug joining a charging cable to the car
+INVERTER | Device that changes direct current to alternating current
+KILOWATT | Unit used to rate charging power
+RANGE | Distance a car can travel before recharging
+REGENBRAKE | System that returns some slowing energy to the battery
+LEVELTWO | Common home charging category using higher voltage
+FASTCHARGE | High-power method that replenishes a battery quickly
+SLOWCHARGE | Lower-power method often used overnight
+BRAKING | Slowing the car by applying its brakes
+MOTOR | Machine that turns electrical energy into motion
+PORT | Recess where the charging plug connects
+CABLE | Flexible line carrying power to the car
+ADAPTER | Fitting that lets different plugs connect
+WALLBOX | Fixed home unit used to charge a vehicle
+AMPERAGE | Measure of electric current flowing through a circuit
+VOLTAGE | Electrical potential that pushes current through a circuit
+THERMAL | Relating to heat control inside the battery pack
+
+=== Orienteering Course | MEDIUM
+COMPASS | Instrument that points toward magnetic north
+BEARING | Direction measured as an angle from north
+CHECKPOINT | Marked location competitors must find
+CONTROLPOINT | Specific place where a course marker is placed
+MAPCASE | Clear cover that protects a runner's map
+DECLINATION | Angle between magnetic north and true north
+AZIMUTH | Direction expressed as a clockwise angle from north
+CONTOUR | Map line joining places of equal elevation
+GRIDREF | Letters and numbers identifying a map location
+WAYPOINT | Chosen location along a route
+HANDRAIL | Long feature used to guide travel through terrain
+ATTACKPOINT | Easy-to-recognize spot near a control marker
+ROUTECHOICE | Decision about which way to reach a control
+STARTFLAG | Marker showing where the timed course begins
+FINISH | Line where a competitor's time stops
+LEG | Route segment between two controls
+PUNCH | Mark made on a card to prove a control was visited
+RATIO | Map comparison between drawing distance and ground distance
+BOUNDARY | Feature competitors must not cross
+THUMBING | Keeping a finger on one's current map position
+
+=== Railway Timetable | MEDIUM
+HEADWAY | Time between successive services on a route
+RUNNINGTIME | Scheduled duration from one stop to another
+CONNECTION | Transfer timed to let passengers change services
+CLOCKFACE | Repeating pattern of departures at regular times
+INTERCHANGE | Place where riders switch between routes
+WAITTIME | Minutes spent before the next scheduled service
+OFFPEAK | Period outside the busiest travel hours
+SHORTTURN | Service that reverses before reaching its usual end
+TURNBACK | Point where a vehicle changes direction
+STOPPATTERN | Sequence of places served by a particular trip
+MILEPOST | Marker showing distance along a rail route
+DWELLTIME | Time a train remains stopped at a platform
+TERMINUS | Station at the end of a route
+THROUGH | Describes a trip continuing without a transfer
+SERVICE | Scheduled operation of a route
+CADENCE | Pattern of departures repeated at regular intervals
+EARLY | Running before the published time
+DELAY | Service running later than scheduled
+WEEKDAY | Day when a workday timetable usually applies
+NIGHTRUN | Service scheduled during late hours
+
+=== Cinema Projection Booth | MEDIUM
+PROJECTOR | Machine that throws moving images onto a screen
+REEL | Round holder for wound film
+LENS | Glass element that focuses the projected picture
+APERTURE | Opening that controls how much light passes through
+SHUTTER | Moving part that blocks light between frames
+FOCUS | Sharpness of the projected image
+CARBONARC | Bright light source once used in film projectors
+XENON | Gas used in a powerful projection lamp
+SOUNDHEAD | Projector part that reads the film's audio track
+SPLICE | Join made where two pieces of film meet
+LEADER | Blank or marked film used before a feature begins
+TRAILER | Preview shown to advertise an upcoming movie
+CUE | Signal to start a change or action
+CHANGEOVER | Switch from one projector to another during a show
+MASKING | Adjustable border that hides unused screen area
+SURFACE | Area on which the movie image appears
+SOUNDTRACK | Recorded audio accompanying the moving images
+FILMBASE | Flexible material that supports a strip of film
+ASPECTRATIO | Relationship between picture width and height
+PERFORATION | Small hole along a film edge for the sprockets
+
+=== Textile Pattern Studio | MEDIUM
+DART | Fold stitched into cloth to shape a garment
+SEAM | Line where two pieces of fabric are joined
+TURNUP | Finished fold at the bottom of a garment
+BODICE | Upper part of a dress or similar garment
+YOKE | Fitted panel supporting another part of a garment
+GRAINLINE | Direction marked to align a pattern with the cloth
+NOTCH | Small mark used to match sewing pieces
+MUSLIN | Plain cotton often used to test a pattern
+TOILE | Trial garment made before cutting final fabric
+FACING | Fabric piece that finishes an opening or edge
+BIAS | Diagonal direction across woven cloth
+PLEAT | Fold pressed or stitched into fabric
+GUSSET | Inserted piece that adds room or strength
+GATHER | Small folds drawn together with a thread
+TUCK | Narrow stitched fold used for shaping or decoration
+ARMHOLE | Opening where a sleeve joins the body
+BUST | Measurement around the fullest part of the chest
+WAIST | Narrow part of the torso used for a garment measure
+ARMCOVER | Garment section covering all or part of an arm
+LINING | Inner layer that covers the inside of a garment
+
+=== Botanical Pressing Workshop | MEDIUM
+HERBARIUM | Collection of dried plants kept for study
+SPECIMEN | Individual plant sample prepared for a collection
+PRESSBOARD | Flat panel used to compress collected plants
+BLOTTER | Absorbent sheet that draws moisture from a sample
+MOUNTING | Attaching a dried plant to archival paper
+FIELDNOTE | Written observation made during a plant survey
+FROND | Large divided leaf of a fern or palm
+PETIOLE | Stalk connecting a leaf blade to its stem
+STAMEN | Pollen-producing part of a flower
+PISTIL | Seed-producing part at the centre of a flower
+BLOOMCLUSTER | Arrangement of several blooms on one plant stem
+SEPAL | Outer floral part that protects a flower bud
+COROLLA | Collective name for a flower's petals
+VEIN | Narrow channel carrying water and nutrients through a leaf
+RHIZOME | Horizontal underground stem that can send up shoots
+PEDICEL | Small stalk holding one flower in a cluster
+COLLECTOR | Person whose name is recorded on a plant sheet
+ARCHIVAL | Made to resist damage during long-term storage
+FOLDER | Paper cover that protects a mounted plant sheet
+TAXONOMY | Science of naming and classifying living things
+
+=== Chocolate Factory Tour | MEDIUM
+COCOAPOD | Fruit that grows on the cacao tree
+CACAO | Plant used to make chocolate
+FERMENT | Process that develops flavor in harvested cacao seeds
+ROAST | Apply dry heat to deepen the flavor of cacao
+WINNOW | Remove the papery husk from roasted pieces
+NIB | Small broken piece of roasted cacao seed
+GRIND | Crush cacao pieces into a thick paste
+CONCHING | Long mixing step that smooths chocolate's texture
+TEMPER | Carefully heat and cool chocolate for a glossy finish
+MOLDBAR | Shape chocolate into a solid block
+GANACHE | Smooth mixture of chocolate and cream
+PRALINE | Sweet filling made with caramelized nuts
+TRUFFLE | Soft chocolate confection often rolled in cocoa
+COUVERTURE | Chocolate rich in cocoa butter for coating sweets
+COCOABUTTER | Pale fat pressed from cacao seeds
+FONDANT | Smooth sugar paste used to fill or coat candy
+ENROBE | Cover a sweet with a thin chocolate layer
+COATING | Outer chocolate layer holding a soft centre
+FILLING | Soft or flavoured centre inside a confection
+MELANGER | Stone grinder used to refine chocolate particles
+
+=== Geothermal Power Station | MEDIUM
+GEOTHERMAL | Heat energy drawn from inside the Earth
+GEYSER | Hot spring that erupts in bursts of water and steam
+VAPOR | Water vapour used to drive a turbine
+BRINE | Salty underground water brought up by a well
+WELLHEAD | Surface equipment at the top of a drilled well
+REINJECTION | Returning cooled water to an underground reservoir
+CONDENSER | Device that turns exhaust vapour back into liquid
+COOLING | Removal of heat from used steam or water
+IMPELLER | Rotating wheel that pushes fluid through pipes
+SILICA | Mineral that can build up inside hot-water equipment
+SCALING | Mineral deposit that narrows pipes and machinery
+AQUIFER | Underground formation holding hot water or steam
+MAGMA | Molten rock beneath Earth's surface
+FAULT | Fracture in rock where blocks may move
+DRAWDOWN | Drop in water level caused by pumping
+DRYROCK | Hot rock with little natural water flow
+FLASH | Process that makes hot pressurized water boil quickly
+SEPARATOR | Vessel that splits steam from hot water
+CASING | Steel lining that supports a drilled well
+THERMOCOUPLE | Sensor that measures temperature at a well
+
+=== Traffic Safety Patrol | MEDIUM
+PEDESTRIAN | Person walking across or beside a road
+CROSSWALK | Marked part of a street reserved for people on foot
+STOPPADDLE | Handheld sign used to halt traffic near a school
+VEST | Bright garment that helps a patrol member be seen
+SIGHTLINE | Clear view needed to judge approaching traffic
+FLASHER | Blinking warning light near a crossing
+CURB | Raised edge separating a sidewalk from the road
+WAITING | Pausing at a safe place before crossing
+VEHICLES | Road users moving along streets and roads
+SCHOOLZONE | Area where drivers must watch for children
+PATROL | Organized group helping people cross safely
+AIRHORN | Small device used to give a sharp warning signal
+TRAFFICLIGHT | Red, amber, or green device controlling an intersection
+LOOKOUT | Person watching for approaching vehicles
+STOPLINE | Painted mark where a vehicle must wait
+CATSEYE | Glass road stud that shines back toward a vehicle's lamps
+SIDEWALK | Paved path beside a street for people on foot
+SAFEGAP | Space in moving traffic large enough to cross
+HANDSIGN | Gesture used to direct a driver or pedestrian
+ITINERARY | Planned way between a home and a school
+
+=== Museum Conservation Lab | MEDIUM
+CONSERVATOR | Specialist who stabilizes and repairs museum objects
+SOLVENT | Liquid used to dissolve a coating or residue
+SWAB | Small absorbent tip used for delicate cleaning
+SPATULA | Flat tool for lifting or spreading material
+ADHESIVE | Substance used to join two surfaces
+CONSOLIDANT | Material applied to strengthen a fragile surface
+FILLER | Material used to replace a small missing area
+MICROSCOPE | Instrument that magnifies tiny surface details
+COLORANT | Colored powder used in paint
+MOISTURE | Amount of water vapour in the surrounding air
+CORROSION | Gradual damage to metal through chemical reaction
+DUSTER | Soft tool used to remove loose dust
+SOLUBILITY | Ability of a substance to dissolve in a liquid
+SWELLING | Increase in size as a material absorbs moisture
+ABRASION | Surface wear caused by rubbing
+PATINA | Surface layer formed as an object ages
+RUST | Reddish corrosion that forms on iron
+VACUUM | Space with very little air pressure
+FUMIGATION | Controlled treatment used to eliminate pests
+OBJECTRECORD | Written and photographic record of an object's condition
+
+=== Veterinary Clinic | MEDIUM
+VETERINARIAN | Doctor who treats animals
+STETHOSCOPE | Instrument used to listen to a heartbeat
+VACCINE | Preparation that trains the body to resist disease
+MICROCHIP | Tiny electronic tag implanted for animal identification
+TETHER | Strap used to guide a dog during a visit
+MUZZLE | Fitted guard that prevents an animal from biting
+CRATE | Enclosed resting space for a dog
+SPECULUM | Tool that gently holds an opening apart for examination
+TEMPPROBE | Instrument that measures body temperature
+DOSAGE | Amount of medicine given at one time
+PRESCRIPTION | Written instruction for a medicine or treatment
+ANTIBIOTIC | Drug used to treat certain bacterial infections
+SEDATIVE | Medicine that calms an animal before a procedure
+BANDAGE | Protective wrap placed over an injury
+SUTURE | Stitch used to close a wound
+CAST | Rigid support protecting a broken bone
+ULTRASOUND | Imaging method that uses high-frequency sound
+RADIOGRAPH | Image made with penetrating rays
+TICK | Small parasite that attaches to an animal's skin
+DEWORMER | Medicine that removes intestinal parasites
+
+=== Passport Control Desk | MEDIUM
+PASSPORT | Official booklet used to prove a traveller's identity
+VISA | Entry permission placed in a travel document
+CUSTOMS | Check of goods carried across a national border
+IMMIGRATION | Control of people entering or leaving a country
+DECLARATION | Form listing items a traveller must report
+ENTRYSEAL | Official mark showing that a document was checked
+ARRIVAL | Act of reaching a destination
+DEPARTURE | Act of leaving a place to begin a journey
+QUEUE | Line of people waiting to be checked
+OFFICER | Official who verifies travellers' documents
+BIOMETRIC | Describes identification based on a body measurement
+FINGERPRINT | Pattern of ridges used to identify a person
+PORTRAIT | Face image printed in a passport
+EXPIRY | End date after which a document is no longer valid
+RENEWAL | Process of replacing an out-of-date document
+TRANSIT | Passage through a country while travelling elsewhere
+RESIDENCE | Place where a traveller normally lives
+ADMISSION | Permission to cross into a country
+EXIT | Official passage out of a country
+MANIFEST | List of passengers or cargo on a journey
+
+=== Rubber Stamp Workshop | MEDIUM
+CARVING | Cutting a design into a soft printing block
+KNOB | Rounded part held in the hand while making an impression
+MOUNT | Base that carries a carved design
+INKPAD | Cushioned surface that holds printing ink
+IMPRESSION | Mark left when a stamp presses against a surface
+RELIEF | Raised design that receives ink
+MIRRORING | Reversing a design so its print reads correctly
+LINOCUT | Printmaking method using a carved sheet of linoleum
+BRAYER | Roller used to spread ink across a flat surface
+BLOCK | Material cut to form a printing design
+TRACE | Move a sketch onto a surface for carving
+OUTLINE | Outer edge of a drawn design
+DETAIL | Small feature added to make an image clearer
+VTOOL | Sharp tool used to cut fine lines in a printing block
+GOUGE | Curved cutting tool used to remove soft material
+DYE | Colored material used to make ink
+SHEET | Thin paper that receives the printed image
+PRESSURE | Force applied to make an even impression
+REGISTRATION | Alignment of separate printed colors or layers
+DRYING | Stage when fresh ink sets on the paper
+
+=== Canal Lock Operation | MEDIUM
+LOCKCHAMBER | Enclosed space where a boat is raised or lowered
+LOCKKEEPER | Worker who operates a canal lock
+MITERGATE | Angled pair of gates that seals a lock chamber
+CULVERT | Covered passage carrying water beneath a path
+PADDLEGATE | Small sluice used to admit or release lock water
+SILL | Raised threshold beneath a lock gate
+POUND | Stretch of canal between two locks
+LOCKAGE | Passage of a boat through a lock
+LIFT | Change in water level that raises a vessel
+LOWER | Change in water level that lets a vessel descend
+LEVEL | Height of the water surface in a canal
+AQUEDUCT | Structure carrying a canal across a valley
+TOWPATH | Track beside a canal once used by towing animals
+UPSTREAM | Direction toward the source of a river
+DOWNSTREAM | Direction toward the river's mouth
+GATELEAF | One hinged section of a lock gate
+HATCH | Small cover over a water-control opening
+BYWASH | Channel carrying excess water around a lock
+WEIR | Low barrier used to control a river's level
+MOORING | Place where a boat is secured beside the water

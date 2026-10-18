@@ -1,0 +1,61 @@
+{
+  "id": "level-361",
+  "title": "Government Cabinet",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "CONSTITUENCY#S#",
+    "O#O###O###O##O#",
+    "MINISTER#CAUCUS",
+    "M#I#A###S#L##P#",
+    "I##OPPOSITION#S",
+    "TIP#####G#T###P",
+    "T##V##CANDIDATE",
+    "EASEL#H#A#O###A",
+    "E##T##A#L#NIB#K",
+    "#QUORUM#####AXE",
+    "S#P#A#B##BILL#R",
+    "T#LCM#E###N#L##",
+    "E#I#PORTFOLIO##",
+    "A#F#######E#TAR",
+    "METEOR#LILT####"
+  ],
+  "clues": {
+    "across": {
+      "1": "Area represented by an elected lawmaker",
+      "6": "Elected or appointed official leading a department",
+      "8": "Meeting of members from one political party",
+      "10": "Parties not currently leading the government",
+      "12": "Extra money given for good service",
+      "14": "Person seeking election to public office",
+      "15": "Stand that holds a picture",
+      "16": "Small broken piece of roasted cacao seed",
+      "18": "Minimum number of members needed to conduct business",
+      "21": "Tool with a sharp metal head for chopping",
+      "23": "Proposed law presented to a legislature",
+      "25": "Smallest positive common multiple of given integers",
+      "26": "Set of responsibilities assigned to a minister",
+      "27": "Sticky substance used to protect seams and rope",
+      "28": "Shooting star",
+      "29": "Bouncy quality created by uneven paired beats"
+    },
+    "down": {
+      "1": "Small group assigned to examine a public issue",
+      "2": "Tropical fruit used in food and traditional remedies",
+      "3": "Front part of a foot",
+      "4": "Government formed by several political parties",
+      "5": "Food served in a bowl and eaten with a spoon",
+      "7": "Covered trench advanced toward a fortification",
+      "9": "Call or sound used to stop a game",
+      "11": "Presiding officer who keeps order in a lower house",
+      "13": "Official rejection of a proposed law",
+      "14": "One of the debating rooms in a legislature",
+      "17": "Paper or electronic form used to cast a vote",
+      "19": "Rise of air forced up a mountainside",
+      "20": "Sloping piece for rolling a toy downward",
+      "22": "Cloud made when heated water turns to gas",
+      "24": "Opening that lets street water enter a drain"
+    }
+  },
+  "order": 361
+}

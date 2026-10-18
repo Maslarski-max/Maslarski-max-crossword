@@ -1,0 +1,58 @@
+{
+  "id": "level-336",
+  "title": "Food Preservation",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "PRESERVE######",
+    "A##W##I###PUP#",
+    "N##I##NIB#I#O#",
+    "T#SMOKE#R#C#T#",
+    "R#E###G#INKPAD",
+    "YEAR##A#N#L#B#",
+    "##L##FREEZE#L#",
+    "###AXE###E##E#",
+    "B####ROVER#O#S",
+    "O##JAM###ORBIT",
+    "U##A#E##D##O#A",
+    "N#TRANSFER#E#M",
+    "C#A##T##A####E",
+    "EAGLE#JUNCTION"
+  ],
+  "clues": {
+    "across": {
+      "1": "Prepare food so it lasts longer",
+      "4": "Young dog with a wagging tail",
+      "6": "Small broken piece of roasted cacao seed",
+      "8": "Treat food with fumes from burning wood",
+      "9": "Cushioned surface that holds printing ink",
+      "10": "Twelve months",
+      "11": "Cool food below its freezing point",
+      "13": "Tool with a sharp metal head for chopping",
+      "15": "Vehicle that explores Mars",
+      "18": "Fruit cooked with sugar until thick",
+      "19": "Path followed by a world as it circles a star",
+      "21": "Movement of genetic material between cells",
+      "22": "Bird on many national emblems",
+      "23": "Box where several electrical wires meet"
+    },
+    "down": {
+      "1": "Place where stored food is kept",
+      "2": "Do the backstroke",
+      "3": "Sour liquid used in pickling",
+      "4": "Food kept in vinegar or brine",
+      "5": "Safe to drink",
+      "7": "Salty water used to preserve food",
+      "8": "Close a container to keep air out",
+      "11": "Let microbes transform food",
+      "12": "Number representing an empty place or quantity",
+      "14": "Spring up from the ground on four feet",
+      "16": "Double-reed woodwind",
+      "17": "Male part of a flower",
+      "18": "Glass container for storing food",
+      "20": "Senior academic who leads a school or faculty",
+      "21": "Chasing game"
+    }
+  },
+  "order": 336
+}

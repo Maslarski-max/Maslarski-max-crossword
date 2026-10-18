@@ -1,39 +1,28 @@
 {
   "id": "medium-01",
-  "title": "Around the World",
+  "title": "Fruit Bowl",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "####TOKYO##",
-    "####O###S##",
-    "#MADRID#L#B",
-    "S###O##ROME",
-    "Y###N#C###R",
-    "D#V#T#A###L",
-    "NAIROBI#D#I",
-    "E#E###R#E#N",
-    "Y#N#SEOUL##",
-    "##N#####H##",
-    "#PARIS#LIMA"
+    "COUNTING",
+    "H######R",
+    "E###B##I",
+    "R###R##D",
+    "ROUTEMAP",
+    "Y###E##L",
+    "####ZETA",
+    "####E##N"
   ],
   "clues": {
     "across": {
-      "1": "Japan's capital",
-      "3": "Spanish capital",
-      "6": "The Eternal City",
-      "9": "Capital of Kenya",
-      "11": "South Korean capital",
-      "12": "City of Light",
-      "13": "Peruvian capital"
+      "1": "Recording each visible streak during an observing session",
+      "4": "Drawing showing the path of a transit line",
+      "5": "Sixth Greek letter"
     },
     "down": {
-      "1": "Canada's largest city",
-      "2": "Norwegian capital",
-      "4": "German capital once divided by a wall",
-      "5": "Australian city with a famous opera house",
-      "7": "City near the Giza pyramids",
-      "8": "Austrian capital famous for waltzes",
-      "10": "Indian city with a \"New\" district"
+      "1": "Small red fruit often found on top of a sundae",
+      "2": "Street layout with roads crossing at right angles",
+      "3": "Gentle moving air"
     }
   },
   "order": 3

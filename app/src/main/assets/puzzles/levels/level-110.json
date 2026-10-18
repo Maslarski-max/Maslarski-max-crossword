@@ -1,36 +1,37 @@
 {
   "id": "level-110",
-  "title": "Playground",
+  "title": "Toy Building Blocks",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#####S#####",
-    "####BALL###",
-    "#####N#A###",
-    "#####D#D##F",
-    "B####P#D##R",
-    "E##SLIDE##I",
-    "N##E#T#ROPE",
-    "C##E######N",
-    "HOPSCOTCH#D",
-    "###A##A####",
-    "##SWING####"
+    "C#PEG#####",
+    "A#L##ROPE#",
+    "STACK##R#T",
+    "T#N#I#ROAR",
+    "L#KILN#L#O",
+    "E###O#CALM",
+    "####W##C#B",
+    "###SAINT#O",
+    "####T##I#N",
+    "##ENTRANCE"
   ],
   "clues": {
     "across": {
-      "2": "Round toy to kick or throw",
-      "6": "Smooth slope you whoosh down",
-      "7": "Skip with it",
-      "8": "Jumping game drawn in chalk",
-      "10": "Seat hung on chains that goes to and fro"
+      "2": "Short pin joining two pieces",
+      "3": "Strong cord used for climbing",
+      "5": "Pile made by placing pieces one above another",
+      "8": "Loud scary noise",
+      "9": "Hot oven for hardening pottery",
+      "10": "Feeling peaceful",
+      "11": "Person honoured for a holy life in Christian tradition",
+      "12": "Opening used to go in or out"
     },
     "down": {
-      "1": "Box of sand for digging",
-      "3": "Steps for climbing up",
-      "4": "Someone you like to play with",
-      "5": "Long seat for parents",
-      "6": "Plank that tips up and down",
-      "9": "Chasing game: you are it"
+      "1": "Fort built from toy pieces",
+      "2": "Long flat piece used as a platform",
+      "4": "Hormone that stimulates milk production",
+      "6": "Unit equal to one thousand watts",
+      "7": "Brass with a slide"
     }
   },
   "order": 110

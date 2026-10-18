@@ -1,42 +1,36 @@
 {
   "id": "level-097",
-  "title": "Physics",
+  "title": "Ice Rink",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "######R#M######",
-    "#I###VELOCITY##",
-    "#N####L#M######",
-    "#E###WAVELENGTH",
-    "#R####T#N######",
-    "#T##FRICTION#E#",
-    "#I##R#V#U##E#N#",
-    "MAGNETISM##W#T#",
-    "####Q#T####T#R#",
-    "##J#U#Y##PHOTON",
-    "##O#E####R#N#P#",
-    "#QUANTUM#I###Y#",
-    "##L#C####S#####",
-    "##E#Y####M#####"
+    "HOCKEY####",
+    "E##N#E#GPS",
+    "LACE#L###C",
+    "M##E#LIANA",
+    "E##P#O#L#N",
+    "T##A#W#B#N",
+    "#EDDIC#U#E",
+    "#####ARMOR",
+    "#####R#E##",
+    "GROUNDING#"
   ],
   "clues": {
     "across": {
-      "4": "Speed in a given direction",
-      "5": "Distance between wave peaks",
-      "6": "Force that resists sliding",
-      "9": "Force around a magnet",
-      "11": "Particle of light",
-      "12": "Smallest discrete unit of energy"
+      "1": "Team game played with sticks on ice",
+      "4": "U.S. satellite navigation system",
+      "6": "Cord threaded through a skate",
+      "7": "Woody climbing vine",
+      "9": "Relating to old Norse mythological or heroic poems",
+      "10": "Protective metal clothing worn by a warrior",
+      "11": "Safe path that carries fault current into the earth"
     },
     "down": {
-      "1": "Einstein's theory",
-      "2": "Mass times velocity",
-      "3": "Resistance to change in motion",
-      "6": "Number of cycles per second",
-      "7": "Unit of force",
-      "8": "Measure of disorder",
-      "10": "Unit of energy",
-      "11": "It splits white light"
+      "1": "Hard head covering for safety",
+      "2": "Cushion strapped over a leg joint",
+      "3": "Caution shown by the referee",
+      "5": "Machine that records images inside a patient's body",
+      "8": "Clear part surrounding an egg's centre"
     }
   },
   "order": 97

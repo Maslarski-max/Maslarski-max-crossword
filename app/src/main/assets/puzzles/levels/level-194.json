@@ -1,36 +1,45 @@
 {
   "id": "level-194",
-  "title": "Campfire Tales",
+  "title": "Sock Drawer",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#######C###",
-    "####T##A###",
-    "####E##N###",
-    "#F##N##D###",
-    "#L#STORY###",
-    "CAMP####N##",
-    "#M#A####I#S",
-    "BEDROLL#G#T",
-    "###K#O##H#A",
-    "#####GUITAR",
-    "##########S"
+    "KNEEHIGH#ASH",
+    "#E#####O#R#Y",
+    "#ETHOS#L#O#P",
+    "#D###TOE#M#O",
+    "CLUEDO###A#T",
+    "#E###CUFF##H",
+    "S##A#K###RNA",
+    "T#TRAINER##L",
+    "R##G#N##O##A",
+    "A##Y#G#ALARM",
+    "WOOL####L##U",
+    "###EARTH###S"
   ],
   "clues": {
     "across": {
-      "4": "Tale told for fun",
-      "5": "Temporary place to sleep outdoors",
-      "8": "Padded cover for sleeping outside",
-      "10": "Stringed instrument used for songs"
+      "1": "Long sock that reaches the knee",
+      "4": "Fine grey dust from an eruption",
+      "6": "Appeal based on a speaker's credibility",
+      "8": "Front part of a foot",
+      "9": "Murder mystery game",
+      "10": "Top edge of a sock around the ankle",
+      "13": "Molecule used to carry or act on genetic information",
+      "14": "Soft athletic shoe",
+      "16": "Loud signal that warns or wakes someone",
+      "17": "Warm fibre clipped from a sheep",
+      "18": "Planet on which people live"
     },
     "down": {
-      "1": "Soft sweet treat often toasted over a fire",
-      "2": "Portable shelter made from fabric",
-      "3": "Bright hot part of a fire",
-      "4": "Tiny glowing piece from a fire",
-      "6": "Dark time after sunset",
-      "7": "Bright points seen in the night sky",
-      "9": "Thick piece of cut wood"
+      "2": "Thin pointed leaf of a pine",
+      "3": "Opening where fabric has worn away",
+      "4": "Pleasant smell drifting through a room",
+      "5": "Brain region linking nervous and hormone control",
+      "7": "Long close-fitting leg covering",
+      "11": "Thin tube used for sipping",
+      "12": "Diamond pattern often knitted into socks",
+      "15": "Shape a sock into a compact ball"
     }
   },
   "order": 194

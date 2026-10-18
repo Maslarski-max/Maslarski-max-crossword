@@ -1,42 +1,38 @@
 {
   "id": "level-127",
-  "title": "Renaissance",
+  "title": "Paper Airplanes",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#######M######M",
-    "##HUMANISM####E",
-    "#######C######D",
-    "####MACHIAVELLI",
-    "#######E######C",
-    "#######L#D####I",
-    "###SFUMATO##G##",
-    "##R#L##N#N##U##",
-    "##A#O##G#A##T##",
-    "##PERSPECTIVE#P",
-    "##H#E##L#E##N#A",
-    "##A#N##O#L##B#T",
-    "FRESCO###L##E#R",
-    "##L#E##LEONARDO",
-    "############G#N"
+    "C###CREASE",
+    "RAFT###I#D",
+    "O#L##G#RAG",
+    "SPIRAL#F#E",
+    "S#G##I#O##",
+    "W#HEADWIND",
+    "I#T##E#L#A",
+    "N###A####R",
+    "D###THRUST",
+    "#JUMP#####"
   ],
   "clues": {
     "across": {
-      "3": "Philosophy centred on human potential",
-      "4": "Author of The Prince",
-      "6": "Soft blending of tones",
-      "10": "Technique for depth on a flat surface",
-      "12": "Painting on wet plaster",
-      "13": "Painter of the Mona Lisa"
+      "2": "Sharp line left in folded paper",
+      "5": "Flat floating platform for a river trip",
+      "8": "Cloth used for wiping",
+      "9": "Twisting path through the sky",
+      "10": "Wind blowing toward the front of a light flier",
+      "13": "Push that sends a craft forward",
+      "14": "Push off the ground and land again"
     },
     "down": {
-      "1": "Sculptor of David",
-      "2": "Banking family of patrons",
-      "5": "Early sculptor of a bronze David",
-      "7": "Tuscan cradle of the movement",
-      "8": "Inventor of the printing press",
-      "9": "Painter of The School of Athens",
-      "11": "Wealthy sponsor of art"
+      "1": "Sideways wind that can push a light flier off course",
+      "3": "Curved surface that helps a wing create lift",
+      "4": "Folded part stitched at the bottom",
+      "6": "Trip through the air",
+      "7": "Move smoothly through the air",
+      "11": "Narrow model made for a quick throw",
+      "12": "Cell's main short-term energy-carrying molecule"
     }
   },
   "order": 127

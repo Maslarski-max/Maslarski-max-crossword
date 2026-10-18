@@ -1,0 +1,439 @@
+=== Phoenician Alphabet | HARD
+ABJAD | Writing system in which most signs stand for consonants
+PHOENICIAN | Member of an ancient seafaring people of the Levant
+BYBLOS | Port city linked to early alphabetic writing
+TYRE | Phoenician island city known for its purple dye
+SIDON | Ancient port north of Tyre
+MUREX | Sea snail used to produce a prized purple colour
+PURPLE | Dye colour associated with Phoenician trade
+ALEPH | First letter in the traditional Hebrew alphabet
+BETH | Second letter in the traditional Hebrew alphabet
+GIMEL | Third letter in the traditional Hebrew alphabet
+DALET | Fourth letter in the traditional Hebrew alphabet
+EPIGRAPH | Short text carved or written on a lasting surface
+PAPYRUS | Writing material made from a river plant
+SCRIBE | Trained person who copied or composed written records
+GRAPHEME | Written sign representing a sound in an alphabet
+CONSONANT | Speech sound made with a narrowing or closure
+VOWEL | Speech sound made without blocking the airflow
+ARAMAIC | Semitic language that later spread widely in the region
+CARTHAGE | Phoenician-founded city in North Africa
+ALPHABET | Ordered set of symbols used to write a language
+
+=== Hellenistic Sculpture | HARD
+LAOCOON | Trojan priest shown in a famous marble group
+NIKE | Winged goddess often shown as a figure of victory
+APHRODITE | Greek goddess represented in many statues
+BRONZE | Metal cast for statues and other artworks
+MARBLE | Stone prized for carving detailed figures
+REALISM | Style that shows age, emotion, or physical detail
+BUST | Sculpture showing a person's head and shoulders
+DRAPERY | Folded cloth represented on a carved figure
+CONTRAPPOSTO | Pose with weight on one leg and the body turned
+IDEALISM | Style that presents a perfected form or figure
+SCULPTOR | Artist who carves or models a three-dimensional work
+PERGAMON | Ancient city known for a dramatic altar frieze
+ALTAR | Raised structure used for a religious offering
+RELIEF | Carving in which forms project from a flat background
+MOTIF | Repeated visual element within an artwork
+PRAXITELES | Greek sculptor associated with graceful marble figures
+APOLLO | Greek god often shown as a youthful figure
+TORSO | Trunk of a body without the head or limbs
+PLINTH | Base that supports a statue
+FRIEZE | Horizontal band of sculpted decoration
+
+=== Edo Period Japan | HARD
+TOKUGAWA | Family that ruled Japan during the Edo period
+SHOGUN | Military ruler who governed in the emperor's name
+BAKUFU | Military government led by the shogun
+DAIMYO | Powerful regional lord who served under the shogun
+SAMURAI | Member of Japan's warrior class
+RONIN | Samurai without a lord or master
+EDO | Former name of the city now called Tokyo
+TOKYO | Modern name for Japan's former shogunal capital
+SAKOKU | Term for Japan's restricted foreign relations policy
+KABUKI | Popular Japanese theatre with stylized acting
+UKIYOE | Woodblock-print art depicting scenes of everyday life
+HAIKU | Short poem traditionally arranged in three lines
+KIMONO | T-shaped robe worn in traditional Japanese dress
+WOODBLOCK | Carved surface used to print an image on paper
+SHINTO | Japanese religious tradition centred on kami
+BUSHIDO | Code associated with the conduct of samurai
+CASTLE | Fortified residence of a regional lord
+RICE | Staple grain grown throughout Japan
+GEISHA | Skilled entertainer trained in traditional arts
+HIKONE | Japanese castle town associated with a preserved fortress
+
+=== Roman Concrete | HARD
+POZZOLAN | Volcanic ash used to make a durable Roman mortar
+AGGREGATE | Sand or stone mixed into a cementing material
+LIME | Binder produced by heating limestone
+MORTAR | Mixture that binds stones or bricks together
+PANTHEON | Roman temple famous for its concrete dome
+VOUSSOIR | Wedge-shaped stone used to build a masonry span
+VAULT | Arched ceiling built from masonry or concrete
+HYDRAULIC | Describes a binder that can harden under water
+TUFF | Soft rock formed from compacted volcanic ash
+PUMICE | Light volcanic rock sometimes used in concrete
+RUBBLE | Irregular broken stone used as building fill
+FORMWORK | Temporary mould that holds fresh concrete in shape
+CAST | Shape made by pouring material into a mould
+PIER | Support that carries an arch or bridge
+SLURRY | Flowing mixture of liquid and fine solid material
+CURE | Allow a material to harden and gain strength
+BINDER | Material that holds the parts of a mixture together
+VITRUVIUS | Roman author who described building materials
+OPUS | Latin term used in names for Roman building techniques
+MARINE | Describes concrete exposed to seawater
+
+=== Viral Diagnostics | HARD
+AMPLIFY | Increase the number of copies of a selected DNA segment
+PRIMER | Short nucleic acid strand that starts a copying reaction
+AMPLICON | DNA product created by an amplification reaction
+ASSAY | Laboratory test used to detect or measure a target
+REFERENCE | Sample used to check a test result
+SAMPLE | Material collected for laboratory examination
+SWAB | Soft-tipped stick used to collect a specimen
+SERUM | Liquid part of blood after clotting
+SEROLOGY | Study or testing of antibodies in blood serum
+SEQUENCING | Reading the order of bases in genetic material
+VIRALLOAD | Amount of virus measured in a sample
+POLYMERASE | Enzyme that builds a nucleic acid strand
+PROBE | Labelled strand that binds to a matching sequence
+CONTAMINANT | Unwanted material that can distort a laboratory result
+ELISA | Plate-based test that can detect antibodies or antigens
+FLUORESCENT | Describes a signal that glows under suitable light
+MICROSCOPY | Examination of a specimen with a microscope
+REAGENT | Chemical used to produce or measure a reaction
+DIAGNOSIS | Identification of a disease from available evidence
+RTPCR | Test method that first converts RNA into DNA
+
+=== Paleobotany | HARD
+PALEOBOTANY | Study of fossil plants and their history
+SPORE | Reproductive cell preserved in some ancient sediments
+POLLEN | Fine grains that can reveal past vegetation
+FOSSIL | Preserved remains or trace of an ancient organism
+IMPRESSION | Mark left when a plant is pressed into sediment
+COMPRESSED | Flattened and preserved within a rock layer
+PETRIFIED | Turned to stone through mineral replacement
+CHARCOAL | Carbon-rich remains of burned plant material
+STOMATA | Tiny pores that regulate gas exchange in a leaf
+CUTICLE | Waxy outer layer that protects a plant surface
+XYLEM | Plant tissue that carries water upward
+PHLOEM | Plant tissue that carries sugars through a plant
+CONIFER | Cone-bearing tree represented in many fossil records
+CYCAD | Palm-like seed plant that flourished long ago
+GINKGO | Tree lineage with distinctive fan-shaped leaves
+FERN | Plant that reproduces by spores rather than seeds
+FOLIAGE | Collective term for a plant's leaves
+SEED | Structure that contains a young plant and its food supply
+ANNUALBAND | Growth band that can be counted in fossil wood
+PALM | Tropical plant whose fossil pollen can reveal ancient climates
+
+=== Classical Rhetoric | HARD
+RHETORIC | Art of speaking or writing persuasively
+ETHOS | Appeal based on a speaker's credibility
+PATHOS | Appeal to an audience's feelings
+LOGOS | Appeal built from reasoning and evidence
+ANAPHORA | Repetition of a word or phrase at successive beginnings
+CHIASMUS | Reversal of grammatical order in paired phrases
+ALLUSION | Indirect reference to a known person, story, or event
+METAPHOR | Comparison that speaks of one thing as another
+HYPERBOLE | Deliberate exaggeration used for emphasis
+SYLLOGISM | Argument with two premises and a conclusion
+ENTHYMEME | Argument that leaves one premise unstated
+DIALECTIC | Method of reasoning through question and response
+ORATOR | Skilled public speaker
+EXORDIUM | Opening section that introduces a formal speech
+NARRATION | Part of a speech that lays out relevant facts
+PROOF | Evidence and reasoning offered to support a case
+REFUTATION | Reply that attempts to defeat an opposing argument
+EPILOGUE | Concluding passage that follows the main discussion
+CICERO | Roman statesman famous for his speeches
+CLAUSE | Group of words containing a subject and a verb
+
+=== Gold Mining | HARD
+GOLD | Yellow precious metal sought by miners
+MINER | Worker who digs for valuable material underground
+ORE | Rock containing a useful mineral or metal
+SHAFT | Deep passage dug down into the earth
+TUNNEL | Underground passage cut through rock
+PICKAXE | Hand tool with a pointed metal head for breaking rock
+SHOVEL | Tool used to move loose earth
+CART | Small vehicle used to carry rock from a mine
+HELMET | Hard hat worn to protect a worker's head
+LANTERN | Portable light used in a dark passage
+CLAIM | Area of land a prospector marks to search for ore
+NUGGET | Small natural lump of precious metal
+PANNING | Washing gravel in a shallow dish to find gold
+RIVER | Flowing water where prospectors may search for gold
+VEIN | Narrow band of minerals within rock
+DUST | Fine particles raised while rock is broken
+SCALE | Instrument used to weigh a small amount of metal
+PROSPECTOR | Person who searches for valuable minerals
+SLUICE | Channel that carries water and gravel past a screen
+ROCK | Hard natural material that forms the ground
+
+=== Ancient Shipbuilding | HARD
+KEEL | Strong central beam running along the bottom of a hull
+HULL | Watertight body of a vessel
+RIB | Curved frame supporting the sides of a ship
+PLANK | Long board fitted along a vessel's outer surface
+CAULKING | Sealing gaps between planks to keep water out
+OAR | Long pole used to propel a boat by rowing
+SAIL | Fabric surface that catches the wind
+MAST | Upright pole that supports a sail
+RUDDER | Steering surface fitted at the rear of a vessel
+TAR | Sticky substance used to protect seams and rope
+TRIREME | Ancient warship rowed by three banks of oars
+GALLEY | Long vessel powered chiefly by rowers
+PROW | Forward end of a ship
+STERN | Rear end of a ship
+SHIPWRIGHT | Craftsperson who builds or repairs vessels
+PEG | Small wooden pin used to join planks or frames
+CORDAGE | Rope and line used aboard a vessel
+ROWLOCK | Fitting that holds an oar against a boat's side
+BATTEN | Temporary strip used to shape a vessel's frames
+SHIPYARD | Place where boats or ships are built
+
+=== Number Theory | HARD
+PRIME | Number with exactly two positive divisors
+FACTOR | Number that divides another without a remainder
+DIVISOR | Integer that divides a number evenly
+MODULAR | Relating to arithmetic with remainders
+RESIDUE | Remainder left after division by a fixed modulus
+THEOREM | Statement proved using logical reasoning
+CONGRUENCE | Relation between integers with equal remainders
+ALIQUOT | Part of a number that divides it exactly
+PERFECT | Number equal to the sum of its proper divisors
+COMPOSITE | Integer with more than two positive divisors
+INTEGER | Whole number that may be positive, negative, or zero
+NATURAL | Number from the counting sequence
+PARITY | Property of being even or odd
+EUCLID | Mathematician whose name is given to an ancient algorithm
+LEMMA | Proven result used to establish a larger theorem
+ERATOSTHENES | Greek mathematician whose sieve can find prime numbers
+TOTIENT | Count of positive integers coprime to a given number
+GCD | Greatest common divisor of two or more integers
+LCM | Smallest positive common multiple of given integers
+DIOPHANTINE | Describes an equation whose solutions are integers
+
+=== Heat and Energy | HARD
+HEAT | Energy transferred from a warmer object to a cooler one
+ENERGY | Capacity to make things move or change
+STEAM | Water vapour made by boiling liquid water
+BOIL | Heat a liquid until bubbles rise throughout it
+FREEZE | Change a liquid into a solid by cooling it
+MELT | Change a solid into a liquid through warming
+FRICTION | Force that resists movement between touching surfaces
+FUEL | Material burned to release useful energy
+FIRE | Hot glowing gases from burning material
+ENGINE | Machine that turns heat or fuel into motion
+KETTLE | Vessel used to heat water for a drink
+FLAME | Visible part of a fire
+COAL | Black rock burned as a fuel
+CONDUCTION | Transfer of heat through direct contact
+SUN | Star that warms Earth's surface
+RADIATOR | Household device that warms a room
+INSULATE | Protect a home from losing heat
+WARMTH | Comfortable heat in a room or object
+POWER | Rate at which energy is transferred or used
+TEMPERATURE | Measure of how hot or cold something is
+
+=== Bread Making | HARD
+FLOUR | Powder made by grinding grain
+YEAST | Tiny living organism that makes bread dough rise
+DOUGH | Soft mixture of flour and liquid ready for baking
+BRIOCHE | Rich, soft bread made with eggs and butter
+CIABATTA | Italian bread named for its slipper-like shape
+LOAF | Shaped mass of bread
+OVEN | Heated box used for baking
+KNEAD | Work dough by folding and pressing it
+RISE | Grow larger as yeast makes gas in a dough
+CRUST | Firm outer surface of a baked loaf
+CRUMB | Soft inside part of a loaf
+BAKER | Person who makes bread and other baked food
+FOCACCIA | Italian flatbread seasoned with olive oil and herbs
+PROOF | Let shaped dough rest before baking
+SCORING | Making shallow cuts across dough before baking
+GLUTEN | Protein that gives kneaded dough its stretch
+FERMENT | Change caused by yeast as it feeds on sugar
+SUGAR | Sweet ingredient that can feed yeast
+BUN | Small round piece of bread, often served individually
+SLICE | Thin piece cut from a loaf
+
+=== Medicine Cabinet | HARD
+PILL | Small solid piece of medicine swallowed whole
+TABLET | Pressed dose of medicine that dissolves in the body
+CAPSULE | Medicine enclosed in a small shell
+DOSE | Measured amount of medicine taken at one time
+LABEL | Printed directions attached to a medicine container
+BOTTLE | Container that holds a liquid medicine
+SYRUP | Sweet liquid medicine
+OINTMENT | Thick medicine spread on the skin
+CREAM | Soft preparation rubbed onto the body
+BANDAGE | Strip of cloth used to cover a wound
+THERMOMETER | Instrument used to measure body temperature
+PRESCRIPTION | Written order for medicine from a health professional
+PHARMACY | Shop where medicines are prepared and sold
+DOCTOR | Medical professional who diagnoses and treats illness
+NURSE | Health worker who cares for patients
+ALLERGY | Harmful or uncomfortable reaction to a substance
+MEDICINE | Substance used to prevent or treat illness
+PAINKILLER | Drug taken to reduce pain
+VITAMIN | Nutrient needed in small amounts for health
+EXPIRY | Date after which medicine should not be used
+
+=== Roman Daily Life | HARD
+ROME | Capital of an ancient empire on the Tiber River
+CAESAR | Family name of a famous Roman ruler
+SENATE | Council of elected or appointed Roman leaders
+EMPEROR | Supreme ruler of the Roman Empire
+LEGION | Large unit of soldiers in the Roman army
+SOLDIER | Person trained to fight in an army
+LATIN | Language spoken by ancient Romans
+FORUM | Public square used for business and civic events
+COLOSSEUM | Famous arena in Rome where public events were held
+AQUEDUCT | Structure that carried water into a Roman city
+TEMPLE | Building dedicated to a god or gods
+TOGA | Loose garment worn by Roman citizens
+CITIZEN | Person with legal rights in a state
+SANDAL | Open shoe held to the foot by straps
+EMPIRE | Group of lands ruled by one authority
+BASILICA | Large public hall used for legal or civic business in a Roman city
+CONSUL | One of two senior officials in the Roman Republic
+GLADIATOR | Fighter who took part in arena contests
+REPUBLIC | State whose leaders are chosen rather than inheriting a crown
+TUNIC | Simple garment worn under a toga
+
+=== Light and Lenses | HARD
+LENS | Curved transparent object that focuses or spreads light
+PRISM | Transparent solid that bends and separates light
+REFRACTION | Change in direction as light passes between materials
+TELESCOPE | Instrument that makes distant objects appear closer
+MICROSCOPE | Instrument that enlarges objects too small to see clearly
+MIRROR | Smooth surface that reflects an image
+GLASS | Clear material used to make many lenses
+WAVE | Disturbance that can carry energy through space or matter
+RAY | Idealized straight path followed by light
+SPECTRUM | Band of colours seen when white light is separated
+REFLECTANCE | Fraction of incoming light reflected by a surface
+MAGNIFY | Make an image appear larger
+FOCUS | Bring light rays together to form a clear image
+REFLECT | Send light back from a surface
+CAMERA | Device that forms an image from incoming light
+SHADOW | Dark shape made when an object blocks light
+EYE | Organ that detects light and forms a visual signal
+COLOUR | Appearance of light such as red, green, or blue
+IMAGE | Picture formed by reflected or focused light
+DIFFRACTION | Spreading of light waves around an obstacle or through a narrow opening
+
+=== Ancient Farming | HARD
+FARMER | Person who grows crops or raises animals
+GRAIN | Seed crop used to make flour or porridge
+WHEAT | Grain ground into flour for bread
+BARLEY | Hardy grain often grown in ancient fields
+MAIZE | Tall grain crop with kernels on a cob
+BEAN | Seed grown as a food crop
+SQUASH | Garden crop with a thick rind and edible flesh
+PLOW | Tool used to open soil before planting
+HARVEST | Gathering crops when they are ready
+SEED | Part of a plant that can grow into a new one
+CROP | Plant grown for food or another useful product
+FIELD | Open area of land used for growing crops
+BULL | Strong farm animal once used to pull a plow
+CANAL | Waterway built to carry water to fields
+TERRACE | Level planting area built into a slope
+MILL | Building where grain is ground into flour
+GRANARY | Storehouse for harvested grain
+FERTILE | Describes soil that supports healthy plant growth
+FURROW | Shallow trench made for planting or guiding water
+REAP | Gather a crop that has finished growing
+
+=== Medieval Mathematics | HARD
+ALGEBRA | Branch of mathematics that uses symbols and equations
+NUMBER | Symbol or word expressing an amount
+ZERO | Number that represents no amount
+DECIMAL | Number system based on groups of ten
+DIGIT | One of the symbols from zero through nine
+FRACTION | Number representing part of a whole
+SUM | Result found by adding numbers
+DIFFERENCE | Result found by subtracting one number from another
+MULTIPLY | Find the product of two numbers
+DIVIDE | Split a quantity into equal parts
+EQUATION | Statement showing that two amounts are equal
+GEOMETRY | Study of shapes, sizes, and spatial relationships
+TRIANGLE | Shape with three straight sides
+CIRCLE | Round plane shape with every edge point equally distant from its centre
+DEGREE | Unit used to measure the size of an angle
+SPHERE | Perfectly round three-dimensional surface
+ASTRONOMY | Study of objects and motion in the sky
+TABLE | Organized rows of values used to look up results
+SCHOLAR | Person who studies a subject deeply
+MANUSCRIPT | Handwritten book or document
+
+=== Human Heart | HARD
+HEART | Muscular organ that sends blood around the body
+CHAMBER | One of the hollow spaces inside the heart
+AORTA | Largest artery carrying blood away from the heart
+VALVE | Flap that keeps blood moving in the proper direction
+CAPILLARY | Tiny vessel where gases and nutrients are exchanged
+ARTERY | Vessel carrying blood away from the heart
+VEIN | Vessel returning blood toward the heart
+PULSE | Pressure wave felt as the heart pumps
+BEAT | One contraction of the heart muscle
+RHYTHM | Regular pattern of the heart's contractions
+BLOOD | Red fluid that carries oxygen and nutrients
+PLASMA | Liquid part of blood that carries cells and dissolved substances
+HEMOGLOBIN | Protein in red blood cells that binds oxygen
+PACEMAKER | Device that helps maintain a steady heartbeat
+CIRCULATION | Movement of blood through the body
+PUMP | Machine or organ that moves fluid through a system
+HEARTBEAT | One complete cycle of heart contraction and relaxation
+OXYGEN | Gas carried from the lungs to the body's tissues
+MUSCLE | Tissue that contracts to create movement
+STETHOSCOPE | Instrument a clinician uses to listen to a heartbeat
+
+=== Ocean Depths | HARD
+DEEPSEA | Part of the ocean far below the sunlit surface
+OCEAN | Vast body of salt water
+WATER | Clear liquid that covers much of Earth's surface
+DIVEBOAT | Small craft that carries people to an underwater dive site
+PRESSURE | Force exerted by water on objects far below the surface
+SHARK | Large fish with rows of sharp teeth
+SQUID | Sea animal with a soft body and long arms
+OCTOPUS | Sea animal with eight arms and a rounded head
+CRAB | Sea creature with a hard shell and pincers
+SHRIMP | Small sea animal often eaten as food
+WHALE | Large marine mammal that breathes air
+SPONGE | Simple sea animal with a porous body
+DEEPWATER | Sea far below the sunlit surface
+ANGLER | Deep-sea fish with a glowing lure
+JELLYFISH | Soft marine animal with trailing tentacles
+SEAWEED | Plantlike growth found in the sea
+PLANKTON | Tiny drifting organisms that many sea animals eat
+TRENCH | Long, deep valley on the ocean floor
+GLOW | Soft light made by some deep-sea animals
+DIVER | Person who swims underwater using special equipment
+
+=== Ancient Metalwork | HARD
+BRONZE | Alloy made mainly from copper and tin
+COPPER | Reddish metal used in early tools and ornaments
+TIN | Soft metal mixed with copper to make bronze
+METAL | Strong material that conducts heat and electricity
+ALLOY | Mixture of metals or a metal with another element
+SMELTING | Heating ore to extract its metal
+FOUNDRY | Workshop where metal is melted and cast
+CRUCIBLE | Heat-resistant vessel used to melt a metal charge
+CASTING | Making an object by pouring liquid metal into a mould
+CAVITY | Hollow space that gives a cast object its shape
+INGOT | Block of metal made for storage or trade
+ANVIL | Block that supports metal while it is shaped
+HAMMER | Tool used to strike and shape metal
+SLAG | Waste material separated from molten metal
+FURNACE | Enclosed structure built to reach high temperatures
+CHARCOAL | Fuel made by heating wood with little oxygen
+JEWELRY | Decorative objects made from metal or gems
+ARMOR | Protective metal clothing worn by a warrior
+ORE | Rock from which useful metal can be extracted
+PATINA | Surface layer that forms as copper alloys age

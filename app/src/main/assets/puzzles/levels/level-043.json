@@ -1,39 +1,30 @@
 {
   "id": "level-043",
-  "title": "Science Lab",
+  "title": "Busy Bees",
   "author": "Crossword Team",
-  "difficulty": "MEDIUM",
+  "difficulty": "EASY",
   "grid": [
-    "###M#M######",
-    "#GRAVITY####",
-    "###G#C######",
-    "##ENERGY##F#",
-    "###E#O####O#",
-    "VOLT#S####S#",
-    "#X###CELL#S#",
-    "#Y###O##ACID",
-    "#G###P##S#L#",
-    "#E##BEAKER##",
-    "#N####T#R###",
-    "######O#####",
-    "######M#####"
+    "NOSEFOLD",
+    "E###E##O",
+    "C###N##C",
+    "TWINE##K",
+    "A###S##I",
+    "R#BATTEN",
+    "##A#R##G",
+    "KEYCASE#"
   ],
   "clues": {
     "across": {
-      "3": "Force that makes apples fall",
-      "4": "Capacity to do work",
-      "6": "Unit of electrical potential",
-      "8": "Basic unit of life",
-      "10": "Lemon juice is one",
-      "11": "Glass cup for experiments"
+      "1": "Pointed front section shaped from the sheet",
+      "4": "Strong thin string for tying a parcel",
+      "5": "Narrow strip fixed across boards or over a joint",
+      "6": "Folded holder that keeps keys covered in a pocket"
     },
     "down": {
-      "1": "It attracts iron",
-      "2": "It makes tiny things look big",
-      "5": "Ancient remains in rock",
-      "7": "Gas we breathe to live",
-      "9": "Narrow beam of intense light",
-      "12": "Smallest unit of an element"
+      "1": "Sweet liquid in flowers",
+      "2": "Small opening in a capillary lining",
+      "3": "Joining of two spacecraft",
+      "5": "Marked space where a vehicle can be left"
     }
   },
   "order": 43

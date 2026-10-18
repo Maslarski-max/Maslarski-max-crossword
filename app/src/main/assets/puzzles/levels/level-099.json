@@ -1,42 +1,36 @@
 {
   "id": "level-099",
-  "title": "Mountaineering",
+  "title": "Fishing Pier",
   "author": "Crossword Team",
-  "difficulty": "HARD",
+  "difficulty": "EASY",
   "grid": [
-    "#####ICEAXE####",
-    "####A#A########",
-    "###EVEREST#####",
-    "####A#A#H######",
-    "####L#B#E##B###",
-    "##GLACIER##A##O",
-    "#A##N#N#P##S##X",
-    "#L##CREVASSE##Y",
-    "#T##H#R####C##G",
-    "RIDGE######A##E",
-    "#T######CRAMPON",
-    "SUMMIT#####P###",
-    "#D#############",
-    "BELAY##########"
+    "TIDE##WIG#",
+    "H#E##M#N#G",
+    "O#P##U#J#A",
+    "R#OINTMENT",
+    "##L##A#C#E",
+    "CLARINET##",
+    "##R##T#INK",
+    "##I####O#A",
+    "#TZOLKIN#M",
+    "##E######A"
   ],
   "clues": {
     "across": {
-      "1": "Climber's pick",
-      "4": "Highest mountain on Earth",
-      "7": "River of ice",
-      "10": "Deep crack in a glacier",
-      "11": "Narrow crest of a mountain",
-      "12": "Spiked boot attachment for ice",
-      "13": "Peak of a mountain",
-      "14": "Secure a climbing rope"
+      "1": "Regular rise and fall of the sea",
+      "3": "Artificial hair worn on the head",
+      "7": "Thick medicine spread on the skin",
+      "8": "Single-reed woodwind",
+      "9": "Colored liquid used by a pen",
+      "11": "Sacred cycle of 260 days"
     },
     "down": {
-      "2": "Metal clip for ropes",
-      "3": "Snow slide",
-      "5": "Himalayan guide",
-      "6": "Starting point of an ascent",
-      "8": "Thin at high altitude",
-      "9": "Height above sea level"
+      "1": "Norse god with a hammer",
+      "2": "Make a cell's interior less negative",
+      "4": "Transfer of viral genetic material into a host",
+      "5": "Organism or virus with a changed genetic sequence",
+      "6": "Processor that lowers sound below a set level",
+      "10": "Iron kettle used to heat water"
     }
   },
   "order": 99

@@ -1,36 +1,44 @@
 {
   "id": "level-189",
-  "title": "Home Sewing Box",
+  "title": "Snow Shovel",
   "author": "Crossword Team",
   "difficulty": "EASY",
   "grid": [
-    "#####S##N#",
-    "#T###C##E#",
-    "#H##ZIPPER",
-    "PIN##S##D#",
-    "#M###S##L#",
-    "#BUTTON#E#",
-    "#L#H#R#P##",
-    "#E#R#SEAM#",
-    "###E###T##",
-    "##FABRIC##",
-    "###D###HEM"
+    "SNOWPLOW##H",
+    "N###A###EDO",
+    "O#D#TOGA##L",
+    "W#R#H###ACE",
+    "DRIP#M###Y#",
+    "R#V##I#CAT#",
+    "ICEPATCH#O#",
+    "F#W##T#INK#",
+    "T#A#HEAL#I#",
+    "#RYE#N#LINE",
+    "#####SOY#E#"
   ],
   "clues": {
     "across": {
-      "4": "Fastener with interlocking teeth",
-      "5": "Sharp fastener with a small head",
-      "6": "Small fastener sewn onto a garment",
-      "9": "Line where two pieces of cloth are joined",
-      "10": "Cloth used to make clothing",
-      "11": "Folded edge at the bottom of a garment"
+      "1": "Vehicle fitted with a blade to clear roads",
+      "4": "Former name of the city now called Tokyo",
+      "6": "Roman robe",
+      "7": "Highest card in many games",
+      "9": "Drop that falls from a melting snack",
+      "11": "Pet that purrs",
+      "12": "Small area of frozen water on the ground",
+      "13": "Colored liquid used by a pen",
+      "14": "Recover from a wound or illness",
+      "15": "Dark grain for bread",
+      "16": "Long narrow mark made across a surface",
+      "17": "Plant source for some candle wax"
     },
     "down": {
-      "1": "Tool with two blades for cutting",
-      "2": "Slender tool used for stitching",
-      "3": "Cap that protects a finger while sewing",
-      "7": "Fine strand drawn through cloth",
-      "8": "Small piece of cloth covering a tear"
+      "1": "Deep bank formed by windblown snow",
+      "2": "Narrow way cleared through a yard",
+      "3": "Opening where fabric has worn away",
+      "5": "Private road from a home to the street",
+      "8": "Signal protein that helps immune cells communicate",
+      "10": "Warm hand coverings with a shared finger space",
+      "11": "Uncomfortably cold"
     }
   },
   "order": 189

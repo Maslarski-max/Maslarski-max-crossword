@@ -1,0 +1,56 @@
+{
+  "id": "level-303",
+  "title": "Chocolate Chemistry",
+  "author": "Crossword Team",
+  "difficulty": "MEDIUM",
+  "grid": [
+    "CRYSTAL##SCENT",
+    "O###E#####A###",
+    "C##IMMIGRATION",
+    "ODE#P#N#E#S#N#",
+    "A###E#G#S#EDIT",
+    "BUSPRIORITY#O#",
+    "U#I###T#D#E#N#",
+    "TETHER#CUE#USB",
+    "T##I##C#E#Y#K#",
+    "EMULSION##A#I#",
+    "R##L##N#STRING",
+    "##GANACHE#D##R",
+    "###R##H#A####O",
+    "XRAY#MELT##PAW"
+  ],
+  "clues": {
+    "across": {
+      "1": "Solid with an ordered internal structure",
+      "3": "Smell added to a bath product",
+      "5": "Control of people entering or leaving a country",
+      "9": "Formal poem of praise or reflection",
+      "10": "Remove or rearrange parts of an audio program",
+      "11": "Signal timing that helps transit vehicles move first",
+      "13": "Cord keeping a floating object from drifting away",
+      "15": "Signal to start a change or action",
+      "16": "Common connector type for small electronics",
+      "19": "Mixture of liquids that do not usually combine",
+      "20": "Thin cord used to hang a decoration",
+      "22": "Mixture of chocolate and cream",
+      "23": "Image that can show a hidden cavity",
+      "24": "Change from a solid into a liquid",
+      "25": "Cat's foot with soft pads"
+    },
+    "down": {
+      "1": "Fat extracted from cacao beans",
+      "2": "Carefully heat and cool melted chocolate",
+      "4": "Glass road stud that shines back toward a vehicle's lamps",
+      "6": "Block of metal made for storage or trade",
+      "7": "Remainder left after division by a fixed modulus",
+      "8": "Faint view of nearby drawings used to guide movement",
+      "12": "Rest on the floor with legs bent",
+      "14": "First up Everest with Tenzing",
+      "17": "Machine used to mix and smooth chocolate",
+      "18": "Outdoor place where sale tables may be set",
+      "20": "Place where a rider sits",
+      "21": "Become larger over time"
+    }
+  },
+  "order": 303
+}

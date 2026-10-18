@@ -1,0 +1,439 @@
+=== Mughal Miniature Painting | HARD
+MINIATURE | Small, detailed painting made for a manuscript or album
+GOUACHE | Opaque watercolour paint used for vivid details
+MUGHAL | Relating to the dynasty that ruled much of India
+AKBAR | Mughal emperor whose court supported painters
+JAHANGIR | Mughal ruler known for his interest in naturalistic art
+HUMAYUN | Emperor who brought Persian artists to the Mughal court
+SHAHJAHAN | Mughal ruler who commissioned the Taj Mahal
+NIMQALAM | Fine brush used by a miniature painter
+SIDENOTE | Note written beside a main text
+BORDER | Decorative band framing a painted scene
+BRUSHMARK | Single mark made by a painter's fine tool
+QUIRE | Gathering of folded sheets forming part of a manuscript
+VERMILION | Bright red pigment used in manuscript painting
+AUREATE | Golden in appearance
+COURT | Household and officials surrounding a ruler
+PROFILE | Side view of an imperial sitter in a painting
+ALBUM | Collection of paintings and calligraphy bound together
+MARGINALIA | Notes or drawings written beside a main text
+ILLUSTRATE | Add pictures to a written work
+GOLDLEAF | Thin sheet of gold used for decoration
+
+=== Opera Performance | HARD
+OVERTURE | Instrumental opening that sets the mood for an opera
+ARIA | Song for one singer within a larger dramatic work
+LIBRETTO | Words written for an opera or musical
+SOPRANO | Highest common adult female singing range
+TENOR | High adult male singing range
+BASS | Lowest common adult male singing range
+CHORUS | Group that sings together in a stage work
+VOCALIST | Singer who performs a role in an opera
+ORCHESTRA | Large group of musicians accompanying the singers
+CONDUCTOR | Musician who leads the orchestra
+STAGE | Raised area where performers act and sing
+CURTAIN | Fabric screen opened at the start of a performance
+BELCANTO | Italian singing style prized for a smooth, expressive tone
+COLORATURA | Elaborate vocal passage with rapid runs and high notes
+CRESCENDO | Gradual increase in musical loudness
+DUET | Piece performed by two singers
+ORATORIO | Large musical work for soloists, chorus, and orchestra, usually unstaged
+ACT | Major division of a play or opera
+FALSETTO | High vocal register often used by male singers
+PIT | Sunken area where the orchestra plays
+
+=== Egyptian Pyramids | HARD
+PHARAOH | Title used by rulers of ancient Egypt
+PYRAMID | Monument built with a broad base and sloping sides
+SPHINX | Statue with a lion's body and a human head
+MUMMY | Preserved body prepared for burial
+NILE | River that sustained ancient Egyptian agriculture
+PAPYRUS | Writing material made from a river plant
+HIEROGLYPH | Picture sign used in ancient Egyptian writing
+OBELISK | Tall stone pillar that narrows toward its peak
+TEMPLE | Building dedicated to a god or goddess
+TOMB | Room or structure prepared for the dead
+SARCOPHAGUS | Stone coffin used to hold a body
+SCARAB | Beetle-shaped charm linked with rebirth
+ANUBIS | Jackal-headed god associated with burial rites
+OSIRIS | God associated with the dead and the afterlife
+CLEOPATRA | Queen who ruled Egypt near the end of the Ptolemaic dynasty
+TUTANKHAMUN | Young king whose tomb was found largely intact
+CARTOUCHE | Oval frame around a royal name in ancient Egyptian writing
+CANOPIC | Describes jars used to store organs during mummification
+MASTABA | Flat-roofed tomb with sloping sides, built before many pyramids
+SUNRISE | Daily event associated with renewal in Egyptian belief
+
+=== Khmer Waterworks | HARD
+BARAY | Large reservoir built by the Khmer
+CANAL | Artificial waterway used to carry water
+EMBANKMENT | Raised bank that holds back water
+DAM | Barrier built across a stream
+MOAT | Water-filled ditch around a temple or city
+AQUEDUCT | Channel that carries water across a distance
+SPILLWAY | Outlet that safely releases excess water
+CATCHMENT | Area that drains rainfall toward a reservoir
+MONSOON | Seasonal wind system that brings heavy rain
+ANGKOR | Khmer city known for monumental temples
+TONLE | Cambodian river or lake name used for the seasonal water system
+SAP | Great lake in Cambodia that expands during monsoon season
+BASIN | Low area that collects water
+HYDROLOGY | Study of water and its movement
+SILT | Fine particles carried and deposited by water
+EMITTER | Outlet that delivers water slowly along a crop row
+SLUICE | Movable barrier that controls water flow
+DRAIN | Channel that carries excess water away
+CISTERN | Place where water is stored for later use
+SIPHON | Covered passage that lets water flow beneath a road
+
+=== Roman Glassmaking | HARD
+SILICA | Main glass-forming substance found in sand
+SODA | Alkali added to lower the melting point of glass
+LIME | Ingredient that helps glass resist dissolving
+FURNACE | Enclosed chamber used to heat glass ingredients
+CRUCIBLE | Heat-resistant vessel for melting a batch
+CULLET | Broken glass saved for remelting
+ANNEALING | Slow cooling that reduces stress in finished glass
+BLOWPIPE | Tube used to inflate a gather of molten glass
+MOULD | Shaped form used to press glass into an object
+MANDREL | Temporary form around which a vessel can be made
+FRIT | Partly fused mixture prepared before glass melting
+BATCH | Measured mixture of raw glass ingredients
+SAND | Granular source of silica
+GLASSBLOWING | Shaping molten glass by blowing through a pipe
+CAMEO | Layered glass carving that leaves a raised design
+MILLEFIORI | Glass technique using slices of patterned rods
+DIATRETA | Elaborate cage cup carved from a thick glass blank
+TESSELLATION | Artwork assembled from small coloured pieces
+NATRON | Natural soda used in ancient glassmaking
+BEAD | Small glass object pierced for stringing
+
+=== Greek Mythology | HARD
+ZEUS | King of the gods who ruled from Mount Olympus
+HERA | Goddess of marriage and queen of the gods
+ATHENA | Goddess of wisdom who sprang from Zeus's head
+APOLLO | God of music and prophecy
+ARTEMIS | Goddess of the hunt and the moon
+POSEIDON | God who ruled the sea with a trident
+HADES | God who ruled the underworld
+HERMES | Messenger god known for winged sandals
+ARES | God of war in Greek myth
+DEMETER | Goddess whose grief explained the seasons
+PERSEPHONE | Queen of the underworld who returned each spring
+ODYSSEUS | Hero who spent years trying to return home from Troy
+ACHILLES | Greek warrior whose heel became a symbol of weakness
+TROJAN | Describes the people whose city faced a Greek siege
+OLYMPUS | Mountain home of the gods in Greek tradition
+MEDUSA | Gorgon whose gaze could turn people to stone
+PEGASUS | Winged horse born from the blood of Medusa
+ORACLE | Sacred source of a god's advice or prophecy
+TITAN | Member of the older generation of Greek gods
+HELEN | Queen whose departure was said to spark the Trojan War
+
+=== Poetry Forms | HARD
+POEM | Work written in lines to express an idea or feeling
+RHYME | Similar ending sound shared by words
+METER | Pattern of stressed and unstressed beats in verse
+VERSE | Line or metrical unit of poetry
+STANZA | Group of lines forming a unit in a poem
+SONNET | Fourteen-line poem with a set rhyme pattern
+HAIKU | Short Japanese verse form traditionally arranged in three lines
+LIMERICK | Comic five-line poem with a distinctive rhythm
+BALLAD | Narrative poem often meant to be sung
+COUPLET | Pair of consecutive lines that usually rhyme
+ALLITERATION | Repetition of the same opening sound in nearby words
+METAPHOR | Figure of speech that describes one thing as another
+SIMILE | Comparison that uses a word such as like or as
+IMAGERY | Descriptive language that appeals to the senses
+REFRAIN | Line or phrase repeated in a poem or song
+RHYTHM | Pattern of sounds and pauses in a line
+EPIC | Long poem about heroic deeds
+ODE | Formal poem of praise or reflection
+ELEGY | Poem of mourning or serious reflection
+NARRATOR | Voice that tells a story in verse
+
+=== Ottoman Diplomacy | HARD
+DRAGOMAN | Official interpreter serving an Ottoman embassy
+FIRMAN | Formal decree issued by an Ottoman ruler
+BERAT | Charter confirming an office or privilege
+SULTAN | Sovereign title used by Ottoman rulers
+VIZIER | Senior minister who advised the sultan
+PORTE | European name for the Ottoman government
+EMBASSY | Official mission sent to another state
+ENVOY | Representative sent to negotiate with a foreign ruler
+TREATY | Formal agreement between states
+CAPITULATION | Agreement granting privileges to foreign merchants
+TRIBUTE | Payment made by one state to another
+MEDIATION | Help given by a neutral party during a dispute
+ALLIANCE | Agreement between states to cooperate
+NEGOTIATION | Discussion aimed at reaching an agreement
+PASHA | High-ranking Ottoman official or governor
+DIVAN | Imperial council that handled Ottoman state affairs
+CONSUL | Official who represents a state in a foreign port
+RATIFY | Give formal approval to an agreement
+PROTOCOL | Accepted rules for official diplomatic conduct
+FRONTIER | Border region between neighbouring states
+
+=== Fiber Optic Networks | HARD
+FIBER | Thin strand that carries pulses of light
+CENTER | Central glass region that guides light through a fiber
+CLADDING | Outer glass layer that confines light in the core
+BENDING | Change in light direction when it enters another medium
+ATTENUATION | Gradual loss of signal strength over distance
+DISPERSION | Spreading of a light pulse as it travels
+FUSION | Joining fibers by heating their ends together
+SPLICE | Permanent joint between two optical fibers
+LASER | Device that produces a narrow, intense beam of light
+BURST | Brief emission of light carrying information
+QUANTUM | Individual packet of electromagnetic radiation
+MODULATOR | Device that varies a light signal to encode data
+LAUNCHER | Equipment that sends an optical signal
+RECEIVER | Equipment that converts incoming light into an electrical signal
+CONNECTOR | Fitting that joins a fiber to network equipment
+BANDWIDTH | Range of frequencies or data a link can carry
+MULTIMODE | Describes a fiber that carries several light paths
+SINGLEMODE | Describes a fiber that guides one principal light path
+AMPLIFIER | Device that increases signal strength along a link
+PATCHCORD | Short fiber cable with connectors at both ends
+
+=== Electricity | HARD
+CURRENT | Flow of electric charge through a conductor
+VOLTAGE | Electrical push that moves charge around a circuit
+BATTERY | Portable source of electrical energy
+CIRCUIT | Complete path through which electric current can flow
+WIRE | Metal strand that carries electric current
+SWITCH | Device that opens or closes a circuit
+FUSE | Safety part that melts when current becomes too large
+SPARK | Brief flash caused by a sudden electrical discharge
+STATIC | Charge that builds up on an object's surface
+MAGNET | Object that attracts iron and creates a magnetic field
+COIL | Wire wound into loops to strengthen a magnetic effect
+MOTOR | Machine that changes electrical energy into motion
+GENERATOR | Machine that changes motion into electrical energy
+RESISTOR | Circuit part that limits current
+CHARGE | Property of matter that causes electrical attraction or repulsion
+PLUG | Fitting that connects a device to a power supply
+SOCKET | Receptacle that accepts an electrical plug
+METER | Instrument that measures voltage or current
+INSULATOR | Material that resists the movement of electric charge
+TRANSFORMER | Device that changes the voltage of alternating current
+
+=== Microbial Ecology | HARD
+BIOFILM | Community of microbes attached to a surface
+MICROBE | Microscopic organism such as a bacterium or fungus
+SYMBIOSIS | Close association between organisms of different species
+NICHE | Role and conditions in which an organism lives
+DIVERSITY | Variety of organisms in a community
+COMMUNITY | Populations of different species living together
+COMPETITION | Struggle between organisms for limited resources
+MUTUALISM | Interaction in which both partners benefit
+PARASITISM | Relationship in which one organism benefits at another's expense
+MICROBIOME | Community of microbes living in a particular environment
+COLONY | Group of microbes growing together on a surface
+RHIZOSPHERE | Soil region influenced by plant roots
+BACTERIA | Single-celled organisms found in nearly every habitat
+FUNGUS | Organism that absorbs nutrients from its surroundings
+SPORE | Resistant reproductive or resting cell
+METAGENOME | Genetic material sampled directly from a community
+SEQUENCING | Determining the order of bases in genetic material
+DORMANCY | State of greatly reduced activity
+BIOGEOGRAPHY | Study of where organisms live and how they are distributed
+GRAZER | Organism that feeds on bacteria or other microbes
+
+=== Plant Phylogenomics | HARD
+CHLOROPLAST | Plant cell structure where photosynthesis takes place
+PLASTID | Plant cell structure that can store pigments or starch
+GENOME | Complete set of genetic material in an organism
+GENE | DNA segment that contributes to a functional product
+EXON | Part of a gene retained in a mature RNA molecule
+INTRON | Gene segment removed during RNA processing
+ORTHOLOG | Gene in different species descended from a shared ancestral gene
+PARALOG | Gene related to another through a duplication event
+LOCUS | Position of a gene or marker on a chromosome
+ALLELE | One version of a gene at a particular locus
+MESSENGER | RNA copy made from a DNA template
+GENOTYPE | Genetic makeup at one or more loci
+PHYLOGENY | Evolutionary history of a group of organisms
+HYBRID | Offspring produced by parents of different genetic lineages
+POLYPLOID | Describes an organism with extra chromosome sets
+BASEORDER | Ordered string of genetic bases
+POLYMORPH | Genetic feature used to compare related plants
+ASSEMBLY | Reconstruction of a genome from overlapping sequence reads
+ANNOTATION | Identification of genes and features within a genome
+CHROMOSOME | Long DNA molecule carrying many genes
+
+=== Biogeochemical Cycles | HARD
+NITROGEN | Element used by organisms to build proteins
+PHOSPHORUS | Element needed for DNA and energy-carrying molecules
+CARBON | Element that cycles through air, water, soil, and life
+SULFUR | Element moved through rocks, oceans, and living things
+SILICA | Mineral compound that many organisms use to build hard parts
+CYCLE | Repeated movement of matter through Earth's systems
+STORE | Place where an element is held for a time
+FLUX | Rate at which matter moves between reservoirs
+SINK | Process or place that removes a substance from circulation
+SOURCE | Process or place that adds a substance to circulation
+MINERAL | Naturally occurring solid with a defined composition
+WEATHERING | Breakdown of rock by chemical or physical processes
+UPTAKE | Absorption of a nutrient by an organism
+FIXATION | Conversion of atmospheric nitrogen into usable compounds
+NITRIFY | Convert ammonia into nitrite and nitrate through microbial action
+MICROBIAL | Relating to microscopic living organisms
+OXIDATION | Chemical loss of electrons
+REDUCTION | Chemical gain of electrons
+METHANE | Carbon-containing gas produced in some wetlands
+DEBRIS | Material that settles at the bottom of water
+
+=== Ocean Wave Dynamics | HARD
+SWELL | Long rolling wave that has travelled away from its source
+CREST | Highest point of a surface wave
+TROUGH | Lowest point between two wave crests
+FETCH | Distance wind blows across open water
+PERIOD | Time between successive crests passing a point
+WAVEPEAK | Vertical distance from resting level to a wave crest
+PEAKGAP | Distance between matching points on successive waves
+DISPERSION | Separation of wave components as their speeds differ
+TURNING | Change in wave direction as depth changes
+BREAKER | Wave that collapses in shallow water
+SURF | Breaking waves along a shore
+SHOAL | Shallow area that alters incoming waves
+TIDAL | Relating to the regular rise and fall of the sea
+TSUNAMI | Long wave generated by sudden seafloor displacement
+SEICHE | Standing wave that sloshes within an enclosed basin
+STOKES | Scientist whose theory describes waves of finite amplitude
+GROUP | Set of waves that travel together
+FLOW | Continuous movement of water in one direction
+SPREAD | Distribution of wave energy across frequencies
+BREAKING | Process in which a steep wave becomes unstable and collapses
+
+=== Astrochemistry | HARD
+MOLECULE | Group of atoms joined by chemical bonds
+INTERSTELLAR | Located in the space between stars
+DUST | Tiny solid particles mixed with interstellar gas
+GAS | Matter that expands to fill its container
+RADICAL | Reactive species with an unpaired electron
+CHARGED | Describes a molecule that has gained or lost electrons
+ICE | Frozen molecules coating dust grains in cold clouds
+METHANOL | Simple alcohol detected in interstellar clouds
+AMMONIA | Nitrogen-bearing molecule found in space
+WATER | Molecule made of hydrogen and oxygen
+HYDROGEN | Most abundant element in the universe
+DEUTERIUM | Heavy isotope of hydrogen
+NUCLIDE | Atom characterized by its number of protons and neutrons
+SPECTROSCOPY | Study of matter through its interaction with light
+SPINNING | Molecular motion around an internal axis
+VIBRATION | Repeated motion of atoms within a molecule
+DEPOSITION | Change from gas directly to solid on cold dust grains
+CARBON | Element that forms the basis of many complex molecules
+SILICATE | Mineral compound containing silicon and oxygen
+FORMYL | Group of atoms found in a number of space molecules
+
+=== Radio Interferometry | HARD
+BASELINE | Distance between two radio telescope antennas
+DISH | Device that collects radio waves for a telescope
+ARRAY | Group of telescopes observing together
+PHASE | Position of a wave within its repeating cycle
+CORRELATOR | Computer system that compares signals from antennas
+CORRELATION | Measured relation between signals from a telescope pair
+SYNTHESIS | Combining observations to create a larger effective aperture
+COLLECTOR | Part of a telescope that collects incoming radio waves
+SENSITIVITY | Ability to detect a faint astronomical signal
+CORRECTION | Adjustment of measurements using a known reference
+BEAM | Region of the sky a telescope can observe at once
+LOBE | Concentrated part of a telescope's response pattern
+LIMIT | Smallest sky gap that an instrument can distinguish
+NOISE | Random signal that obscures a measurement
+RECORD | Measurable information received by a telescope
+OBSERVATION | Recorded data collected during a telescope run
+INTERFERENCE | Alternating pattern caused when waves combine
+HERTZ | Unit for the number of wave cycles passing each second
+MICROWAVE | Electromagnetic band commonly used in radio astronomy
+TELESCOPE | Instrument that collects radiation from distant objects
+
+=== Control Systems Engineering | HARD
+CONTROLLER | Device or algorithm that directs a system's behaviour
+FEEDBACK | Information returned from a system's output
+GAIN | Ratio between output change and input change
+STABILITY | Ability of a system to settle rather than grow unbounded
+OSCILLATION | Repeated motion or variation around a steady state
+SYSTEM | Set of connected parts acting together
+PLANT | Physical process or equipment being controlled
+INPUT | Signal supplied to a controlled system
+OUTPUT | Measured response produced by a system
+TRANSDUCER | Device that measures a system's condition
+ACTUATOR | Device that converts a control signal into physical action
+MAPPING | Describes a function relating input to output
+FUNCTION | Mathematical rule that maps inputs to outputs
+PID | Controller using proportional, integral, and derivative terms
+PROPORTIONAL | Describes control action based on present error
+INTEGRAL | Describes control action based on accumulated error
+DERIVATIVE | Describes control action based on error's rate of change
+STATE | Set of variables describing a system at one moment
+OVERSHOOT | Amount a response exceeds its target
+SETPOINT | Desired value that a controller tries to maintain
+
+=== Medical Virology | HARD
+NOROVIRUS | Virus that commonly causes acute gastroenteritis
+VIRION | Complete virus particle outside a host cell
+ADENOVIRUS | Group of viruses that can cause respiratory illness
+MEMBRANE | Outer layer present in some virus particles
+HEREDITY | Genetic information passed from a virus to its offspring
+RHINOVIRUS | Common cause of the common cold
+PATIENT | Organism or cell in which a virus replicates
+IMMUNOGEN | Preparation that trains immune defenses against infection
+PARVOVIRUS | Group of small viruses that infects humans and animals
+ROTAVIRUS | Virus that can cause severe diarrhea in young children
+PCR | Method for amplifying genetic material
+TOGAVIRUS | Member of a family of enveloped RNA viruses
+DNA | Genetic molecule carried by some viruses
+CULTURE | Growth of cells or microbes under controlled conditions
+TITER | Measured concentration of infectious particles or antibodies
+INFECTION | Entry and multiplication of a pathogen in a host
+SUBSTITUTION | Change in the viral genome at one base position
+VARIANT | Virus form with a set of genetic changes
+TROPISM | Preference of a virus for a particular host tissue
+LATENCY | Period when a virus remains inactive in a host
+
+=== Chromosome Cytogenetics | HARD
+KARYOTYPE | Organized display of an individual's chromosomes
+CHROMOSOME | Long DNA molecule carrying genes
+CHROMATID | One of two identical copies of a replicated chromosome
+CENTROMERE | Region joining sister chromatids
+TELOMERE | Repeated DNA at the end of a chromosome
+KARYOGRAM | Image showing arranged chromosome pairs
+METAPHASE | Cell-division stage when chromosomes are most visible
+COMPLEMENT | Complete set of chromosomes in a cell
+AUTOSOME | Chromosome that is not a sex chromosome
+HAPLOID | Having one set of chromosomes
+DIPLOID | Having two sets of chromosomes
+TRISOMY | Condition with an extra copy of one chromosome
+MONOSOMY | Condition missing one chromosome from a pair
+DELETION | Loss of a segment of genetic material
+DUPLICATION | Repeated copy of a chromosome segment
+RELOCATION | Transfer of a chromosome segment to another location
+INVERSION | Reversed orientation of a chromosome segment
+FLUORESCENCE | Light emitted after a probe absorbs light
+KARYOTYPING | Process of examining chromosome number and structure
+PROBE | Labelled DNA sequence used to locate a chromosome region
+
+=== Forensic Toxicology | HARD
+TOXICOLOGY | Study of harmful effects caused by substances
+TOXIN | Poisonous substance produced by a living organism
+POISON | Substance that can injure or kill when absorbed
+DOSE | Amount of a substance taken or administered
+EVIDENCE | Sample collected for laboratory testing
+URINE | Waste fluid often screened for drugs
+SERUM | Liquid part of blood after clotting
+BLOOD | Fluid connective tissue tested for drugs and metabolites
+ELUTION | Process carrying separated compounds through a column
+SPECTROMETRY | Measurement of a substance by its interaction with energy
+IMMUNOASSAY | Test using antibodies to detect a target substance
+REFERENCE | Known material used to compare and correct a sample measurement
+STANDARD | Material with a known concentration used for comparison
+METABOLITE | Substance formed when the body processes a chemical
+HALFLIFE | Time required for a substance's amount to fall by half
+TEST | Initial laboratory procedure used to flag possible substances
+CONFIRMATION | Follow-up analysis that verifies a screening result
+PROVENANCE | Documented sequence of custody for collected evidence
+CUSTODY | Control and responsibility for an evidence sample
+CONTAMINANT | Unwanted substance that can affect a test result
