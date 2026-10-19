@@ -4,6 +4,8 @@ import android.app.Activity
 import android.util.Log
 import com.google.android.gms.games.PlayGames
 import kotlinx.coroutines.CancellationException
+import kotlinx.coroutines.currentCoroutineContext
+import kotlinx.coroutines.ensureActive
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -60,7 +62,9 @@ class PlayGamesManager @Inject constructor() {
         try {
             PlayGames.getGamesSignInClient(activity).signIn().await()
         } catch (cancelled: CancellationException) {
-            throw cancelled
+            mutableState.value = PlayGamesState.SignedOut
+            currentCoroutineContext().ensureActive()
+            Log.w(TAG, "Play Games sign-in was cancelled", cancelled)
         } catch (exception: Exception) {
             Log.w(TAG, "Play Games sign-in failed", exception)
         }
