@@ -61,6 +61,10 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+    }
+
+    override fun onStart() {
+        super.onStart()
         lifecycleScope.launch { playGames.refresh(this@MainActivity) }
     }
 

@@ -122,7 +122,14 @@ fun HubScreen(
                                     )
                                 }
                                 is PlayGamesState.SignedIn -> Text(
-                                    stringResource(R.string.hub_play_games_signed_in, playGamesState.displayName),
+                                    if (playGamesState.displayName == null) {
+                                        stringResource(R.string.hub_play_games_signed_in_unnamed)
+                                    } else {
+                                        stringResource(
+                                            R.string.hub_play_games_signed_in,
+                                            playGamesState.displayName,
+                                        )
+                                    },
                                     style = MaterialTheme.typography.bodyMedium,
                                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                                 )
