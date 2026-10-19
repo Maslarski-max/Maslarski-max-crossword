@@ -20,6 +20,12 @@ Google's current SDK disclosures (Firebase, Play Billing) before each submission
 | Crash logs | Yes | No | App functionality (stability) | No | Crashlytics |
 | Diagnostics | Yes | No | App functionality (stability) | No | Crashlytics |
 
+## Google Play Games Services
+
+Sign-in is optional and uses the player's Google Play Games profile; Google handles sign-in under
+[Google's Privacy Policy](https://policies.google.com/privacy). The app reads only the display name to show it
+on the start screen. It stores and sends no Play Games data to its own servers; the app has none.
+
 Game progress, scores and settings stay on the device (and in the user's own Android backup) and are **not**
 "collected" in the Data safety sense.
 

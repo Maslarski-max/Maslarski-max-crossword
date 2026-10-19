@@ -1,6 +1,7 @@
 package com.maslarski.crossword
 
 import android.app.Application
+import com.google.android.gms.games.PlayGamesSdk
 import com.maslarski.crossword.data.telemetry.FirebaseTelemetry
 import com.maslarski.crossword.domain.profile.AchievementTracker
 import dagger.hilt.android.HiltAndroidApp
@@ -14,6 +15,7 @@ class CrosswordApplication : Application() {
 
     override fun onCreate() {
         super.onCreate()
+        PlayGamesSdk.initialize(this)
         telemetry.initialize()
         achievements.start()
     }

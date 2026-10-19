@@ -48,6 +48,9 @@
 
     <!-- Hub -->
     <string name="hub_subtitle">Choose how you want to play</string>
+    <string name="hub_play_games_sign_in">Sign in with Play Games</string>
+    <string name="hub_play_games_signed_in">Play Games: %1$s</string>
+    <string name="hub_play_games_signed_in_unnamed">Signed in to Play Games</string>
     <string name="mode_classic_title">Classic Crossword</string>
     <string name="mode_classic_summary">Solo puzzles, a new daily grid and hints when you get stuck.</string>
     <string name="mode_classic_stats" tools:ignore="PluralsCandidate">%1$d of %2$d levels solved · %3$d day streak</string>

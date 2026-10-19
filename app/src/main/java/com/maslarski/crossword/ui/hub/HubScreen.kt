@@ -1,5 +1,6 @@
 package com.maslarski.crossword.ui.hub
 
+import androidx.activity.compose.LocalActivity
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.slideInVertically
@@ -32,6 +33,7 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.LargeTopAppBar
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -49,6 +51,7 @@ import androidx.compose.ui.unit.dp
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.R
+import com.maslarski.crossword.data.games.PlayGamesState
 import com.maslarski.crossword.ui.components.CoinChip
 
 /** Start screen: the Daily Challenge, Classic Crossword, Crossword Arena and My Stats. */
@@ -64,6 +67,8 @@ fun HubScreen(
     viewModel: HubViewModel = hiltViewModel(),
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
+    val playGames by viewModel.playGames.collectAsStateWithLifecycle()
+    val activity = LocalActivity.current
     val scrollBehavior = TopAppBarDefaults.exitUntilCollapsedScrollBehavior()
     Scaffold(
         modifier = Modifier.nestedScroll(scrollBehavior.nestedScrollConnection),
@@ -101,6 +106,35 @@ fun HubScreen(
                             style = MaterialTheme.typography.titleMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                         )
+                        Row(
+                            modifier = Modifier.fillMaxWidth(),
+                            verticalAlignment = Alignment.CenterVertically,
+                        ) {
+                            when (val playGamesState = playGames) {
+                                PlayGamesState.Checking -> Unit
+                                PlayGamesState.SignedOut -> OutlinedButton(
+                                    onClick = { activity?.let(viewModel::signIn) },
+                                ) {
+                                    Icon(Icons.Rounded.SportsEsports, contentDescription = null)
+                                    Text(
+                                        stringResource(R.string.hub_play_games_sign_in),
+                                        modifier = Modifier.padding(start = 8.dp),
+                                    )
+                                }
+                                is PlayGamesState.SignedIn -> Text(
+                                    if (playGamesState.displayName == null) {
+                                        stringResource(R.string.hub_play_games_signed_in_unnamed)
+                                    } else {
+                                        stringResource(
+                                            R.string.hub_play_games_signed_in,
+                                            playGamesState.displayName,
+                                        )
+                                    },
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                )
+                            }
+                        }
                         val classic = @Composable { modifier: Modifier ->
                             ModeCard(
                                 title = stringResource(R.string.mode_classic_title),
