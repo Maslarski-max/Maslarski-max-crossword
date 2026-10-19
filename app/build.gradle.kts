@@ -188,6 +188,7 @@ dependencies {
     implementation(libs.firebase.crashlytics)
 
     implementation(libs.play.integrity)
+    implementation(libs.play.games.v2)
     implementation(libs.play.billing)
 
     testImplementation(libs.junit)

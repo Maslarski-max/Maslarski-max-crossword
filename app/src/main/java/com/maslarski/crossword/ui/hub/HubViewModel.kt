@@ -1,7 +1,10 @@
 package com.maslarski.crossword.ui.hub
 
+import android.app.Activity
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.maslarski.crossword.data.games.PlayGamesManager
+import com.maslarski.crossword.data.games.PlayGamesState
 import com.maslarski.crossword.domain.arena.ArenaStats
 import com.maslarski.crossword.domain.model.PlayerStats
 import com.maslarski.crossword.domain.profile.Achievement
@@ -22,6 +25,7 @@ import kotlinx.coroutines.flow.emitAll
 import kotlinx.coroutines.flow.flatMapLatest
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.stateIn
+import kotlinx.coroutines.launch
 import java.time.Clock
 import java.time.Duration
 import java.time.LocalDate
@@ -50,7 +54,10 @@ class HubViewModel @Inject constructor(
     wallet: WalletRepository,
     profile: ProfileRepository,
     clock: Clock,
+    private val playGamesManager: PlayGamesManager,
 ) : ViewModel() {
+
+    val playGames: StateFlow<PlayGamesState> = playGamesManager.state
 
     /** Current local date, re-checked at least every minute so the streak rolls over at midnight. */
     private val dates: Flow<LocalDate> = flow {
@@ -90,6 +97,10 @@ class HubViewModel @Inject constructor(
             },
         )
     }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), HubUiState())
+
+    fun signIn(activity: Activity) {
+        viewModelScope.launch { playGamesManager.signIn(activity) }
+    }
 
     private companion object {
         const val DATE_POLL_MS = 60_000L

@@ -15,6 +15,7 @@ import androidx.compose.ui.Modifier
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.lifecycleScope
+import com.maslarski.crossword.data.games.PlayGamesManager
 import com.maslarski.crossword.domain.model.Settings
 import com.maslarski.crossword.domain.repository.SettingsRepository
 import com.maslarski.crossword.domain.repository.StoreRepository
@@ -35,6 +36,7 @@ class MainActivity : ComponentActivity() {
     @Inject lateinit var settingsRepository: SettingsRepository
     @Inject lateinit var walletRepository: WalletRepository
     @Inject lateinit var storeRepository: StoreRepository
+    @Inject lateinit var playGames: PlayGamesManager
 
     override fun onCreate(savedInstanceState: Bundle?) {
         installSplashScreen()
@@ -59,6 +61,7 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+        lifecycleScope.launch { playGames.refresh(this@MainActivity) }
     }
 
     override fun onResume() {
