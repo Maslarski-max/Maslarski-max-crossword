@@ -1,0 +1,6 @@
+- 720 Classic levels, from 8x8 starters to dense 22x22 Hard boards
+- Google Play Games sign-in
+- Leaderboards: Classic Levels Solved and Arena Wins
+- Clearer message when Play Games sign-in fails
+- Leaderboard totals now sync right after switching Play Games accounts
+- Stability and performance improvements
