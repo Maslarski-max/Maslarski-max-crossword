@@ -24,3 +24,6 @@
 
 # Play Billing: AIDL interface used to bind to the Play Store service.
 -keep class com.android.vending.billing.** { *; }
+
+# Play In-App Review (review-ktx) references an annotation that is not shipped in the Play services runtime.
+-dontwarn com.google.android.gms.common.annotation.NoNullnessRewrite
