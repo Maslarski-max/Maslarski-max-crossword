@@ -66,7 +66,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.LifecycleResumeEffect
+import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import androidx.lifecycle.compose.LocalLifecycleOwner
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.model.Difficulty
@@ -80,7 +82,10 @@ import com.maslarski.crossword.ui.components.LetterKeyboard
 import com.maslarski.crossword.ui.components.clueSection
 import com.maslarski.crossword.ui.components.formatElapsed
 import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
+import androidx.activity.compose.LocalActivity
+import kotlinx.coroutines.delay
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -111,6 +116,16 @@ fun GameScreen(
         if (state.puzzle == null) return@LaunchedEffect
         viewModel.onSelectWordKey(key)
         onSelectedWordConsumed()
+    }
+
+    val activity = LocalActivity.current
+    val lifecycle = LocalLifecycleOwner.current.lifecycle
+    val completed = state.completion != null
+    LaunchedEffect(completed, lifecycle) {
+        if (!completed) return@LaunchedEffect
+        delay(REVIEW_PROMPT_DELAY_MS)
+        lifecycle.currentStateFlow.first { it.isAtLeast(Lifecycle.State.RESUMED) }
+        activity?.let(viewModel::requestReviewIfDue)
     }
 
     var coinPrompt by remember { mutableStateOf<CoinPrompt?>(null) }
@@ -376,3 +391,6 @@ fun difficultyLabel(difficulty: Difficulty): String = stringResource(
     },
 )
 
+
+/** Lets the solved / result screen settle before the Play review sheet can appear. */
+internal const val REVIEW_PROMPT_DELAY_MS = 1_500L

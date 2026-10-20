@@ -124,3 +124,17 @@ data class PurchaseCreditEntity(
     val coins: Int,
     val creditedAt: Long,
 )
+
+/** Totals at the last In-App Review request; the next request waits until the player gets further. */
+@Entity(tableName = "review_prompt")
+data class ReviewPromptEntity(
+    @PrimaryKey val id: Int = SINGLETON_ID,
+    val levelsSolved: Int,
+    val arenaWins: Int,
+    val promptCount: Int,
+    val lastPromptAt: Long,
+) {
+    companion object {
+        const val SINGLETON_ID = 0
+    }
+}

@@ -189,3 +189,12 @@ interface EntitlementDao {
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insertCredit(entity: PurchaseCreditEntity): Long
 }
+
+@Dao
+interface ReviewPromptDao {
+    @Query("SELECT * FROM review_prompt WHERE id = 0")
+    suspend fun get(): ReviewPromptEntity?
+
+    @Upsert
+    suspend fun upsert(entity: ReviewPromptEntity)
+}
