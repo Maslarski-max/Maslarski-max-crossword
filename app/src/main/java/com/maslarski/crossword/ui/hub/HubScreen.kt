@@ -84,9 +84,9 @@ fun HubScreen(
             snackbar.showSnackbar(resources.getString(R.string.hub_play_games_sign_in_failed))
         }
     }
-    val signedIn = playGames is PlayGamesState.SignedIn
-    LaunchedEffect(signedIn, state.loading, state.levelsSolved, state.arena.wins) {
-        if (signedIn) activity?.let(viewModel::submitScores)
+    val signedInPlayer = playGames as? PlayGamesState.SignedIn
+    LaunchedEffect(signedInPlayer?.playerId, signedInPlayer != null, state.loading, state.levelsSolved, state.arena.wins) {
+        if (signedInPlayer != null) activity?.let(viewModel::submitScores)
     }
     Scaffold(
         modifier = Modifier.nestedScroll(scrollBehavior.nestedScrollConnection),
