@@ -108,6 +108,16 @@ class HubViewModel @Inject constructor(
         }
     }
 
+    fun submitScores(activity: Activity) {
+        val current = state.value
+        if (current.loading) return
+        playGamesManager.submitScores(activity, current.levelsSolved, current.arena.wins)
+    }
+
+    fun showLeaderboards(activity: Activity) {
+        viewModelScope.launch { playGamesManager.showLeaderboards(activity) }
+    }
+
     private companion object {
         const val DATE_POLL_MS = 60_000L
     }

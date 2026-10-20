@@ -3,6 +3,7 @@ package com.maslarski.crossword.data.games
 import android.app.Activity
 import android.util.Log
 import com.google.android.gms.games.PlayGames
+import com.maslarski.crossword.R
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.currentCoroutineContext
 import kotlinx.coroutines.ensureActive
@@ -72,7 +73,31 @@ class PlayGamesManager @Inject constructor() {
         mutableState.value is PlayGamesState.SignedIn
     }
 
+    /** Play Games keeps each player's best score, so resubmitting an unchanged total is harmless. */
+    fun submitScores(activity: Activity, classicLevelsSolved: Int, arenaWins: Int) {
+        if (mutableState.value !is PlayGamesState.SignedIn) return
+        val leaderboards = PlayGames.getLeaderboardsClient(activity)
+        if (classicLevelsSolved > 0) {
+            leaderboards.submitScore(activity.getString(R.string.leaderboard_classic_levels_solved), classicLevelsSolved.toLong())
+        }
+        if (arenaWins > 0) {
+            leaderboards.submitScore(activity.getString(R.string.leaderboard_arena_wins), arenaWins.toLong())
+        }
+    }
+
+    suspend fun showLeaderboards(activity: Activity) {
+        try {
+            val intent = PlayGames.getLeaderboardsClient(activity).allLeaderboardsIntent.await()
+            activity.startActivityForResult(intent, LEADERBOARDS_REQUEST)
+        } catch (cancelled: CancellationException) {
+            throw cancelled
+        } catch (exception: Exception) {
+            Log.w(TAG, "Could not open Play Games leaderboards", exception)
+        }
+    }
+
     private companion object {
         const val TAG = "PlayGamesManager"
+        const val LEADERBOARDS_REQUEST = 9004
     }
 }

@@ -51,6 +51,7 @@
     <string name="hub_play_games_sign_in">Sign in with Play Games</string>
     <string name="hub_play_games_signed_in">Play Games: %1$s</string>
     <string name="hub_play_games_signed_in_unnamed">Signed in to Play Games</string>
+    <string name="hub_play_games_leaderboards">Leaderboards</string>
     <string name="hub_play_games_sign_in_failed">Couldn\'t sign in to Play Games. You can keep playing; your progress stays on this phone.</string>
     <string name="mode_classic_title">Classic Crossword</string>
     <string name="mode_classic_summary">Solo puzzles, a new daily grid and hints when you get stuck.</string>

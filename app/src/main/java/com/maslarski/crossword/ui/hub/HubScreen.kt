@@ -21,6 +21,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.CalendarMonth
 import androidx.compose.material.icons.rounded.GridOn
 import androidx.compose.material.icons.rounded.Insights
+import androidx.compose.material.icons.rounded.Leaderboard
 import androidx.compose.material.icons.rounded.Settings
 import androidx.compose.material.icons.rounded.SportsEsports
 import androidx.compose.material.icons.rounded.Storefront
@@ -39,6 +40,7 @@ import androidx.compose.material3.SnackbarHost
 import androidx.compose.material3.SnackbarHostState
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
@@ -81,6 +83,10 @@ fun HubScreen(
         viewModel.playGamesSignInFailed.collect {
             snackbar.showSnackbar(resources.getString(R.string.hub_play_games_sign_in_failed))
         }
+    }
+    val signedIn = playGames is PlayGamesState.SignedIn
+    LaunchedEffect(signedIn, state.loading, state.levelsSolved, state.arena.wins) {
+        if (signedIn) activity?.let(viewModel::submitScores)
     }
     Scaffold(
         modifier = Modifier.nestedScroll(scrollBehavior.nestedScrollConnection),
@@ -134,18 +140,28 @@ fun HubScreen(
                                         modifier = Modifier.padding(start = 8.dp),
                                     )
                                 }
-                                is PlayGamesState.SignedIn -> Text(
-                                    if (playGamesState.displayName == null) {
-                                        stringResource(R.string.hub_play_games_signed_in_unnamed)
-                                    } else {
-                                        stringResource(
-                                            R.string.hub_play_games_signed_in,
-                                            playGamesState.displayName,
+                                is PlayGamesState.SignedIn -> {
+                                    Text(
+                                        if (playGamesState.displayName == null) {
+                                            stringResource(R.string.hub_play_games_signed_in_unnamed)
+                                        } else {
+                                            stringResource(
+                                                R.string.hub_play_games_signed_in,
+                                                playGamesState.displayName,
+                                            )
+                                        },
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                        modifier = Modifier.weight(1f),
+                                    )
+                                    TextButton(onClick = { activity?.let(viewModel::showLeaderboards) }) {
+                                        Icon(Icons.Rounded.Leaderboard, contentDescription = null)
+                                        Text(
+                                            stringResource(R.string.hub_play_games_leaderboards),
+                                            modifier = Modifier.padding(start = 8.dp),
                                         )
-                                    },
-                                    style = MaterialTheme.typography.bodyMedium,
-                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                                )
+                                    }
+                                }
                             }
                         }
                         val classic = @Composable { modifier: Modifier ->
