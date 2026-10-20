@@ -85,7 +85,14 @@ fun HubScreen(
         }
     }
     val signedInPlayer = playGames as? PlayGamesState.SignedIn
-    LaunchedEffect(signedInPlayer?.playerId, signedInPlayer != null, state.loading, state.levelsSolved, state.arena.wins) {
+    LaunchedEffect(
+        signedInPlayer?.playerId,
+        signedInPlayer?.unknownPlayerRefresh,
+        signedInPlayer != null,
+        state.loading,
+        state.levelsSolved,
+        state.arena.wins,
+    ) {
         if (signedInPlayer != null) activity?.let(viewModel::submitScores)
     }
     Scaffold(

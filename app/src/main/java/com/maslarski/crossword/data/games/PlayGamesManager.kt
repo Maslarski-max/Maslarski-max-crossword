@@ -19,7 +19,12 @@ import javax.inject.Singleton
 sealed interface PlayGamesState {
     data object Checking : PlayGamesState
     data object SignedOut : PlayGamesState
-    data class SignedIn(val playerId: String?, val displayName: String?) : PlayGamesState
+    /** [unknownPlayerRefresh] changes on every refresh whose profile lookup failed, since [playerId] can't tell accounts apart then. */
+    data class SignedIn(
+        val playerId: String?,
+        val displayName: String?,
+        val unknownPlayerRefresh: Int = 0,
+    ) : PlayGamesState
 }
 
 @Singleton
@@ -27,6 +32,7 @@ class PlayGamesManager @Inject constructor() {
 
     private val mutableState = MutableStateFlow<PlayGamesState>(PlayGamesState.Checking)
     private val mutex = Mutex()
+    private var unknownPlayerRefreshes = 0
     val state: StateFlow<PlayGamesState> = mutableState.asStateFlow()
 
     suspend fun refresh(activity: Activity) = mutex.withLock {
@@ -46,7 +52,11 @@ class PlayGamesManager @Inject constructor() {
             } catch (cancelled: CancellationException) {
                 throw cancelled
             } catch (exception: Exception) {
-                mutableState.value = PlayGamesState.SignedIn(playerId = null, displayName = null)
+                mutableState.value = PlayGamesState.SignedIn(
+                    playerId = null,
+                    displayName = null,
+                    unknownPlayerRefresh = ++unknownPlayerRefreshes,
+                )
                 Log.w(TAG, "Could not load Play Games player profile", exception)
             }
         } catch (cancelled: CancellationException) {
