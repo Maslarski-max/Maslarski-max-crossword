@@ -56,8 +56,8 @@ class PlayGamesManager @Inject constructor() {
         }
     }
 
-    suspend fun signIn(activity: Activity) = mutex.withLock {
-        if (mutableState.value is PlayGamesState.SignedIn) return@withLock
+    suspend fun signIn(activity: Activity): Boolean = mutex.withLock {
+        if (mutableState.value is PlayGamesState.SignedIn) return@withLock true
         mutableState.value = PlayGamesState.Checking
         try {
             PlayGames.getGamesSignInClient(activity).signIn().await()
@@ -69,6 +69,7 @@ class PlayGamesManager @Inject constructor() {
             Log.w(TAG, "Play Games sign-in failed", exception)
         }
         refreshLocked(activity)
+        mutableState.value is PlayGamesState.SignedIn
     }
 
     private companion object {

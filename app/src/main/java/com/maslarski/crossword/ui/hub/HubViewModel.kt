@@ -15,6 +15,7 @@ import com.maslarski.crossword.domain.repository.PuzzleRepository
 import com.maslarski.crossword.domain.repository.WalletRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.ExperimentalCoroutinesApi
+import kotlinx.coroutines.channels.Channel
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.SharingStarted
@@ -24,6 +25,7 @@ import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.emitAll
 import kotlinx.coroutines.flow.flatMapLatest
 import kotlinx.coroutines.flow.flow
+import kotlinx.coroutines.flow.receiveAsFlow
 import kotlinx.coroutines.flow.stateIn
 import kotlinx.coroutines.launch
 import java.time.Clock
@@ -58,6 +60,8 @@ class HubViewModel @Inject constructor(
 ) : ViewModel() {
 
     val playGames: StateFlow<PlayGamesState> = playGamesManager.state
+    private val playGamesSignInFailures = Channel<Unit>(Channel.BUFFERED)
+    val playGamesSignInFailed: Flow<Unit> = playGamesSignInFailures.receiveAsFlow()
 
     /** Current local date, re-checked at least every minute so the streak rolls over at midnight. */
     private val dates: Flow<LocalDate> = flow {
@@ -99,7 +103,9 @@ class HubViewModel @Inject constructor(
     }.stateIn(viewModelScope, SharingStarted.WhileSubscribed(5_000), HubUiState())
 
     fun signIn(activity: Activity) {
-        viewModelScope.launch { playGamesManager.signIn(activity) }
+        viewModelScope.launch {
+            if (!playGamesManager.signIn(activity)) playGamesSignInFailures.send(Unit)
+        }
     }
 
     private companion object {
