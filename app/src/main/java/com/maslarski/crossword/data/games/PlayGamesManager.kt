@@ -19,7 +19,7 @@ import javax.inject.Singleton
 sealed interface PlayGamesState {
     data object Checking : PlayGamesState
     data object SignedOut : PlayGamesState
-    data class SignedIn(val displayName: String?) : PlayGamesState
+    data class SignedIn(val playerId: String?, val displayName: String?) : PlayGamesState
 }
 
 @Singleton
@@ -41,12 +41,12 @@ class PlayGamesManager @Inject constructor() {
                 return
             }
             try {
-                val displayName = PlayGames.getPlayersClient(activity).currentPlayer.await().displayName
-                mutableState.value = PlayGamesState.SignedIn(displayName)
+                val player = PlayGames.getPlayersClient(activity).currentPlayer.await()
+                mutableState.value = PlayGamesState.SignedIn(player.playerId, player.displayName)
             } catch (cancelled: CancellationException) {
                 throw cancelled
             } catch (exception: Exception) {
-                mutableState.value = PlayGamesState.SignedIn(null)
+                mutableState.value = PlayGamesState.SignedIn(playerId = null, displayName = null)
                 Log.w(TAG, "Could not load Play Games player profile", exception)
             }
         } catch (cancelled: CancellationException) {
