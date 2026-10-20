@@ -41,6 +41,8 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 import javax.inject.Inject
+import android.app.Activity
+import com.maslarski.crossword.data.review.ReviewPrompter
 
 data class GameUiState(
     val loading: Boolean = true,
@@ -87,6 +89,7 @@ class GameViewModel @Inject constructor(
     private val entitlements: EntitlementRepository,
     settingsRepository: SettingsRepository,
     private val telemetry: Telemetry,
+    private val reviewPrompter: ReviewPrompter,
     /** Board writes run here so a save queued just before the screen closes is not cancelled with it. */
     @ApplicationScope private val appScope: CoroutineScope,
 ) : ViewModel() {
@@ -334,6 +337,10 @@ class GameViewModel @Inject constructor(
                 block()
             }
         }
+    }
+
+    fun requestReviewIfDue(activity: Activity) {
+        viewModelScope.launch { reviewPrompter.requestIfDue(activity) }
     }
 
     override fun onCleared() {

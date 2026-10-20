@@ -81,6 +81,8 @@ import com.maslarski.crossword.ui.components.clueSection
 import com.maslarski.crossword.ui.components.formatElapsed
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
+import androidx.activity.compose.LocalActivity
+import kotlinx.coroutines.delay
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -111,6 +113,14 @@ fun GameScreen(
         if (state.puzzle == null) return@LaunchedEffect
         viewModel.onSelectWordKey(key)
         onSelectedWordConsumed()
+    }
+
+    val activity = LocalActivity.current
+    val completed = state.completion != null
+    LaunchedEffect(completed) {
+        if (!completed) return@LaunchedEffect
+        delay(REVIEW_PROMPT_DELAY_MS)
+        activity?.let(viewModel::requestReviewIfDue)
     }
 
     var coinPrompt by remember { mutableStateOf<CoinPrompt?>(null) }
@@ -376,3 +386,6 @@ fun difficultyLabel(difficulty: Difficulty): String = stringResource(
     },
 )
 
+
+/** Lets the solved / result screen settle before the Play review sheet can appear. */
+internal const val REVIEW_PROMPT_DELAY_MS = 1_500L

@@ -39,6 +39,8 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 import javax.inject.Inject
+import android.app.Activity
+import com.maslarski.crossword.data.review.ReviewPrompter
 
 data class ArenaUiState(
     val loading: Boolean = true,
@@ -87,6 +89,7 @@ class ArenaViewModel @Inject constructor(
     private val wallet: WalletRepository,
     private val entitlements: EntitlementRepository,
     private val telemetry: Telemetry,
+    private val reviewPrompter: ReviewPrompter,
     /** Match writes run here so the last move is saved even if the screen closes right after it. */
     @ApplicationScope private val appScope: CoroutineScope,
 ) : ViewModel() {
@@ -372,6 +375,10 @@ class ArenaViewModel @Inject constructor(
             val result = recorded ?: _state.value.result ?: ArenaResult(outcome, next.playerScore, next.opponentScore, 0)
             _state.update { it.copy(result = result, showResult = true) }
         }
+    }
+
+    fun requestReviewIfDue(activity: Activity) {
+        viewModelScope.launch { reviewPrompter.requestIfDue(activity) }
     }
 
     override fun onCleared() {

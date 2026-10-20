@@ -52,8 +52,8 @@ android {
         applicationId = "com.maslarski.crossword"
         minSdk = 26
         targetSdk = 36
-        versionCode = (config("versionCode") ?: "5").toInt()
-        versionName = config("versionName") ?: "1.0.5"
+        versionCode = (config("versionCode") ?: "6").toInt()
+        versionName = config("versionName") ?: "1.0.6"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables { useSupportLibrary = true }
@@ -191,6 +191,7 @@ dependencies {
     implementation(libs.play.integrity)
     implementation(libs.play.games.v2)
     implementation(libs.play.billing)
+    implementation(libs.play.review)
 
     testImplementation(libs.junit)
     testImplementation(libs.kotlinx.coroutines.test)

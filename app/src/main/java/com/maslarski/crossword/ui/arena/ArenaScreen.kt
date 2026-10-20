@@ -92,6 +92,7 @@ import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.arena.ArenaOutcome
+import com.maslarski.crossword.ui.game.REVIEW_PROMPT_DELAY_MS
 import com.maslarski.crossword.domain.arena.ArenaResult
 import com.maslarski.crossword.domain.arena.ArenaRules
 import com.maslarski.crossword.domain.arena.ArenaWord
@@ -108,6 +109,8 @@ import com.maslarski.crossword.ui.components.ZoomableGridState
 import com.maslarski.crossword.ui.theme.LocalArenaColors
 import kotlinx.coroutines.launch
 import kotlin.math.roundToInt
+import androidx.activity.compose.LocalActivity
+import kotlinx.coroutines.delay
 
 private data class DragTile(val slot: Int, val letter: Char, val position: Offset)
 
@@ -123,6 +126,14 @@ fun ArenaScreen(
     val snackbar = remember { SnackbarHostState() }
     val resources = LocalResources.current
     val scope = rememberCoroutineScope()
+
+    val activity = LocalActivity.current
+    val won = state.result?.outcome == ArenaOutcome.WON
+    LaunchedEffect(won) {
+        if (!won) return@LaunchedEffect
+        delay(REVIEW_PROMPT_DELAY_MS)
+        activity?.let(viewModel::requestReviewIfDue)
+    }
 
     var coinPrompt by remember { mutableStateOf<CoinPrompt?>(null) }
 
