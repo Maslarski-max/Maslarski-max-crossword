@@ -7,6 +7,7 @@ import androidx.sqlite.db.framework.FrameworkSQLiteOpenHelperFactory
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
 import com.maslarski.crossword.data.local.CrosswordDatabase
+import com.maslarski.crossword.data.local.CrosswordDatabase_Impl
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue
@@ -70,6 +71,56 @@ class LevelProgressMigrationTest {
         }
     }
 
+    @Test
+    fun migration7To8PreservesProgressAndWalletAndCreatesEmptyReviewPromptTable() {
+        helper.createDatabase(TEST_DATABASE_REVIEW_PROMPT, 7).apply {
+            execSQL(
+                "INSERT INTO level_progress (puzzleId, levelOrder, unlocked, completed, bestScore, " +
+                    "bestTimeSeconds, stars, completedAt) VALUES ('level-007', 7, 1, 1, 87, 30, 3, 123456)",
+            )
+            execSQL("INSERT INTO wallet (id, coins, lifetimeEarned) VALUES (0, 4321, 9876)")
+            close()
+        }
+
+        val migrations = CrosswordDatabase_Impl().createAutoMigrations(emptyMap()) +
+            CrosswordDatabase.MIGRATION_6_7
+        val migrated = helper.runMigrationsAndValidate(
+            TEST_DATABASE_REVIEW_PROMPT,
+            8,
+            true,
+            *migrations.toTypedArray(),
+        )
+        try {
+            migrated.query(
+                "SELECT puzzleId, levelOrder, unlocked, completed, bestScore, bestTimeSeconds, stars, completedAt " +
+                    "FROM level_progress",
+            ).use { cursor ->
+                assertTrue(cursor.moveToFirst())
+                assertEquals("level-007", cursor.getString(0))
+                assertEquals(7, cursor.getInt(1))
+                assertEquals(1, cursor.getInt(2))
+                assertEquals(1, cursor.getInt(3))
+                assertEquals(87, cursor.getInt(4))
+                assertEquals(30, cursor.getInt(5))
+                assertEquals(3, cursor.getInt(6))
+                assertEquals(123456L, cursor.getLong(7))
+                assertFalse(cursor.moveToNext())
+            }
+            migrated.query("SELECT coins, lifetimeEarned FROM wallet WHERE id = 0").use { cursor ->
+                assertTrue(cursor.moveToFirst())
+                assertEquals(4321, cursor.getInt(0))
+                assertEquals(9876, cursor.getInt(1))
+                assertFalse(cursor.moveToNext())
+            }
+            migrated.query("SELECT COUNT(*) FROM review_prompt").use { cursor ->
+                assertTrue(cursor.moveToFirst())
+                assertEquals(0, cursor.getInt(0))
+            }
+        } finally {
+            migrated.close()
+        }
+    }
+
     private fun insertBoard(db: SupportSQLiteDatabase, sessionId: String, puzzleId: String) {
         db.execSQL(
             "INSERT INTO board_progress (sessionId, puzzleId, solutionFingerprint, entries, revealedMask, " +
@@ -88,5 +139,6 @@ class LevelProgressMigrationTest {
 
     private companion object {
         const val TEST_DATABASE = "level-progress-migration"
+        const val TEST_DATABASE_REVIEW_PROMPT = "review-prompt-migration-v8"
     }
 }

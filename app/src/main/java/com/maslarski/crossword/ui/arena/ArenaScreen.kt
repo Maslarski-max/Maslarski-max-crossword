@@ -89,7 +89,9 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.min
 import androidx.compose.ui.unit.sp
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
+import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import androidx.lifecycle.compose.LocalLifecycleOwner
 import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.arena.ArenaOutcome
 import com.maslarski.crossword.ui.game.REVIEW_PROMPT_DELAY_MS
@@ -108,6 +110,7 @@ import com.maslarski.crossword.ui.components.Confetti
 import com.maslarski.crossword.ui.components.ZoomableGridState
 import com.maslarski.crossword.ui.theme.LocalArenaColors
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.flow.first
 import kotlin.math.roundToInt
 import androidx.activity.compose.LocalActivity
 import kotlinx.coroutines.delay
@@ -128,10 +131,12 @@ fun ArenaScreen(
     val scope = rememberCoroutineScope()
 
     val activity = LocalActivity.current
+    val lifecycle = LocalLifecycleOwner.current.lifecycle
     val won = state.result?.outcome == ArenaOutcome.WON
-    LaunchedEffect(won) {
+    LaunchedEffect(won, lifecycle) {
         if (!won) return@LaunchedEffect
         delay(REVIEW_PROMPT_DELAY_MS)
+        lifecycle.currentStateFlow.first { it.isAtLeast(Lifecycle.State.RESUMED) }
         activity?.let(viewModel::requestReviewIfDue)
     }
 

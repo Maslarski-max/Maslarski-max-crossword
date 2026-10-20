@@ -6,6 +6,8 @@ import android.util.Log
 import com.google.android.play.core.review.ReviewManagerFactory
 import com.google.android.play.core.ktx.launchReview
 import com.google.android.play.core.ktx.requestReview
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleOwner
 import com.maslarski.crossword.data.local.CrosswordDatabase
 import com.maslarski.crossword.data.local.ReviewPromptEntity
 import com.maslarski.crossword.domain.repository.ArenaRepository
@@ -37,6 +39,9 @@ class ReviewPrompter @Inject constructor(
         val wins = arena.observeStats().first().wins
         val last = dao.get()
         if (!ReviewSchedule.isDue(levels, wins, last?.let { ReviewPromptRecord(it.levelsSolved, it.arenaWins) })) return@withLock
+        if ((activity as? LifecycleOwner)?.lifecycle?.currentState?.isAtLeast(Lifecycle.State.RESUMED) != true) {
+            return@withLock
+        }
         dao.upsert(
             ReviewPromptEntity(
                 levelsSolved = levels,
