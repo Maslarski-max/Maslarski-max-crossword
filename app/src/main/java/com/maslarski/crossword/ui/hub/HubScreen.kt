@@ -21,6 +21,7 @@ import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.CalendarMonth
 import androidx.compose.material.icons.rounded.GridOn
 import androidx.compose.material.icons.rounded.Insights
+import androidx.compose.material.icons.rounded.Leaderboard
 import androidx.compose.material.icons.rounded.Settings
 import androidx.compose.material.icons.rounded.SportsEsports
 import androidx.compose.material.icons.rounded.Storefront
@@ -35,16 +36,22 @@ import androidx.compose.material3.LargeTopAppBar
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.SnackbarHost
+import androidx.compose.material3.SnackbarHostState
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.input.nestedscroll.nestedScroll
+import androidx.compose.ui.platform.LocalResources
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
@@ -69,9 +76,21 @@ fun HubScreen(
     val state by viewModel.state.collectAsStateWithLifecycle()
     val playGames by viewModel.playGames.collectAsStateWithLifecycle()
     val activity = LocalActivity.current
+    val snackbar = remember { SnackbarHostState() }
+    val resources = LocalResources.current
     val scrollBehavior = TopAppBarDefaults.exitUntilCollapsedScrollBehavior()
+    LaunchedEffect(viewModel) {
+        viewModel.playGamesSignInFailed.collect {
+            snackbar.showSnackbar(resources.getString(R.string.hub_play_games_sign_in_failed))
+        }
+    }
+    val signedIn = playGames is PlayGamesState.SignedIn
+    LaunchedEffect(signedIn, state.loading, state.levelsSolved, state.arena.wins) {
+        if (signedIn) activity?.let(viewModel::submitScores)
+    }
     Scaffold(
         modifier = Modifier.nestedScroll(scrollBehavior.nestedScrollConnection),
+        snackbarHost = { SnackbarHost(snackbar) },
         topBar = {
             LargeTopAppBar(
                 title = { Text(stringResource(R.string.app_name), fontWeight = FontWeight.Bold) },
@@ -121,18 +140,28 @@ fun HubScreen(
                                         modifier = Modifier.padding(start = 8.dp),
                                     )
                                 }
-                                is PlayGamesState.SignedIn -> Text(
-                                    if (playGamesState.displayName == null) {
-                                        stringResource(R.string.hub_play_games_signed_in_unnamed)
-                                    } else {
-                                        stringResource(
-                                            R.string.hub_play_games_signed_in,
-                                            playGamesState.displayName,
+                                is PlayGamesState.SignedIn -> {
+                                    Text(
+                                        if (playGamesState.displayName == null) {
+                                            stringResource(R.string.hub_play_games_signed_in_unnamed)
+                                        } else {
+                                            stringResource(
+                                                R.string.hub_play_games_signed_in,
+                                                playGamesState.displayName,
+                                            )
+                                        },
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                        modifier = Modifier.weight(1f),
+                                    )
+                                    TextButton(onClick = { activity?.let(viewModel::showLeaderboards) }) {
+                                        Icon(Icons.Rounded.Leaderboard, contentDescription = null)
+                                        Text(
+                                            stringResource(R.string.hub_play_games_leaderboards),
+                                            modifier = Modifier.padding(start = 8.dp),
                                         )
-                                    },
-                                    style = MaterialTheme.typography.bodyMedium,
-                                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                                )
+                                    }
+                                }
                             }
                         }
                         val classic = @Composable { modifier: Modifier ->
