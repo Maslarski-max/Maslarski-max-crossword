@@ -137,7 +137,7 @@ fun AchievementToast(current: Achievement?, modifier: Modifier = Modifier) {
                     Icon(achievement.icon, contentDescription = null)
                     Column {
                         Text(stringResource(R.string.achievement_unlocked), style = MaterialTheme.typography.labelMedium)
-                        Text(stringResource(achievement.titleRes), style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Bold)
+                        Text(achievement.titleText(), style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Bold)
                     }
                 }
             }

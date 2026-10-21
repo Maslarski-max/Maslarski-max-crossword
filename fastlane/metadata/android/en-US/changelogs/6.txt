@@ -5,3 +5,4 @@
 - Leaderboard totals now sync right after switching Play Games accounts
 - Asks for a Play Store rating after level 2 or your first Arena win, then only every 15 levels or 5 wins
 - Stability and performance improvements
+- New Classic milestone and hint-free achievements; the first 10 levels are free

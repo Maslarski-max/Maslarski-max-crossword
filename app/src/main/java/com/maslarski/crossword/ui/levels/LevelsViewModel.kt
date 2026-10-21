@@ -84,7 +84,7 @@ class LevelsViewModel @Inject constructor(
                             rows = puzzle.rows,
                             cols = puzzle.cols,
                             wordCount = puzzle.words.size,
-                            unlocked = unlimited || (record?.unlocked ?: (i == 0)),
+                            unlocked = unlimited || (record?.unlocked ?: (i < GameRules.FREE_LEVELS)),
                             unlockable = !unlimited && puzzle.id == nextUnlockable,
                             completed = record?.completed == true,
                             stars = record?.stars ?: 0,

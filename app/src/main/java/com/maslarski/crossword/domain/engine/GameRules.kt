@@ -15,6 +15,7 @@ enum class Hint(val cost: Int) {
 
 object GameRules {
     const val STARTING_COINS = 100
+    const val FREE_LEVELS = 10
     /** Price of unlocking the next Classic level. */
     const val LEVEL_UNLOCK_COST = 50
     const val CHECK_PENALTY = 20

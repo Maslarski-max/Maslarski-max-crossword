@@ -70,11 +70,11 @@ class RoomProgressRepository(
     override suspend fun syncLevels(levels: List<Puzzle>): Unit = db.withTransaction {
         this.levels.insertIgnore(
             levels.map {
-                LevelProgressEntity(it.id, it.order, unlocked = false, completed = false, bestScore = 0, bestTimeSeconds = null, stars = 0, completedAt = null)
+                LevelProgressEntity(it.id, it.order, unlocked = false, completed = false, hintFree = false, bestScore = 0, bestTimeSeconds = null, stars = 0, completedAt = null)
             },
         )
         levels.forEach { this.levels.updateOrder(it.id, it.order) }
-        levels.firstOrNull()?.let { this.levels.unlock(it.id) }
+        levels.take(GameRules.FREE_LEVELS).forEach { this.levels.unlock(it.id) }
     }
 
     override suspend fun unlockLevel(levels: List<Puzzle>, puzzleId: String): UnlockResult =
@@ -148,6 +148,7 @@ class RoomProgressRepository(
                         levelOrder = puzzle.order,
                         unlocked = true,
                         completed = true,
+                        hintFree = current?.hintFree == true || (board.revealed.isEmpty() && checksUsed == 0),
                         bestScore = maxOf(score, current?.bestScore ?: 0),
                         bestTimeSeconds = minOf(elapsedSeconds, current?.bestTimeSeconds ?: Long.MAX_VALUE),
                         stars = maxOf(stars, current?.stars ?: 0),

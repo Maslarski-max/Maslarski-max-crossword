@@ -50,6 +50,9 @@ interface LevelProgressDao {
 
     @Query("SELECT COUNT(*) FROM level_progress WHERE completed = 1")
     fun observeCompletedCount(): Flow<Int>
+
+    @Query("SELECT COUNT(*) FROM level_progress WHERE completed = 1 AND hintFree = 1")
+    fun observeHintFreeCount(): Flow<Int>
 }
 
 @Dao

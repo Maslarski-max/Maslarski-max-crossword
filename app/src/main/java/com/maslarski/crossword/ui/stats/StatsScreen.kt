@@ -53,9 +53,9 @@ import com.maslarski.crossword.R
 import com.maslarski.crossword.domain.profile.Achievement
 import com.maslarski.crossword.ui.components.CoinChip
 import com.maslarski.crossword.ui.components.formatElapsed
-import com.maslarski.crossword.ui.profile.descriptionRes
+import com.maslarski.crossword.ui.profile.descriptionText
 import com.maslarski.crossword.ui.profile.icon
-import com.maslarski.crossword.ui.profile.titleRes
+import com.maslarski.crossword.ui.profile.titleText
 import java.time.Instant
 import java.time.ZoneId
 import java.time.format.DateTimeFormatter
@@ -155,8 +155,8 @@ private fun StatTile(tile: StatTileUi, modifier: Modifier) {
 private fun BadgeCard(badge: BadgeUi, modifier: Modifier) {
     val unlocked = badge.unlockedAt != null
     val achievement = badge.achievement
-    val title = stringResource(achievement.titleRes)
-    val description = stringResource(achievement.descriptionRes)
+    val title = achievement.titleText()
+    val description = achievement.descriptionText()
     val status = badge.unlockedAt?.let {
         stringResource(R.string.achievement_unlocked_on, Instant.ofEpochMilli(it).atZone(ZoneId.systemDefault()).toLocalDate().format(DateTimeFormatter.ofLocalizedDate(FormatStyle.MEDIUM)))
     } ?: stringResource(R.string.achievement_locked)

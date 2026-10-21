@@ -36,10 +36,19 @@ class RoomProfileRepository(
         val classic = combine(highScores.observeSolvedCount(), highScores.observeFastest(), daily.observeCompletedDates()) { solved, fastest, dates ->
             Triple(solved, fastest, dates.map(LocalDate::parse))
         }
-        return combine(classic, wallet.observeLifetimeEarned(), arena.observeStats(), logins.observe()) { (solved, fastest, dates), earned, arenaStats, login ->
+        val levelProgress = combine(
+            db.levelProgressDao().observeCompletedCount(),
+            db.levelProgressDao().observeHintFreeCount(),
+        ) { levelsSolved, hintFreeLevels ->
+            levelsSolved to hintFreeLevels
+        }
+        return combine(classic, levelProgress, wallet.observeLifetimeEarned(), arena.observeStats(), logins.observe()) {
+                (solved, fastest, dates), (levelsSolved, hintFreeLevels), earned, arenaStats, login ->
             val streak = login?.toDomain()
             PlayerProfile(
                 puzzlesSolved = solved,
+                levelsSolved = levelsSolved,
+                hintFreeLevels = hintFreeLevels,
                 dailySolved = dates.size,
                 dailyStreak = Streaks.current(dates, today),
                 fastestSolveSeconds = fastest,

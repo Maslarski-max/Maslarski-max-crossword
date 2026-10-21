@@ -39,6 +39,27 @@ class AchievementsTest {
     }
 
     @Test
+    fun `level milestones follow the 100 level rule`() {
+        val milestones = Achievement.entries.filter { it.isLevelMilestone }
+        assertEquals(
+            (1..Achievements.LEVEL_MILESTONES).map { it * Achievements.LEVEL_MILESTONE_STEP.toLong() },
+            milestones.map { it.target },
+        )
+        assertFalse(Achievement.LEVELS_100.isMet(PlayerProfile(levelsSolved = 99)))
+        assertEquals(emptySet<Achievement>(), Achievements.met(PlayerProfile(levelsSolved = 99)))
+        assertEquals(setOf(Achievement.LEVELS_100), Achievements.met(PlayerProfile(levelsSolved = 100)))
+        assertEquals(milestones.toSet(), Achievements.met(PlayerProfile(levelsSolved = 700)))
+    }
+
+    @Test
+    fun `hint free achievements use completed classic levels`() {
+        assertFalse(Achievement.PURE_GENIUS.isMet(PlayerProfile(hintFreeLevels = 0)))
+        assertTrue(Achievement.PURE_GENIUS.isMet(PlayerProfile(hintFreeLevels = 1)))
+        assertFalse(Achievement.FLAWLESS_DECAMERON.isMet(PlayerProfile(hintFreeLevels = 9)))
+        assertTrue(Achievement.FLAWLESS_DECAMERON.isMet(PlayerProfile(hintFreeLevels = 10)))
+    }
+
+    @Test
     fun `speed solver needs a solve within two minutes`() {
         assertFalse(Achievement.SPEED_SOLVER.isMet(PlayerProfile(fastestSolveSeconds = null)))
         assertFalse(Achievement.SPEED_SOLVER.isMet(PlayerProfile(fastestSolveSeconds = 121)))

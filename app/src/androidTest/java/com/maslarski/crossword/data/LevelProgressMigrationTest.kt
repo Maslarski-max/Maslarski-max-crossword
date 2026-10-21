@@ -121,6 +121,36 @@ class LevelProgressMigrationTest {
         }
     }
 
+    @Test
+    fun migration8To9PreservesCompletedLevelAndDefaultsHintFreeToFalse() {
+        helper.createDatabase(TEST_DATABASE_HINT_FREE, 8).apply {
+            execSQL(
+                "INSERT INTO level_progress (puzzleId, levelOrder, unlocked, completed, bestScore, " +
+                    "bestTimeSeconds, stars, completedAt) VALUES ('level-008', 8, 1, 1, 95, 42, 3, 123456)",
+            )
+            close()
+        }
+
+        val migrations = CrosswordDatabase_Impl().createAutoMigrations(emptyMap())
+        val migrated = helper.runMigrationsAndValidate(
+            TEST_DATABASE_HINT_FREE,
+            9,
+            true,
+            *migrations.toTypedArray(),
+        )
+        try {
+            migrated.query("SELECT puzzleId, completed, hintFree FROM level_progress").use { cursor ->
+                assertTrue(cursor.moveToFirst())
+                assertEquals("level-008", cursor.getString(0))
+                assertEquals(1, cursor.getInt(1))
+                assertEquals(0, cursor.getInt(2))
+                assertFalse(cursor.moveToNext())
+            }
+        } finally {
+            migrated.close()
+        }
+    }
+
     private fun insertBoard(db: SupportSQLiteDatabase, sessionId: String, puzzleId: String) {
         db.execSQL(
             "INSERT INTO board_progress (sessionId, puzzleId, solutionFingerprint, entries, revealedMask, " +
@@ -140,5 +170,6 @@ class LevelProgressMigrationTest {
     private companion object {
         const val TEST_DATABASE = "level-progress-migration"
         const val TEST_DATABASE_REVIEW_PROMPT = "review-prompt-migration-v8"
+        const val TEST_DATABASE_HINT_FREE = "hint-free-migration-v9"
     }
 }
