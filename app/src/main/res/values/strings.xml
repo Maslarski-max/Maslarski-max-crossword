@@ -116,6 +116,12 @@
     <string name="achievement_loyal_player_desc">Open the app 7 days in a row</string>
     <string name="achievement_coin_collector">Coin Collector</string>
     <string name="achievement_coin_collector_desc">Earn 500 coins in total</string>
+    <string name="achievement_level_milestone">Level %1$d</string>
+    <string name="achievement_level_milestone_desc">Solve %1$d Classic levels</string>
+    <string name="achievement_pure_genius">Pure Genius</string>
+    <string name="achievement_pure_genius_desc">Solve a Classic level without any hints</string>
+    <string name="achievement_flawless_decameron">Flawless Decameron</string>
+    <string name="achievement_flawless_decameron_desc">Solve 10 Classic levels without any hints</string>
 
     <!-- Daily login bonus -->
     <string name="login_reward_title" tools:ignore="PluralsCandidate">Day %1$d login bonus!</string>

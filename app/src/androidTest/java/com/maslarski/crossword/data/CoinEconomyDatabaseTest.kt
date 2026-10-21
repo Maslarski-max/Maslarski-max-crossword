@@ -15,6 +15,7 @@ import com.maslarski.crossword.domain.arena.ArenaState
 import com.maslarski.crossword.domain.engine.CrosswordEngine
 import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.engine.Hint
+import com.maslarski.crossword.domain.engine.LevelUnlocks
 import com.maslarski.crossword.domain.model.Difficulty
 import com.maslarski.crossword.domain.model.GameSession
 import com.maslarski.crossword.domain.model.Puzzle
@@ -44,7 +45,7 @@ class CoinEconomyDatabaseTest {
     private lateinit var wallet: RoomWalletRepository
     private lateinit var progress: RoomProgressRepository
     private lateinit var arena: RoomArenaRepository
-    private val levels = (1..3).map(::level)
+    private val levels = (1..12).map(::level)
 
     @Before
     fun setUp() = runBlocking {
@@ -63,35 +64,52 @@ class CoinEconomyDatabaseTest {
     private suspend fun unlocked() = progress.observeLevels().first().filter { it.unlocked }.map { it.puzzleId }
 
     @Test
-    fun onlyTheFirstLevelStartsUnlocked() = runBlocking {
-        assertEquals(listOf("l1"), unlocked())
+    fun firstTenLevelsStartUnlockedAndLevelElevenIsNext() = runBlocking {
+        assertEquals(10, GameRules.FREE_LEVELS)
+        val freeLevels = levels.take(GameRules.FREE_LEVELS).map { it.id }
+        assertEquals(freeLevels, unlocked())
+        assertFalse("l11" in unlocked())
+        assertEquals("l11", LevelUnlocks.nextUnlockable(levels.map { it.id }, unlocked().toSet()))
         assertEquals(GameRules.STARTING_COINS, coins())
     }
 
     @Test
-    fun unlockingSpendsFiftyCoinsAndPersistsTheLevel() = runBlocking {
-        assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l2"))
-        assertEquals(GameRules.STARTING_COINS - GameRules.LEVEL_UNLOCK_COST, coins())
-        assertEquals(listOf("l1", "l2"), unlocked())
+    fun syncingAgainUnlocksTheFirstTenForExistingRows() = runBlocking {
+        db.openHelper.writableDatabase.execSQL("UPDATE level_progress SET unlocked = 0")
 
-        assertEquals(UnlockResult.ALREADY_UNLOCKED, progress.unlockLevel(levels, "l2"))
+        progress.syncLevels(levels)
+
+        assertEquals(levels.take(GameRules.FREE_LEVELS).map { it.id }, unlocked())
+        assertFalse("l11" in unlocked())
+    }
+
+    @Test
+    fun unlockingSpendsFiftyCoinsAndPersistsTheLevel() = runBlocking {
+        assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l11"))
+        assertEquals(GameRules.STARTING_COINS - GameRules.LEVEL_UNLOCK_COST, coins())
+        assertEquals(levels.take(11).map { it.id }, unlocked())
+
+        assertEquals(UnlockResult.ALREADY_UNLOCKED, progress.unlockLevel(levels, "l11"))
         assertEquals(GameRules.STARTING_COINS - GameRules.LEVEL_UNLOCK_COST, coins())
     }
 
     @Test
     fun levelsUnlockInOrder() = runBlocking {
-        assertEquals(UnlockResult.NOT_NEXT, progress.unlockLevel(levels, "l3"))
+        assertEquals(UnlockResult.NOT_NEXT, progress.unlockLevel(levels, "l12"))
         assertEquals(UnlockResult.NOT_NEXT, progress.unlockLevel(levels, "missing"))
         assertEquals(GameRules.STARTING_COINS, coins())
-        assertEquals(listOf("l1"), unlocked())
+        assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l11"))
+        assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l12"))
+        assertEquals(levels.map { it.id }, unlocked())
+        assertEquals(0, coins())
     }
 
     @Test
     fun unlockWithoutEnoughCoinsChangesNothing() = runBlocking {
         assertTrue(wallet.trySpend(GameRules.STARTING_COINS - 49))
-        assertEquals(UnlockResult.NOT_ENOUGH_COINS, progress.unlockLevel(levels, "l2"))
+        assertEquals(UnlockResult.NOT_ENOUGH_COINS, progress.unlockLevel(levels, "l11"))
         assertEquals(49, coins())
-        assertEquals(listOf("l1"), unlocked())
+        assertEquals(levels.take(GameRules.FREE_LEVELS).map { it.id }, unlocked())
     }
 
     @Test
@@ -100,7 +118,7 @@ class CoinEconomyDatabaseTest {
         wallet.refund(Hint.REVEAL_WORD.cost)
         assertFalse(wallet.trySpend(GameRules.STARTING_COINS + 1))
         assertEquals(UnlockResult.ALREADY_UNLOCKED, progress.unlockLevel(levels, "l1"))
-        assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l2"))
+        assertEquals(UnlockResult.UNLOCKED, progress.unlockLevel(levels, "l11"))
         wallet.earn(5)
         assertEquals(
             listOf(-Hint.REVEAL_WORD.cost, Hint.REVEAL_WORD.cost, -GameRules.LEVEL_UNLOCK_COST, 5),
@@ -110,7 +128,7 @@ class CoinEconomyDatabaseTest {
 
     @Test
     fun concurrentUnlockTapsChargeOnce() = runBlocking {
-        val results = List(5) { async { progress.unlockLevel(levels, "l2") } }.awaitAll()
+        val results = List(5) { async { progress.unlockLevel(levels, "l11") } }.awaitAll()
         assertEquals(1, results.count { it == UnlockResult.UNLOCKED })
         assertEquals(GameRules.STARTING_COINS - GameRules.LEVEL_UNLOCK_COST, coins())
     }
@@ -121,8 +139,39 @@ class CoinEconomyDatabaseTest {
         val result = progress.recordCompletion(GameSession.Level(puzzle.id), puzzle, CrosswordEngine.newBoard(puzzle), 30, 0, "l2")
         assertEquals(GameRules.completionCoins(puzzle), result.coinsEarned)
         assertEquals(GameRules.STARTING_COINS + result.coinsEarned, coins())
-        assertEquals(listOf("l1"), unlocked())
+        assertEquals(levels.take(GameRules.FREE_LEVELS).map { it.id }, unlocked())
         assertEquals("l2", result.nextPuzzleId)
+    }
+
+    @Test
+    fun hintFreeCompletionIsTrackedOnlyWithoutHintsAndStaysEarnedOnReplay() = runBlocking {
+        val clean = levels[0]
+        val revealed = levels[1]
+        val checked = levels[2]
+        progress.recordCompletion(GameSession.Level(clean.id), clean, CrosswordEngine.newBoard(clean), 30, 0, null)
+        progress.recordCompletion(
+            GameSession.Level(revealed.id),
+            revealed,
+            CrosswordEngine.newBoard(revealed).copy(revealed = setOf(0)),
+            30,
+            0,
+            null,
+        )
+        progress.recordCompletion(GameSession.Level(checked.id), checked, CrosswordEngine.newBoard(checked), 30, 1, null)
+
+        assertTrue(db.levelProgressDao().get(clean.id)!!.hintFree)
+        assertFalse(db.levelProgressDao().get(revealed.id)!!.hintFree)
+        assertFalse(db.levelProgressDao().get(checked.id)!!.hintFree)
+
+        progress.recordCompletion(
+            GameSession.Level(clean.id),
+            clean,
+            CrosswordEngine.newBoard(clean).copy(revealed = setOf(0)),
+            30,
+            0,
+            null,
+        )
+        assertTrue(db.levelProgressDao().get(clean.id)!!.hintFree)
     }
 
     @Test

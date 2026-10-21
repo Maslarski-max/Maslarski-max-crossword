@@ -42,7 +42,7 @@ interface ProgressRepository {
     fun observeLastInProgress(): Flow<SavedBoard?>
 
     fun observeLevels(): Flow<List<LevelProgress>>
-    /** Registers newly shipped levels; the first level is always unlocked, later ones are bought. */
+    /** Registers newly shipped levels; the first ten are free and later ones are bought in order. */
     suspend fun syncLevels(levels: List<Puzzle>)
     /**
      * Spends [com.maslarski.crossword.domain.engine.GameRules.LEVEL_UNLOCK_COST] coins and unlocks [puzzleId] in one transaction. Only the first locked

@@ -94,17 +94,45 @@ class RetentionDatabaseTest {
     }
 
     @Test
+    fun classicLevelCountersExcludeDailyCompletions() = runBlocking {
+        val clean = mini("classic-clean")
+        val withHints = mini("classic-hints")
+        val daily = mini("daily-counter", PuzzleType.DAILY)
+        progress.recordCompletion(GameSession.Level(clean.id), clean, CrosswordEngine.newBoard(clean), 30, 0, null)
+        progress.recordCompletion(
+            GameSession.Level(withHints.id),
+            withHints,
+            CrosswordEngine.newBoard(withHints).copy(revealed = setOf(0)),
+            40,
+            0,
+            null,
+        )
+        progress.recordCompletion(GameSession.Daily(day, daily.id), daily, CrosswordEngine.newBoard(daily), 50, 0, null)
+
+        val stats = profile.observeProfile(day).first()
+        assertEquals(3, stats.puzzlesSolved)
+        assertEquals(2, stats.levelsSolved)
+        assertEquals(1, stats.hintFreeLevels)
+    }
+
+    @Test
     fun achievementsUnlockOnceAndPersist() = runBlocking {
         val puzzle = mini("l1")
         progress.recordCompletion(GameSession.Level(puzzle.id), puzzle, CrosswordEngine.newBoard(puzzle), 30, 0, null)
         val stats = profile.observeProfile(day).first()
 
-        assertEquals(listOf(Achievement.FIRST_SOLVE, Achievement.SPEED_SOLVER), profile.unlockMet(stats))
+        assertEquals(
+            listOf(Achievement.FIRST_SOLVE, Achievement.SPEED_SOLVER, Achievement.PURE_GENIUS),
+            profile.unlockMet(stats),
+        )
         assertTrue(profile.unlockMet(stats).isEmpty())
-        assertEquals(setOf(Achievement.FIRST_SOLVE, Achievement.SPEED_SOLVER), profile.observeUnlocked().first().keys)
+        assertEquals(
+            setOf(Achievement.FIRST_SOLVE, Achievement.SPEED_SOLVER, Achievement.PURE_GENIUS),
+            profile.observeUnlocked().first().keys,
+        )
     }
 
-    private fun mini(id: String): Puzzle = PuzzleParser().parse(
+    private fun mini(id: String, type: PuzzleType = PuzzleType.LEVEL): Puzzle = PuzzleParser().parse(
         """
         {
           "id": "$id",
@@ -118,6 +146,6 @@ class RetentionDatabaseTest {
           }
         }
         """,
-        PuzzleType.LEVEL,
+        type,
     )
 }

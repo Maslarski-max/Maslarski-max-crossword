@@ -30,6 +30,7 @@ data class LevelProgressEntity(
     val levelOrder: Int,
     val unlocked: Boolean,
     val completed: Boolean,
+    @ColumnInfo(defaultValue = "0") val hintFree: Boolean,
     val bestScore: Int,
     val bestTimeSeconds: Long?,
     val stars: Int,
