@@ -14,7 +14,10 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.sync.Mutex
+import kotlinx.coroutines.sync.withLock
 import java.time.Clock
+import java.time.LocalDate
 import javax.inject.Inject
 
 /** App-wide retention UI: the daily login bonus dialog and achievement unlock banners. */
@@ -39,6 +42,7 @@ class MainViewModel @Inject constructor(
     val achievement: StateFlow<Achievement?> = _achievement.asStateFlow()
 
     private var appStartedJob: Job? = null
+    private val claimMutex = Mutex()
 
     init {
         viewModelScope.launch {
@@ -55,13 +59,7 @@ class MainViewModel @Inject constructor(
         if (appStartedJob?.isActive == true) return
         appStartedJob = viewModelScope.launch {
             localDates(clock).collect { today ->
-                if (_reward.value != null) return@collect
-                _holdCoinToasts.value = true
-                try {
-                    profile.claimDailyLogin(today)?.let { _reward.value = it }
-                } finally {
-                    if (_reward.value == null) _holdCoinToasts.value = false
-                }
+                claim(today)
             }
         }
     }
@@ -74,6 +72,21 @@ class MainViewModel @Inject constructor(
     fun onRewardDismissed() {
         _reward.value = null
         _holdCoinToasts.value = false
+        if (appStartedJob?.isActive == true) {
+            viewModelScope.launch { claim(LocalDate.now(clock)) }
+        }
+    }
+
+    private suspend fun claim(today: LocalDate) {
+        claimMutex.withLock {
+            if (_reward.value != null) return@withLock
+            _holdCoinToasts.value = true
+            try {
+                profile.claimDailyLogin(today)?.let { _reward.value = it }
+            } finally {
+                if (_reward.value == null) _holdCoinToasts.value = false
+            }
+        }
     }
 
     private companion object {

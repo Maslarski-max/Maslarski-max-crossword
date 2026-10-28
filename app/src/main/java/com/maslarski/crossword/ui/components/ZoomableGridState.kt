@@ -4,7 +4,6 @@ import androidx.compose.animation.core.AnimationSpec
 import androidx.compose.animation.core.AnimationState
 import androidx.compose.animation.core.animate
 import androidx.compose.animation.core.animateDecay
-import androidx.compose.animation.core.calculateTargetValue
 import androidx.compose.animation.core.exponentialDecay
 import androidx.compose.animation.core.spring
 import androidx.compose.animation.core.VectorConverter
@@ -20,6 +19,7 @@ import androidx.compose.ui.unit.Velocity
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
+import kotlin.math.abs
 import kotlin.math.floor
 import kotlin.math.hypot
 import kotlin.math.max
@@ -108,22 +108,16 @@ class ZoomableGridState {
         )
         animation = scope.launch {
             state.animateDecay(exponentialDecay(frictionMultiplier = FLING_FRICTION_MULTIPLIER)) {
-                val bounded = clamp(value, zoom)
-                offset = bounded
-                if (bounded != value) cancelAnimation()
+                if (!flingFrame(value, Offset(velocity.x, velocity.y))) cancelAnimation()
             }
         }
     }
 
-    internal fun decayTarget(start: Offset, velocity: Velocity, zoom: Float): Offset {
-        val decay = exponentialDecay<Float>(frictionMultiplier = FLING_FRICTION_MULTIPLIER)
-        return clamp(
-            Offset(
-                decay.calculateTargetValue(start.x, velocity.x),
-                decay.calculateTargetValue(start.y, velocity.y),
-            ),
-            zoom,
-        )
+    internal fun flingFrame(value: Offset, velocity: Offset): Boolean {
+        offset = clamp(value, zoom)
+        val xDone = offset.x != value.x || abs(velocity.x) < 1f
+        val yDone = offset.y != value.y || abs(velocity.y) < 1f
+        return !(xDone && yDone)
     }
 
     /**
