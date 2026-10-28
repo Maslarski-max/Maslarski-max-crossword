@@ -26,7 +26,7 @@ The start screen offers two modes: **Classic Crossword** (solo) and **Crossword 
   Firebase Analytics + Crashlytics, a Play Integrity hook, backup/data-extraction rules,
   HTTPS-only network config, R8, a signed-AAB pipeline (Gradle, fastlane and GitHub Actions), store listing text,
   a privacy policy and Data safety answers.
-- **Play Games Services**: v2 sign-in and leaderboards (Classic Levels Solved, Arena Wins; achievements are future work); APP_ID is set in
+- **Play Games Services**: v2 sign-in, leaderboards (Classic Levels Solved, Arena Wins), and the Level 100 achievement; APP_ID is set in
   `app/src/main/res/values/games.xml`.
 
 | | |

@@ -3,4 +3,5 @@
     <string name="game_services_project_id" translatable="false">424810626523</string>
     <string name="leaderboard_classic_levels_solved" translatable="false">CgkI2_u-xa4MEAIQAg</string>
     <string name="leaderboard_arena_wins" translatable="false">CgkI2_u-xa4MEAIQAw</string>
+    <string name="achievement_level_100" translatable="false">CgkI2_u-xa4MEAIQBA</string>
 </resources>
