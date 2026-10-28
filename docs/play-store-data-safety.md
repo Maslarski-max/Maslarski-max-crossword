@@ -25,7 +25,8 @@ Google's current SDK disclosures (Firebase, Play Billing) before each submission
 Sign-in is optional and uses the player's Google Play Games profile; Google handles sign-in under
 [Google's Privacy Policy](https://policies.google.com/privacy). The app reads only the display name to show it
 on the start screen. While signed in, it submits two totals to Play Games leaderboards (Classic levels solved
-and Arena wins) and unlocks the Level 100 achievement after 100 Classic level solves; Google stores and shows
+and Arena wins) and unlocks the Level 100, Level 350 and Level 720 achievements after 100, 350 and 720 Classic
+level solves, respectively; Google stores and shows
 those under its own policy. The app stores and sends no Play Games
 data to its own servers; it has none.
 

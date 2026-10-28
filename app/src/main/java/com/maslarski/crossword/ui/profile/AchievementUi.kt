@@ -11,6 +11,7 @@ import androidx.compose.material.icons.rounded.MilitaryTech
 import androidx.compose.material.icons.rounded.SportsEsports
 import androidx.compose.material.icons.rounded.TaskAlt
 import androidx.compose.material.icons.rounded.Toll
+import androidx.compose.material.icons.rounded.WorkspacePremium
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.stringResource
@@ -28,13 +29,9 @@ val Achievement.icon: ImageVector
         Achievement.ARENA_KING -> Icons.Rounded.EmojiEvents
         Achievement.LOYAL_PLAYER -> Icons.Rounded.LocalFireDepartment
         Achievement.COIN_COLLECTOR -> Icons.Rounded.Toll
-        Achievement.LEVELS_100,
-        Achievement.LEVELS_200,
-        Achievement.LEVELS_300,
-        Achievement.LEVELS_400,
-        Achievement.LEVELS_500,
-        Achievement.LEVELS_600,
-        Achievement.LEVELS_700 -> Icons.Rounded.EmojiEvents
+        Achievement.LEVELS_100 -> Icons.Rounded.EmojiEvents
+        Achievement.HALFWAY_CHAMPION -> Icons.Rounded.MilitaryTech
+        Achievement.ARENA_LEGEND -> Icons.Rounded.WorkspacePremium
         Achievement.PURE_GENIUS -> Icons.Rounded.Bolt
         Achievement.FLAWLESS_DECAMERON -> Icons.Rounded.TaskAlt
     }
@@ -51,13 +48,9 @@ val Achievement.titleRes: Int
         Achievement.ARENA_KING -> R.string.achievement_arena_king
         Achievement.LOYAL_PLAYER -> R.string.achievement_loyal_player
         Achievement.COIN_COLLECTOR -> R.string.achievement_coin_collector
-        Achievement.LEVELS_100,
-        Achievement.LEVELS_200,
-        Achievement.LEVELS_300,
-        Achievement.LEVELS_400,
-        Achievement.LEVELS_500,
-        Achievement.LEVELS_600,
-        Achievement.LEVELS_700 -> R.string.achievement_level_milestone
+        Achievement.LEVELS_100 -> R.string.achievement_level_milestone
+        Achievement.HALFWAY_CHAMPION -> R.string.achievement_halfway_champion
+        Achievement.ARENA_LEGEND -> R.string.achievement_arena_legend
         Achievement.PURE_GENIUS -> R.string.achievement_pure_genius
         Achievement.FLAWLESS_DECAMERON -> R.string.achievement_flawless_decameron
     }
@@ -74,13 +67,9 @@ val Achievement.descriptionRes: Int
         Achievement.ARENA_KING -> R.string.achievement_arena_king_desc
         Achievement.LOYAL_PLAYER -> R.string.achievement_loyal_player_desc
         Achievement.COIN_COLLECTOR -> R.string.achievement_coin_collector_desc
-        Achievement.LEVELS_100,
-        Achievement.LEVELS_200,
-        Achievement.LEVELS_300,
-        Achievement.LEVELS_400,
-        Achievement.LEVELS_500,
-        Achievement.LEVELS_600,
-        Achievement.LEVELS_700 -> R.string.achievement_level_milestone_desc
+        Achievement.LEVELS_100 -> R.string.achievement_level_milestone_desc
+        Achievement.HALFWAY_CHAMPION -> R.string.achievement_halfway_champion_desc
+        Achievement.ARENA_LEGEND -> R.string.achievement_arena_legend_desc
         Achievement.PURE_GENIUS -> R.string.achievement_pure_genius_desc
         Achievement.FLAWLESS_DECAMERON -> R.string.achievement_flawless_decameron_desc
     }

@@ -118,6 +118,10 @@
     <string name="achievement_coin_collector_desc">Earn 500 coins in total</string>
     <string name="achievement_level_milestone">Level %1$d</string>
     <string name="achievement_level_milestone_desc">Solve %1$d Classic levels</string>
+    <string name="achievement_halfway_champion">Halfway Champion</string>
+    <string name="achievement_halfway_champion_desc">Solve 350 Classic levels</string>
+    <string name="achievement_arena_legend">Crossword Arena Legend</string>
+    <string name="achievement_arena_legend_desc">Solve all 720 Classic levels</string>
     <string name="achievement_pure_genius">Pure Genius</string>
     <string name="achievement_pure_genius_desc">Solve a Classic level without any hints</string>
     <string name="achievement_flawless_decameron">Flawless Decameron</string>

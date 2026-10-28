@@ -39,16 +39,29 @@ class AchievementsTest {
     }
 
     @Test
-    fun `level milestones follow the 100 level rule`() {
-        val milestones = Achievement.entries.filter { it.isLevelMilestone }
+    fun `level achievements have exactly the configured thresholds`() {
+        val levelAchievements = Achievement.entries.filter {
+            it.isLevelMilestone || it == Achievement.HALFWAY_CHAMPION || it == Achievement.ARENA_LEGEND
+        }
         assertEquals(
-            (1..Achievements.LEVEL_MILESTONES).map { it * Achievements.LEVEL_MILESTONE_STEP.toLong() },
-            milestones.map { it.target },
+            mapOf(
+                Achievement.LEVELS_100 to 100L,
+                Achievement.HALFWAY_CHAMPION to 350L,
+                Achievement.ARENA_LEGEND to 720L,
+            ),
+            levelAchievements.associateWith { it.target },
         )
         assertFalse(Achievement.LEVELS_100.isMet(PlayerProfile(levelsSolved = 99)))
         assertEquals(emptySet<Achievement>(), Achievements.met(PlayerProfile(levelsSolved = 99)))
         assertEquals(setOf(Achievement.LEVELS_100), Achievements.met(PlayerProfile(levelsSolved = 100)))
-        assertEquals(milestones.toSet(), Achievements.met(PlayerProfile(levelsSolved = 700)))
+    }
+
+    @Test
+    fun `Play Games level achievements use their exact completion thresholds`() {
+        assertFalse(Achievement.HALFWAY_CHAMPION.isMet(PlayerProfile(levelsSolved = 349)))
+        assertTrue(Achievement.HALFWAY_CHAMPION.isMet(PlayerProfile(levelsSolved = 350)))
+        assertFalse(Achievement.ARENA_LEGEND.isMet(PlayerProfile(levelsSolved = 719)))
+        assertTrue(Achievement.ARENA_LEGEND.isMet(PlayerProfile(levelsSolved = 720)))
     }
 
     @Test

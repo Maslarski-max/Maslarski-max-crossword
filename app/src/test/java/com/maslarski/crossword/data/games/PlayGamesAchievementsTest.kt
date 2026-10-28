@@ -16,15 +16,26 @@ class PlayGamesAchievementsTest {
     fun `achievements without Play Games mappings are ignored`() {
         assertEquals(
             emptyList<Int>(),
-            playGamesAchievementIds(setOf(Achievement.LEVELS_200, Achievement.PURE_GENIUS)),
+            playGamesAchievementIds(setOf(Achievement.PURE_GENIUS, Achievement.FIRST_SOLVE)),
         )
     }
 
     @Test
-    fun `Level 100 maps to its Play Games resource`() {
+    fun `mapped achievements return their Play Games resources`() {
         assertEquals(
-            listOf(R.string.achievement_level_100),
-            playGamesAchievementIds(setOf(Achievement.LEVELS_100, Achievement.LEVELS_200)),
+            listOf(
+                R.string.achievement_level_100,
+                R.string.play_games_achievement_halfway_champion,
+                R.string.play_games_achievement_arena_legend,
+            ),
+            playGamesAchievementIds(
+                setOf(
+                    Achievement.LEVELS_100,
+                    Achievement.HALFWAY_CHAMPION,
+                    Achievement.ARENA_LEGEND,
+                    Achievement.PURE_GENIUS,
+                ),
+            ),
         )
     }
 }
