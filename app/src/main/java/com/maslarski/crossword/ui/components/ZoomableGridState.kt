@@ -19,6 +19,7 @@ import androidx.compose.ui.unit.Velocity
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
+import kotlin.math.abs
 import kotlin.math.floor
 import kotlin.math.hypot
 import kotlin.math.max
@@ -107,15 +108,16 @@ class ZoomableGridState {
         )
         animation = scope.launch {
             state.animateDecay(exponentialDecay(frictionMultiplier = FLING_FRICTION_MULTIPLIER)) {
-                if (!flingFrame(value)) cancelAnimation()
+                if (!flingFrame(value, Offset(velocity.x, velocity.y))) cancelAnimation()
             }
         }
     }
 
-    internal fun flingFrame(value: Offset): Boolean {
-        val previous = offset
+    internal fun flingFrame(value: Offset, velocity: Offset): Boolean {
         offset = clamp(value, zoom)
-        return offset != previous
+        val xDone = offset.x != value.x || abs(velocity.x) < 1f
+        val yDone = offset.y != value.y || abs(velocity.y) < 1f
+        return !(xDone && yDone)
     }
 
     /**

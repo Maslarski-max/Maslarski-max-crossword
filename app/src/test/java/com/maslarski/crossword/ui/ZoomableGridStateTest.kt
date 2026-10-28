@@ -1,16 +1,33 @@
 package com.maslarski.crossword.ui
 
+import androidx.compose.runtime.MonotonicFrameClock
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.unit.Velocity
 import com.maslarski.crossword.ui.components.ZoomableGridState
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.test.StandardTestDispatcher
+import kotlinx.coroutines.test.advanceUntilIdle
+import kotlinx.coroutines.test.runTest
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertNull
 import org.junit.Assert.assertTrue
 import org.junit.Test
+
+private class SteppingFrameClock(
+    private val afterFrame: (() -> Unit)? = null,
+) : MonotonicFrameClock {
+    private var frameTimeNanos = 0L
+
+    override suspend fun <R> withFrameNanos(onFrame: (Long) -> R): R {
+        frameTimeNanos += 16_000_000L
+        val result = onFrame(frameTimeNanos)
+        afterFrame?.invoke()
+        return result
+    }
+}
 
 /** Cell hit-testing must stay exact through any pinch/pan, on boards of any size. */
 class ZoomableGridStateTest {
@@ -163,10 +180,19 @@ class ZoomableGridStateTest {
         val s = state(rows = 20, cols = 11)
         s.onTransform(Offset(200f, 300f), Offset.Zero, 2f)
 
-        assertTrue(s.flingFrame(Offset(100f, 10f)))
+        assertTrue(s.flingFrame(Offset(100f, 10f), Offset(200f, 200f)))
         assertEquals(Offset(20f, 10f), s.offset)
-        assertTrue(s.flingFrame(Offset(100f, 30f)))
+        assertTrue(s.flingFrame(Offset(100f, 30f), Offset(200f, 200f)))
         assertEquals(Offset(20f, 30f), s.offset)
+    }
+
+    @Test
+    fun `fling keeps moving on its initial frame when velocity is nonzero`() {
+        val s = state()
+        s.onTransform(Offset(200f, 300f), Offset.Zero, 2f)
+
+        assertTrue(s.flingFrame(s.offset, Offset(2_000f, 0f)))
+        assertEquals(Offset.Zero, s.offset)
     }
 
     @Test
@@ -174,8 +200,40 @@ class ZoomableGridStateTest {
         val s = state()
         s.onTransform(Offset(200f, 300f), Offset.Zero, 2f)
 
-        assertTrue(s.flingFrame(Offset(10_000f, -10_000f)))
+        assertFalse(s.flingFrame(Offset(10_000f, -10_000f), Offset(2_000f, -2_000f)))
         assertEquals(Offset(200f, -100f), s.offset)
-        assertFalse(s.flingFrame(Offset(10_000f, -10_000f)))
+    }
+
+    @Test
+    fun `fling animation moves in the velocity direction and stays clamped`() = runTest {
+        val s = state()
+        s.onTransform(Offset(200f, 300f), Offset.Zero, 2f)
+        val scope = CoroutineScope(StandardTestDispatcher(testScheduler) + SteppingFrameClock())
+
+        s.fling(Velocity(2_000f, 0f), scope)
+        testScheduler.advanceUntilIdle()
+
+        assertTrue(s.offset.x > 0f)
+        assertEquals(0f, s.offset.y, 0f)
+        assertEquals(s.offset, s.clamp(s.offset, s.zoom))
+    }
+
+    @Test
+    fun `diagonal fling keeps moving vertically after horizontal edge`() = runTest {
+        val s = state(rows = 20, cols = 11)
+        s.onTransform(Offset(200f, 300f), Offset(19f, 0f), 2f)
+        val frames = mutableListOf<Offset>()
+        val scope = CoroutineScope(
+            StandardTestDispatcher(testScheduler) + SteppingFrameClock { frames += s.offset },
+        )
+        val xBound = s.clamp(Offset(10_000f, 0f), s.zoom).x
+
+        s.fling(Velocity(2_000f, 2_000f), scope)
+        testScheduler.advanceUntilIdle()
+
+        val pinnedFrame = frames.indexOfFirst { it.x == xBound }
+        assertTrue("horizontal axis should reach its bound", pinnedFrame >= 0)
+        assertTrue("vertical axis should keep moving after horizontal is pinned", frames.last().y - frames[pinnedFrame].y > 20f)
+        assertEquals(s.offset, s.clamp(s.offset, s.zoom))
     }
 }
