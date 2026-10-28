@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Crossword</string>
+    <string name="app_name">Crossword Arena</string>
     <string name="privacy_policy_url" translatable="false">https://maslarski-max.github.io/Maslarski-max-crossword/privacy-policy.html</string>
 
     <string name="back">Back</string>
