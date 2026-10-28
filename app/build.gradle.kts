@@ -52,8 +52,8 @@ android {
         applicationId = "com.maslarski.crossword"
         minSdk = 26
         targetSdk = 36
-        versionCode = (config("versionCode") ?: "6").toInt()
-        versionName = config("versionName") ?: "1.0.6"
+        versionCode = (config("versionCode") ?: "7").toInt()
+        versionName = config("versionName") ?: "1.0.7"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables { useSupportLibrary = true }
