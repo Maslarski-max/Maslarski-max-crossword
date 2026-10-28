@@ -4,6 +4,7 @@ import android.app.Activity
 import android.util.Log
 import com.google.android.gms.games.PlayGames
 import com.maslarski.crossword.R
+import com.maslarski.crossword.domain.profile.Achievement
 import kotlinx.coroutines.CancellationException
 import kotlinx.coroutines.currentCoroutineContext
 import kotlinx.coroutines.ensureActive
@@ -93,6 +94,15 @@ class PlayGamesManager @Inject constructor() {
         if (arenaWins > 0) {
             leaderboards.submitScore(activity.getString(R.string.leaderboard_arena_wins), arenaWins.toLong())
         }
+    }
+
+    /** Play Games ignores unlocks of an already-unlocked achievement and queues them offline, so repeating this is harmless. */
+    fun unlockAchievements(activity: Activity, unlocked: Set<Achievement>) {
+        if (mutableState.value !is PlayGamesState.SignedIn) return
+        val ids = playGamesAchievementIds(unlocked)
+        if (ids.isEmpty()) return
+        val client = PlayGames.getAchievementsClient(activity)
+        ids.forEach { client.unlock(activity.getString(it)) }
     }
 
     suspend fun showLeaderboards(activity: Activity) {
