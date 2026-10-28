@@ -6,7 +6,6 @@ import androidx.compose.animation.core.spring
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.gestures.detectTapGestures
-import androidx.compose.foundation.gestures.detectTransformGestures
 import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.size
 import androidx.compose.runtime.Composable
@@ -93,7 +92,7 @@ fun CrosswordGrid(
         modifier = modifier
             .clipToBounds()
             .semantics { contentDescription = description }
-            .pointerInput(state) { detectTransformGestures { centroid, pan, zoom, _ -> state.onTransform(centroid, pan, zoom) } }
+            .pointerInput(state, scope) { detectZoomPan(state, scope) }
             .pointerInput(state) {
                 detectTapGestures(
                     onTap = { pos ->

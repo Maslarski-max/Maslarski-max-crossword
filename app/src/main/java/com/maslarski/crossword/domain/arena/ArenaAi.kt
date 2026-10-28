@@ -13,8 +13,8 @@ object ArenaAi {
     private class Skill(val knowledge: Double, val greed: Double, val mistakeRate: Double)
 
     private fun skill(difficulty: Difficulty) = when (difficulty) {
-        Difficulty.EASY -> Skill(knowledge = 0.3, greed = 0.2, mistakeRate = 0.12)
-        Difficulty.MEDIUM -> Skill(knowledge = 0.5, greed = 0.6, mistakeRate = 0.07)
+        Difficulty.EASY -> Skill(knowledge = 0.42, greed = 0.4, mistakeRate = 0.08)
+        Difficulty.MEDIUM -> Skill(knowledge = 0.56, greed = 0.7, mistakeRate = 0.05)
         Difficulty.HARD -> Skill(knowledge = 0.72, greed = 1.0, mistakeRate = 0.03)
     }
 

@@ -22,6 +22,7 @@ import com.maslarski.crossword.data.telemetry.Telemetry
 import com.maslarski.crossword.domain.engine.GameRules
 import com.maslarski.crossword.domain.parser.PuzzleParser
 import com.maslarski.crossword.domain.profile.AchievementTracker
+import com.maslarski.crossword.domain.profile.DeviceClock
 import com.maslarski.crossword.domain.repository.ProfileRepository
 import com.maslarski.crossword.domain.repository.ArenaRepository
 import com.maslarski.crossword.domain.repository.EntitlementRepository
@@ -63,7 +64,7 @@ object AppModule {
     fun provideApplicationScope(): CoroutineScope = CoroutineScope(SupervisorJob() + Dispatchers.Main.immediate)
 
     @Provides @Singleton
-    fun provideClock(): Clock = Clock.systemDefaultZone()
+    fun provideClock(): Clock = DeviceClock
 
     @Provides @Singleton
     fun provideDatabase(@ApplicationContext context: Context): CrosswordDatabase =

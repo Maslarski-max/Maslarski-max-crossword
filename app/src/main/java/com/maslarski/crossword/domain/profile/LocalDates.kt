@@ -6,8 +6,20 @@ import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.flow
 import java.time.Clock
 import java.time.Duration
+import java.time.Instant
 import java.time.LocalDate
 import java.time.LocalDateTime
+import java.time.ZoneId
+
+object DeviceClock : Clock() {
+    override fun getZone(): ZoneId = ZoneId.systemDefault()
+
+    override fun withZone(zone: ZoneId): Clock = Clock.system(zone)
+
+    override fun instant(): Instant = Instant.now()
+
+    override fun millis(): Long = System.currentTimeMillis()
+}
 
 /** The current local date, re-checked at least every minute so it rolls over at midnight. */
 fun localDates(clock: Clock): Flow<LocalDate> = flow {

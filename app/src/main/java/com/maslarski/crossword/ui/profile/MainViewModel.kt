@@ -5,15 +5,16 @@ import androidx.lifecycle.viewModelScope
 import com.maslarski.crossword.domain.profile.Achievement
 import com.maslarski.crossword.domain.profile.AchievementTracker
 import com.maslarski.crossword.domain.profile.LoginReward
+import com.maslarski.crossword.domain.profile.localDates
 import com.maslarski.crossword.domain.repository.ProfileRepository
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import java.time.Clock
-import java.time.LocalDate
 import javax.inject.Inject
 
 /** App-wide retention UI: the daily login bonus dialog and achievement unlock banners. */
@@ -37,6 +38,8 @@ class MainViewModel @Inject constructor(
     /** Achievement banner currently on screen, kept here so it survives configuration changes. */
     val achievement: StateFlow<Achievement?> = _achievement.asStateFlow()
 
+    private var appStartedJob: Job? = null
+
     init {
         viewModelScope.launch {
             tracker.unlocks.collect { unlocked ->
@@ -48,16 +51,24 @@ class MainViewModel @Inject constructor(
         }
     }
 
-    /** Called whenever the app comes to the foreground; pays at most one bonus per calendar day. */
-    fun onAppOpened() {
-        viewModelScope.launch {
-            _holdCoinToasts.value = true
-            try {
-                profile.claimDailyLogin(LocalDate.now(clock))?.let { _reward.value = it }
-            } finally {
-                if (_reward.value == null) _holdCoinToasts.value = false
+    fun onAppStarted() {
+        if (appStartedJob?.isActive == true) return
+        appStartedJob = viewModelScope.launch {
+            localDates(clock).collect { today ->
+                if (_reward.value != null) return@collect
+                _holdCoinToasts.value = true
+                try {
+                    profile.claimDailyLogin(today)?.let { _reward.value = it }
+                } finally {
+                    if (_reward.value == null) _holdCoinToasts.value = false
+                }
             }
         }
+    }
+
+    fun onAppStopped() {
+        appStartedJob?.cancel()
+        appStartedJob = null
     }
 
     fun onRewardDismissed() {

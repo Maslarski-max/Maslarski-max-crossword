@@ -2,7 +2,10 @@ package com.maslarski.crossword.ui
 
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
+import androidx.compose.ui.unit.Velocity
 import com.maslarski.crossword.ui.components.ZoomableGridState
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertNull
@@ -142,5 +145,27 @@ class ZoomableGridStateTest {
             assertEquals(s.offset, s.clamp(s.offset, s.zoom))
         }
         s.assertEveryVisibleCellHits()
+    }
+
+    @Test
+    fun `zero velocity fling leaves the offset unchanged`() {
+        val s = state()
+        s.onTransform(Offset(200f, 300f), Offset.Zero, 2f)
+        val before = s.offset
+
+        s.fling(Velocity.Zero, CoroutineScope(Dispatchers.Unconfined))
+
+        assertEquals(before, s.offset)
+    }
+
+    @Test
+    fun `decay target stays clamped at the board bounds`() {
+        val s = state()
+        s.onTransform(Offset(200f, 300f), Offset.Zero, 2f)
+        val expected = s.clamp(Offset(10_000f, -10_000f), s.zoom)
+
+        val target = s.decayTarget(s.offset, Velocity(100_000f, -100_000f), s.zoom)
+
+        assertEquals(expected, target)
     }
 }

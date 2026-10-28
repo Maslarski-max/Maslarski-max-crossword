@@ -1,8 +1,13 @@
 package com.maslarski.crossword.ui.components
 
 import androidx.compose.animation.core.AnimationSpec
+import androidx.compose.animation.core.AnimationState
 import androidx.compose.animation.core.animate
+import androidx.compose.animation.core.animateDecay
+import androidx.compose.animation.core.calculateTargetValue
+import androidx.compose.animation.core.exponentialDecay
 import androidx.compose.animation.core.spring
+import androidx.compose.animation.core.VectorConverter
 import androidx.compose.runtime.Stable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
@@ -11,10 +16,12 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.geometry.isFinite
+import androidx.compose.ui.unit.Velocity
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import kotlin.math.floor
+import kotlin.math.hypot
 import kotlin.math.max
 
 /**
@@ -86,6 +93,37 @@ class ZoomableGridState {
         val anchor = centroid - center() - offset
         offset = clamp(centroid + pan - center() - anchor * (newZoom / zoom), newZoom)
         zoom = newZoom
+    }
+
+    fun stopAnimation() = cancelAnimation()
+
+    fun fling(velocity: Velocity, scope: CoroutineScope) {
+        cancelAnimation()
+        if (!isZoomed || !velocity.x.isFinite() || !velocity.y.isFinite() || hypot(velocity.x, velocity.y) == 0f) return
+
+        val state = AnimationState(
+            typeConverter = Offset.VectorConverter,
+            initialValue = offset,
+            initialVelocity = Offset(velocity.x, velocity.y),
+        )
+        animation = scope.launch {
+            state.animateDecay(exponentialDecay(frictionMultiplier = FLING_FRICTION_MULTIPLIER)) {
+                val bounded = clamp(value, zoom)
+                offset = bounded
+                if (bounded != value) cancelAnimation()
+            }
+        }
+    }
+
+    internal fun decayTarget(start: Offset, velocity: Velocity, zoom: Float): Offset {
+        val decay = exponentialDecay<Float>(frictionMultiplier = FLING_FRICTION_MULTIPLIER)
+        return clamp(
+            Offset(
+                decay.calculateTargetValue(start.x, velocity.x),
+                decay.calculateTargetValue(start.y, velocity.y),
+            ),
+            zoom,
+        )
     }
 
     /**
@@ -163,5 +201,6 @@ class ZoomableGridState {
     companion object {
         const val MIN_MAX_ZOOM = 4f
         const val MIN_DOUBLE_TAP_ZOOM = 2f
+        private const val FLING_FRICTION_MULTIPLIER = 1.5f
     }
 }

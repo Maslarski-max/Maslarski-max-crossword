@@ -4,7 +4,6 @@ import androidx.compose.animation.core.Animatable
 import androidx.compose.animation.core.tween
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.gestures.detectTapGestures
-import androidx.compose.foundation.gestures.detectTransformGestures
 import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.size
 import androidx.compose.runtime.Composable
@@ -52,6 +51,7 @@ import com.maslarski.crossword.domain.arena.ArenaWord
 import com.maslarski.crossword.domain.arena.Side
 import com.maslarski.crossword.domain.model.Direction
 import com.maslarski.crossword.ui.components.ZoomableGridState
+import com.maslarski.crossword.ui.components.detectZoomPan
 import com.maslarski.crossword.ui.theme.ArenaColors
 import com.maslarski.crossword.ui.theme.LocalArenaColors
 import kotlin.math.max
@@ -68,8 +68,8 @@ data class ScoreFlash(val side: Side, val cells: List<Int>, val points: List<Int
  * Arrow-word grid of any size; pinch to zoom, drag to pan while zoomed, double-tap to zoom in on a spot or back out.
  * Taps and rack-tile drops map to cells through the current zoom/pan via [ZoomableGridState].
  *
- * Arrow-word grid: clue cells carry their clue text and an arrow into the answer; letter cells show owned letters
- * tinted by who placed them, pending rack tiles, opponent tiles being laid, and "+2"/"+3" bonus badges.
+ * Arrow-word grid: clue cells carry their clue text and an arrow into the answer; empty bonus cells show their value,
+ * while pending or opponent tiles carry a corner badge and owned letters remain tinted by who placed them.
  */
 @Composable
 fun ArenaGrid(
@@ -107,7 +107,7 @@ fun ArenaGrid(
             .clipToBounds()
             .semantics { contentDescription = description }
             .onGloballyPositioned { state.originInRoot = it.positionInRoot() }
-            .pointerInput(state) { detectTransformGestures { centroid, pan, zoom, _ -> state.onTransform(centroid, pan, zoom) } }
+            .pointerInput(state, scope) { detectZoomPan(state, scope) }
             .pointerInput(state) {
                 detectTapGestures(
                     onTap = { pos -> state.cellAtLocal(pos)?.let(currentOnTap) },
@@ -129,6 +129,9 @@ fun ArenaGrid(
         }
         val badgeStyle = remember(cellPx) {
             TextStyle(fontSize = with(density) { (cellPx * 0.2f).toSp() }, fontWeight = FontWeight.Bold)
+        }
+        val bonusStyle = remember(cellPx) {
+            TextStyle(fontSize = with(density) { (cellPx * 0.36f).toSp() }, fontWeight = FontWeight.Bold)
         }
         val clueCaches = remember(layout, cellPx, colors) { HashMap<Float, HashMap<String, TextLayoutResult>>() }
         val activeCells = remember(activeWord) { activeWord?.cells?.toHashSet() ?: emptySet() }
@@ -163,13 +166,23 @@ fun ArenaGrid(
                     continue
                 }
 
-                val background = when {
-                    index in activeCells -> colors.activeWord
-                    else -> colors.cell
-                }
-                drawRect(background, topLeft, cellSize)
-
                 val tile = pending[index] ?: opponentTiles[index]
+                val value = match.valueAt(index)
+                val bonusColors = when (value) {
+                    2 -> colors.bonus2 to colors.onBonus2
+                    3 -> colors.bonus3 to colors.onBonus3
+                    else -> null
+                }
+                val emptyBonusColor = if (match.isEmpty(index) && tile == null) bonusColors?.first else null
+                drawRect(emptyBonusColor ?: colors.cell, topLeft, cellSize)
+                if (index in activeCells) {
+                    drawRect(
+                        colors.activeWord.copy(alpha = if (emptyBonusColor != null) 0.55f else colors.activeWord.alpha),
+                        topLeft,
+                        cellSize,
+                    )
+                }
+
                 when {
                     tile != null -> drawTile(tile, index in opponentTiles, topLeft, cellSize, colors, textMeasurer, letterStyle)
                     match.isFilled(index) -> {
@@ -182,9 +195,12 @@ fun ArenaGrid(
                     }
                 }
 
-                val value = match.valueAt(index)
-                if (value > 1 && match.isEmpty(index)) {
-                    drawBadge("+$value", topLeft, cellSize, colors.bonus, colors.onBonus, textMeasurer, badgeStyle)
+                if (match.isEmpty(index) && bonusColors != null) {
+                    if (emptyBonusColor != null) {
+                        drawCentered(textMeasurer.measure("+$value", bonusStyle.copy(color = bonusColors.second)), topLeft, cellSize)
+                    } else {
+                        drawBadge("+$value", topLeft, cellSize, bonusColors.first, bonusColors.second, textMeasurer, badgeStyle)
+                    }
                 }
 
                 val earned = flashPoints[index]
