@@ -1,0 +1,4 @@
+New app icon and name: Crossword Arena.
+Smoother pinch-zoom and glide scrolling on large grids.
+Arena: clearer +2/+3 bonus cells and tougher Easy and Medium opponents.
+Daily streaks and login rewards now register correctly across midnight and time-zone changes.
