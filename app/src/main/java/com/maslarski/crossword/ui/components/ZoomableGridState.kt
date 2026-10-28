@@ -4,7 +4,6 @@ import androidx.compose.animation.core.AnimationSpec
 import androidx.compose.animation.core.AnimationState
 import androidx.compose.animation.core.animate
 import androidx.compose.animation.core.animateDecay
-import androidx.compose.animation.core.calculateTargetValue
 import androidx.compose.animation.core.exponentialDecay
 import androidx.compose.animation.core.spring
 import androidx.compose.animation.core.VectorConverter
@@ -108,22 +107,15 @@ class ZoomableGridState {
         )
         animation = scope.launch {
             state.animateDecay(exponentialDecay(frictionMultiplier = FLING_FRICTION_MULTIPLIER)) {
-                val bounded = clamp(value, zoom)
-                offset = bounded
-                if (bounded != value) cancelAnimation()
+                if (!flingFrame(value)) cancelAnimation()
             }
         }
     }
 
-    internal fun decayTarget(start: Offset, velocity: Velocity, zoom: Float): Offset {
-        val decay = exponentialDecay<Float>(frictionMultiplier = FLING_FRICTION_MULTIPLIER)
-        return clamp(
-            Offset(
-                decay.calculateTargetValue(start.x, velocity.x),
-                decay.calculateTargetValue(start.y, velocity.y),
-            ),
-            zoom,
-        )
+    internal fun flingFrame(value: Offset): Boolean {
+        val previous = offset
+        offset = clamp(value, zoom)
+        return offset != previous
     }
 
     /**

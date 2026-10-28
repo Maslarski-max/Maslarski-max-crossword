@@ -159,13 +159,23 @@ class ZoomableGridStateTest {
     }
 
     @Test
-    fun `decay target stays clamped at the board bounds`() {
+    fun `fling keeps moving vertically when horizontal movement is clamped`() {
+        val s = state(rows = 20, cols = 11)
+        s.onTransform(Offset(200f, 300f), Offset.Zero, 2f)
+
+        assertTrue(s.flingFrame(Offset(100f, 10f)))
+        assertEquals(Offset(20f, 10f), s.offset)
+        assertTrue(s.flingFrame(Offset(100f, 30f)))
+        assertEquals(Offset(20f, 30f), s.offset)
+    }
+
+    @Test
+    fun `fling stops when both axes are clamped`() {
         val s = state()
         s.onTransform(Offset(200f, 300f), Offset.Zero, 2f)
-        val expected = s.clamp(Offset(10_000f, -10_000f), s.zoom)
 
-        val target = s.decayTarget(s.offset, Velocity(100_000f, -100_000f), s.zoom)
-
-        assertEquals(expected, target)
+        assertTrue(s.flingFrame(Offset(10_000f, -10_000f)))
+        assertEquals(Offset(200f, -100f), s.offset)
+        assertFalse(s.flingFrame(Offset(10_000f, -10_000f)))
     }
 }
