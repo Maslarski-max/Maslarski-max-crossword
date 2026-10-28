@@ -67,6 +67,10 @@ data class ArenaColors(
     val given: Color,
     val bonus: Color,
     val onBonus: Color,
+    val bonus2: Color,
+    val onBonus2: Color,
+    val bonus3: Color,
+    val onBonus3: Color,
     val miss: Color,
 )
 
@@ -87,6 +91,10 @@ private fun ColorScheme.arenaColors(dark: Boolean) = ArenaColors(
     given = onSurface,
     bonus = primary,
     onBonus = onPrimary,
+    bonus2 = if (dark) Color(0xFF1E4A45) else Color(0xFFCDEFE9),
+    onBonus2 = if (dark) Color(0xFF8EE6D9) else Color(0xFF00695C),
+    bonus3 = if (dark) Color(0xFF55401A) else Color(0xFFFFE0A3),
+    onBonus3 = if (dark) Color(0xFFFFCB6B) else Color(0xFF8A4B00),
     miss = error,
 )
 

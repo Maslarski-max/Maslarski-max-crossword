@@ -302,4 +302,23 @@ class ArenaRulesTest {
         }
         assertTrue(opponentScore(Difficulty.HARD) > opponentScore(Difficulty.EASY))
     }
+
+    @Test
+    fun `medium opponent outscores easy opponent against a passive player`() {
+        val puzzle = fixturePuzzle("hard-01")
+        val arena = ArenaLayout(puzzle)
+        fun opponentScore(difficulty: Difficulty): Int = (1L..10L).sumOf { seed ->
+            var s = ArenaRules.newMatch(arena, difficulty, seed)
+            repeat(12) {
+                if (s.finished) return@repeat
+                s = ArenaRules.pass(s, Side.PLAYER)
+                if (s.finished) return@repeat
+                val move = ArenaAi.decide(arena, s)
+                s = if (move.isEmpty()) ArenaRules.pass(s, Side.OPPONENT) else ArenaRules.play(arena, s, Side.OPPONENT, move)
+                s = s.copy(scorelessTurns = 0)
+            }
+            s.opponentScore
+        }
+        assertTrue(opponentScore(Difficulty.MEDIUM) > opponentScore(Difficulty.EASY))
+    }
 }

@@ -10,10 +10,10 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 import androidx.lifecycle.Lifecycle
-import androidx.lifecycle.compose.LifecycleEventEffect
 import androidx.compose.ui.Modifier
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import androidx.lifecycle.compose.LifecycleStartEffect
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
 import com.maslarski.crossword.data.games.PlayGamesManager
@@ -66,7 +66,10 @@ class MainActivity : ComponentActivity() {
             val settings by settingsRepository.settings.collectAsStateWithLifecycle(initialValue = Settings())
             val main: MainViewModel = hiltViewModel()
             val reward by main.reward.collectAsStateWithLifecycle()
-            LifecycleEventEffect(Lifecycle.Event.ON_START) { main.onAppOpened() }
+            LifecycleStartEffect(Unit) {
+                main.onAppStarted()
+                onStopOrDispose { main.onAppStopped() }
+            }
             CrosswordTheme(themeMode = settings.themeMode, dynamicColor = settings.dynamicColor) {
                 Box(Modifier.fillMaxSize()) {
                     CrosswordNavHost()
